@@ -1,0 +1,5 @@
+#Coverage	Number of genomic locations
+0.0	29322.0
+1.0	287.0
+2.0	261.0
+3.0	33.0
