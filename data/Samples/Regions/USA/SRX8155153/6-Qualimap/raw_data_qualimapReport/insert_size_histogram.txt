@@ -1,2 +1,0 @@
-#Insert size (bp)	insert size
-33.0	361.0
