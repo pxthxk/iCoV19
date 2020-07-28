@@ -1,0 +1,3 @@
+#Insert size (bp)	insert size
+576.0	392.0
+579.0	1.0

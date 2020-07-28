@@ -24,12 +24,12 @@ cohort = sys.argv[cohortIdentifierIndex+1].replace(" ", "-") if cohortIdentifier
 sampleIdentifierIndex = sys.argv.index("-S") if "-S" in sys.argv else None
 samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex and ((len(sys.argv)-1) > sampleIdentifierIndex) else None
 
-outputDir = "../output/REDItools2/Cohorts/"
+outputDir = "../output/REDItools2/cohorts/"
 
 directory = None
 if cohort:
-	if os.path.isdir("../data/Samples/Cohorts/" + cohort + "/"):
-		directory = "../data/Samples/Cohorts/" + cohort + "/"
+	if os.path.isdir("../data/Samples/cohorts/" + cohort + "/"):
+		directory = "../data/Samples/cohorts/" + cohort + "/"
 
 if samples:
 	SRX = samples

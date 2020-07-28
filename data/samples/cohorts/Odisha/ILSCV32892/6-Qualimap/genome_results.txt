@@ -1,0 +1,133 @@
+BamQC report
+-----------------------------------
+
+>>>>>>> Input
+
+     bam file = SARS_Cov2_align/ILSCV32892_S51_SARSCov2_Aligned_deduplicated.bam
+     outfile = SARS_Cov2_deduplicated_qualimap/ILSCV32892_S51_SARSCov2_Aligned_deduplicated/genome_results.txt
+
+
+>>>>>>> Reference
+
+     number of bases = 29,903 bp
+     number of contigs = 1
+
+
+>>>>>>> Globals
+
+     number of windows = 399
+
+     number of reads = 838,509
+     number of mapped reads = 768,450 (91.64%)
+     number of supplementary alignments = 15,406 (1.84%)
+     number of secondary alignments = 0
+
+     number of mapped paired reads (first in pair) = 384,245
+     number of mapped paired reads (second in pair) = 384,205
+     number of mapped paired reads (both in pair) = 767,859
+     number of mapped paired reads (singletons) = 591
+
+     number of mapped bases = 94,398,773 bp
+     number of sequenced bases = 94,390,628 bp
+     number of aligned bases = 0 bp
+     number of duplicated reads (estimated) = 740,865
+     duplication rate = 95.25%
+
+
+>>>>>>> Insert size
+
+     mean insert size = 743.9589
+     std insert size = 2,973.7469
+     median insert size = 197
+
+
+>>>>>>> Mapping quality
+
+     mean mapping quality = 59.5458
+
+
+>>>>>>> ACTG content
+
+     number of A's = 27,857,668 bp (29.51%)
+     number of C's = 17,477,200 bp (18.52%)
+     number of T's = 30,347,440 bp (32.15%)
+     number of G's = 18,708,320 bp (19.82%)
+     number of N's = 938 bp (0%)
+
+     GC percentage = 38.34%
+
+
+>>>>>>> Mismatches and indels
+
+    general error rate = 0.0019
+    number of mismatches = 181,786
+    number of insertions = 947
+    mapped reads with insertion percentage = 0.12%
+    number of deletions = 3,370
+    mapped reads with deletion percentage = 0.44%
+    homopolymer indels = 58.42%
+
+
+>>>>>>> Coverage
+
+     mean coverageData = 3,156.8329X
+     std coverageData = 2,246.6474X
+
+     There is a 99.94% of reference with a coverageData >= 1X
+     There is a 99.9% of reference with a coverageData >= 2X
+     There is a 99.9% of reference with a coverageData >= 3X
+     There is a 99.9% of reference with a coverageData >= 4X
+     There is a 99.9% of reference with a coverageData >= 5X
+     There is a 99.9% of reference with a coverageData >= 6X
+     There is a 99.9% of reference with a coverageData >= 7X
+     There is a 99.9% of reference with a coverageData >= 8X
+     There is a 99.9% of reference with a coverageData >= 9X
+     There is a 99.85% of reference with a coverageData >= 10X
+     There is a 99.83% of reference with a coverageData >= 11X
+     There is a 99.81% of reference with a coverageData >= 12X
+     There is a 99.72% of reference with a coverageData >= 13X
+     There is a 99.71% of reference with a coverageData >= 14X
+     There is a 99.69% of reference with a coverageData >= 15X
+     There is a 99.69% of reference with a coverageData >= 16X
+     There is a 99.69% of reference with a coverageData >= 17X
+     There is a 99.63% of reference with a coverageData >= 18X
+     There is a 99.59% of reference with a coverageData >= 19X
+     There is a 99.52% of reference with a coverageData >= 20X
+     There is a 99.39% of reference with a coverageData >= 21X
+     There is a 99.32% of reference with a coverageData >= 22X
+     There is a 99.3% of reference with a coverageData >= 23X
+     There is a 99.3% of reference with a coverageData >= 24X
+     There is a 99.3% of reference with a coverageData >= 25X
+     There is a 99.3% of reference with a coverageData >= 26X
+     There is a 99.3% of reference with a coverageData >= 27X
+     There is a 99.3% of reference with a coverageData >= 28X
+     There is a 99.3% of reference with a coverageData >= 29X
+     There is a 99.3% of reference with a coverageData >= 30X
+     There is a 99.29% of reference with a coverageData >= 31X
+     There is a 99.29% of reference with a coverageData >= 32X
+     There is a 99.29% of reference with a coverageData >= 33X
+     There is a 99.29% of reference with a coverageData >= 34X
+     There is a 99.29% of reference with a coverageData >= 35X
+     There is a 99.29% of reference with a coverageData >= 36X
+     There is a 99.29% of reference with a coverageData >= 37X
+     There is a 99.29% of reference with a coverageData >= 38X
+     There is a 99.28% of reference with a coverageData >= 39X
+     There is a 99.24% of reference with a coverageData >= 40X
+     There is a 99.21% of reference with a coverageData >= 41X
+     There is a 99.16% of reference with a coverageData >= 42X
+     There is a 99.07% of reference with a coverageData >= 43X
+     There is a 98.94% of reference with a coverageData >= 44X
+     There is a 98.92% of reference with a coverageData >= 45X
+     There is a 98.84% of reference with a coverageData >= 46X
+     There is a 98.83% of reference with a coverageData >= 47X
+     There is a 98.82% of reference with a coverageData >= 48X
+     There is a 98.8% of reference with a coverageData >= 49X
+     There is a 98.8% of reference with a coverageData >= 50X
+     There is a 98.79% of reference with a coverageData >= 51X
+
+
+>>>>>>> Coverage per contig
+
+	NC_045512.2	29903	94398773	3156.8328595793064	2246.6474294387963
+
+

@@ -26,8 +26,8 @@ samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex 
 
 directory = None
 if cohort:
-	if os.path.isdir("../data/Samples/Cohorts/" + cohort + "/"):
-		directory = "../data/Samples/Cohorts/" + cohort + "/"
+	if os.path.isdir("../data/Samples/cohorts/" + cohort + "/"):
+		directory = "../data/Samples/cohorts/" + cohort + "/"
 
 def processSample(sampleID):
 	if os.path.isdir(directory + sampleID):

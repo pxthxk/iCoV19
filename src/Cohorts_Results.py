@@ -10,7 +10,7 @@ coverageCutoff = 20
 minorAlleleCutoff = 5
 minorAlleleFreq = 0.005
 
-outputDir = "../output/REDItools2/Cohorts/"
+outputDir = "../output/REDItools2/cohorts/"
 
 # Fetch cohort from console with "-C" as identifier.
 cohortIdentifierIndex = sys.argv.index("-C") if "-C" in sys.argv else None

@@ -26,8 +26,8 @@ samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex 
 
 directory = None
 if region:
-	if os.path.isdir("../data/Samples/Regions/" + region + "/"):
-		directory = "../data/Samples/Regions/" + region + "/"
+	if os.path.isdir("../data/Samples/regions/" + region + "/"):
+		directory = "../data/Samples/regions/" + region + "/"
 
 def processSample(SRXID):
 	if os.path.isdir(directory + SRXID):

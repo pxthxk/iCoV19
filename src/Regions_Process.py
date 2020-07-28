@@ -26,8 +26,8 @@ samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex 
 
 directory = None
 if region:
-	if os.path.isdir("../data/Samples/Regions/" + region + "/"):
-		directory = "../data/Samples/Regions/" + region + "/"
+	if os.path.isdir("../data/Samples/regions/" + region + "/"):
+		directory = "../data/Samples/regions/" + region + "/"
 
 def processSample(SRXID):
 	if os.path.isdir(directory + SRXID):
@@ -91,20 +91,20 @@ def processSample(SRXID):
 			os.system("samtools index " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam.bai")
 			if not os.path.isdir("../output/REDItools2/"):
 				os.system("mkdir ../output/REDItools2/")
-			if not os.path.isdir("../output/REDItools2/Regions"):
-				os.system("mkdir ../output/REDItools2/Regions")
-			if not os.path.isdir("../output/REDItools2/Regions/" + region):
-				os.system("mkdir ../output/REDItools2/Regions/" + region)
-			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/Datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/Regions/" + region + "/" + SRXID + ".txt")
+			if not os.path.isdir("../output/REDItools2/regions"):
+				os.system("mkdir ../output/REDItools2/regions")
+			if not os.path.isdir("../output/REDItools2/regions/" + region):
+				os.system("mkdir ../output/REDItools2/regions/" + region)
+			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/Datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/regions/" + region + "/" + SRXID + ".txt")
 
 			# JACUSA
 			if not os.path.isdir("../output/JACUSA/"):
 				os.system("mkdir ../output/JACUSA/")
-			if not os.path.isdir("../output/JACUSA/Regions"):
-				os.system("mkdir ../output/JACUSA/Regions")
-			if not os.path.isdir("../output/JACUSA/Regions/" + region):
-				os.system("mkdir ../output/JACUSA/Regions/" + region)
-			os.system("java -jar ../tools/JACUSA/JACUSA_v1.3.0.jar call-1 -r ../output/JACUSA/Regions/" + region + "/" + SRXID + ".vcf -a B,I,Y -s -f V -q 30 -m 33 " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam")
+			if not os.path.isdir("../output/JACUSA/regions"):
+				os.system("mkdir ../output/JACUSA/regions")
+			if not os.path.isdir("../output/JACUSA/regions/" + region):
+				os.system("mkdir ../output/JACUSA/regions/" + region)
+			os.system("java -jar ../tools/JACUSA/JACUSA_v1.3.0.jar call-1 -r ../output/JACUSA/regions/" + region + "/" + SRXID + ".vcf -a B,I,Y -s -f V -q 30 -m 33 " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam")
 		else:
 			print(SRXID + " already processed. Skipping...")
 	else:

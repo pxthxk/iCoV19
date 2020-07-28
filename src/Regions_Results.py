@@ -10,7 +10,7 @@ coverageCutoff = 20
 minorAlleleCutoff = 5
 minorAlleleFreq = 0.005
 
-outputDir = "../output/REDItools2/Regions/"
+outputDir = "../output/REDItools2/regions/"
 
 # Fetch region from console with "-R" as identifier.
 regionIdentifierIndex = sys.argv.index("-R") if "-R" in sys.argv else None

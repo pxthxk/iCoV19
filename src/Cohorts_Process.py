@@ -26,8 +26,8 @@ samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex 
 
 directory = None
 if cohort:
-	if os.path.isdir("../data/Samples/Cohorts/" + cohort + "/"):
-		directory = "../data/Samples/Cohorts/" + cohort + "/"
+	if os.path.isdir("../data/Samples/cohorts/" + cohort + "/"):
+		directory = "../data/Samples/cohorts/" + cohort + "/"
 
 def processSample(sampleID):
 	if os.path.isdir(directory + sampleID):
@@ -86,20 +86,20 @@ def processSample(sampleID):
 			os.system("samtools index " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam.bai")
 			if not os.path.isdir("../output/REDItools2/"):
 				os.system("mkdir ../output/REDItools2/")
-			if not os.path.isdir("../output/REDItools2/Cohorts"):
-				os.system("mkdir ../output/REDItools2/Cohorts")
-			if not os.path.isdir("../output/REDItools2/Cohorts/" + cohort):
-				os.system("mkdir ../output/REDItools2/Cohorts/" + cohort)
-			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/Datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/Cohorts/" + cohort + "/" + sampleID + ".txt")
+			if not os.path.isdir("../output/REDItools2/cohorts"):
+				os.system("mkdir ../output/REDItools2/cohorts")
+			if not os.path.isdir("../output/REDItools2/cohorts/" + cohort):
+				os.system("mkdir ../output/REDItools2/cohorts/" + cohort)
+			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/Datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/cohorts/" + cohort + "/" + sampleID + ".txt")
 
 			# JACUSA
 			if not os.path.isdir("../output/JACUSA/"):
 				os.system("mkdir ../output/JACUSA/")
-			if not os.path.isdir("../output/JACUSA/Cohorts"):
-				os.system("mkdir ../output/JACUSA/Cohorts")
-			if not os.path.isdir("../output/JACUSA/Cohorts/" + cohort):
-				os.system("mkdir ../output/JACUSA/Cohorts/" + cohort)
-			os.system("java -jar ../tools/JACUSA/JACUSA_v1.3.0.jar call-1 -r ../output/JACUSA/Cohorts/" + cohort + "/" + sampleID + ".vcf -a B,I,Y -s -f V -q 30 -m 33 " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam")
+			if not os.path.isdir("../output/JACUSA/cohorts"):
+				os.system("mkdir ../output/JACUSA/cohorts")
+			if not os.path.isdir("../output/JACUSA/cohorts/" + cohort):
+				os.system("mkdir ../output/JACUSA/cohorts/" + cohort)
+			os.system("java -jar ../tools/JACUSA/JACUSA_v1.3.0.jar call-1 -r ../output/JACUSA/cohorts/" + cohort + "/" + sampleID + ".vcf -a B,I,Y -s -f V -q 30 -m 33 " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam")
 		else:
 			print(sampleID + " already processed. Skipping...")
 	else:

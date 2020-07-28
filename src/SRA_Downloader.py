@@ -10,7 +10,7 @@ import random
 import datetime
 from multiprocessing import Pool
 
-downloadDir = "../data/Samples/Regions/"
+downloadDir = "../data/Samples/regions/"
 SRAMetadataDir = "../data/Datasets/SRA/"
 
 countryTags = ["geo_loc_name", "geographic location (country and/or sea)", "country", "Country"]

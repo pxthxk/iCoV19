@@ -24,12 +24,12 @@ region = sys.argv[regionIdentifierIndex+1].replace(" ", "-") if regionIdentifier
 sampleIdentifierIndex = sys.argv.index("-S") if "-S" in sys.argv else None
 samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex and ((len(sys.argv)-1) > sampleIdentifierIndex) else None
 
-outputDir = "../output/REDItools2/Regions/"
+outputDir = "../output/REDItools2/regions/"
 
 directory = None
 if region:
-	if os.path.isdir("../data/Samples/Regions/" + region + "/"):
-		directory = "../data/Samples/Regions/" + region + "/"
+	if os.path.isdir("../data/Samples/regions/" + region + "/"):
+		directory = "../data/Samples/regions/" + region + "/"
 
 if samples:
 	SRX = samples
