@@ -22,7 +22,7 @@ else:
     print("None/Invalid region (-R) argument provided.")
     sys.exit()
 
-gisaid = pd.read_excel("../data/Datasets/Frequency_GISAID.xlsx", sheet_name=region)
+gisaid = pd.read_excel("../data/Datasets/GISAID_Frequency.xlsx", sheet_name=region)
 variationAnnotation = pd.read_excel("../data/Datasets/BIGD_Variation_Annotation.xlsx", sheet_name="Sheet1")
     
 cummFreq = pd.DataFrame(columns=["Position", "Reference", "Sub"], dtype=object)

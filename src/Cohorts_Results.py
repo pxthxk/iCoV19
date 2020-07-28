@@ -23,9 +23,9 @@ else:
     sys.exit()
 
 try:
-    gisaid = pd.read_excel("../data/Datasets/Frequency_GISAID.xlsx", sheet_name=cohort)
+    gisaid = pd.read_excel("../data/Datasets/GISAID_Frequency.xlsx", sheet_name=cohort)
 except:
-    gisaid = pd.read_excel("../data/Datasets/Frequency_GISAID.xlsx", sheet_name="India")
+    gisaid = pd.read_excel("../data/Datasets/GISAID_Frequency.xlsx", sheet_name="India")
 
 variationAnnotation = pd.read_excel("../data/Datasets/BIGD_Variation_Annotation.xlsx", sheet_name="Sheet1")
     
