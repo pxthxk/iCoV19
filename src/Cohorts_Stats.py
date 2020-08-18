@@ -28,8 +28,8 @@ outputDir = "../output/REDItools2/cohorts/"
 
 directory = None
 if cohort:
-	if os.path.isdir("../data/Samples/cohorts/" + cohort + "/"):
-		directory = "../data/Samples/cohorts/" + cohort + "/"
+	if os.path.isdir("../data/samples/cohorts/" + cohort + "/"):
+		directory = "../data/samples/cohorts/" + cohort + "/"
 
 if samples:
 	SRX = samples

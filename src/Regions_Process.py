@@ -26,8 +26,8 @@ samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex 
 
 directory = None
 if region:
-	if os.path.isdir("../data/Samples/regions/" + region + "/"):
-		directory = "../data/Samples/regions/" + region + "/"
+	if os.path.isdir("../data/samples/regions/" + region + "/"):
+		directory = "../data/samples/regions/" + region + "/"
 
 def processSample(SRXID):
 	if os.path.isdir(directory + SRXID):
@@ -51,7 +51,7 @@ def processSample(SRXID):
 			os.system("fastqc " + SRXDir + "1-Trimmomatic/" + SRRID + "_2_paired.fastq -o " + SRXDir + "2-fastqc/")
 			
 			# Hisat2: Human genome alignment.
-			os.system("hisat2 -x ../data/Datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -1 " + SRXDir + "1-Trimmomatic/" + SRRID + "_1_paired.fastq -2 " + SRXDir + "1-Trimmomatic/" + SRRID + "_2_paired.fastq -S " + SRXDir + "3-Human-Aligned/" + SRRID + ".sam -p 16 --dta-cufflinks --summary-file " + SRXDir + "0-logs/Hisat2.log")
+			os.system("hisat2 -x ../data/datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -1 " + SRXDir + "1-Trimmomatic/" + SRRID + "_1_paired.fastq -2 " + SRXDir + "1-Trimmomatic/" + SRRID + "_2_paired.fastq -S " + SRXDir + "3-Human-Aligned/" + SRRID + ".sam -p 16 --dta-cufflinks --summary-file " + SRXDir + "0-logs/Hisat2.log")
 
 			# Human aligned SAM to BAM.
 			os.system("samtools sort -@ 8 " + SRXDir + "3-Human-Aligned/" + SRRID + ".sam -o " + SRXDir + "3-Human-Aligned/" + SRRID + ".bam -O BAM")
@@ -67,7 +67,7 @@ def processSample(SRXID):
 			os.system("bamToFastq -i " + SRXDir + "4-Human-Unaligned/" + SRRID + ".bam -fq " + SRXDir + "4-Human-Unaligned/" + SRRID + "_1.fastq -fq2 " + SRXDir + "4-Human-Unaligned/" + SRRID + "_2.fastq")
 
 			# BWA: SARS-CoV-2 genome alignment.
-			os.system("bwa mem ../data/Datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "4-Human-Unaligned/" + SRRID + "_1.fastq " + SRXDir + "4-Human-Unaligned/" + SRRID + "_2.fastq > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".sam")
+			os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "4-Human-Unaligned/" + SRRID + "_1.fastq " + SRXDir + "4-Human-Unaligned/" + SRRID + "_2.fastq > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".sam")
 
 			# SARS-CoV-2 aligned SAM to BAM.
 			os.system("samtools sort -@ 8 " + SRXDir + "5-COVID-Aligned/" + SRRID + ".sam -o " + SRXDir + "5-COVID-Aligned/" + SRRID + ".bam -O BAM")
@@ -76,7 +76,7 @@ def processSample(SRXID):
 			os.system("java -jar ../tools/Picard/picard.jar MarkDuplicates I=" + SRXDir + "5-COVID-Aligned/" + SRRID + ".bam O=" + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam M=" + SRXDir + "5-COVID-Aligned/" + SRRID + "_duplicates.txt REMOVE_DUPLICATES=true USE_JDK_DEFLATER=true USE_JDK_INFLATER=true")
 
 			# Generate SARS-CoV-2 aligned consensus FASTA
-			os.system("bcftools mpileup -f ../data/Datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".fasta")
+			os.system("bcftools mpileup -f ../data/datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".fasta")
 
 			# Qualimap
 			os.system("../tools/qualimap_v2.2.1/qualimap bamqc -bam " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam -outdir " + SRXDir + "6-Qualimap/")
@@ -95,7 +95,7 @@ def processSample(SRXID):
 				os.system("mkdir ../output/REDItools2/regions")
 			if not os.path.isdir("../output/REDItools2/regions/" + region):
 				os.system("mkdir ../output/REDItools2/regions/" + region)
-			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/Datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/regions/" + region + "/" + SRXID + ".txt")
+			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/regions/" + region + "/" + SRXID + ".txt")
 
 			# JACUSA
 			if not os.path.isdir("../output/JACUSA/"):

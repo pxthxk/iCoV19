@@ -28,8 +28,8 @@ outputDir = "../output/REDItools2/regions/"
 
 directory = None
 if region:
-	if os.path.isdir("../data/Samples/regions/" + region + "/"):
-		directory = "../data/Samples/regions/" + region + "/"
+	if os.path.isdir("../data/samples/regions/" + region + "/"):
+		directory = "../data/samples/regions/" + region + "/"
 
 if samples:
 	SRX = samples

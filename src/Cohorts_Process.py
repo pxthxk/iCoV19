@@ -26,8 +26,8 @@ samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex 
 
 directory = None
 if cohort:
-	if os.path.isdir("../data/Samples/cohorts/" + cohort + "/"):
-		directory = "../data/Samples/cohorts/" + cohort + "/"
+	if os.path.isdir("../data/samples/cohorts/" + cohort + "/"):
+		directory = "../data/samples/cohorts/" + cohort + "/"
 
 def processSample(sampleID):
 	if os.path.isdir(directory + sampleID):
@@ -46,7 +46,7 @@ def processSample(sampleID):
 			os.system("fastqc " + sampleDir + "1-Trimmomatic/" + sampleID + "_2_paired.fastq -o " + sampleDir + "2-fastqc/")
 			
 			# Hisat2: Human genome alignment.
-			os.system("hisat2 -x ../data/Datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -1 " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_paired.fastq -2 " + sampleDir + "1-Trimmomatic/" + sampleID + "_2_paired.fastq -S " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -p 16 --dta-cufflinks --summary-file " + sampleDir + "0-logs/Hisat2.log")
+			os.system("hisat2 -x ../data/datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -1 " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_paired.fastq -2 " + sampleDir + "1-Trimmomatic/" + sampleID + "_2_paired.fastq -S " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -p 16 --dta-cufflinks --summary-file " + sampleDir + "0-logs/Hisat2.log")
 
 			# Human aligned SAM to BAM.
 			os.system("samtools sort -@ 8 " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -o " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam -O BAM")
@@ -62,7 +62,7 @@ def processSample(sampleID):
 			os.system("bamToFastq -i " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam -fq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq -fq2 " + sampleDir + "4-Human-Unaligned/" + sampleID + "_2.fastq")
 
 			# BWA: SARS-CoV-2 genome alignment.
-			os.system("bwa mem ../data/Datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_2.fastq > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam")
+			os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_2.fastq > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam")
 
 			# SARS-CoV-2 aligned SAM to BAM.
 			os.system("samtools sort -@ 8 " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam -o " + sampleDir + "5-COVID-Aligned/" + sampleID + ".bam -O BAM")
@@ -71,7 +71,7 @@ def processSample(sampleID):
 			os.system("java -jar ../tools/Picard/picard.jar MarkDuplicates I=" + sampleDir + "5-COVID-Aligned/" + sampleID + ".bam O=" + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam M=" + sampleDir + "5-COVID-Aligned/" + sampleID + "_duplicates.txt REMOVE_DUPLICATES=true USE_JDK_DEFLATER=true USE_JDK_INFLATER=true")
 
 			# Generate SARS-CoV-2 aligned consensus FASTA
-			os.system("bcftools mpileup -f ../data/Datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".fasta")
+			os.system("bcftools mpileup -f ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".fasta")
 
 			# Qualimap
 			os.system("../tools/qualimap_v2.2.1/qualimap bamqc -bam " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam -outdir " + sampleDir + "6-Qualimap/")
@@ -90,7 +90,7 @@ def processSample(sampleID):
 				os.system("mkdir ../output/REDItools2/cohorts")
 			if not os.path.isdir("../output/REDItools2/cohorts/" + cohort):
 				os.system("mkdir ../output/REDItools2/cohorts/" + cohort)
-			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/Datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/cohorts/" + cohort + "/" + sampleID + ".txt")
+			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + sampleDir + "5-COVID-Aligned/" + sampleID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/cohorts/" + cohort + "/" + sampleID + ".txt")
 
 			# JACUSA
 			if not os.path.isdir("../output/JACUSA/"):

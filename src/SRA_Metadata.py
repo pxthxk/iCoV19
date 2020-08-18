@@ -7,7 +7,7 @@ import xmltodict
 import json
 import datetime
 
-downloadDir = "../data/Datasets/SRA/"
+downloadDir = "../data/datasets/SRA/"
 
 date = datetime.datetime.now().strftime("%Y%m%d")
 

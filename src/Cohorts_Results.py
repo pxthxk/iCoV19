@@ -23,11 +23,11 @@ else:
     sys.exit()
 
 try:
-    gisaid = pd.read_excel("../data/Datasets/GISAID_Frequency.xlsx", sheet_name=cohort)
+    gisaid = pd.read_excel("../data/datasets/GISAID_Frequency.xlsx", sheet_name=cohort)
 except:
-    gisaid = pd.read_excel("../data/Datasets/GISAID_Frequency.xlsx", sheet_name="India")
+    gisaid = pd.read_excel("../data/datasets/GISAID_Frequency.xlsx", sheet_name="India")
 
-variationAnnotation = pd.read_excel("../data/Datasets/BIGD_Variation_Annotation.xlsx", sheet_name="Sheet1")
+variationAnnotation = pd.read_excel("../data/datasets/BIGD_Variation_Annotation.xlsx", sheet_name="Sheet1")
     
 cummFreq = pd.DataFrame(columns=["Position", "Reference", "Sub"], dtype=object)
 cummCount = pd.DataFrame(columns=["Position", "Reference", "Sub"], dtype=object)

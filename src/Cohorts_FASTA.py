@@ -26,14 +26,14 @@ samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex 
 
 directory = None
 if cohort:
-	if os.path.isdir("../data/Samples/cohorts/" + cohort + "/"):
-		directory = "../data/Samples/cohorts/" + cohort + "/"
+	if os.path.isdir("../data/samples/cohorts/" + cohort + "/"):
+		directory = "../data/samples/cohorts/" + cohort + "/"
 
 def processSample(sampleID):
 	if os.path.isdir(directory + sampleID):
 		sampleDir = directory + sampleID + "/"
 
-		os.system("bcftools mpileup -f ../data/Datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".fasta")
+		os.system("bcftools mpileup -f ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".fasta")
 	else:
 		print("Couldn't find sample \"" + sampleDir + "\" for " + cohort.replace("-", " "))
 

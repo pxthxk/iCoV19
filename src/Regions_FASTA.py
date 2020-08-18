@@ -26,15 +26,15 @@ samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex 
 
 directory = None
 if region:
-	if os.path.isdir("../data/Samples/regions/" + region + "/"):
-		directory = "../data/Samples/regions/" + region + "/"
+	if os.path.isdir("../data/samples/regions/" + region + "/"):
+		directory = "../data/samples/regions/" + region + "/"
 
 def processSample(SRXID):
 	if os.path.isdir(directory + SRXID):
 		SRXDir = directory + SRXID + "/"
 		SRRID = [i for i in os.listdir(directory + SRXID) if ((i.startswith("ERR")) or (i.startswith("SRR"))) and (len(i.split(".")) == 1)][0]
 
-		os.system("bcftools mpileup -f ../data/Datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".fasta")
+		os.system("bcftools mpileup -f ../data/datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".fasta")
 	else:
 		print("Couldn't find sample \"" + SRXID + "\" for " + region.replace("-", " "))
 

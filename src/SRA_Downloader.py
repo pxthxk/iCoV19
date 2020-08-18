@@ -10,7 +10,7 @@ import random
 import datetime
 from multiprocessing import Pool
 
-SRAMetadataDir = "../data/Datasets/SRA/"
+SRAMetadataDir = "../data/datasets/SRA/"
 
 countryTags = ["geo_loc_name", "geographic location (country and/or sea)", "country", "Country"]
 
@@ -75,7 +75,7 @@ if __name__ == "__main__":
         print("Either provide only BioProject (-B) OR region (-R) and platform (-P) arguments.")
     elif bioproject:
         expList = []
-        downloadDir = "../data/Samples/cohorts/" + bioproject + "/"
+        downloadDir = "../data/samples/cohorts/" + bioproject + "/"
 
         SRAMetadataFiles = [f for f in os.listdir(SRAMetadataDir) if os.path.isfile(SRAMetadataDir + f) and f.endswith(bioproject + ".json")]
 
@@ -106,7 +106,7 @@ if __name__ == "__main__":
     elif region or platform:
         if region and platform:
             expList = []
-            downloadDir = "../data/Samples/regions/" + region.replace(" ", "-") + "/"
+            downloadDir = "../data/samples/regions/" + region.replace(" ", "-") + "/"
 
             SRAMetadataFiles = [f for f in os.listdir(SRAMetadataDir) if os.path.isfile(SRAMetadataDir + f) and f.endswith(("Illumina_paired" if platform == "Illumina" else "Nanopore") + ".json")]
             
