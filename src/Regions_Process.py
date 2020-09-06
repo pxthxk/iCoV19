@@ -32,7 +32,7 @@ if region:
 def processSample(SRXID):
 	if os.path.isdir(directory + SRXID):
 		SRXDir = directory + SRXID + "/"
-		SRRID = [i for i in os.listdir(directory + SRXID) if ((i.startswith("ERR")) or (i.startswith("SRR"))) and (len(i.split(".")) == 1)][0]
+		SRRID = [i for i in os.listdir(SRXDir) if ((i.startswith("ERR")) or (i.startswith("SRR"))) and (len(i.split(".")) == 1)][0]
 		SRRPath = SRXDir + SRRID
 
 		if not os.path.isdir(SRXDir + "0-logs"):
@@ -76,7 +76,7 @@ def processSample(SRXID):
 			os.system("java -jar ../tools/Picard/picard.jar MarkDuplicates I=" + SRXDir + "5-COVID-Aligned/" + SRRID + ".bam O=" + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam M=" + SRXDir + "5-COVID-Aligned/" + SRRID + "_duplicates.txt REMOVE_DUPLICATES=true USE_JDK_DEFLATER=true USE_JDK_INFLATER=true")
 
 			# Generate SARS-CoV-2 aligned consensus FASTA
-			os.system("bcftools mpileup -f ../data/datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "5-COVID-Aligned/*_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".fasta")
+			os.system("bcftools mpileup -f ../data/datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam | bcftools call -c | vcfutils.pl vcf2fq | seqtk seq -aQ64 -q20 -n N > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".fasta")
 
 			# Qualimap
 			os.system("../tools/qualimap_v2.2.1/qualimap bamqc -bam " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam -outdir " + SRXDir + "6-Qualimap/")
@@ -88,13 +88,13 @@ def processSample(SRXID):
 			os.system("genomeCoverageBed -ibam " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam > " + SRXDir + "8-Coverage/" + SRRID + ".txt")
 
 			# REDItools
-			os.system("samtools index " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam.bai")
 			if not os.path.isdir("../output/REDItools2/"):
 				os.system("mkdir ../output/REDItools2/")
 			if not os.path.isdir("../output/REDItools2/regions"):
 				os.system("mkdir ../output/REDItools2/regions")
 			if not os.path.isdir("../output/REDItools2/regions/" + region):
 				os.system("mkdir ../output/REDItools2/regions/" + region)
+			os.system("samtools index " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam.bai")
 			os.system("python ../tools/reditools2.0/src/cineca/reditools.py -f " + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam -S -s 0 -os 4 -r ../data/datasets/NC_045512.2/NC_045512.2.fa -m ../output/REDItools2/homopolymers_NC_045512.2.txt -c ../output/REDItools2/homopolymers_NC_045512.2.txt -q 33 -bq 30 -mbp 15 -Mbp 15 -o ../output/REDItools2/regions/" + region + "/" + SRXID + ".txt")
 
 			# JACUSA
