@@ -12,4 +12,5 @@ data/samples/*/*/*/3-Human-Aligned
 data/samples/*/*/*/4-Human-Unaligned
 data/samples/*/*/*/5-COVID-Aligned
 tools
+nohup.out
 
