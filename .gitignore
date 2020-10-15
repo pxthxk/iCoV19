@@ -10,7 +10,9 @@ data/samples/*/*/*/*.fastq
 data/samples/*/*/*/1-Trimmomatic
 data/samples/*/*/*/3-Human-Aligned
 data/samples/*/*/*/4-Human-Unaligned
-data/samples/*/*/*/5-COVID-Aligned
+data/samples/*/*/*/5-COVID-Aligned/*.bam*
+data/samples/*/*/*/5-COVID-Aligned/*.sam
+data/samples/*/*/*/5-COVID-Aligned/*.txt
 tools
 nohup.out
 
