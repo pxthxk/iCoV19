@@ -1,0 +1,3 @@
+#Mapping quality	mapping quality
+59.0	21476.0
+60.0	7895.0

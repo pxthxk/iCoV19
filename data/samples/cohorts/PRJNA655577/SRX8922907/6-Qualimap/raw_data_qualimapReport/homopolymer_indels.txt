@@ -1,0 +1,7 @@
+#Type of indel	Number of indels
+polyA	27
+polyC	11
+polyG	18
+polyT	24
+polyN	0
+Non-poly	117
