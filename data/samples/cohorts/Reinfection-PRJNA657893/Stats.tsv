@@ -1,0 +1,3 @@
+Sample	Total Reads After Trimming	Hisat2 Human Mapped Reads	Hisat2 Human Unmapped Reads	Hisat2 % Human Mapped Reads	Total Reads After Removing Duplicates	BWA-MEM SARS-CoV-2 Mapped Reads	BWA % SARS-CoV-2 Mapped Reads	Mean of Coverage Depth	Standard Deviation of Coverage Depth	Mean Mapping Quality	GC Percentage	Error Rate
+SRX9082956	-	-	-	-	2241220	374783	16.72%	802.3462X	1,378.4756X	59.5222	37.9%	0.0038
+SRX9082955	-	-	-	-	1014318	502522	49.54%	1,112.5513X	2,798.7341X	59.8354	38.71%	0.0031
