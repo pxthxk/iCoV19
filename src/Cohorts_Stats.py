@@ -24,39 +24,58 @@ cohort = sys.argv[cohortIdentifierIndex+1].replace(" ", "-") if cohortIdentifier
 sampleIdentifierIndex = sys.argv.index("-S") if "-S" in sys.argv else None
 samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex and ((len(sys.argv)-1) > sampleIdentifierIndex) else None
 
-outputDir = "../output/REDItools2/cohorts/"
-
 directory = None
 if cohort:
 	if os.path.isdir("../data/samples/cohorts/" + cohort + "/"):
 		directory = "../data/samples/cohorts/" + cohort + "/"
 
 if samples:
-	SRX = samples
+	samples = samples
 else:
-	SRX = [i for i in os.listdir(directory) if (i.startswith("SRX")) or (i.startswith("ERX"))]
+	samples = [i for i in os.listdir(directory) if os.path.isdir(os.path.join(directory, i)) and not i.startswith('.')]
 
 if directory:
-	df = pd.DataFrame(columns=["Sample", "Mapped Paired Reads", "Coverage", "Error Rate"], dtype=object)	
+	df = pd.DataFrame(columns=["Sample", "Total Reads After Trimming", "Hisat2 Human Mapped Reads", "Hisat2 Human Unmapped Reads", "Hisat2 % Human Mapped Reads", "Total Reads After Removing Duplicates", "BWA-MEM SARS-CoV-2 Mapped Reads", "BWA % SARS-CoV-2 Mapped Reads", "Mean of Coverage Depth", "Standard Deviation of Coverage Depth", "Mean Mapping Quality", "GC Percentage", "Error Rate"], dtype=object)
 
-	for SRXID in SRX:
-		if os.path.isdir(directory + SRXID):
-			SRXDir = directory + SRXID + "/"
+	for sample in samples:
+		sampleDir = directory + sample + "/"
 			
-			if os.path.isdir(SRXDir + "0-logs"):
-				with open(SRXDir + "6-Qualimap/genome_results.txt", "r") as qualimap:
-					qualimap = qualimap.readlines()
-					mappedReads = qualimap[[i for i,s in enumerate(qualimap) if "number of mapped paired reads (both in pair)" in s][0]].split("=")[-1].strip()
-					coverage = qualimap[[i for i,s in enumerate(qualimap) if "mean coverageData" in s][0]].split("=")[-1].strip()
-					errorRate = qualimap[[i for i,s in enumerate(qualimap) if "general error rate" in s][0]].split("=")[-1].strip()
+		try:
+			with open(sampleDir + "0-logs/Hisat2.log", "r") as hisat2:
+				hisat2 = hisat2.readlines()
+				trimmedReads = int(hisat2[[i for i,s in enumerate(hisat2) if "reads; of these:" in s][0]].split(" reads; of these:")[0])*2
+				hisat2PercentMappedReads = hisat2[[i for i,s in enumerate(hisat2) if "overall alignment rate" in s][0]].split(" overall alignment rate")[0]
+				hisat2MappedReads = int((trimmedReads*float(hisat2PercentMappedReads.split("%")[0]))/100)
+				hisat2UnmappedReads = int(trimmedReads) - int(hisat2MappedReads)
+		except:
+			trimmedReads = "-"
+			hisat2MappedReads = "-"
+			hisat2UnmappedReads = "-"
+			hisat2PercentMappedReads = "-"
+		try:
+			with open(sampleDir + "6-Qualimap/genome_results.txt", "r") as qualimap:
+				qualimap = qualimap.readlines()
+				deduplicatedReads = "".join(qualimap[[i for i,s in enumerate(qualimap) if "number of reads" in s][0]].split("=")[-1].strip().split(","))
+				bwaMappedReads = "".join(qualimap[[i for i,s in enumerate(qualimap) if "number of mapped reads" in s][0]].split("=")[-1].strip().split(" ")[0].split(","))
+				bwaPercentMappedReads = qualimap[[i for i,s in enumerate(qualimap) if "number of mapped reads" in s][0]].split("=")[-1].strip().split(" ")[1].split("(")[1].split(")")[0]
+				bwaMeanCoverage = qualimap[[i for i,s in enumerate(qualimap) if "mean coverageData" in s][0]].split("=")[-1].strip()
+				bwaStdCoverage = qualimap[[i for i,s in enumerate(qualimap) if "std coverageData" in s][0]].split("=")[-1].strip()
+				bwaMeanMappingQuality = qualimap[[i for i,s in enumerate(qualimap) if "mean mapping quality" in s][0]].split("=")[-1].strip()
+				bwaGCPercent = qualimap[[i for i,s in enumerate(qualimap) if "GC percentage" in s][0]].split("=")[-1].strip()
+				bwaErrorRate = qualimap[[i for i,s in enumerate(qualimap) if "general error rate" in s][0]].split("=")[-1].strip()
+		except:
+			deduplicatedReads = "-"
+			bwaMappedReads = "-"
+			bwaPercentMappedReads = "-"
+			bwaMeanCoverage = "-"
+			bwaStdCoverage = "-"
+			bwaMeanMappingQuality = "-"
+			bwaGCPercent = "-"
+			bwaErrorRate = "-"
 
-					df.loc[len(df)] = [SRXID, mappedReads, coverage, errorRate]
-			else:
-				print(SRXID + " not processed. Skipping...")
-		else:
-			print("Couldn't find sample \"" + SRXID + "\" for " + cohort.replace("-", " "))
+		df.loc[len(df)] = [sample, trimmedReads, hisat2MappedReads, hisat2UnmappedReads, hisat2PercentMappedReads, deduplicatedReads, bwaMappedReads, bwaPercentMappedReads, bwaMeanCoverage, bwaStdCoverage, bwaMeanMappingQuality, bwaGCPercent, bwaErrorRate]
 
 	print("Writing...")
-	df.to_csv(outputDir + cohort.replace(" ", "-") + "/" + "Stats.tsv", index=False, sep="\t")
+	df.to_csv(directory + "Stats.tsv", index=False, sep="\t")
 else:
 	print("None/Invalid cohort (-C) argument provided.")

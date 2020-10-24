@@ -16,7 +16,7 @@ if samplesMultiprocessIdentifierIndex:
 else:
     samplesMultiprocess = 1
 
-# Fetch directory from console with "-C" as identifier.
+# Fetch cohort from console with "-C" as identifier.
 cohortIdentifierIndex = sys.argv.index("-C") if "-C" in sys.argv else None
 cohort = sys.argv[cohortIdentifierIndex+1] if cohortIdentifierIndex and ((len(sys.argv)-1) > cohortIdentifierIndex) else None
 
@@ -31,6 +31,10 @@ SRAFlag = True if "-SRA" in sys.argv else False
 # Check if sample is single-end with "-SE" as identifier.
 # Default: False
 SEFlag = True if "-SE" in sys.argv else False
+
+# Check if sample has viral reads only with "-VO" as identifier.
+# Default: False
+VOFlag = True if "-VO" in sys.argv else False
 
 directory = None
 if cohort:
@@ -58,7 +62,7 @@ def processSample(sampleID):
 
 			# Trimmomatic
 			if SEFlag:
-				os.system("java -jar ../tools/Trimmomatic-0.39/trimmomatic-0.39.jar SE " + samplePath + "_1.fastq " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_trimmed.fastq " + "ILLUMINACLIP:../tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:30")
+				os.system("java -jar ../tools/Trimmomatic-0.39/trimmomatic-0.39.jar SE " + samplePath + "_1.fastq " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_trimmed.fastq " + "ILLUMINACLIP:../tools/Trimmomatic-0.39/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:100")
 			else:
 				os.system("java -jar ../tools/Trimmomatic-0.39/trimmomatic-0.39.jar PE " + samplePath + "_1.fastq " + samplePath + "_2.fastq " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_paired.fastq " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_unpaired.fastq " + sampleDir + "1-Trimmomatic/" + sampleID + "_2_paired.fastq " + sampleDir + "1-Trimmomatic/" + sampleID + "_2_unpaired.fastq ILLUMINACLIP:../tools/Trimmomatic-0.39/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:100")
 
@@ -69,36 +73,43 @@ def processSample(sampleID):
 				os.system("fastqc " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_paired.fastq -o " + sampleDir + "2-fastqc/")
 				os.system("fastqc " + sampleDir + "1-Trimmomatic/" + sampleID + "_2_paired.fastq -o " + sampleDir + "2-fastqc/")
 			
-			# Hisat2: Human genome alignment.
-			if SEFlag:
-				os.system("hisat2 -x ../data/datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -U " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_trimmed.fastq -S " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -p 16 --dta-cufflinks --summary-file " + sampleDir + "0-logs/Hisat2.log")
-			else:
-				os.system("hisat2 -x ../data/datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -1 " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_paired.fastq -2 " + sampleDir + "1-Trimmomatic/" + sampleID + "_2_paired.fastq -S " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -p 16 --dta-cufflinks --summary-file " + sampleDir + "0-logs/Hisat2.log")
+			if not VOFlag:
+				# Hisat2: Human genome alignment.
+				if SEFlag:
+					os.system("hisat2 -x ../data/datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -U " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_trimmed.fastq -S " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -p 16 --dta-cufflinks --summary-file " + sampleDir + "0-logs/Hisat2.log")
+				else:
+					os.system("hisat2 -x ../data/datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -1 " + sampleDir + "1-Trimmomatic/" + sampleID + "_1_paired.fastq -2 " + sampleDir + "1-Trimmomatic/" + sampleID + "_2_paired.fastq -S " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -p 16 --dta-cufflinks --summary-file " + sampleDir + "0-logs/Hisat2.log")
 
-			# Human aligned SAM to BAM.
-			os.system("samtools sort -@ 8 " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -o " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam -O BAM")
+				# Human aligned SAM to BAM.
+				os.system("samtools sort -@ 8 " + sampleDir + "3-Human-Aligned/" + sampleID + ".sam -o " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam -O BAM")
 
-			# Filter out unmapped reads.
-			if SEFlag:
-				os.system("samtools view -u -f 4 " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam > " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam")
-			else:
-				os.system("samtools view -u -f 4 -F 264 " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam > " + sampleDir + "4-Human-Unaligned/temp1.bam")
-				os.system("samtools view -u -f 8 -F 260 " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam > " + sampleDir + "4-Human-Unaligned/temp2.bam")
-				os.system("samtools view -u -f 12 -F 256 " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam > " + sampleDir + "4-Human-Unaligned/temp3.bam")
-				os.system("samtools merge -u - " + sampleDir + "4-Human-Unaligned/temp[123].bam | samtools sort -n -o " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam")
-				os.system("rm " + sampleDir + "4-Human-Unaligned/temp1.bam " + sampleDir + "4-Human-Unaligned/temp2.bam " + sampleDir + "4-Human-Unaligned/temp3.bam")
+				# Filter out unmapped reads.
+				if SEFlag:
+					os.system("samtools view -u -f 4 " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam > " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam")
+				else:
+					os.system("samtools view -u -f 4 -F 264 " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam > " + sampleDir + "4-Human-Unaligned/temp1.bam")
+					os.system("samtools view -u -f 8 -F 260 " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam > " + sampleDir + "4-Human-Unaligned/temp2.bam")
+					os.system("samtools view -u -f 12 -F 256 " + sampleDir + "3-Human-Aligned/" + sampleID + ".bam > " + sampleDir + "4-Human-Unaligned/temp3.bam")
+					os.system("samtools merge -u - " + sampleDir + "4-Human-Unaligned/temp[123].bam | samtools sort -n -o " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam")
+					os.system("rm " + sampleDir + "4-Human-Unaligned/temp1.bam " + sampleDir + "4-Human-Unaligned/temp2.bam " + sampleDir + "4-Human-Unaligned/temp3.bam")
 
-			# Unmapped reads to fastq.
-			if SEFlag:
-				os.system("bamToFastq -i " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam -fq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq")
-			else:
-				os.system("bamToFastq -i " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam -fq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq -fq2 " + sampleDir + "4-Human-Unaligned/" + sampleID + "_2.fastq")
+				# Unmapped reads to fastq.
+				if SEFlag:
+					os.system("bamToFastq -i " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam -fq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq")
+				else:
+					os.system("bamToFastq -i " + sampleDir + "4-Human-Unaligned/" + sampleID + ".bam -fq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq -fq2 " + sampleDir + "4-Human-Unaligned/" + sampleID + "_2.fastq")
 
-			# BWA: SARS-CoV-2 genome alignment.
-			if SEFlag:
-				os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam")
+				# BWA: SARS-CoV-2 genome alignment.
+				if SEFlag:
+					os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam")
+				else:
+					os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_2.fastq > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam")
 			else:
-				os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + "4-Human-Unaligned/" + sampleID + "_1.fastq " + sampleDir + "4-Human-Unaligned/" + sampleID + "_2.fastq > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam")
+				# BWA: SARS-CoV-2 genome alignment.
+				if SEFlag:
+					os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + SRRID + "_1.fastq > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam")
+				else:
+					os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + sampleDir + SRRID + "_1.fastq " + sampleDir + SRRID + "_2.fastq > " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam")
 
 			# SARS-CoV-2 aligned SAM to BAM.
 			os.system("samtools sort -@ 8 " + sampleDir + "5-COVID-Aligned/" + sampleID + ".sam -o " + sampleDir + "5-COVID-Aligned/" + sampleID + ".bam -O BAM")
