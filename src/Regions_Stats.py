@@ -2,27 +2,41 @@
 
 import os
 import sys
+import json
+import re
+import datetime
 import pandas as pd
 
 # Fetch no. of processes from console with "-n" as identifier.
 # Default: 1
 samplesMultiprocessIdentifierIndex = sys.argv.index("-n") if "-n" in sys.argv else None
 if samplesMultiprocessIdentifierIndex:
-    if ((len(sys.argv)-1) > samplesMultiprocessIdentifierIndex) and sys.argv[samplesMultiprocessIdentifierIndex+1].isdigit():
-        samplesMultiprocess = int(sys.argv[samplesMultiprocessIdentifierIndex+1])
-    else:
-        print("Invalid value for argument \"-n\".")
-        sys.exit()
+	if ((len(sys.argv)-1) > samplesMultiprocessIdentifierIndex) and sys.argv[samplesMultiprocessIdentifierIndex+1].isdigit():
+		samplesMultiprocess = int(sys.argv[samplesMultiprocessIdentifierIndex+1])
+	else:
+		print("Invalid value for argument \"-n\".")
+		sys.exit()
 else:
-    samplesMultiprocess = 1
+	samplesMultiprocess = 1
+
+# Fetch BioProject from console with "-B" as identifier.
+bioprojectIdentifierIndex = sys.argv.index("-B") if "-B" in sys.argv else None
+bioproject = sys.argv[bioprojectIdentifierIndex+1] if bioprojectIdentifierIndex and ((len(sys.argv)-1) > bioprojectIdentifierIndex) else None
 
 # Fetch region from console with "-R" as identifier.
-regionIdentifierIndex = sys.argv.index("-R") if "-R" in sys.argv else None
-region = sys.argv[regionIdentifierIndex+1].replace(" ", "-") if regionIdentifierIndex and ((len(sys.argv)-1) > regionIdentifierIndex) else None
+if bioproject:
+	region = bioproject
+else:
+	regionIdentifierIndex = sys.argv.index("-R") if "-R" in sys.argv else None
+	region = sys.argv[regionIdentifierIndex+1].replace(" ", "-") if regionIdentifierIndex and ((len(sys.argv)-1) > regionIdentifierIndex) else None
 
 # Fetch sample(s) from console with "-S" as identifier.
 sampleIdentifierIndex = sys.argv.index("-S") if "-S" in sys.argv else None
 samples = sys.argv[sampleIdentifierIndex+1].split(",") if sampleIdentifierIndex and ((len(sys.argv)-1) > sampleIdentifierIndex) else None
+
+# Check if sample source is SRA with "-SRA" as identifier.
+# Default: False
+SRAFlag = True if "-SRA" in sys.argv else False
 
 directory = None
 if region:
@@ -32,10 +46,70 @@ if region:
 if samples:
 	SRX = samples
 else:
-	SRX = [i for i in os.listdir(directory) if (i.startswith("SRX")) or (i.startswith("ERX"))]
+	SRX = SRX = [i for i in os.listdir(directory) if (i.startswith("SRX")) or (i.startswith("ERX"))]
+
+if SRAFlag:
+	platform = "Illumina"
+	countryTags = ["geo_loc_name", "geographic location (country and/or sea)", "country", "Country"]
+	SRAMetadataDir = "../data/datasets/metadata/SRA/"
+	SRASampleMetadata = {}
+
+	if bioproject:
+		SRAMetadataFiles = [f for f in os.listdir(SRAMetadataDir) if os.path.isfile(SRAMetadataDir + f) and f.endswith(bioproject + ".json")]
+	else:
+		SRAMetadataFiles = [f for f in os.listdir(SRAMetadataDir) if os.path.isfile(SRAMetadataDir + f) and f.endswith(("Illumina_paired" if platform == "Illumina" else "Nanopore") + ".json")]
+
+	if len(SRAMetadataFiles) != 0:
+		if bioproject:
+			SRAMetadataFile = max(list(map(lambda x: datetime.datetime.strptime(x.split("_")[0], "%Y%m%d"), SRAMetadataFiles))).strftime("%Y%m%d") + "_" + bioproject + ".json"
+		else:
+			SRAMetadataFile = max(list(map(lambda x: datetime.datetime.strptime(x.split("_")[0], "%Y%m%d"), SRAMetadataFiles))).strftime("%Y%m%d") + "_" + ("Illumina_paired" if platform == "Illumina" else "Nanopore") + ".json"
+		print("Using " + SRAMetadataFile)
+		
+		SRAMetadata = json.load(open(SRAMetadataDir + SRAMetadataFile, "r"))
+		
+		for i in range(0,len(SRAMetadata["EXPERIMENT_PACKAGE_SET"]["EXPERIMENT_PACKAGE"])):
+			exp = SRAMetadata["EXPERIMENT_PACKAGE_SET"]["EXPERIMENT_PACKAGE"][i]
+			
+			collection_date = ""
+			host_sex = ""
+			host_age = ""
+
+			if bioproject:
+				for tag in exp["SAMPLE"]["SAMPLE_ATTRIBUTES"]["SAMPLE_ATTRIBUTE"]:
+					if tag["TAG"] == "collection_date":
+						collection_date = tag["VALUE"]
+					if tag["TAG"] == "host_sex":
+						host_sex = tag["VALUE"]
+					if tag["TAG"] == "host_age":
+						host_age = tag["VALUE"]
+				SRASampleMetadata[exp["EXPERIMENT"]["@accession"]] = (collection_date, host_sex, host_age)
+			else:
+				flag = 0
+				
+				for tag in exp["SAMPLE"]["SAMPLE_ATTRIBUTES"]["SAMPLE_ATTRIBUTE"]:
+					if tag["TAG"] in countryTags:
+						if re.search(region.replace("-", " ") , tag["VALUE"], re.IGNORECASE):
+							flag = 1
+							break
+				if flag == 1:
+					for tag in exp["SAMPLE"]["SAMPLE_ATTRIBUTES"]["SAMPLE_ATTRIBUTE"]:
+						if tag["TAG"] == "collection_date":
+							collection_date = tag["VALUE"]
+						if tag["TAG"] == "host_sex":
+							host_sex = tag["VALUE"]
+						if tag["TAG"] == "host_age":
+							host_age = tag["VALUE"]
+				
+					SRASampleMetadata[exp["EXPERIMENT"]["@accession"]] = (collection_date, host_sex, host_age)
+else:
+	try:
+		sampleMetadata = json.load(open("../data/datasets/metadata/" + region.replace("-", " ") + ".json", "r"))
+	except:
+		sampleMetadata = {}
 
 if directory:
-	df = pd.DataFrame(columns=["Sample", "Total Reads After Trimming", "Hisat2 Human Mapped Reads", "Hisat2 Human Unmapped Reads", "Hisat2 % Human Mapped Reads", "Total Reads After Removing Duplicates", "BWA-MEM SARS-CoV-2 Mapped Reads", "BWA % SARS-CoV-2 Mapped Reads", "Mean of Coverage Depth", "Standard Deviation of Coverage Depth", "Mean Mapping Quality", "GC Percentage", "Error Rate"], dtype=object)
+	df = pd.DataFrame(columns=["Sample", "Total Reads After Trimming", "Hisat2 Human Mapped Reads", "Hisat2 Human Unmapped Reads", "Hisat2 % Human Mapped Reads", "Total Reads After Removing Duplicates", "BWA-MEM SARS-CoV-2 Mapped Reads", "BWA % SARS-CoV-2 Mapped Reads", "Mean of Coverage Depth", "Standard Deviation of Coverage Depth", "Mean Mapping Quality", "GC Percentage", "Error Rate", "Collection Date", "Gender", "Age"], dtype=object)
 
 	for SRXID in SRX:
 		SRXDir = directory + SRXID + "/"
@@ -73,7 +147,17 @@ if directory:
 			bwaGCPercent = "-"
 			bwaErrorRate = "-"
 
-		df.loc[len(df)] = [SRXID, trimmedReads, hisat2MappedReads, hisat2UnmappedReads, hisat2PercentMappedReads, deduplicatedReads, bwaMappedReads, bwaPercentMappedReads, bwaMeanCoverage, bwaStdCoverage, bwaMeanMappingQuality, bwaGCPercent, bwaErrorRate]
+		if SRAFlag:
+			collection_date = SRASampleMetadata[SRXID][0] if SRASampleMetadata[SRXID][0] != "" else "-"
+			host_sex = SRASampleMetadata[SRXID][1] if SRASampleMetadata[SRXID][1] != "" else "-"
+			host_age = SRASampleMetadata[SRXID][2] if SRASampleMetadata[SRXID][2] != "" else "-"
+			
+		else:
+			collection_date = sampleMetadata[SRXID]["collection_date"] if SRXID in sampleMetadata else "-"
+			host_sex = sampleMetadata[SRXID]["sex"] if SRXID in sampleMetadata else "-"
+			host_age = sampleMetadata[SRXID]["age"] if SRXID in sampleMetadata else "-"
+
+		df.loc[len(df)] = [SRXID, trimmedReads, hisat2MappedReads, hisat2UnmappedReads, hisat2PercentMappedReads, deduplicatedReads, bwaMappedReads, bwaPercentMappedReads, bwaMeanCoverage, bwaStdCoverage, bwaMeanMappingQuality, bwaGCPercent, bwaErrorRate, collection_date, host_sex, host_age]
 
 	print("Writing...")
 	df.to_csv(directory + "Stats.tsv", index=False, sep="\t")
