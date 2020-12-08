@@ -3,8 +3,8 @@ BamQC report
 
 >>>>>>> Input
 
-     bam file = J136.merged.bam_deduplicated.bam
-     outfile = J136_qualimap/genome_results.txt
+     bam file = J130.merged.bam_deduplicated.bam
+     outfile = J130_qualimap/genome_results.txt
 
 
 >>>>>>> Reference
