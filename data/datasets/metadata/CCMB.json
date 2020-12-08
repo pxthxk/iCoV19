@@ -1,0 +1,832 @@
+{
+	"C1-12": {
+		"collection_date": "2020-04-16",
+		"age": 30,
+		"sex": "Male"
+	},
+	"C2-13": {
+		"collection_date": "2020-04-16",
+		"age": 54,
+		"sex": "Female"
+	},
+	"C3-14": {
+		"collection_date": "2020-04-16",
+		"age": 38,
+		"sex": "Female"
+	},
+	"C4-15": {
+		"collection_date": "2020-04-20",
+		"age": 24,
+		"sex": "Male"
+	},
+	"J009": {
+		"collection_date": "2020-03-30",
+		"age": 52,
+		"sex": "Male"
+	},
+	"J014": {
+		"collection_date": "2020-03-30",
+		"age": 58,
+		"sex": "Male"
+	},
+	"J021": {
+		"collection_date": "2020-03-30",
+		"age": 59,
+		"sex": "Male"
+	},
+	"J043": {
+		"collection_date": "2020-03-31",
+		"age": 30,
+		"sex": "Male"
+	},
+	"J045": {
+		"collection_date": "2020-03-31",
+		"age": 36,
+		"sex": "Male"
+	},
+	"J047": {
+		"collection_date": "2020-03-31",
+		"age": 27,
+		"sex": "Male"
+	},
+	"J048": {
+		"collection_date": "2020-03-31",
+		"age": 24,
+		"sex": "Male"
+	},
+	"J057": {
+		"collection_date": "2020-03-31",
+		"age": 44,
+		"sex": "Male"
+	},
+	"J067": {
+		"collection_date": "2020-03-31",
+		"age": 34,
+		"sex": "Male"
+	},
+	"J068": {
+		"collection_date": "2020-03-31",
+		"age": 21,
+		"sex": "Male"
+	},
+	"J107": {
+		"collection_date": "2020-04-01",
+		"age": 27,
+		"sex": "Male"
+	},
+	"J118": {
+		"collection_date": "2020-04-01",
+		"age": 32,
+		"sex": "Male"
+	},
+	"J125": {
+		"collection_date": "2020-04-01",
+		"age": 40,
+		"sex": "Male"
+	},
+	"J131QIA": {
+		"collection_date": "2020-04-01",
+		"age": 27,
+		"sex": "Male"
+	},
+	"J132": {
+		"collection_date": "2020-04-01",
+		"age": 29,
+		"sex": "Female"
+	},
+	"J130": {
+		"collection_date": "2020-04-01",
+		"age": 55,
+		"sex": "Female"
+	},
+	"J165": {
+		"collection_date": "2020-04-01",
+		"age": 35,
+		"sex": "Male"
+	},
+	"J166": {
+		"collection_date": "2020-04-01",
+		"age": 52,
+		"sex": "Female"
+	},
+	"J199": {
+		"collection_date": "2020-04-01",
+		"age": 56,
+		"sex": "Male"
+	},
+	"J206": {
+		"collection_date": "2020-04-01",
+		"age": 45,
+		"sex": "Male"
+	},
+	"J207": {
+		"collection_date": "2020-04-01",
+		"age": 41,
+		"sex": "Male"
+	},
+	"J208": {
+		"collection_date": "2020-04-01",
+		"age": 28,
+		"sex": "Male"
+	},
+	"J212": {
+		"collection_date": "2020-04-01",
+		"age": 34,
+		"sex": "Female"
+	},
+	"J220": {
+		"collection_date": "2020-04-01",
+		"age": 37,
+		"sex": "Male"
+	},
+	"J222": {
+		"collection_date": "2020-04-01",
+		"age": 51,
+		"sex": "Male"
+	},
+	"J223": {
+		"collection_date": "2020-04-01",
+		"age": 37,
+		"sex": "Male"
+	},
+	"J224": {
+		"collection_date": "2020-04-01",
+		"age": 29,
+		"sex": "Male"
+	},
+	"J230": {
+		"collection_date": "2020-04-01",
+		"age": 59,
+		"sex": "Male"
+	},
+	"J232": {
+		"collection_date": "2020-04-02",
+		"age": 60,
+		"sex": "Male"
+	},
+	"J235": {
+		"collection_date": "2020-04-01",
+		"age": 43,
+		"sex": "Male"
+	},
+	"J247": {
+		"collection_date": "2020-04-01",
+		"age": 24,
+		"sex": "Male"
+	},
+	"J278": {
+		"collection_date": "2020-04-01",
+		"age": 33,
+		"sex": "Male"
+	},
+	"J283": {
+		"collection_date": "2020-04-01",
+		"age": 73,
+		"sex": "Male"
+	},
+	"J288": {
+		"collection_date": "2020-04-01",
+		"age": 26,
+		"sex": "Male"
+	},
+	"J300": {
+		"collection_date": "2020-04-03",
+		"age": 22,
+		"sex": "Male"
+	},
+	"J304": {
+		"collection_date": "2020-04-01",
+		"age": 72,
+		"sex": "Male"
+	},
+	"J318": {
+		"collection_date": "2020-04-02",
+		"age": 26,
+		"sex": "Female"
+	},
+	"J321": {
+		"collection_date": "2020-04-02",
+		"age": 20,
+		"sex": "Female"
+	},
+	"J327": {
+		"collection_date": "2020-04-02",
+		"age": 48,
+		"sex": "Female"
+	},
+	"J350BS4": {
+		"collection_date": "2020-04-02",
+		"age": 21,
+		"sex": "Male"
+	},
+	"J374": {
+		"collection_date": "2020-04-02",
+		"age": 45,
+		"sex": "Female"
+	},
+	"J375": {
+		"collection_date": "2020-04-02",
+		"age": 22,
+		"sex": "Female"
+	},
+	"J390": {
+		"collection_date": "2020-04-02",
+		"age": 45,
+		"sex": "Male"
+	},
+	"J458": {
+		"collection_date": "2020-04-02",
+		"age": 26,
+		"sex": "Male"
+	},
+	"J714": {
+		"collection_date": "2020-04-06",
+		"age": 6,
+		"sex": "Male"
+	},
+	"J812": {
+		"collection_date": "2020-04-06",
+		"age": 24,
+		"sex": "Male"
+	},
+	"K128": {
+		"collection_date": "2020-04-10",
+		"age": 10,
+		"sex": "Female"
+	},
+	"K272_S35": {
+		"collection_date": "2020-04-12",
+		"age": 40,
+		"sex": "Male"
+	},
+	"K496": {
+		"collection_date": "2020-04-13",
+		"age": 55,
+		"sex": "Male"
+	},
+	"K499": {
+		"collection_date": "2020-04-14",
+		"age": 19,
+		"sex": "Male"
+	},
+	"K500": {
+		"collection_date": "2020-04-14",
+		"age": 12,
+		"sex": "Male"
+	},
+	"K599": {
+		"collection_date": "2020-04-14",
+		"age": 32,
+		"sex": "Female"
+	},
+	"K600B": {
+		"collection_date": "2020-04-14",
+		"age": 15,
+		"sex": "Male"
+	},
+	"K601": {
+		"collection_date": "2020-04-14",
+		"age": 13,
+		"sex": "Female"
+	},
+	"K771QIA": {
+		"collection_date": "2020-04-15",
+		"age": 36,
+		"sex": "Male"
+	},
+	"K849": {
+		"collection_date": "2020-04-16",
+		"age": 49,
+		"sex": "Male"
+	},
+	"KIPM001_S36": {
+		"collection_date": "2020-04-29",
+		"age": 36,
+		"sex": "Male"
+	},
+	"KIPM002_S37": {
+		"collection_date": "2020-04-26",
+		"age": 48,
+		"sex": "Female"
+	},
+	"KIPM003": {
+		"collection_date": "2020-04-29",
+		"age": 55,
+		"sex": "Female"
+	},
+	"KIPM004_S38": {
+		"collection_date": "2020-04-29",
+		"age": 52,
+		"sex": "Male"
+	},
+	"KIPM005_S39": {
+		"collection_date": "2020-04-27",
+		"age": 30,
+		"sex": "Female"
+	},
+	"KIPM006_S40": {
+		"collection_date": "2020-04-29",
+		"age": 51,
+		"sex": "Male"
+	},
+	"KIPM009_S41": {
+		"collection_date": "2020-04-29",
+		"age": 30,
+		"sex": "Male"
+	},
+	"KIPM012_S42": {
+		"collection_date": "2020-04-29",
+		"age": 28,
+		"sex": "Male"
+	},
+	"KIPM013_S43": {
+		"collection_date": "2020-04-26",
+		"age": 64,
+		"sex": "Male"
+	},
+	"KIPM014_S44": {
+		"collection_date": "2020-04-29",
+		"age": 24,
+		"sex": "Female"
+	},
+	"KIPM015": {
+		"collection_date": "2020-05-06",
+		"age": 50,
+		"sex": "Male"
+	},
+	"KIPM016_S45": {
+		"collection_date": "2020-05-06",
+		"age": 20,
+		"sex": "Female"
+	},
+	"KIPM017_S46": {
+		"collection_date": "2020-05-06",
+		"age": 58,
+		"sex": "Female"
+	},
+	"KIPM018_S47": {
+		"collection_date": "2020-05-06",
+		"age": 39,
+		"sex": "Female"
+	},
+	"KIPM019_S48": {
+		"collection_date": "2020-05-06",
+		"age": 25,
+		"sex": "Male"
+	},
+	"KIPM020_S49": {
+		"collection_date": "2020-05-06",
+		"age": 39,
+		"sex": "Female"
+	},
+	"KIPM021_S63": {
+		"collection_date": "2020-05-06",
+		"age": 35,
+		"sex": "Male"
+	},
+	"L007": {
+		"collection_date": "2020-04-16",
+		"age": 24,
+		"sex": "Male"
+	},
+	"L040": {
+		"collection_date": "2020-04-18",
+		"age": 34,
+		"sex": "Female"
+	},
+	"L044": {
+		"collection_date": "2020-04-16",
+		"age": 45,
+		"sex": "Female"
+	},
+	"L1017": {
+		"collection_date": "2020-05-11",
+		"age": 9,
+		"sex": "Female"
+	},
+	"L1021": {
+		"collection_date": "2020-05-11",
+		"age": 22,
+		"sex": "Female"
+	},
+	"L1022": {
+		"collection_date": "2020-05-11",
+		"age": 45,
+		"sex": "Male"
+	},
+	"L1024": {
+		"collection_date": "2020-05-11",
+		"age": 22,
+		"sex": "Female"
+	},
+	"L1025": {
+		"collection_date": "2020-05-11",
+		"age": 8,
+		"sex": "Female"
+	},
+	"L1026": {
+		"collection_date": "2020-05-11",
+		"age": 22,
+		"sex": "Female"
+	},
+	"L1062": {
+		"collection_date": "2020-05-12",
+		"age": 36,
+		"sex": "Male"
+	},
+	"L1063": {
+		"collection_date": "2020-05-12",
+		"age": 28,
+		"sex": "Male"
+	},
+	"L1064": {
+		"collection_date": "2020-05-12",
+		"age": 26,
+		"sex": "Male"
+	},
+	"L1073": {
+		"collection_date": "2020-05-13",
+		"age": 60,
+		"sex": "Male"
+	},
+	"L1082": {
+		"collection_date": "2020-05-13",
+		"age": 9,
+		"sex": "Female"
+	},
+	"L1085": {
+		"collection_date": "2020-05-13",
+		"age": 40,
+		"sex": "Female"
+	},
+	"L1089": {
+		"collection_date": "2020-05-13",
+		"age": 17,
+		"sex": "Female"
+	},
+	"L1090": {
+		"collection_date": "2020-05-13",
+		"age": 30,
+		"sex": "Male"
+	},
+	"L1100": {
+		"collection_date": "2020-05-13",
+		"age": 50,
+		"sex": "Female"
+	},
+	"L1103": {
+		"collection_date": "2020-05-13",
+		"age": 1.5,
+		"sex": "Male"
+	},
+	"L1108": {
+		"collection_date": "2020-05-13",
+		"age": 29,
+		"sex": "Male"
+	},
+	"L1208": {
+		"collection_date": "2020-05-21",
+		"age": 55,
+		"sex": "Male"
+	},
+	"L1276": {
+		"collection_date": "2020-05-21",
+		"age": 32,
+		"sex": "Male"
+	},
+	"L1451": {
+		"collection_date": "2020-05-25",
+		"age": 33,
+		"sex": "Male"
+	},
+	"L1452": {
+		"collection_date": "2020-05-25",
+		"age": 30,
+		"sex": "Male"
+	},
+	"L1453": {
+		"collection_date": "2020-05-25",
+		"age": 49,
+		"sex": "Male"
+	},
+	"L1454": {
+		"collection_date": "2020-05-25",
+		"age": 29,
+		"sex": "Male"
+	},
+	"L1455": {
+		"collection_date": "2020-05-25",
+		"age": 33,
+		"sex": "Male"
+	},
+	"L1456": {
+		"collection_date": "2020-05-25",
+		"age": 31,
+		"sex": "Male"
+	},
+	"L1459": {
+		"collection_date": "2020-05-25",
+		"age": 44,
+		"sex": "Male"
+	},
+	"L1460": {
+		"collection_date": "2020-05-25",
+		"age": 45,
+		"sex": "Male"
+	},
+	"L1465": {
+		"collection_date": "2020-05-25",
+		"age": 39,
+		"sex": "Male"
+	},
+	"L1466": {
+		"collection_date": "2020-05-25",
+		"age": 33,
+		"sex": "Male"
+	},
+	"L1469": {
+		"collection_date": "2020-05-25",
+		"age": 26,
+		"sex": "Male"
+	},
+	"L1470": {
+		"collection_date": "2020-05-25",
+		"age": 27,
+		"sex": "Male"
+	},
+	"L1471": {
+		"collection_date": "2020-05-25",
+		"age": 28,
+		"sex": "Male"
+	},
+	"L1475": {
+		"collection_date": "2020-05-25",
+		"age": 34,
+		"sex": "Male"
+	},
+	"L1476": {
+		"collection_date": "2020-05-25",
+		"age": 24,
+		"sex": "Male"
+	},
+	"L1477": {
+		"collection_date": "2020-05-25",
+		"age": 22,
+		"sex": "Male"
+	},
+	"L1478": {
+		"collection_date": "2020-05-25",
+		"age": 21,
+		"sex": "Male"
+	},
+	"L1484": {
+		"collection_date": "2020-05-25",
+		"age": 27,
+		"sex": "Male"
+	},
+	"L1487": {
+		"collection_date": "2020-05-25",
+		"age": 22,
+		"sex": "Male"
+	},
+	"L149": {
+		"collection_date": "2020-04-16",
+		"age": 19,
+		"sex": "Male"
+	},
+	"L1492": {
+		"collection_date": "2020-05-25",
+		"age": 23,
+		"sex": "Male"
+	},
+	"L1494": {
+		"collection_date": "2020-05-25",
+		"age": 32,
+		"sex": "Male"
+	},
+	"L1495": {
+		"collection_date": "2020-05-25",
+		"age": 34,
+		"sex": "Male"
+	},
+	"L1496": {
+		"collection_date": "2020-05-25",
+		"age": 24,
+		"sex": "Male"
+	},
+	"L1497": {
+		"collection_date": "2020-05-25",
+		"age": 24,
+		"sex": "Male"
+	},
+	"L1499": {
+		"collection_date": "2020-05-25",
+		"age": 26,
+		"sex": "Male"
+	},
+	"L1500": {
+		"collection_date": "2020-05-25",
+		"age": 32,
+		"sex": "Male"
+	},
+	"L1510": {
+		"collection_date": "2020-05-26",
+		"age": 57,
+		"sex": "Male"
+	},
+	"L1542": {
+		"collection_date": "2020-05-26",
+		"age": 33,
+		"sex": "Male"
+	},
+	"L1551": {
+		"collection_date": "2020-05-26",
+		"age": 30,
+		"sex": "Male"
+	},
+	"L1554": {
+		"collection_date": "2020-05-26",
+		"age": 30,
+		"sex": "Male"
+	},
+	"L1564": {
+		"collection_date": "2020-05-26",
+		"age": 25,
+		"sex": "Male"
+	},
+	"L1675": {
+		"collection_date": "2020-05-29",
+		"age": 37,
+		"sex": "Female"
+	},
+	"L1684": {
+		"collection_date": "2020-05-29",
+		"age": 49,
+		"sex": "Male"
+	},
+	"L1693": {
+		"collection_date": "2020-05-29",
+		"age": 56,
+		"sex": "Female"
+	},
+	"L1694": {
+		"collection_date": "2020-05-29",
+		"age": 75,
+		"sex": "Female"
+	},
+	"L1721": {
+		"collection_date": "2020-05-30",
+		"age": 45,
+		"sex": "Male"
+	},
+	"L1724": {
+		"collection_date": "2020-05-30",
+		"age": 25,
+		"sex": "Female"
+	},
+	"L1726": {
+		"collection_date": "2020-05-30",
+		"age": 30,
+		"sex": "Male"
+	},
+	"L1728": {
+		"collection_date": "2020-05-30",
+		"age": 22,
+		"sex": "Female"
+	},
+	"L1738": {
+		"collection_date": "2020-06-01",
+		"age": 37,
+		"sex": "Male"
+	},
+	"L1743": {
+		"collection_date": "2020-06-01",
+		"age": 35,
+		"sex": "Female"
+	},
+	"L1746": {
+		"collection_date": "2020-06-01",
+		"age": 54,
+		"sex": "Male"
+	},
+	"L1762-NFLEX": {
+		"collection_date": "2020-06-01",
+		"age": 24,
+		"sex": "Female"
+	},
+	"L1781": {
+		"collection_date": "2020-06-02",
+		"age": 3,
+		"sex": "Male"
+	},
+	"L1806": {
+		"collection_date": "2020-06-02",
+		"age": 34,
+		"sex": "Female"
+	},
+	"L1809": {
+		"collection_date": "2020-06-02",
+		"age": 65,
+		"sex": "Female"
+	},
+	"L1810": {
+		"collection_date": "2020-06-02",
+		"age": 27,
+		"sex": "Male"
+	},
+	"L1811": {
+		"collection_date": "2020-06-02",
+		"age": 54,
+		"sex": "Male"
+	},
+	"L1819": {
+		"collection_date": "2020-06-02",
+		"age": 30,
+		"sex": "Female"
+	},
+	"L1822": {
+		"collection_date": "2020-06-02",
+		"age": 70,
+		"sex": "Female"
+	},
+	"L1824": {
+		"collection_date": "2020-06-02",
+		"age": 47,
+		"sex": "Female"
+	},
+	"L299RPJOSH_S65": {
+		"collection_date": "2020-04-20",
+		"age": 25,
+		"sex": "Female"
+	},
+	"L301RHJOSH_S69": {
+		"collection_date": "2020-04-20",
+		"age": 2,
+		"sex": "Female"
+	},
+	"L302": {
+		"collection_date": "2020-04-20",
+		"age": 22,
+		"sex": "Male"
+	},
+	"L912": {
+		"collection_date": "2020-05-09",
+		"age": 42,
+		"sex": "Female"
+	},
+	"L988": {
+		"collection_date": "2020-05-11",
+		"age": 27,
+		"sex": "Male"
+	},
+	"L989": {
+		"collection_date": "2020-05-11",
+		"age": 22,
+		"sex": "Female"
+	},
+	"NIV1": {
+		"collection_date": "2020-04-04",
+		"age": 57,
+		"sex": "Male"
+	},
+	"NIV2": {
+		"collection_date": "2020-04-04",
+		"age": 35,
+		"sex": "Male"
+	},
+	"NIV3QIA": {
+		"collection_date": "2020-03-27",
+		"age": 44,
+		"sex": "Female"
+	},
+	"NIV4QIA": {
+		"collection_date": "2020-03-26",
+		"age": 65,
+		"sex": "Female"
+	},
+	"NIV5QIA": {
+		"collection_date": "2020-03-17",
+		"age": 37,
+		"sex": "Male"
+	},
+	"O1-1880QIA": {
+		"collection_date": "2020-04-13",
+		"age": 56,
+		"sex": "Male"
+	},
+	"O2-1732": {
+		"collection_date": "2020-04-15",
+		"age": 80,
+		"sex": "Female"
+	},
+	"O3-R1164": {
+		"collection_date": "2020-04-14",
+		"age": 35,
+		"sex": "Female"
+	},
+	"O4-696": {
+		"collection_date": "2020-04-03",
+		"age": 30,
+		"sex": "Female"
+	}
+}

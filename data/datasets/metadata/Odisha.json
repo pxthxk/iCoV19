@@ -1,0 +1,1242 @@
+{
+    "ILSCV17568": {
+        "collection_date": "2020-05-12", 
+        "age": 45, 
+        "sex": "Female"
+    }, 
+    "ILSCV17569": {
+        "collection_date": "2020-05-12", 
+        "age": 50, 
+        "sex": "Male"
+    }, 
+    "ILSCV27409": {
+        "collection_date": "2020-05-21", 
+        "age": 45, 
+        "sex": "Male"
+    }, 
+    "ILSCV27406": {
+        "collection_date": "2020-05-21", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "ILSCV35482": {
+        "collection_date": "2020-06-11", 
+        "age": 19, 
+        "sex": "Female"
+    }, 
+    "ILSCV18534": {
+        "collection_date": "2020-05-13", 
+        "age": 22, 
+        "sex": "Male"
+    }, 
+    "ILSCV27713": {
+        "collection_date": "2020-05-21", 
+        "age": 50, 
+        "sex": "Male"
+    }, 
+    "ILSCV15546": {
+        "collection_date": "2020-05-11", 
+        "age": 33, 
+        "sex": "Male"
+    }, 
+    "ILSCV12762": {
+        "collection_date": "2020-05-09", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV27226": {
+        "collection_date": "2020-05-21", 
+        "age": 15, 
+        "sex": "Male"
+    }, 
+    "ILSCV18539": {
+        "collection_date": "2020-05-13", 
+        "age": 17, 
+        "sex": "Male"
+    }, 
+    "RMRC84": {
+        "collection_date": "2020-05-04", 
+        "age": 27, 
+        "sex": "Male"
+    }, 
+    "ILSCV15937": {
+        "collection_date": "2020-05-11", 
+        "age": 50, 
+        "sex": "Male"
+    }, 
+    "ILSCV29971": {
+        "collection_date": "2020-05-23", 
+        "age": 36, 
+        "sex": "Male"
+    }, 
+    "RMRC110": {
+        "collection_date": "2020-05-06", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV15428": {
+        "collection_date": "2020-05-11", 
+        "age": 37, 
+        "sex": "Male"
+    }, 
+    "ILSCV32870": {
+        "collection_date": "2020-06-04", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV13678": {
+        "collection_date": "2020-05-09", 
+        "age": 45, 
+        "sex": "Male"
+    }, 
+    "ILSCV32872": {
+        "collection_date": "2020-06-04", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "RMRC169": {
+        "collection_date": "2020-05-07", 
+        "age": 43, 
+        "sex": "Male"
+    }, 
+    "ILSCV32879": {
+        "collection_date": "2020-06-05", 
+        "age": 26, 
+        "sex": "Male"
+    }, 
+    "ILSCV13676": {
+        "collection_date": "2020-05-09", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV21603": {
+        "collection_date": "2020-05-16", 
+        "age": 32, 
+        "sex": "Male"
+    }, 
+    "ILSCV11171": {
+        "collection_date": "2020-05-07", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV19048": {
+        "collection_date": "2020-05-16", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "ILSCV30141": {
+        "collection_date": "2020-05-23", 
+        "age": 42, 
+        "sex": "Male"
+    }, 
+    "ILSCV30140": {
+        "collection_date": "2020-05-23", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "ILSCV27419": {
+        "collection_date": "2020-05-21", 
+        "age": 27, 
+        "sex": "Male"
+    }, 
+    "RMRC92": {
+        "collection_date": "2020-05-04", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV29363": {
+        "collection_date": "2020-05-22", 
+        "age": 23, 
+        "sex": "Female"
+    }, 
+    "ILSCV29997": {
+        "collection_date": "2020-05-23", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "ILSCV18525": {
+        "collection_date": "2020-05-13", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "ILSCV27412": {
+        "collection_date": "2020-05-21", 
+        "age": 20, 
+        "sex": "Female"
+    }, 
+    "ILSCV14262": {
+        "collection_date": "2020-05-11", 
+        "age": 26, 
+        "sex": "Male"
+    }, 
+    "RMRC90": {
+        "collection_date": "2020-05-04", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "ILSCV32896": {
+        "collection_date": "2020-06-05", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "RMRC104": {
+        "collection_date": "2020-05-06", 
+        "age": 21, 
+        "sex": "Male"
+    }, 
+    "ILSCV25378": {
+        "collection_date": "2020-05-19", 
+        "age": 44, 
+        "sex": "Male"
+    }, 
+    "ILSCV33982": {
+        "collection_date": "2020-06-08", 
+        "age": 37, 
+        "sex": "Male"
+    }, 
+    "ILSCV33983": {
+        "collection_date": "2020-06-08", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "RMRC2": {
+        "collection_date": "2020-03-19", 
+        "age": 19, 
+        "sex": "Male"
+    }, 
+    "ILSCV15552": {
+        "collection_date": "2020-05-11", 
+        "age": 19, 
+        "sex": "Female"
+    }, 
+    "ILSCV35333": {
+        "collection_date": "2020-06-10", 
+        "age": 38, 
+        "sex": "Male"
+    }, 
+    "ILSCV16828": {
+        "collection_date": "2020-05-11", 
+        "age": 18, 
+        "sex": "Male"
+    }, 
+    "RMRC103": {
+        "collection_date": "2020-05-06", 
+        "age": 41, 
+        "sex": "Male"
+    }, 
+    "ILSCV29215": {
+        "collection_date": "2020-05-23", 
+        "age": 42, 
+        "sex": "Male"
+    }, 
+    "ILSCV29962": {
+        "collection_date": "2020-05-23", 
+        "age": 27, 
+        "sex": "Male"
+    }, 
+    "ILSCV29961": {
+        "collection_date": "2020-05-23", 
+        "age": 39, 
+        "sex": "Male"
+    }, 
+    "ILSCV29960": {
+        "collection_date": "2020-05-23", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "RMRC108": {
+        "collection_date": "2020-05-06", 
+        "age": 33, 
+        "sex": "Male"
+    }, 
+    "RMRC94": {
+        "collection_date": "2020-05-04", 
+        "age": 21, 
+        "sex": "Male"
+    }, 
+    "ILSCV32656": {
+        "collection_date": "2020-06-03", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "RMRC73": {
+        "collection_date": "2020-04-29", 
+        "age": 55, 
+        "sex": "Male"
+    }, 
+    "ILSCV32670": {
+        "collection_date": "2020-06-03", 
+        "age": 60, 
+        "sex": "Male"
+    }, 
+    "ILSCV21721": {
+        "collection_date": "2020-05-16", 
+        "age": 18, 
+        "sex": "Male"
+    }, 
+    "ILSCV11996": {
+        "collection_date": "2020-05-09", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV24694": {
+        "collection_date": "2020-05-18", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV34933": {
+        "collection_date": "2020-06-10", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV18556": {
+        "collection_date": "2020-05-13", 
+        "age": 26, 
+        "sex": "Male"
+    }, 
+    "ILSCV29347": {
+        "collection_date": "2020-05-22", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV20557": {
+        "collection_date": "2020-05-15", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV25367": {
+        "collection_date": "2020-05-19", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "ILSCV15547": {
+        "collection_date": "2020-05-11", 
+        "age": 19, 
+        "sex": "Male"
+    }, 
+    "ILSCV27146": {
+        "collection_date": "2020-05-21", 
+        "age": 18, 
+        "sex": "Male"
+    }, 
+    "ILSCV14374": {
+        "collection_date": "2020-05-10", 
+        "age": 50, 
+        "sex": "Male"
+    }, 
+    "ILSCV20410": {
+        "collection_date": "2020-05-15", 
+        "age": 48, 
+        "sex": "Male"
+    }, 
+    "ILSCV35457": {
+        "collection_date": "2020-06-10", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "ILSCV14743": {
+        "collection_date": "2020-05-10", 
+        "age": 75, 
+        "sex": "Male"
+    }, 
+    "ILSCV26793": {
+        "collection_date": "2020-05-21", 
+        "age": 36, 
+        "sex": "Male"
+    }, 
+    "ILSCV16009": {
+        "collection_date": "2020-05-11", 
+        "age": 37, 
+        "sex": "Male"
+    }, 
+    "ILSCV27381": {
+        "collection_date": "2020-05-21", 
+        "age": 35, 
+        "sex": "Female"
+    }, 
+    "RMRC67": {
+        "collection_date": "2020-04-27", 
+        "age": 63, 
+        "sex": "Male"
+    }, 
+    "ILSCV20804": {
+        "collection_date": "2020-05-16", 
+        "age": 1, 
+        "sex": "Female"
+    }, 
+    "ILSCV32593": {
+        "collection_date": "2020-06-03", 
+        "age": 16, 
+        "sex": "Male"
+    }, 
+    "ILSCV13715": {
+        "collection_date": "2020-05-09", 
+        "age": 37, 
+        "sex": "Male"
+    }, 
+    "ILSCV30220": {
+        "collection_date": "2020-05-23", 
+        "age": 40, 
+        "sex": "Male"
+    }, 
+    "ILSCV30221": {
+        "collection_date": "2020-05-23", 
+        "age": 48, 
+        "sex": "Male"
+    }, 
+    "ILSCV27789": {
+        "collection_date": "2020-05-21", 
+        "age": 55, 
+        "sex": "Male"
+    }, 
+    "ILSCV15954": {
+        "collection_date": "2020-05-11", 
+        "age": 40, 
+        "sex": "Male"
+    }, 
+    "ILSCV19144": {
+        "collection_date": "2020-05-14", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV28594": {
+        "collection_date": "2020-05-22", 
+        "age": 19, 
+        "sex": "Male"
+    }, 
+    "ILSCV20165": {
+        "collection_date": "2020-05-05", 
+        "age": 19, 
+        "sex": "Male"
+    }, 
+    "ILSCV20166": {
+        "collection_date": "2020-05-05", 
+        "age": 19, 
+        "sex": "Male"
+    }, 
+    "ILSCV34939": {
+        "collection_date": "2020-06-10", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "ILSCV35614": {
+        "collection_date": "2020-06-12", 
+        "age": 29, 
+        "sex": "Male"
+    }, 
+    "ILSCV35615": {
+        "collection_date": "2020-06-12", 
+        "age": 33, 
+        "sex": "Male"
+    }, 
+    "RMRC112": {
+        "collection_date": "2020-05-06", 
+        "age": 47, 
+        "sex": "Male"
+    }, 
+    "ILSCV27726": {
+        "collection_date": "2020-05-21", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV27725": {
+        "collection_date": "2020-05-21", 
+        "age": 33, 
+        "sex": "Female"
+    }, 
+    "ILSCV14847": {
+        "collection_date": "2020-05-10", 
+        "age": 44, 
+        "sex": "Male"
+    }, 
+    "ILSCV16491": {
+        "collection_date": "2020-05-12", 
+        "age": 52, 
+        "sex": "Male"
+    }, 
+    "RMRC49": {
+        "collection_date": "2020-04-09", 
+        "age": 35, 
+        "sex": "Female"
+    }, 
+    "ILSCV15551": {
+        "collection_date": "2020-05-11", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV32889": {
+        "collection_date": "2020-06-05", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV35750": {
+        "collection_date": "2020-06-12", 
+        "age": 26, 
+        "sex": "Male"
+    }, 
+    "ILSCV20407": {
+        "collection_date": "2020-05-15", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV25518": {
+        "collection_date": "2020-05-19", 
+        "age": 22, 
+        "sex": "Male"
+    }, 
+    "ILSCV20408": {
+        "collection_date": "2020-05-15", 
+        "age": 33, 
+        "sex": "Male"
+    }, 
+    "ILSCV35308": {
+        "collection_date": "2020-06-10", 
+        "age": 45, 
+        "sex": "Male"
+    }, 
+    "ILSCV27235": {
+        "collection_date": "2020-05-21", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV35351": {
+        "collection_date": "2020-06-10", 
+        "age": 22, 
+        "sex": "Male"
+    }, 
+    "ILSCV35350": {
+        "collection_date": "2020-06-10", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "ILSCV35353": {
+        "collection_date": "2020-06-10", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "RMRC30": {
+        "collection_date": "2020-04-04", 
+        "age": 28, 
+        "sex": "Female"
+    }, 
+    "ILSCV30442": {
+        "collection_date": "2020-05-24", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV29666": {
+        "collection_date": "2020-05-23", 
+        "age": 40, 
+        "sex": "Male"
+    }, 
+    "ILSCV25591": {
+        "collection_date": "2020-05-19", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "RMRC71": {
+        "collection_date": "2020-04-29", 
+        "age": 55, 
+        "sex": "Male"
+    }, 
+    "RMRC70": {
+        "collection_date": "2020-04-28", 
+        "age": 34, 
+        "sex": "Male"
+    }, 
+    "ILSCV25594": {
+        "collection_date": "2020-05-19", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "ILSCV16012": {
+        "collection_date": "2020-05-11", 
+        "age": 33, 
+        "sex": "Male"
+    }, 
+    "ILSCV31650": {
+        "collection_date": "2020-05-26", 
+        "age": 21, 
+        "sex": "Female"
+    }, 
+    "ILSCV14289": {
+        "collection_date": "2020-05-11", 
+        "age": 39, 
+        "sex": "Male"
+    }, 
+    "ILSCV16495": {
+        "collection_date": "2020-05-12", 
+        "age": 37, 
+        "sex": "Male"
+    }, 
+    "ILSCV16494": {
+        "collection_date": "2020-05-12", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV16498": {
+        "collection_date": "2020-05-12", 
+        "age": 37, 
+        "sex": "Male"
+    }, 
+    "ILSCV19156": {
+        "collection_date": "2020-05-14", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV29457": {
+        "collection_date": "2020-05-23", 
+        "age": 35, 
+        "sex": "Male"
+    }, 
+    "ILSCV34479": {
+        "collection_date": "2020-06-09", 
+        "age": 38, 
+        "sex": "Male"
+    }, 
+    "ILSCV34478": {
+        "collection_date": "2020-06-09", 
+        "age": 21, 
+        "sex": "Male"
+    }, 
+    "ILSCV16631": {
+        "collection_date": "2020-05-12", 
+        "age": 45, 
+        "sex": "Male"
+    }, 
+    "ILSCV31185": {
+        "collection_date": "2020-05-24", 
+        "age": 33, 
+        "sex": "Male"
+    }, 
+    "RMRC45": {
+        "collection_date": "2020-04-08", 
+        "age": 9, 
+        "sex": "Female"
+    }, 
+    "ILSCV35574": {
+        "collection_date": "2020-06-11", 
+        "age": 26, 
+        "sex": "Male"
+    }, 
+    "ILSCV32652": {
+        "collection_date": "2020-06-03", 
+        "age": 27, 
+        "sex": "Male"
+    }, 
+    "RMRC46": {
+        "collection_date": "2020-04-08", 
+        "age": 5, 
+        "sex": "Female"
+    }, 
+    "ILSCV13921": {
+        "collection_date": "2020-05-10", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV35475": {
+        "collection_date": "2020-06-10", 
+        "age": 21, 
+        "sex": "Female"
+    }, 
+    "ILSCV35476": {
+        "collection_date": "2020-06-10", 
+        "age": 19, 
+        "sex": "Female"
+    }, 
+    "ILSCV35366": {
+        "collection_date": "2020-06-10", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV13929": {
+        "collection_date": "2020-05-10", 
+        "age": 45, 
+        "sex": "Male"
+    }, 
+    "RMRC48": {
+        "collection_date": "2020-04-08", 
+        "age": 46, 
+        "sex": "Male"
+    }, 
+    "ILSCV24918": {
+        "collection_date": "2020-05-18", 
+        "age": 23, 
+        "sex": "Female"
+    }, 
+    "RMRC154": {
+        "collection_date": "2020-05-07", 
+        "age": 22, 
+        "sex": "Male"
+    }, 
+    "ILSCV33972": {
+        "collection_date": "2020-06-08", 
+        "age": 18, 
+        "sex": "Male"
+    }, 
+    "ILSCV20596": {
+        "collection_date": "2020-05-15", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "ILSCV33971": {
+        "collection_date": "2020-06-08", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV24917": {
+        "collection_date": "2020-05-18", 
+        "age": 26, 
+        "sex": "Male"
+    }, 
+    "RMRC47": {
+        "collection_date": "2020-04-08", 
+        "age": 37, 
+        "sex": "Female"
+    }, 
+    "RMRC159": {
+        "collection_date": "2020-05-07", 
+        "age": 38, 
+        "sex": "Male"
+    }, 
+    "RMRC158": {
+        "collection_date": "2020-05-07", 
+        "age": 16, 
+        "sex": "Male"
+    }, 
+    "RMRC157": {
+        "collection_date": "2020-05-07", 
+        "age": 55, 
+        "sex": "Male"
+    }, 
+    "RMRC156": {
+        "collection_date": "2020-05-07", 
+        "age": 34, 
+        "sex": "Male"
+    }, 
+    "RMRC155": {
+        "collection_date": "2020-05-07", 
+        "age": 28, 
+        "sex": "Male"
+    }, 
+    "ILSCV26795": {
+        "collection_date": "2020-05-21", 
+        "age": 40, 
+        "sex": "Male"
+    }, 
+    "RMRC29": {
+        "collection_date": "2020-04-04", 
+        "age": 45, 
+        "sex": "Female"
+    }, 
+    "ILSCV31984": {
+        "collection_date": "2020-05-29", 
+        "age": 49, 
+        "sex": "Male"
+    }, 
+    "ILSCV19346": {
+        "collection_date": "2020-05-14", 
+        "age": 48, 
+        "sex": "Female"
+    }, 
+    "ILSCV19342": {
+        "collection_date": "2020-05-14", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "RMRC7": {
+        "collection_date": "2020-04-02", 
+        "age": 38, 
+        "sex": "Male"
+    }, 
+    "ILSCV32007": {
+        "collection_date": "2020-05-29", 
+        "age": 22, 
+        "sex": "Male"
+    }, 
+    "ILSCV35461": {
+        "collection_date": "2020-06-10", 
+        "age": 35, 
+        "sex": "Male"
+    }, 
+    "RMRC5": {
+        "collection_date": "2020-04-02", 
+        "age": 42, 
+        "sex": "Male"
+    }, 
+    "ILSCV27217": {
+        "collection_date": "2020-05-21", 
+        "age": 37, 
+        "sex": "Male"
+    }, 
+    "ILSCV35376": {
+        "collection_date": "2020-06-10", 
+        "age": 27, 
+        "sex": "Male"
+    }, 
+    "ILSCV25524": {
+        "collection_date": "2020-05-19", 
+        "age": 32, 
+        "sex": "Male"
+    }, 
+    "ILSCV27173": {
+        "collection_date": "2020-05-21", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV12752": {
+        "collection_date": "2020-05-09", 
+        "age": 18, 
+        "sex": "Male"
+    }, 
+    "ILSCV18287": {
+        "collection_date": "2020-05-13", 
+        "age": 15, 
+        "sex": "Female"
+    }, 
+    "ILSCV12751": {
+        "collection_date": "2020-05-09", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "ILSCV16280": {
+        "collection_date": "2020-05-11", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "RMRC18": {
+        "collection_date": "2020-04-02", 
+        "age": 29, 
+        "sex": "Male"
+    }, 
+    "ILSCV34480": {
+        "collection_date": "2020-06-09", 
+        "age": 18, 
+        "sex": "Male"
+    }, 
+    "ILSCV15907": {
+        "collection_date": "2020-05-11", 
+        "age": 26, 
+        "sex": "Male"
+    }, 
+    "ILSCV32485": {
+        "collection_date": "2020-06-02", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV32486": {
+        "collection_date": "2020-06-02", 
+        "age": 35, 
+        "sex": "Male"
+    }, 
+    "RMRC123": {
+        "collection_date": "2020-05-07", 
+        "age": 35, 
+        "sex": "Male"
+    }, 
+    "RMRC76": {
+        "collection_date": "2020-04-29", 
+        "age": 24, 
+        "sex": "Female"
+    }, 
+    "ILSCV32142": {
+        "collection_date": "2020-05-30", 
+        "age": 36, 
+        "sex": "Male"
+    }, 
+    "ILSCV21602": {
+        "collection_date": "2020-05-16", 
+        "age": 21, 
+        "sex": "Male"
+    }, 
+    "ILSCV30115": {
+        "collection_date": "2020-05-23", 
+        "age": 28, 
+        "sex": "Male"
+    }, 
+    "ILSCV13744": {
+        "collection_date": "2020-05-09", 
+        "age": 35, 
+        "sex": "Male"
+    }, 
+    "RMRC27": {
+        "collection_date": "2020-04-04", 
+        "age": 4, 
+        "sex": "Male"
+    }, 
+    "ILSCV19209": {
+        "collection_date": "2020-05-14", 
+        "age": 29, 
+        "sex": "Male"
+    }, 
+    "ILSCV31447": {
+        "collection_date": "2020-05-26", 
+        "age": 22, 
+        "sex": "Male"
+    }, 
+    "ILSCV32465": {
+        "collection_date": "2020-05-30", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "ILSCV14831": {
+        "collection_date": "2020-05-10", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "ILSCV17741": {
+        "collection_date": "2020-05-13", 
+        "age": 40, 
+        "sex": "Female"
+    }, 
+    "ILSCV16514": {
+        "collection_date": "2020-05-12", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "ILSCV20598": {
+        "collection_date": "2020-05-15", 
+        "age": 58, 
+        "sex": "Male"
+    }, 
+    "RMRC1": {
+        "collection_date": "2020-03-15", 
+        "age": 33, 
+        "sex": "Male"
+    }, 
+    "RMRC25": {
+        "collection_date": "2020-04-04", 
+        "age": 4, 
+        "sex": "Male"
+    }, 
+    "ILSCV16510": {
+        "collection_date": "2020-05-12", 
+        "age": 38, 
+        "sex": "Male"
+    }, 
+    "RMRC6": {
+        "collection_date": "2020-04-02", 
+        "age": 32, 
+        "sex": "Male"
+    }, 
+    "ILSCV16512": {
+        "collection_date": "2020-05-12", 
+        "age": 45, 
+        "sex": "Male"
+    }, 
+    "ILSCV13907": {
+        "collection_date": "2020-05-10", 
+        "age": 45, 
+        "sex": "Male"
+    }, 
+    "RMRC22": {
+        "collection_date": "2020-04-04", 
+        "age": 29, 
+        "sex": "Male"
+    }, 
+    "RMRC23": {
+        "collection_date": "2020-04-04", 
+        "age": 9, 
+        "sex": "Female"
+    }, 
+    "RMRC20": {
+        "collection_date": "2020-04-02", 
+        "age": 70, 
+        "sex": "Male"
+    }, 
+    "RMRC38": {
+        "collection_date": "2020-04-04", 
+        "age": 32, 
+        "sex": "Female"
+    }, 
+    "RMRC26": {
+        "collection_date": "2020-04-04", 
+        "age": 2, 
+        "sex": "Male"
+    }, 
+    "ILSCV13695": {
+        "collection_date": "2020-05-09", 
+        "age": 29, 
+        "sex": "Male"
+    }, 
+    "RMRC24": {
+        "collection_date": "2020-04-04", 
+        "age": 35, 
+        "sex": "Female"
+    }, 
+    "RMRC106": {
+        "collection_date": "2020-05-06", 
+        "age": 40, 
+        "sex": "Male"
+    }, 
+    "ILSCV31694": {
+        "collection_date": "2020-05-26", 
+        "age": 42, 
+        "sex": "Male"
+    }, 
+    "RMRC28": {
+        "collection_date": "2020-04-04", 
+        "age": 10, 
+        "sex": "Female"
+    }, 
+    "ILSCV19192": {
+        "collection_date": "2020-05-14", 
+        "age": 34, 
+        "sex": "Male"
+    }, 
+    "ILSCV31693": {
+        "collection_date": "2020-05-26", 
+        "age": 32, 
+        "sex": "Male"
+    }, 
+    "ILSCV32817": {
+        "collection_date": "2020-06-04", 
+        "age": 27, 
+        "sex": "Male"
+    }, 
+    "ILSCV32816": {
+        "collection_date": "2020-06-04", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV12743": {
+        "collection_date": "2020-05-09", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "ILSCV12742": {
+        "collection_date": "2020-05-09", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "ILSCV12744": {
+        "collection_date": "2020-05-09", 
+        "age": 22, 
+        "sex": "Male"
+    }, 
+    "ILSCV29958": {
+        "collection_date": "2020-05-23", 
+        "age": 40, 
+        "sex": "Male"
+    }, 
+    "ILSCV29959": {
+        "collection_date": "2020-05-23", 
+        "age": 38, 
+        "sex": "Male"
+    }, 
+    "ILSCV35456": {
+        "collection_date": "2020-06-10", 
+        "age": 19, 
+        "sex": "Male"
+    }, 
+    "ILSCV21587": {
+        "collection_date": "2020-05-16", 
+        "age": 46, 
+        "sex": "Male"
+    }, 
+    "ILSCV28062": {
+        "collection_date": "2020-05-21", 
+        "age": 33, 
+        "sex": "Male"
+    }, 
+    "ILSCV35141": {
+        "collection_date": "2020-06-10", 
+        "age": 28, 
+        "sex": "Male"
+    }, 
+    "ILSCV16809": {
+        "collection_date": "2020-05-11", 
+        "age": 18, 
+        "sex": "Male"
+    }, 
+    "ILSCV32899": {
+        "collection_date": "2020-06-05", 
+        "age": 19, 
+        "sex": "Male"
+    }, 
+    "ILSCV32898": {
+        "collection_date": "2020-06-05", 
+        "age": 21, 
+        "sex": "Male"
+    }, 
+    "RMRC171": {
+        "collection_date": "2020-05-07", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV32866": {
+        "collection_date": "2020-06-04", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "ILSCV32895": {
+        "collection_date": "2020-06-05", 
+        "age": 19, 
+        "sex": "Male"
+    }, 
+    "ILSCV32893": {
+        "collection_date": "2020-06-05", 
+        "age": 32, 
+        "sex": "Male"
+    }, 
+    "ILSCV32892": {
+        "collection_date": "2020-06-05", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "ILSCV20600": {
+        "collection_date": "2020-05-15", 
+        "age": 36, 
+        "sex": "Male"
+    }, 
+    "ILSCV30163": {
+        "collection_date": "2020-05-23", 
+        "age": 40, 
+        "sex": "Male"
+    }, 
+    "ILSCV16509": {
+        "collection_date": "2020-05-12", 
+        "age": 54, 
+        "sex": "Male"
+    }, 
+    "ILSCV16508": {
+        "collection_date": "2020-05-12", 
+        "age": 35, 
+        "sex": "Male"
+    }, 
+    "ILSCV32815": {
+        "collection_date": "2020-06-04", 
+        "age": 53, 
+        "sex": "Male"
+    }, 
+    "ILSCV30167": {
+        "collection_date": "2020-05-23", 
+        "age": 20, 
+        "sex": "Male"
+    }, 
+    "ILSCV29181": {
+        "collection_date": "2020-05-22", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "RMRC170": {
+        "collection_date": "2020-05-07", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "RMRC33": {
+        "collection_date": "2020-04-04", 
+        "age": 10, 
+        "sex": "Male"
+    }, 
+    "ILSCV32814": {
+        "collection_date": "2020-06-04", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV14004": {
+        "collection_date": "2020-05-09", 
+        "age": 36, 
+        "sex": "Male"
+    }, 
+    "ILSCV31684": {
+        "collection_date": "2020-05-26", 
+        "age": 34, 
+        "sex": "Male"
+    }, 
+    "ILSCV35317": {
+        "collection_date": "2020-06-10", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "ILSCV14244": {
+        "collection_date": "2020-05-10", 
+        "age": 22, 
+        "sex": "Female"
+    }, 
+    "ILSCV15918": {
+        "collection_date": "2020-05-11", 
+        "age": 16, 
+        "sex": "Female"
+    }, 
+    "RMRC166": {
+        "collection_date": "2020-05-07", 
+        "age": 35, 
+        "sex": "Male"
+    }, 
+    "RMRC167": {
+        "collection_date": "2020-05-07", 
+        "age": 25, 
+        "sex": "Male"
+    }, 
+    "RMRC164": {
+        "collection_date": "2020-05-07", 
+        "age": 23, 
+        "sex": "Male"
+    }, 
+    "RMRC165": {
+        "collection_date": "2020-05-07", 
+        "age": 45, 
+        "sex": "Male"
+    }, 
+    "RMRC162": {
+        "collection_date": "2020-05-07", 
+        "age": 35, 
+        "sex": "Male"
+    }, 
+    "RMRC163": {
+        "collection_date": "2020-05-07", 
+        "age": 30, 
+        "sex": "Male"
+    }, 
+    "RMRC160": {
+        "collection_date": "2020-05-07", 
+        "age": 39, 
+        "sex": "Male"
+    }, 
+    "RMRC161": {
+        "collection_date": "2020-05-07", 
+        "age": 31, 
+        "sex": "Male"
+    }, 
+    "ILSCV27196": {
+        "collection_date": "2020-05-21", 
+        "age": 21, 
+        "sex": "Male"
+    }, 
+    "ILSCV30273": {
+        "collection_date": "2020-05-23", 
+        "age": 50, 
+        "sex": "Male"
+    }, 
+    "ILSCV11165": {
+        "collection_date": "2020-05-07", 
+        "age": 24, 
+        "sex": "Male"
+    }, 
+    "ILSCV19358": {
+        "collection_date": "2020-05-14", 
+        "age": 60, 
+        "sex": "Male"
+    }, 
+    "ILSCV28955": {
+        "collection_date": "2020-05-22", 
+        "age": 55, 
+        "sex": "Male"
+    }, 
+    "ILSCV23208": {
+        "collection_date": "2020-05-17", 
+        "age": 63, 
+        "sex": "Male"
+    }, 
+    "ILSCV15917": {
+        "collection_date": "2020-05-11", 
+        "age": 48, 
+        "sex": "Male"
+    }, 
+    "ILSCV19355": {
+        "collection_date": "2020-05-14", 
+        "age": 26, 
+        "sex": "Male"
+    }
+}
