@@ -1,125 +1,125 @@
-Position	Reference	Sub	SRX8004779	SRX8160314	SRX8160315	SRX8160318	SRX8004776	SRX8160316	SRX8160319	SRX8004775	SRX8160317	SRX8160320	SRX8004778	SRX8160309	SRX8004777	SRX8160313	SRX8160310	SRX8160312	SRX8004780	Avg	Count	Count (>= 0.95)	Editing Sub	GISAID Sub	GISAID_A	GISAID_T	GISAID_G	GISAID_C	Gene	Amino acids change	Annotation Type	Calculated variant consequences	Variation Codons
-75	C	CT	0.006																	0.006	1	0	CT		0.0	0.0	0.0	179.0	5'UTR		intergenic_variant	MODIFIER	
-90	G	GA	1.0				0.998						0.006							0.668	3	2	GA		0.0	0.0	179.0	0.0	5'UTR		intergenic_variant	MODIFIER	
-97	A	AG	1.0				0.998						0.006							0.668	3	2	AG		179.0	0.0	0.0	0.0	5'UTR		intergenic_variant	MODIFIER	
-106	C	CA					0.005													0.005	1	0	CA		0.0	0.0	0.0	179.0	5'UTR		intergenic_variant	MODIFIER	
-111	T	TC	1.0				0.999						0.007							0.669	3	2	TC		0.0	179.0	0.0	0.0	5'UTR		intergenic_variant	MODIFIER	
-120	T	TC	1.0				0.998						0.006							0.668	3	2	TC		0.0	179.0	0.0	0.0	5'UTR		intergenic_variant	MODIFIER	
-121	C	CT	1.0				0.999						0.005							0.668	3	2	CT		0.0	0.0	0.0	179.0					
-241	C	CT										1.0								1.0	1	1	CT	CT	0.0	146.0	0.0	32.0	5'UTR	QHD43415.1	upstream_gene_variant	MODIFIER,DISTANCE=25	
-302	C	CT											0.007							0.007	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.13H>Y	missense_variant	MODERATE	c.37Cac>Tac
-346	C	CT					0.006													0.006	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.27L; QHD43415.1:p.27-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.81ctC>ctT; c.81ctC>ctY
-463	G	GA											0.008							0.008	1	0	GA		0.0	0.0	179.0	0.0					
-595	T	TG					0.304													0.304	1	0	TG		0.0	179.0	0.0	0.0	orf1ab	QHD43415.1:p.110H>Q; QHD43415.1:p.110-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.330caT>caA; c.330caT>caW
-857	C	CT													0.008					0.008	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.198L>F	missense_variant	MODERATE	c.592Ctt>Ttt
-875	C	CT								0.011										0.011	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.204L>F	missense_variant	MODERATE	c.610Ctt>Ttt
-1166	C	CG					0.386													0.386	1	0	CG		0.0	0.0	0.0	179.0					
-1440	G	GA		1.0	1.0	1.0		1.0	1.0		1.0			1.0		1.0	1.0	1.0		1.0	10	10	GA	GA	20.0	0.0	159.0	0.0	orf1ab	QHD43415.1:p.392G>D; QHD43415.1:p.392-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.1175gGc>gAc; c.1175gGc>gRc
-1767	A	AT													0.029					0.029	1	0	AT		179.0	0.0	0.0	0.0					
-1850	A	AT					0.009													0.009	1	0	AT		179.0	0.0	0.0	0.0					
-2173	G	GA								0.008										0.008	1	0	GA		0.0	0.0	179.0	0.0	orf1ab	QHD43415.1:p.636K	synonymous_variant	LOW	c.1908aaG>aaA
-2696	A	AT	0.013																	0.013	1	0	AT		179.0	0.0	0.0	0.0					
-2891	G	GA		1.0	0.958			1.0	1.0		1.0			1.0		1.0	1.0	0.96		0.991	9	9	GA	GA	20.0	0.0	159.0	0.0	orf1ab	QHD43415.1:p.876A>T; QHD43415.1:p.876-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.2626Gca>Aca; c.2626Gca>Rca
-3037	C	CT										1.0								1.0	1	1	CT	CT	0.0	146.0	0.0	31.0	orf1ab	QHD43415.1:p.924F; QHD43415.1:p.924-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.2772ttC>ttT; c.2772ttC>ttY
-3158	A	AC											0.008							0.008	1	0	AC		179.0	0.0	0.0	0.0					
-3530	G	GT																	0.007	0.007	1	0	GT		0.0	0.0	179.0	0.0	orf1ab	QHD43415.1:p.1089D>Y	missense_variant	MODERATE	c.3265Gat>Tat
-3632	A	AG										0.405								0.405	1	0	AG		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.1123N>D	missense_variant	MODERATE	c.3367Aac>Gac
-3988	A	AC																	0.016	0.016	1	0	AC		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.1241T	synonymous_variant	LOW	c.3723acA>acG
-4123	A	AG	0.129																	0.129	1	0	AG		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.1286I>M	missense_variant	MODERATE	c.3858atA>atG
-4223	G	GC											0.12							0.12	1	0	GC		0.0	0.0	179.0	0.0					
-4655	C	CT		0.235				1.0			0.95			1.0		0.412	0.139			0.623	6	3	CT	CT	0.0	4.0	0.0	173.0	orf1ab	QHD43415.1:p.1464R>W	missense_variant	MODERATE	c.4390Cgg>Tgg
-4802	G	GA																0.138		0.138	1	0	GA		0.0	0.0	177.0	0.0					
-5742	A	AT					0.005													0.005	1	0	AT		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.1826E>V	missense_variant	MODERATE	c.5477gAg>gTg
-5879	A	AC											0.038							0.038	1	0	AC		179.0	0.0	0.0	0.0					
-5915	T	TC	0.013																	0.013	1	0	TC		0.0	179.0	0.0	0.0					
-6331	A	AC					0.007													0.007	1	0	AC		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.2022S	synonymous_variant	LOW	c.6066tcA>tcG
-6502	A	AT					0.008													0.008	1	0	AT		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.2079P	synonymous_variant	LOW	c.6237ccA>ccG
-6762	C	CT								0.005										0.005	1	0	CT	CT	0.0	1.0	0.0	178.0	orf1ab	QHD43415.1:p.2166T>I	missense_variant	MODERATE	c.6497aCt>aTt
-7212	G	GT																	0.025	0.025	1	0	GT		0.0	0.0	177.0	0.0					
-7347	A	AT																	0.328	0.328	1	0	AT		179.0	0.0	0.0	0.0					
-7798	G	GT							1.0											1.0	1	1	GT	GT	0.0	1.0	178.0	0.0	orf1ab	QHD43415.1:p.2511K>N	missense_variant	MODERATE	c.7533aaG>aaT
-7861	T	TA					0.009													0.009	1	0	TA		0.0	179.0	0.0	0.0					
-8329	T	TC													0.038					0.038	1	0	TC		0.0	179.0	0.0	0.0	orf1ab	QHD43415.1:p.2688L	synonymous_variant	LOW	c.8064ctT>ctA; c.8064ctT>ctG
-8422	G	GA									1.0			1.0						1.0	2	2	GA	GA	2.0	0.0	177.0	0.0	orf1ab	QHD43415.1:p.2719M>I; QHD43415.1:p.2719-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.8157atG>atA; c.8157atG>atR
-8470	G	GA					0.008													0.008	1	0	GA		0.0	0.0	179.0	0.0	orf1ab	QHD43415.1:p.2735K>N	missense_variant	MODERATE	c.8205aaG>aaT
-8621	A	AG								0.008										0.008	1	0	AG		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.2786I>F; QHD43415.1:p.2786-; QHD43415.1:p.2786I>V	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.8356Att>Ttt; c.8356Att>Wtt; c.8356Att>Gtt
-8726	G	GT					0.006													0.006	1	0	GT		0.0	0.0	179.0	0.0	orf1ab	QHD43415.1:p.2821-	coding_sequence_variant	MODIFIER	c.8461Gca>Rca
-9364	A	AC					0.022													0.022	1	0	AC		179.0	0.0	0.0	0.0					
-9503	T	TC													0.006					0.006	1	0	TC		0.0	179.0	0.0	0.0					
-9655	T	TC	1.0																	1.0	1	1	TC		0.0	179.0	0.0	0.0					
-9944	A	AC													0.008					0.008	1	0	AC		179.0	0.0	0.0	0.0					
-10033	T	TC					0.007													0.007	1	0	TC		0.0	179.0	0.0	0.0	orf1ab	QHD43415.1:p.3256S	synonymous_variant	LOW	c.9768tcT>tcC
-11083	G	GT	0.025				0.006													0.016	2	0	GT	GT	0.0	11.0	165.0	0.0	orf1ab	QHD43415.1:p.3606L; QHD43415.1:p.3606L>F; QHD43415.1:p.3606-	synonymous_variant; missense_variant; coding_sequence_variant	LOW; MODERATE; MODIFIER	c.10818ttG>ttA; c.10818ttG>ttT; c.10818ttG>ttC; c.10818ttG>ttK
-11239	T	TC	0.141																	0.141	1	0	TC		0.0	179.0	0.0	0.0					
-11464	G	GA											0.026							0.026	1	0	GA		0.0	0.0	179.0	0.0	orf1ab	QHD43415.1:p.3733M>I	missense_variant	MODERATE	c.11199atG>atA; c.11199atG>atT
-11572	C	CT	0.08																	0.08	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.3769F	synonymous_variant	LOW	c.11307ttC>ttT
-11669	C	CT																	0.035	0.035	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.3802-	coding_sequence_variant	MODIFIER	c.11404Cgc>Ygc
-11824	C	CT																	0.006	0.006	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.3853I	synonymous_variant	LOW	c.11559atC>atT
-11943	A	AG																	0.552	0.552	1	0	AG		179.0	0.0	0.0	0.0					
-13494	T	TC						1.0												1.0	1	1	TC	TC	0.0	177.0	0.0	1.0					
-13501	C	CT																	0.005	0.005	1	0	CT		0.0	0.0	0.0	178.0	orf1ab	QHD43415.1:p.4413P>S; QHD43415.1:p.4413-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.13237Ccg>Tcg; c.13237Ccg>Ycg
-13805	A	AG	0.011																	0.011	1	0	AG		179.0	0.0	0.0	0.0					
-14084	A	AG					0.005													0.005	1	0	AG		179.0	0.0	0.0	0.0					
-14408	C	CT										1.0								1.0	1	1	CT	CT	0.0	137.0	0.0	40.0	orf1ab	QHD43415.1:p.4715P>H; QHD43415.1:p.4715P>L; QHD43415.1:p.4715-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.14144cCt>cAt; c.14144cCt>cTt; c.14144cCt>cYt
-14713	T	TA													0.009					0.009	1	0	TA		0.0	179.0	0.0	0.0					
-15009	T	TC											0.006							0.006	1	0	TC		0.0	179.0	0.0	0.0					
-15017	C	CT																	0.01	0.01	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.4918A>V; QHD43415.1:p.4918-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.14753gCa>gTa; c.14753gCa>gYa
-15025	G	GT	0.025																	0.025	1	0	GT		0.0	0.0	179.0	0.0	orf1ab	QHD43415.1:p.4921-	coding_sequence_variant	MODIFIER	c.14761Gca>Kca
-15345	A	AC	0.008																	0.008	1	0	AC		179.0	0.0	0.0	0.0					
-16060	A	AT	0.006																	0.006	1	0	AT		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.5266N>D	missense_variant	MODERATE	c.15796Aat>Gat
-16456	T	TG								0.011										0.011	1	0	TG		0.0	179.0	0.0	0.0	orf1ab	QHD43415.1:p.5398S>T; QHD43415.1:p.5398S>P; QHD43415.1:p.5398S>A; QHD43415.1:p.5398-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.16192Tca>Aca; c.16192Tca>Cca; c.16192Tca>Gca; c.16192Tca>Yca
-16458	A	AC					0.007													0.007	1	0	AC		179.0	0.0	0.0	0.0					
-16622	G	GA					0.012													0.012	1	0	GA		0.0	0.0	179.0	0.0	orf1ab	QHD43415.1:p.5453R>K	missense_variant	MODERATE	c.16358aGa>aAa
-16900	G	GA											0.891							0.891	1	0	GA		0.0	0.0	179.0	0.0					
-16954	C	CT														0.221				0.221	1	0	CT		0.0	0.0	0.0	179.0					
-16989	C	CT	0.028																	0.028	1	0	CT		0.0	0.0	0.0	179.0					
-17013	A	AC																	0.005	0.005	1	0	AC		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.5583S	synonymous_variant	LOW	c.16749tcA>tcT
-17105	A	AT	1.0																	1.0	1	1	AT		179.0	0.0	0.0	0.0	orf1ab	QHD43415.1:p.5614H>R	missense_variant	MODERATE	c.16841cAt>cGt
-17172	C	CT	1.0																	1.0	1	1	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.5636A; QHD43415.1:p.5636-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.16908gcC>gcA; c.16908gcC>gcY
-17478	G	GA					0.006													0.006	1	0	GA		0.0	0.0	179.0	0.0					
-17539	G	GA																	1.0	1.0	1	1	GA		0.0	0.0	179.0	0.0					
-17637	A	AC					0.012													0.012	1	0	AC		179.0	0.0	0.0	0.0					
-18227	A	AG													0.021					0.021	1	0	AG		179.0	0.0	0.0	0.0					
-18261	C	CT					0.011													0.011	1	0	CT		0.0	0.0	0.0	179.0	orf1ab	QHD43415.1:p.5999I	synonymous_variant	LOW	c.17997atC>atT
-20013	A	AT								0.01										0.01	1	0	AT		179.0	0.0	0.0	0.0					
-20141	C	CA	0.006																	0.006	1	0	CA		0.0	0.0	0.0	179.0					
-21784	T	TA																	0.012	0.012	1	0	TA		0.0	179.0	0.0	0.0	S	QHD43416.1:p.74N>K; QHD43416.1:p.74N	missense_variant; synonymous_variant	MODERATE; LOW	c.222aaT>aaA; c.222aaT>aaC
-22323	C	CT		0.231				1.0			1.0			1.0		0.645		0.167		0.674	6	3	CT	CT	0.0	3.0	0.0	175.0	S	QHD43416.1:p.254S>F; QHD43416.1:p.254-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.761tCt>tTt; c.761tCt>tYt
-22550	C	CT	0.077																	0.077	1	0	CT		0.0	0.0	0.0	179.0	S	QHD43416.1:p.330P>S	missense_variant	MODERATE	c.988Cct>Tct
-23400	A	AG	0.013																	0.013	1	0	AG		179.0	0.0	0.0	0.0					
-23403	A	AG										1.0								1.0	1	1	AG	AG	31.0	0.0	146.0	0.0	S	QHD43416.1:p.614-; QHD43416.1:p.614D>G	coding_sequence_variant; missense_variant	MODIFIER; MODERATE	c.1841gAt>gRt; c.1841gAt>gGt
-23525	C	CT	0.105																	0.105	1	0	CT		0.0	0.0	0.0	179.0	S	QHD43416.1:p.655H>Y; QHD43416.1:p.655-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.1963Cat>Tat; c.1963Cat>Yat
-23606	C	CT					0.031								0.682					0.357	2	0	CT		0.0	0.0	0.0	179.0	S	QHD43416.1:p.682R>W; QHD43416.1:p.682-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.2044Cgg>Tgg; c.2044Cgg>Ygg
-23610	G	GT					0.005													0.005	1	0	GT		0.0	0.0	179.0	0.0	S	QHD43416.1:p.683R>Q; QHD43416.1:p.683R>P	missense_variant	MODERATE	c.2048cGg>cAg; c.2048cGg>cCg
-23983	A	AT													0.008					0.008	1	0	AT		179.0	0.0	0.0	0.0					
-24137	A	AG													0.026					0.026	1	0	AG		179.0	0.0	0.0	0.0					
-24374	C	CT					0.007													0.007	1	0	CT	CT	0.0	1.0	0.0	178.0	S	QHD43416.1:p.938L>F	missense_variant	MODERATE	c.2812Ctt>Ttt
-24539	A	AG								0.83										0.83	1	0	AG		179.0	0.0	0.0	0.0					
-24858	G	GA					0.006						0.005						0.006	0.006	3	0	GA		0.0	0.0	179.0	0.0	S	QHD43416.1:p.1099G>D	missense_variant	MODERATE	c.3296gGc>gAc
-24862	A	AC	0.072																	0.072	1	0	AC	AG	176.0	0.0	3.0	0.0	S	QHD43416.1:p.1100-; QHD43416.1:p.1100T	coding_sequence_variant; synonymous_variant	MODIFIER; LOW	c.3300acA>acR; c.3300acA>acG
-25045	A	AC					0.005													0.005	1	0	AC		179.0	0.0	0.0	0.0					
-25426	A	AG	0.132																	0.132	1	0	AG		179.0	0.0	0.0	0.0					
-25975	T	TC												0.196						0.196	1	0	TC		0.0	178.0	0.0	0.0	ORF3a	QHD43417.1:p.195-	coding_sequence_variant	MODIFIER	c.583Tct>Kct
-26087	T	TC	0.005																	0.005	1	0	TC		0.0	179.0	0.0	0.0					
-26323	T	TG								0.026										0.026	1	0	TG		0.0	179.0	0.0	0.0					
-26542	C	CT													0.005					0.005	1	0	CT		0.0	0.0	0.0	179.0	M	QHD43419.1:p.7T>N; QHD43419.1:p.7T>I	missense_variant	MODERATE	c.20aCt>aAt; c.20aCt>aTt
-26601	C	CT																	0.006	0.006	1	0	CT		0.0	0.0	0.0	179.0	M	QHD43419.1:p.27L	synonymous_variant	LOW	c.79Cta>Tta
-26781	C	CT								0.044										0.044	1	0	CT		0.0	0.0	0.0	179.0	M	QHD43419.1:p.87L>F	missense_variant	MODERATE	c.259Ctt>Ttt
-26833	C	CT	0.013																	0.013	1	0	CT		0.0	0.0	0.0	179.0	M	QHD43419.1:p.104A>V; QHD43419.1:p.104-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.311gCg>gTg; c.311gCg>gYg
-26873	C	CT													0.006					0.006	1	0	CT		0.0	0.0	0.0	179.0	M	QHD43419.1:p.117N; QHD43419.1:p.117-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.351aaC>aaT; c.351aaC>aaY
-26898	G	GA	0.288																	0.288	1	0	GA		0.0	0.0	178.0	0.0	M	QHD43419.1:p.126G>S	missense_variant	MODERATE	c.376Ggc>Agc
-27046	C	CT										1.0								1.0	1	1	CT	CT	0.0	21.0	0.0	157.0	M	QHD43419.1:p.175T>M; QHD43419.1:p.175-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.524aCg>aTg; c.524aCg>aYg
-27104	T	TC					0.012													0.012	1	0	TC		0.0	178.0	0.0	0.0					
-27384	T	TC											0.013							0.013	1	0	TC		0.0	179.0	0.0	0.0	ORF6	QHD43420.1:p.61D; QHD43420.1:p.61-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.183gaT>gaC; c.183gaT>gaY
-27835	T	TC	0.157																	0.157	1	0	TC		0.0	179.0	0.0	0.0					
-27865	A	AC													0.018					0.018	1	0	AC		179.0	0.0	0.0	0.0					
-28100	A	AT					0.006													0.006	1	0	AT		179.0	0.0	0.0	0.0					
-29160	C	CT	0.008																	0.008	1	0	CT		0.0	0.0	0.0	179.0	N	QHD43423.2:p.296T>I	missense_variant	MODERATE	c.887aCt>aTt
-29258	A	AG	0.005																	0.005	1	0	AG		179.0	0.0	0.0	0.0					
-29266	G	GA	0.005																	0.005	1	0	GA		0.0	0.0	179.0	0.0	N	QHD43423.2:p.331L>F; QHD43423.2:p.331-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.993ttG>ttT; c.993ttG>ttK
-29441	C	CG	0.014																	0.014	1	0	CG		0.0	0.0	0.0	179.0	N	QHD43423.2:p.390Q>K; QHD43423.2:p.390Q>E	missense_variant	MODERATE	c.1168Caa>Aaa; c.1168Caa>Gaa
-29451	C	CT					0.005													0.005	1	0	CT		0.0	0.0	0.0	179.0	N	QHD43423.2:p.393T>I	missense_variant	MODERATE	c.1178aCt>aTt
-29546	C	CA									1.0			1.0						1.0	2	2	CA	CA	2.0	0.0	0.0	177.0	Intergenic	QHI42199.1	upstream_gene_variant	MODIFIER,DISTANCE=12	
-29659	C	CT			0.167															0.167	1	0	CT		0.0	0.0	0.0	179.0	ORF10	QHI42199.1:p.34N	synonymous_variant	LOW	c.102aaC>aaT
-29671	A	AT					0.006													0.006	1	0	AT		170.0	0.0	0.0	0.0	ORF10	QHI42199.1:p.38-	coding_sequence_variant	MODIFIER	c.114acA>acW
-29890	A	AG	0.006																	0.006	1	0	AG		0.0	0.0	0.0	0.0	3'UTR		intergenic_variant	MODIFIER	
+Position	Reference	Sub	SRX8004776	SRX8004777	SRX8004775	SRX8160318	SRX8160319	SRX8160309	SRX8160320	SRX8160310	SRX8160312	SRX8160313	SRX8160317	SRX8160316	SRX8160314	SRX8160315	SRX8004780	SRX8004779	SRX8004778	Avg	Count	Count (>= 0.8)	Editing Sub	Gene	Amino acids change	Annotation Type	Calculated variant consequences	Variation Codons
+1440	G	GA				1.0	1.0	1.0		1.0	1.0	1.0	1.0	1.0	1.0	1.0				1.0	10	10	GA	orf1ab	QHD43415.1:p.392G>D; QHD43415.1:p.392G>V; QHD43415.1:p.392-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.1175gGc>gAc; c.1175gGc>gTc; c.1175gGc>gRc
+2891	G	GA					1.0	1.0		1.0	0.96	1.0	1.0	1.0	1.0	0.958				0.991	9	9	GA	orf1ab	QHD43415.1:p.876A>T; QHD43415.1:p.876A>S; QHD43415.1:p.876-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.2626Gca>Aca; c.2626Gca>Tca; c.2626Gca>Rca
+22323	C	CT						1.0			0.167	0.645	1.0	1.0	0.231					0.674	6	3	CT	S	QHD43416.1:p.254S>F; QHD43416.1:p.254-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.761tCt>tTt; c.761tCt>tYt
+4655	C	CT						1.0		0.139		0.412	0.95	1.0	0.235					0.623	6	3	CT	orf1ab	QHD43415.1:p.1464R; QHD43415.1:p.1464R>W; QHD43415.1:p.1464-	synonymous_variant; missense_variant; coding_sequence_variant	LOW; MODERATE; MODIFIER	c.4390Cgg>Agg; c.4390Cgg>Tgg; c.4390Cgg>Ygg
+97	A	AG	0.998															1.0	0.006	0.668	3	2	AG	5'UTR		intergenic_variant	MODIFIER	
+111	T	TC	0.999															1.0	0.007	0.669	3	2	TC	5'UTR		intergenic_variant	MODIFIER	
+120	T	TC	0.998															1.0	0.006	0.668	3	2	TC	5'UTR		intergenic_variant	MODIFIER	
+121	C	CT	0.999															1.0	0.005	0.668	3	2	CT	5'UTR		intergenic_variant	MODIFIER	
+24858	G	GA	0.006														0.006		0.005	0.006	3	0	GA	S	QHD43416.1:p.1099G>D	missense_variant	MODERATE	c.3296gGc>gAc
+90	G	GA	0.998															1.0	0.006	0.668	3	2	GA	5'UTR		intergenic_variant	MODIFIER	
+23606	C	CT	0.031	0.682																0.357	2	0	CT	S	QHD43416.1:p.682R>W; QHD43416.1:p.682-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.2044Cgg>Tgg; c.2044Cgg>Ygg
+11083	G	GT	0.006															0.025		0.016	2	0	GT	orf1ab	QHD43415.1:p.3606-; QHD43415.1:p.3606L; QHD43415.1:p.3606L>F	coding_sequence_variant; synonymous_variant; missense_variant	MODIFIER; LOW; MODERATE	c.10818ttG>ttS; c.10818ttG>ttA; c.10818ttG>ttT; c.10818ttG>ttC; c.10818ttG>ttK
+8422	G	GA						1.0					1.0							1.0	2	2	GA	orf1ab	QHD43415.1:p.2719M>I; QHD43415.1:p.2719-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.8157atG>atA; c.8157atG>atR
+29546	C	CA						1.0					1.0							1.0	2	2	CA	Intergenic	QHI42199.1	upstream_gene_variant	MODIFIER,DISTANCE=12	
+23525	C	CT																0.105		0.105	1	0	CT	S	QHD43416.1:p.655H>Y; QHD43416.1:p.655-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.1963Cat>Tat; c.1963Cat>Yat
+23403	A	AG							1.0											1.0	1	1	AG	S	QHD43416.1:p.614D>A; QHD43416.1:p.614-; QHD43416.1:p.614D>G	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.1841gAt>gCt; c.1841gAt>gRt; c.1841gAt>gGt
+23400	A	AG																0.013		0.013	1	0	AG	S	QHD43416.1:p.613-	coding_sequence_variant	MODIFIER	c.1838cAg>cRg
+20013	A	AT			0.01															0.01	1	0	AT	orf1ab	QHD43415.1:p.6583V	synonymous_variant	LOW	c.19749gtA>gtG
+22550	C	CT																0.077		0.077	1	0	CT	S	QHD43416.1:p.330P>S; QHD43416.1:p.330P>A; QHD43416.1:p.330-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.988Cct>Tct; c.988Cct>Gct; c.988Cct>Yct
+21784	T	TA															0.012			0.012	1	0	TA	S	QHD43416.1:p.74N>K; QHD43416.1:p.74N	missense_variant; synonymous_variant	MODERATE; LOW	c.222aaT>aaA; c.222aaT>aaC
+23610	G	GT	0.005																	0.005	1	0	GT	S	QHD43416.1:p.683R>Q; QHD43416.1:p.683R>P	missense_variant	MODERATE	c.2048cGg>cAg; c.2048cGg>cCg
+20141	C	CA																0.006		0.006	1	0	CA					
+75	C	CT																0.006		0.006	1	0	CT	5'UTR		intergenic_variant	MODIFIER	
+17637	A	AC	0.012																	0.012	1	0	AC	orf1ab	QHD43415.1:p.5791K>N; QHD43415.1:p.5791K	missense_variant; synonymous_variant	MODERATE; LOW	c.17373aaA>aaC; c.17373aaA>aaG
+18261	C	CT	0.011																	0.011	1	0	CT	orf1ab	QHD43415.1:p.5999I; QHD43415.1:p.5999-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.17997atC>atT; c.17997atC>atY
+18227	A	AG		0.021																0.021	1	0	AG	orf1ab	QHD43415.1:p.5988N>T	missense_variant	MODERATE	c.17963aAt>aCt
+24137	A	AG		0.026																0.026	1	0	AG					
+17539	G	GA															1.0			1.0	1	1	GA	orf1ab	QHD43415.1:p.5759D>N; QHD43415.1:p.5759D>Y	missense_variant	MODERATE	c.17275Gac>Aac; c.17275Gac>Tac
+17478	G	GA	0.006																	0.006	1	0	GA					
+17172	C	CT																1.0		1.0	1	1	CT	orf1ab	QHD43415.1:p.5636A; QHD43415.1:p.5636-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.16908gcC>gcA; c.16908gcC>gcT; c.16908gcC>gcY
+17105	A	AT																1.0		1.0	1	1	AT	orf1ab	QHD43415.1:p.5614H>R	missense_variant	MODERATE	c.16841cAt>cGt
+17013	A	AC															0.005			0.005	1	0	AC	orf1ab	QHD43415.1:p.5583S	synonymous_variant	LOW	c.16749tcA>tcT
+16989	C	CT																0.028		0.028	1	0	CT	orf1ab	QHD43415.1:p.5575G	synonymous_variant	LOW	c.16725ggC>ggT
+16954	C	CT										0.221								0.221	1	0	CT	orf1ab	QHD43415.1:p.5564L>I; QHD43415.1:p.5564L; QHD43415.1:p.5564-	missense_variant; synonymous_variant; coding_sequence_variant	MODERATE; LOW; MODIFIER	c.16690Cta>Ata; c.16690Cta>Tta; c.16690Cta>Yta
+16900	G	GA																	0.891	0.891	1	1	GA	orf1ab	QHD43415.1:p.5546G>S; QHD43415.1:p.5546G>C; QHD43415.1:p.5546G>R	missense_variant	MODERATE	c.16636Ggt>Agt; c.16636Ggt>Tgt; c.16636Ggt>Cgt
+16622	G	GA	0.012																	0.012	1	0	GA	orf1ab	QHD43415.1:p.5453R>K; QHD43415.1:p.5453-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.16358aGa>aAa; c.16358aGa>aRa
+16458	A	AC	0.007																	0.007	1	0	AC					
+23983	A	AT		0.008																0.008	1	0	AT					
+25045	A	AC	0.005																	0.005	1	0	AC					
+24374	C	CT	0.007																	0.007	1	0	CT	S	QHD43416.1:p.938L>I; QHD43416.1:p.938L>F; QHD43416.1:p.938L>LX; QHD43416.1:p.938-	missense_variant; frameshift_variant; coding_sequence_variant	MODERATE; HIGH; MODIFIER	c.2812Ctt>Att; c.2812Ctt>Ttt; c.2812Ctt>CTtt; c.2812Ctt>Ytt
+24539	A	AG			0.83															0.83	1	1	AG	S	QHD43416.1:p.993I>V	missense_variant	MODERATE	c.2977Att>Gtt
+29671	A	AT	0.006																	0.006	1	0	AT	ORF10	QHI42199.1:p.38-	coding_sequence_variant	MODIFIER	c.114acA>acW
+29659	C	CT														0.167				0.167	1	0	CT	ORF10	QHI42199.1:p.34N; QHI42199.1:p.34-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.102aaC>aaT; c.102aaC>aaY
+29451	C	CT	0.005																	0.005	1	0	CT	N	QHD43423.2:p.393T>I; QHD43423.2:p.393T>TL	missense_variant; inframe_insertion	MODERATE	c.1178aCt>aTt; c.1178aCt>aCTCTt
+29441	C	CG																0.014		0.014	1	0	CG	N	QHD43423.2:p.390Q>K; QHD43423.2:p.390-; QHD43423.2:p.390Q>E	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.1168Caa>Aaa; c.1168Caa>Maa; c.1168Caa>Gaa
+29266	G	GA																0.005		0.005	1	0	GA	N	QHD43423.2:p.331L; QHD43423.2:p.331L>F; QHD43423.2:p.331-	synonymous_variant; missense_variant; coding_sequence_variant	LOW; MODERATE; MODIFIER	c.993ttG>ttA; c.993ttG>ttT; c.993ttG>ttK
+29258	A	AG																0.005		0.005	1	0	AG					
+29160	C	CT																0.008		0.008	1	0	CT	N	QHD43423.2:p.296T>I; QHD43423.2:p.296-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.887aCt>aTt; c.887aCt>aYt
+28100	A	AT	0.006																	0.006	1	0	AT	ORF8	QHD43422.1:p.69S	synonymous_variant	LOW	c.207tcA>tcG
+27865	A	AC		0.018																0.018	1	0	AC	Intergenic	QHD43422.1	upstream_gene_variant	MODIFIER,DISTANCE=29	
+27835	T	TC																0.157		0.157	1	0	TC	Intergenic	QHD43422.1	upstream_gene_variant	MODIFIER,DISTANCE=59	
+27384	T	TC																	0.013	0.013	1	0	TC	ORF6	QHD43420.1:p.61D; QHD43420.1:p.61-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.183gaT>gaC; c.183gaT>gaY
+27104	T	TC	0.012																	0.012	1	0	TC	M	QHD43419.1:p.194A	synonymous_variant	LOW	c.582gcT>gcC
+27046	C	CT							1.0											1.0	1	1	CT	M	QHD43419.1:p.175T>M; QHD43419.1:p.175-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.524aCg>aTg; c.524aCg>aYg
+26898	G	GA																0.288		0.288	1	0	GA	M	QHD43419.1:p.126G>S; QHD43419.1:p.126-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.376Ggc>Agc; c.376Ggc>Kgc
+26873	C	CT		0.006																0.006	1	0	CT	M	QHD43419.1:p.117N; QHD43419.1:p.117-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.351aaC>aaT; c.351aaC>aaY
+26833	C	CT																0.013		0.013	1	0	CT	M	QHD43419.1:p.104A>V; QHD43419.1:p.104-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.311gCg>gTg; c.311gCg>gYg
+26781	C	CT			0.044															0.044	1	0	CT	M	QHD43419.1:p.87L>F	missense_variant	MODERATE	c.259Ctt>Ttt
+26601	C	CT															0.006			0.006	1	0	CT	M	QHD43419.1:p.27-; QHD43419.1:p.27L	coding_sequence_variant; synonymous_variant	MODIFIER; LOW	c.79Cta>Mta; c.79Cta>Tta
+26542	C	CT		0.005																0.005	1	0	CT	M	QHD43419.1:p.7T>N; QHD43419.1:p.7T>I	missense_variant	MODERATE	c.20aCt>aAt; c.20aCt>aTt
+26323	T	TG			0.026															0.026	1	0	TG					
+26087	T	TC																0.005		0.005	1	0	TC					
+25975	T	TC						0.196												0.196	1	0	TC	ORF3a	QHD43417.1:p.195S>P; QHD43417.1:p.195-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.583Tct>Cct; c.583Tct>Kct
+25426	A	AG																0.132		0.132	1	0	AG	ORF3a	QHD43417.1:p.12T>P	missense_variant	MODERATE	c.34Act>Cct
+16060	A	AT																0.006		0.006	1	0	AT	orf1ab	QHD43415.1:p.5266N>D	missense_variant	MODERATE	c.15796Aat>Gat
+24862	A	AC																0.072		0.072	1	0	AC	S	QHD43416.1:p.1100T; QHD43416.1:p.1100-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.3300acA>acT; c.3300acA>acR; c.3300acA>acG
+16456	T	TG			0.011															0.011	1	0	TG	orf1ab	QHD43415.1:p.5398S>T; QHD43415.1:p.5398S>P; QHD43415.1:p.5398-; QHD43415.1:p.5398S>A	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.16192Tca>Aca; c.16192Tca>Cca; c.16192Tca>Kca; c.16192Tca>Gca; c.16192Tca>Yca
+14713	T	TA		0.009																0.009	1	0	TA					
+15345	A	AC																0.008		0.008	1	0	AC					
+15025	G	GT																0.025		0.025	1	0	GT	orf1ab	QHD43415.1:p.4921A>T; QHD43415.1:p.4921A>S; QHD43415.1:p.4921-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.14761Gca>Aca; c.14761Gca>Tca; c.14761Gca>Kca
+6331	A	AC	0.007																	0.007	1	0	AC	orf1ab	QHD43415.1:p.2022S	synonymous_variant	LOW	c.6066tcA>tcG
+5915	T	TC																0.013		0.013	1	0	TC	orf1ab	QHD43415.1:p.1884L	synonymous_variant	LOW	c.5650Ttg>Ctg
+5879	A	AC																	0.038	0.038	1	0	AC	orf1ab	QHD43415.1:p.1872-	coding_sequence_variant	MODIFIER	c.5614Agt>Rgt
+5742	A	AT	0.005																	0.005	1	0	AT	orf1ab	QHD43415.1:p.1826E>V; QHD43415.1:p.1826E>A; QHD43415.1:p.1826E>G	missense_variant	MODERATE	c.5477gAg>gTg; c.5477gAg>gCg; c.5477gAg>gGg
+4802	G	GA									0.138									0.138	1	0	GA					
+4223	G	GC																	0.12	0.12	1	0	GC	orf1ab	QHD43415.1:p.1320V>L	missense_variant	MODERATE	c.3958Gtg>Ttg
+4123	A	AG																0.129		0.129	1	0	AG	orf1ab	QHD43415.1:p.1286I>M	missense_variant	MODERATE	c.3858atA>atG
+3988	A	AC															0.016			0.016	1	0	AC	orf1ab	QHD43415.1:p.1241T	synonymous_variant	LOW	c.3723acA>acG
+3632	A	AG							0.405											0.405	1	0	AG	orf1ab	QHD43415.1:p.1123-; QHD43415.1:p.1123N>D	coding_sequence_variant; missense_variant	MODIFIER; MODERATE	c.3367Aac>Rac; c.3367Aac>Gac
+3530	G	GT															0.007			0.007	1	0	GT	orf1ab	QHD43415.1:p.1089D>Y; QHD43415.1:p.1089D>H; QHD43415.1:p.1089-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.3265Gat>Tat; c.3265Gat>Cat; c.3265Gat>Kat
+3158	A	AC																	0.008	0.008	1	0	AC					
+3037	C	CT							1.0											1.0	1	1	CT	orf1ab	QHD43415.1:p.924F; QHD43415.1:p.924-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.2772ttC>ttT; c.2772ttC>ttK; c.2772ttC>ttY
+2696	A	AT																0.013		0.013	1	0	AT					
+2173	G	GA			0.008															0.008	1	0	GA	orf1ab	QHD43415.1:p.636K; QHD43415.1:p.636K>N	synonymous_variant; missense_variant	LOW; MODERATE	c.1908aaG>aaA; c.1908aaG>aaT
+1850	A	AT	0.009																	0.009	1	0	AT	orf1ab	QHD43415.1:p.529I>V	missense_variant	MODERATE	c.1585Ata>Gta
+1767	A	AT		0.029																0.029	1	0	AT	orf1ab	QHD43415.1:p.501Q>R	missense_variant	MODERATE	c.1502cAa>cGa
+1166	C	CG	0.386																	0.386	1	0	CG					
+875	C	CT			0.011															0.011	1	0	CT	orf1ab	QHD43415.1:p.204L>I; QHD43415.1:p.204L>F; QHD43415.1:p.204-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.610Ctt>Att; c.610Ctt>Ttt; c.610Ctt>Ytt
+857	C	CT		0.008																0.008	1	0	CT	orf1ab	QHD43415.1:p.198L>F	missense_variant	MODERATE	c.592Ctt>Ttt
+595	T	TG	0.304																	0.304	1	0	TG	orf1ab	QHD43415.1:p.110H>Q; QHD43415.1:p.110-; QHD43415.1:p.110H	missense_variant; coding_sequence_variant; synonymous_variant	MODERATE; MODIFIER; LOW	c.330caT>caA; c.330caT>caW; c.330caT>caC; c.330caT>caG
+463	G	GA																	0.008	0.008	1	0	GA	orf1ab	QHD43415.1:p.66Q; QHD43415.1:p.66Q>H; QHD43415.1:p.66-	synonymous_variant; missense_variant; coding_sequence_variant	LOW; MODERATE; MODIFIER	c.198caG>caA; c.198caG>caT; c.198caG>caR
+346	C	CT	0.006																	0.006	1	0	CT	orf1ab	QHD43415.1:p.27L; QHD43415.1:p.27-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.81ctC>ctT; c.81ctC>ctY
+302	C	CT																	0.007	0.007	1	0	CT	orf1ab	QHD43415.1:p.13H>Y	missense_variant	MODERATE	c.37Cac>Tac
+241	C	CT							1.0											1.0	1	1	CT	5'UTR	QHD43415.1	upstream_gene_variant	MODIFIER,DISTANCE=24	
+106	C	CA	0.005																	0.005	1	0	CA	5'UTR		intergenic_variant	MODIFIER	
+6502	A	AT	0.008																	0.008	1	0	AT	orf1ab	QHD43415.1:p.2079P	synonymous_variant	LOW	c.6237ccA>ccG
+6762	C	CT			0.005															0.005	1	0	CT	orf1ab	QHD43415.1:p.2166T>I; QHD43415.1:p.2166-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.6497aCt>aTt; c.6497aCt>aYt
+7212	G	GT															0.025			0.025	1	0	GT					
+11464	G	GA																	0.026	0.026	1	0	GA	orf1ab	QHD43415.1:p.3733M>I	missense_variant	MODERATE	c.11199atG>atA; c.11199atG>atT
+15017	C	CT															0.01			0.01	1	0	CT	orf1ab	QHD43415.1:p.4918-; QHD43415.1:p.4918A>V	coding_sequence_variant; missense_variant	MODIFIER; MODERATE	c.14753gCa>gMa; c.14753gCa>gTa; c.14753gCa>gYa
+15009	T	TC																	0.006	0.006	1	0	TC	orf1ab	QHD43415.1:p.4915D	synonymous_variant	LOW	c.14745gaT>gaC
+14408	C	CT							1.0											1.0	1	1	CT	orf1ab	QHD43415.1:p.4715P>H; QHD43415.1:p.4715P>L; QHD43415.1:p.4715-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.14144cCt>cAt; c.14144cCt>cTt; c.14144cCt>cYt
+14084	A	AG	0.005																	0.005	1	0	AG	orf1ab	QHD43415.1:p.4607-; QHD43415.1:p.4607N>S	coding_sequence_variant; missense_variant	MODIFIER; MODERATE	c.13820aAc>aRc; c.13820aAc>aGc
+13805	A	AG																0.011		0.011	1	0	AG					
+13501	C	CT															0.005			0.005	1	0	CT	orf1ab	QHD43415.1:p.4413P>S; QHD43415.1:p.4413-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.13237Ccg>Tcg; c.13237Ccg>Ycg
+13494	T	TC												1.0						1.0	1	1	TC	orf1ab	QHD43415.1:p.4410R	synonymous_variant	LOW	c.13230cgT>cgA
+11943	A	AG															0.552			0.552	1	0	AG	orf1ab	QHD43415.1:p.3893Q>L	missense_variant	MODERATE	c.11678cAg>cTg
+11824	C	CT															0.006			0.006	1	0	CT	orf1ab	QHD43415.1:p.3853I; QHD43415.1:p.3853-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.11559atC>atT; c.11559atC>atY
+11669	C	CT															0.035			0.035	1	0	CT	orf1ab	QHD43415.1:p.3802R>S; QHD43415.1:p.3802R>C; QHD43415.1:p.3802-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.11404Cgc>Agc; c.11404Cgc>Tgc; c.11404Cgc>Ygc
+11572	C	CT																0.08		0.08	1	0	CT	orf1ab	QHD43415.1:p.3769F; QHD43415.1:p.3769-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.11307ttC>ttT; c.11307ttC>ttY
+11239	T	TC																0.141		0.141	1	0	TC					
+7347	A	AT															0.328			0.328	1	0	AT	orf1ab	QHD43415.1:p.2361N>S	missense_variant	MODERATE	c.7082aAt>aGt
+10033	T	TC	0.007																	0.007	1	0	TC	orf1ab	QHD43415.1:p.3256S	synonymous_variant	LOW	c.9768tcT>tcC
+9944	A	AC		0.008																0.008	1	0	AC					
+9655	T	TC																1.0		1.0	1	1	TC					
+9503	T	TC		0.006																0.006	1	0	TC					
+9364	A	AC	0.022																	0.022	1	0	AC					
+8726	G	GT	0.006																	0.006	1	0	GT	orf1ab	QHD43415.1:p.2821A>T; QHD43415.1:p.2821A>S; QHD43415.1:p.2821-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.8461Gca>Aca; c.8461Gca>Tca; c.8461Gca>Rca
+8621	A	AG			0.008															0.008	1	0	AG	orf1ab	QHD43415.1:p.2786I>F; QHD43415.1:p.2786-; QHD43415.1:p.2786I>V	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.8356Att>Ttt; c.8356Att>Wtt; c.8356Att>Gtt
+8470	G	GA	0.008																	0.008	1	0	GA	orf1ab	QHD43415.1:p.2735K; QHD43415.1:p.2735K>N	synonymous_variant; missense_variant	LOW; MODERATE	c.8205aaG>aaA; c.8205aaG>aaT
+8329	T	TC		0.038																0.038	1	0	TC	orf1ab	QHD43415.1:p.2688L	synonymous_variant	LOW	c.8064ctT>ctA; c.8064ctT>ctG
+7861	T	TA	0.009																	0.009	1	0	TA	orf1ab	QHD43415.1:p.2532-; QHD43415.1:p.2532T	coding_sequence_variant; synonymous_variant	MODIFIER; LOW	c.7596acT>acW; c.7596acT>acG; c.7596acT>acY
+7798	G	GT					1.0													1.0	1	1	GT	orf1ab	QHD43415.1:p.2511K; QHD43415.1:p.2511K>N; QHD43415.1:p.2511-	synonymous_variant; missense_variant; coding_sequence_variant	LOW; MODERATE; MODIFIER	c.7533aaG>aaA; c.7533aaG>aaT; c.7533aaG>aaC; c.7533aaG>aaK
+29890	A	AG																0.006		0.006	1	0	AG	3'UTR		intergenic_variant	MODIFIER	
