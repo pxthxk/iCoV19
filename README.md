@@ -1,1 +1,3 @@
-# COVID19-RNA-Editing
+# iCoV19
+
+Intra-host variability in SARS-CoV-2 transcriptomes
