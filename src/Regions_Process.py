@@ -54,7 +54,7 @@ def processSample(SRXID):
 			os.system("hisat2 -x ../data/datasets/GRCh37-Assembly/GRCh37.primary_assembly.genome -1 " + SRXDir + "1-Trimmomatic/" + SRRID + "_1_paired.fastq -2 " + SRXDir + "1-Trimmomatic/" + SRRID + "_2_paired.fastq -S " + SRXDir + "3-Human-Aligned/" + SRRID + ".sam -p 16 --dta-cufflinks --summary-file " + SRXDir + "0-logs/Hisat2.log")
 
 			# Human aligned SAM to BAM.
-			os.system("samtools sort -@ 8 " + SRXDir + "3-Human-Aligned/" + SRRID + ".sam -o " + SRXDir + "3-Human-Aligned/" + SRRID + ".bam -O BAM")
+			os.system("samtools sort " + SRXDir + "3-Human-Aligned/" + SRRID + ".sam -o " + SRXDir + "3-Human-Aligned/" + SRRID + ".bam -O BAM")
 
 			# Filter out unmapped reads.
 			os.system("samtools view -u -f 4 -F 264 " + SRXDir + "3-Human-Aligned/" + SRRID + ".bam > " + SRXDir + "4-Human-Unaligned/temp1.bam")
@@ -70,7 +70,7 @@ def processSample(SRXID):
 			os.system("bwa mem ../data/datasets/NC_045512.2/NC_045512.2.fa " + SRXDir + "4-Human-Unaligned/" + SRRID + "_1.fastq " + SRXDir + "4-Human-Unaligned/" + SRRID + "_2.fastq > " + SRXDir + "5-COVID-Aligned/" + SRRID + ".sam")
 
 			# SARS-CoV-2 aligned SAM to BAM.
-			os.system("samtools sort -@ 8 " + SRXDir + "5-COVID-Aligned/" + SRRID + ".sam -o " + SRXDir + "5-COVID-Aligned/" + SRRID + ".bam -O BAM")
+			os.system("samtools sort " + SRXDir + "5-COVID-Aligned/" + SRRID + ".sam -o " + SRXDir + "5-COVID-Aligned/" + SRRID + ".bam -O BAM")
 
 			# Picard: Remove duplicates.
 			os.system("java -jar ../tools/Picard/picard.jar MarkDuplicates I=" + SRXDir + "5-COVID-Aligned/" + SRRID + ".bam O=" + SRXDir + "5-COVID-Aligned/" + SRRID + "_deduplicated.bam M=" + SRXDir + "5-COVID-Aligned/" + SRRID + "_duplicates.txt REMOVE_DUPLICATES=true USE_JDK_DEFLATER=true USE_JDK_INFLATER=true")

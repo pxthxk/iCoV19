@@ -1,0 +1,13 @@
+##fileformat=VCFv4.0
+##fileDate=20201125
+##source=jacusa-1.3.0
+##FILTER=<ID=B,Description="Filter distance to Read Start/End. Default: 6:0.5 (F:distance:min_ratio)"
+##FILTER=<ID=I,Description="Filter distance to INDEL position. Default: 6:0.5 (I:distance:min_ratio)"
+##FILTER=<ID=Y,Description="Filter wrong variant calls in the vicinity of homopolymers. Default: 7 (Y:length)"
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=BC,Number=4,Type=Integer,Description="Base counts A,C,G,T">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	../data/samples/regions/England/ERX4656494/5-COVID-Aligned/ERR4786736_deduplicated.bam
+NC_045512.2	21109	.	A	T	.	*	*	DP:BC	6:5,0,0,1	6:6,0,0,0
+NC_045512.2	23310	.	A	G	.	*	*	DP:BC	48:47,0,1,0	48:48,0,0,0
+NC_045512.2	27230	.	C	T	.	*	*	DP:BC	6:0,5,0,1	6:0,6,0,0
+NC_045512.2	27801	.	T	C	.	*	*	DP:BC	5:0,1,0,4	5:0,0,0,5
