@@ -10,7 +10,7 @@ import random
 import datetime
 from multiprocessing import Pool
 
-SRAMetadataDir = "../data/datasets/SRA/"
+SRAMetadataDir = "../data/datasets/metadata/SRA/"
 
 countryTags = ["geo_loc_name", "geographic location (country and/or sea)", "country", "Country"]
 
