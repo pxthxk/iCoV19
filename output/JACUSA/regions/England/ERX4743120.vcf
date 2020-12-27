@@ -1,0 +1,41 @@
+##fileformat=VCFv4.0
+##fileDate=20201127
+##source=jacusa-1.3.0
+##FILTER=<ID=B,Description="Filter distance to Read Start/End. Default: 6:0.5 (F:distance:min_ratio)"
+##FILTER=<ID=I,Description="Filter distance to INDEL position. Default: 6:0.5 (I:distance:min_ratio)"
+##FILTER=<ID=Y,Description="Filter wrong variant calls in the vicinity of homopolymers. Default: 7 (Y:length)"
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=BC,Number=4,Type=Integer,Description="Base counts A,C,G,T">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	../data/samples/regions/England/ERX4743120/5-COVID-Aligned/ERR4874258_deduplicated.bam
+NC_045512.2	46	.	A	G	.	*	*	DP:BC	1925:1924,0,1,0	1925:1925,0,0,0
+NC_045512.2	65	.	T	C	.	*	*	DP:BC	2044:0,1,0,2043	2044:0,0,0,2044
+NC_045512.2	66	.	C	A	.	*	*	DP:BC	2056:2,2054,0,0	2056:0,2056,0,0
+NC_045512.2	72	.	G	A	.	*	*	DP:BC	2043:162,0,1881,0	2043:0,0,2043,0
+NC_045512.2	3484	.	A	G	.	*	*	DP:BC	9:8,0,1,0	9:9,0,0,0
+NC_045512.2	4756	.	T	C	.	*	*	DP:BC	5:0,1,0,4	5:0,0,0,5
+NC_045512.2	5902	.	A	G	.	*	*	DP:BC	5:4,0,1,0	5:5,0,0,0
+NC_045512.2	6378	.	A	G	.	*	*	DP:BC	6:4,0,2,0	6:6,0,0,0
+NC_045512.2	7927	.	A	G	.	*	*	DP:BC	7:6,0,1,0	7:7,0,0,0
+NC_045512.2	8154	.	T	C	.	*	*	DP:BC	7:0,2,0,5	7:0,0,0,7
+NC_045512.2	9218	.	A	G	.	*	*	DP:BC	8:7,0,1,0	8:8,0,0,0
+NC_045512.2	9745	.	C	T	.	*	*	DP:BC	5:0,0,0,5	5:0,5,0,0
+NC_045512.2	10777	.	T	G	.	*	*	DP:BC	5:0,0,1,4	5:0,0,0,5
+NC_045512.2	11385	.	G	A	.	*	*	DP:BC	13:1,0,12,0	13:0,0,13,0
+NC_045512.2	11433	.	A	G	.	*	*	DP:BC	7:6,0,1,0	7:7,0,0,0
+NC_045512.2	11926	.	G	A	.	*	*	DP:BC	11:1,0,10,0	11:0,0,11,0
+NC_045512.2	12068	.	C	A	.	*	*	DP:BC	11:2,9,0,0	11:0,11,0,0
+NC_045512.2	12478	.	G	C	.	*	*	DP:BC	7:0,1,6,0	7:0,0,7,0
+NC_045512.2	14408	.	C	T	.	*	*	DP:BC	8:0,0,0,8	8:0,8,0,0
+NC_045512.2	14713	.	T	C	.	*	*	DP:BC	6:0,1,0,5	6:0,0,0,6
+NC_045512.2	15775	.	A	G	.	*	*	DP:BC	6:5,0,1,0	6:6,0,0,0
+NC_045512.2	16147	.	T	C	.	*	*	DP:BC	9:0,1,0,8	9:0,0,0,9
+NC_045512.2	23403	.	A	G	.	*	*	DP:BC	7:0,0,7,0	7:7,0,0,0
+NC_045512.2	24173	.	G	T	.	*	*	DP:BC	6:0,0,0,6	6:0,0,6,0
+NC_045512.2	25912	.	G	T	.	*	*	DP:BC	10:0,0,9,1	10:0,0,10,0
+NC_045512.2	26573	.	T	C	.	*	*	DP:BC	18:0,1,0,17	18:0,0,0,18
+NC_045512.2	26801	.	C	G	.	*	*	DP:BC	7:0,0,7,0	7:0,7,0,0
+NC_045512.2	26889	.	C	T	.	*	*	DP:BC	16:0,15,0,1	16:0,16,0,0
+NC_045512.2	27208	.	C	A	.	*	*	DP:BC	16:1,15,0,0	16:0,16,0,0
+NC_045512.2	27383	.	A	G	.	*	*	DP:BC	5:4,0,1,0	5:5,0,0,0
+NC_045512.2	28833	.	C	T	.	*	*	DP:BC	5:0,4,0,1	5:0,5,0,0
+NC_045512.2	29645	.	G	T	.	*	*	DP:BC	6:0,0,0,6	6:0,0,6,0

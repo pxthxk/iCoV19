@@ -1,0 +1,28 @@
+##fileformat=VCFv4.0
+##fileDate=20201126
+##source=jacusa-1.3.0
+##FILTER=<ID=B,Description="Filter distance to Read Start/End. Default: 6:0.5 (F:distance:min_ratio)"
+##FILTER=<ID=I,Description="Filter distance to INDEL position. Default: 6:0.5 (I:distance:min_ratio)"
+##FILTER=<ID=Y,Description="Filter wrong variant calls in the vicinity of homopolymers. Default: 7 (Y:length)"
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=BC,Number=4,Type=Integer,Description="Base counts A,C,G,T">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	../data/samples/regions/England/ERX4742735/5-COVID-Aligned/ERR4873873_deduplicated.bam
+NC_045512.2	1943	.	C	T	.	*	*	DP:BC	11:0,10,0,1	11:0,11,0,0
+NC_045512.2	4645	.	A	G	.	*	*	DP:BC	7:6,0,1,0	7:7,0,0,0
+NC_045512.2	8917	.	C	T	.	*	*	DP:BC	7:0,0,0,7	7:0,7,0,0
+NC_045512.2	9127	.	T	C	.	*	*	DP:BC	7:0,1,0,6	7:0,0,0,7
+NC_045512.2	10679	.	T	C	.	*	*	DP:BC	6:0,1,0,5	6:0,0,0,6
+NC_045512.2	13616	.	A	G	.	*	*	DP:BC	7:6,0,1,0	7:7,0,0,0
+NC_045512.2	14695	.	T	C	.	*	*	DP:BC	5:0,1,0,4	5:0,0,0,5
+NC_045512.2	18985	.	G	A	.	*	*	DP:BC	6:1,0,5,0	6:0,0,6,0
+NC_045512.2	19020	.	A	G	.	*	*	DP:BC	5:4,0,1,0	5:5,0,0,0
+NC_045512.2	19924	.	T	C	.	*	*	DP:BC	7:0,1,0,6	7:0,0,0,7
+NC_045512.2	20186	.	T	C	.	*	*	DP:BC	6:0,1,0,5	6:0,0,0,6
+NC_045512.2	22388	.	C	T	.	*	*	DP:BC	5:0,0,0,5	5:0,5,0,0
+NC_045512.2	24719	.	C	T	.	*	*	DP:BC	12:0,11,0,1	12:0,12,0,0
+NC_045512.2	28453	.	C	T	.	*	*	DP:BC	13:0,7,0,6	13:0,13,0,0
+NC_045512.2	28881	.	G	A	.	*	*	DP:BC	7:7,0,0,0	7:0,0,7,0
+NC_045512.2	28882	.	G	A	.	*	*	DP:BC	7:7,0,0,0	7:0,0,7,0
+NC_045512.2	28883	.	G	C	.	*	*	DP:BC	7:0,7,0,0	7:0,0,7,0
+NC_045512.2	29103	.	G	A	.	*	*	DP:BC	5:1,0,4,0	5:0,0,5,0
+NC_045512.2	29175	.	G	T	.	*	*	DP:BC	25:0,0,24,1	25:0,0,25,0
