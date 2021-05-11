@@ -1,0 +1,74 @@
+{
+	"NCDC2245": {
+		"collection_date": "28-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC2105": {
+		"collection_date": "25-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC1744": {
+		"collection_date": "18-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC2251": {
+		"collection_date": "28-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC2250": {
+		"collection_date": "28-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC1614": {
+		"collection_date": "17-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC1444": {
+		"collection_date": "15-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC2240": {
+		"collection_date": "28-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC1604": {
+		"collection_date": "17-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC1257": {
+		"collection_date": "12-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC2108": {
+		"collection_date": "25-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"NCDC1441": {
+		"collection_date": "15-03-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	}
+}

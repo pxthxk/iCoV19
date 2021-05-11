@@ -1,0 +1,254 @@
+{
+	"Sample33_S56": {
+		"collection_date": "06-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample13_S40": {
+		"collection_date": "12-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample14_S33": {
+		"collection_date": "12-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample14_S41": {
+		"collection_date": "12-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample15_S34": {
+		"collection_date": "08-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample15_S42": {
+		"collection_date": "08-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample16_S35": {
+		"collection_date": "09-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample16_S43": {
+		"collection_date": "08-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample17_S36": {
+		"collection_date": "09-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample17_S44": {
+		"collection_date": "05-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample18_S45": {
+		"collection_date": "21-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample19_S46": {
+		"collection_date": "08-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample20_S47": {
+		"collection_date": "10-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample21_S48": {
+		"collection_date": "08-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample22_S49": {
+		"collection_date": "08-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample23_S50": {
+		"collection_date": "08-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample24_S51": {
+		"collection_date": "05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample25_S52": {
+		"collection_date": "05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample026_S1": {
+		"collection_date": "05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample027_S2": {
+		"collection_date": "05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample028_S3": {
+		"collection_date": "05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample029_S4": {
+		"collection_date": "09-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample30_S53": {
+		"collection_date": "13-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample31_S54": {
+		"collection_date": "05-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample32_S55": {
+		"collection_date": "06-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample034_S5": {
+		"collection_date": "10-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample035_S6": {
+		"collection_date": "10-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample036_S7": {
+		"collection_date": "11-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample037_S8": {
+		"collection_date": "11-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample38_S57": {
+		"collection_date": "10-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample39_S58": {
+		"collection_date": "11-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample40_S59": {
+		"collection_date": "27-04-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample41_S60": {
+		"collection_date": "01-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample042_S9": {
+		"collection_date": "01-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample043_S10": {
+		"collection_date": "29-04-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample044_S11": {
+		"collection_date": "27-04-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample045_S12": {
+		"collection_date": "28-04-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample046_S13": {
+		"collection_date": "06-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample047_S14": {
+		"collection_date": "27-04-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample048_S15": {
+		"collection_date": "01-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample049_S16": {
+		"collection_date": "01-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	},
+	"Sample050_S17": {
+		"collection_date": "18-05-2020",
+		"age": "-",
+		"sex": "-",
+		"platform": "Illumina MiSeq"
+	}
+}

@@ -2,831 +2,997 @@
 	"C1-12": {
 		"collection_date": "2020-04-16",
 		"age": 30,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"C2-13": {
 		"collection_date": "2020-04-16",
 		"age": 54,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"C3-14": {
 		"collection_date": "2020-04-16",
 		"age": 38,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"C4-15": {
 		"collection_date": "2020-04-20",
 		"age": 24,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J009": {
 		"collection_date": "2020-03-30",
 		"age": 52,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J014": {
 		"collection_date": "2020-03-30",
 		"age": 58,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J021": {
 		"collection_date": "2020-03-30",
 		"age": 59,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J043": {
 		"collection_date": "2020-03-31",
 		"age": 30,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J045": {
 		"collection_date": "2020-03-31",
 		"age": 36,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J047": {
 		"collection_date": "2020-03-31",
 		"age": 27,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J048": {
 		"collection_date": "2020-03-31",
 		"age": 24,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J057": {
 		"collection_date": "2020-03-31",
 		"age": 44,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J067": {
 		"collection_date": "2020-03-31",
 		"age": 34,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J068": {
 		"collection_date": "2020-03-31",
 		"age": 21,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J107": {
 		"collection_date": "2020-04-01",
 		"age": 27,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J118": {
 		"collection_date": "2020-04-01",
 		"age": 32,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J125": {
 		"collection_date": "2020-04-01",
 		"age": 40,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J131QIA": {
 		"collection_date": "2020-04-01",
 		"age": 27,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J132": {
 		"collection_date": "2020-04-01",
 		"age": 29,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J130": {
 		"collection_date": "2020-04-01",
 		"age": 55,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J165": {
 		"collection_date": "2020-04-01",
 		"age": 35,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J166": {
 		"collection_date": "2020-04-01",
 		"age": 52,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J199": {
 		"collection_date": "2020-04-01",
 		"age": 56,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J206": {
 		"collection_date": "2020-04-01",
 		"age": 45,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J207": {
 		"collection_date": "2020-04-01",
 		"age": 41,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J208": {
 		"collection_date": "2020-04-01",
 		"age": 28,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J212": {
 		"collection_date": "2020-04-01",
 		"age": 34,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J220": {
 		"collection_date": "2020-04-01",
 		"age": 37,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J222": {
 		"collection_date": "2020-04-01",
 		"age": 51,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J223": {
 		"collection_date": "2020-04-01",
 		"age": 37,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J224": {
 		"collection_date": "2020-04-01",
 		"age": 29,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J230": {
 		"collection_date": "2020-04-01",
 		"age": 59,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J232": {
 		"collection_date": "2020-04-02",
 		"age": 60,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J235": {
 		"collection_date": "2020-04-01",
 		"age": 43,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J247": {
 		"collection_date": "2020-04-01",
 		"age": 24,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J278": {
 		"collection_date": "2020-04-01",
 		"age": 33,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J283": {
 		"collection_date": "2020-04-01",
 		"age": 73,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J288": {
 		"collection_date": "2020-04-01",
 		"age": 26,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J300": {
 		"collection_date": "2020-04-03",
 		"age": 22,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J304": {
 		"collection_date": "2020-04-01",
 		"age": 72,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J318": {
 		"collection_date": "2020-04-02",
 		"age": 26,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J321": {
 		"collection_date": "2020-04-02",
 		"age": 20,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J327": {
 		"collection_date": "2020-04-02",
 		"age": 48,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J350BS4": {
 		"collection_date": "2020-04-02",
 		"age": 21,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J374": {
 		"collection_date": "2020-04-02",
 		"age": 45,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J375": {
 		"collection_date": "2020-04-02",
 		"age": 22,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J390": {
 		"collection_date": "2020-04-02",
 		"age": 45,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J458": {
 		"collection_date": "2020-04-02",
 		"age": 26,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J714": {
 		"collection_date": "2020-04-06",
 		"age": 6,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"J812": {
 		"collection_date": "2020-04-06",
 		"age": 24,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K128": {
 		"collection_date": "2020-04-10",
 		"age": 10,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K272_S35": {
 		"collection_date": "2020-04-12",
 		"age": 40,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K496": {
 		"collection_date": "2020-04-13",
 		"age": 55,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K499": {
 		"collection_date": "2020-04-14",
 		"age": 19,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K500": {
 		"collection_date": "2020-04-14",
 		"age": 12,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K599": {
 		"collection_date": "2020-04-14",
 		"age": 32,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K600B": {
 		"collection_date": "2020-04-14",
 		"age": 15,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K601": {
 		"collection_date": "2020-04-14",
 		"age": 13,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K771QIA": {
 		"collection_date": "2020-04-15",
 		"age": 36,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"K849": {
 		"collection_date": "2020-04-16",
 		"age": 49,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM001_S36": {
 		"collection_date": "2020-04-29",
 		"age": 36,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM002_S37": {
 		"collection_date": "2020-04-26",
 		"age": 48,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM003": {
 		"collection_date": "2020-04-29",
 		"age": 55,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM004_S38": {
 		"collection_date": "2020-04-29",
 		"age": 52,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM005_S39": {
 		"collection_date": "2020-04-27",
 		"age": 30,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM006_S40": {
 		"collection_date": "2020-04-29",
 		"age": 51,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM009_S41": {
 		"collection_date": "2020-04-29",
 		"age": 30,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM012_S42": {
 		"collection_date": "2020-04-29",
 		"age": 28,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM013_S43": {
 		"collection_date": "2020-04-26",
 		"age": 64,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM014_S44": {
 		"collection_date": "2020-04-29",
 		"age": 24,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM015": {
 		"collection_date": "2020-05-06",
 		"age": 50,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM016_S45": {
 		"collection_date": "2020-05-06",
 		"age": 20,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM017_S46": {
 		"collection_date": "2020-05-06",
 		"age": 58,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM018_S47": {
 		"collection_date": "2020-05-06",
 		"age": 39,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM019_S48": {
 		"collection_date": "2020-05-06",
 		"age": 25,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM020_S49": {
 		"collection_date": "2020-05-06",
 		"age": 39,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"KIPM021_S63": {
 		"collection_date": "2020-05-06",
 		"age": 35,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L007": {
 		"collection_date": "2020-04-16",
 		"age": 24,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L040": {
 		"collection_date": "2020-04-18",
 		"age": 34,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L044": {
 		"collection_date": "2020-04-16",
 		"age": 45,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1017": {
 		"collection_date": "2020-05-11",
 		"age": 9,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1021": {
 		"collection_date": "2020-05-11",
 		"age": 22,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1022": {
 		"collection_date": "2020-05-11",
 		"age": 45,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1024": {
 		"collection_date": "2020-05-11",
 		"age": 22,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1025": {
 		"collection_date": "2020-05-11",
 		"age": 8,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1026": {
 		"collection_date": "2020-05-11",
 		"age": 22,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1062": {
 		"collection_date": "2020-05-12",
 		"age": 36,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1063": {
 		"collection_date": "2020-05-12",
 		"age": 28,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1064": {
 		"collection_date": "2020-05-12",
 		"age": 26,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1073": {
 		"collection_date": "2020-05-13",
 		"age": 60,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1082": {
 		"collection_date": "2020-05-13",
 		"age": 9,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1085": {
 		"collection_date": "2020-05-13",
 		"age": 40,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1089": {
 		"collection_date": "2020-05-13",
 		"age": 17,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1090": {
 		"collection_date": "2020-05-13",
 		"age": 30,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1100": {
 		"collection_date": "2020-05-13",
 		"age": 50,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1103": {
 		"collection_date": "2020-05-13",
 		"age": 1.5,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1108": {
 		"collection_date": "2020-05-13",
 		"age": 29,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1208": {
 		"collection_date": "2020-05-21",
 		"age": 55,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1276": {
 		"collection_date": "2020-05-21",
 		"age": 32,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1451": {
 		"collection_date": "2020-05-25",
 		"age": 33,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1452": {
 		"collection_date": "2020-05-25",
 		"age": 30,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1453": {
 		"collection_date": "2020-05-25",
 		"age": 49,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1454": {
 		"collection_date": "2020-05-25",
 		"age": 29,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1455": {
 		"collection_date": "2020-05-25",
 		"age": 33,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1456": {
 		"collection_date": "2020-05-25",
 		"age": 31,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1459": {
 		"collection_date": "2020-05-25",
 		"age": 44,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1460": {
 		"collection_date": "2020-05-25",
 		"age": 45,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1465": {
 		"collection_date": "2020-05-25",
 		"age": 39,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1466": {
 		"collection_date": "2020-05-25",
 		"age": 33,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1469": {
 		"collection_date": "2020-05-25",
 		"age": 26,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1470": {
 		"collection_date": "2020-05-25",
 		"age": 27,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1471": {
 		"collection_date": "2020-05-25",
 		"age": 28,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1475": {
 		"collection_date": "2020-05-25",
 		"age": 34,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1476": {
 		"collection_date": "2020-05-25",
 		"age": 24,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1477": {
 		"collection_date": "2020-05-25",
 		"age": 22,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1478": {
 		"collection_date": "2020-05-25",
 		"age": 21,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1484": {
 		"collection_date": "2020-05-25",
 		"age": 27,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1487": {
 		"collection_date": "2020-05-25",
 		"age": 22,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L149": {
 		"collection_date": "2020-04-16",
 		"age": 19,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1492": {
 		"collection_date": "2020-05-25",
 		"age": 23,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1494": {
 		"collection_date": "2020-05-25",
 		"age": 32,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1495": {
 		"collection_date": "2020-05-25",
 		"age": 34,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1496": {
 		"collection_date": "2020-05-25",
 		"age": 24,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1497": {
 		"collection_date": "2020-05-25",
 		"age": 24,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1499": {
 		"collection_date": "2020-05-25",
 		"age": 26,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1500": {
 		"collection_date": "2020-05-25",
 		"age": 32,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1510": {
 		"collection_date": "2020-05-26",
 		"age": 57,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1542": {
 		"collection_date": "2020-05-26",
 		"age": 33,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1551": {
 		"collection_date": "2020-05-26",
 		"age": 30,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1554": {
 		"collection_date": "2020-05-26",
 		"age": 30,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1564": {
 		"collection_date": "2020-05-26",
 		"age": 25,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1675": {
 		"collection_date": "2020-05-29",
 		"age": 37,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1684": {
 		"collection_date": "2020-05-29",
 		"age": 49,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1693": {
 		"collection_date": "2020-05-29",
 		"age": 56,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1694": {
 		"collection_date": "2020-05-29",
 		"age": 75,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1721": {
 		"collection_date": "2020-05-30",
 		"age": 45,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1724": {
 		"collection_date": "2020-05-30",
 		"age": 25,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1726": {
 		"collection_date": "2020-05-30",
 		"age": 30,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1728": {
 		"collection_date": "2020-05-30",
 		"age": 22,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1738": {
 		"collection_date": "2020-06-01",
 		"age": 37,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1743": {
 		"collection_date": "2020-06-01",
 		"age": 35,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1746": {
 		"collection_date": "2020-06-01",
 		"age": 54,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1762-NFLEX": {
 		"collection_date": "2020-06-01",
 		"age": 24,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1781": {
 		"collection_date": "2020-06-02",
 		"age": 3,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1806": {
 		"collection_date": "2020-06-02",
 		"age": 34,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1809": {
 		"collection_date": "2020-06-02",
 		"age": 65,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1810": {
 		"collection_date": "2020-06-02",
 		"age": 27,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1811": {
 		"collection_date": "2020-06-02",
 		"age": 54,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1819": {
 		"collection_date": "2020-06-02",
 		"age": 30,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1822": {
 		"collection_date": "2020-06-02",
 		"age": 70,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L1824": {
 		"collection_date": "2020-06-02",
 		"age": 47,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L299RPJOSH_S65": {
 		"collection_date": "2020-04-20",
 		"age": 25,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L301RHJOSH_S69": {
 		"collection_date": "2020-04-20",
 		"age": 2,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L302": {
 		"collection_date": "2020-04-20",
 		"age": 22,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L912": {
 		"collection_date": "2020-05-09",
 		"age": 42,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L988": {
 		"collection_date": "2020-05-11",
 		"age": 27,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"L989": {
 		"collection_date": "2020-05-11",
 		"age": 22,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"NIV1": {
 		"collection_date": "2020-04-04",
 		"age": 57,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"NIV2": {
 		"collection_date": "2020-04-04",
 		"age": 35,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"NIV3QIA": {
 		"collection_date": "2020-03-27",
 		"age": 44,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"NIV4QIA": {
 		"collection_date": "2020-03-26",
 		"age": 65,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"NIV5QIA": {
 		"collection_date": "2020-03-17",
 		"age": 37,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"O1-1880QIA": {
 		"collection_date": "2020-04-13",
 		"age": 56,
-		"sex": "Male"
+		"sex": "Male",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"O2-1732": {
 		"collection_date": "2020-04-15",
 		"age": 80,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"O3-R1164": {
 		"collection_date": "2020-04-14",
 		"age": 35,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	},
 	"O4-696": {
 		"collection_date": "2020-04-03",
 		"age": 30,
-		"sex": "Female"
+		"sex": "Female",
+		"platform": "Illumina NovaSeq 6000"
 	}
 }

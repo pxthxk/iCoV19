@@ -1,4 +1,4 @@
-Sample	Total Reads After Trimming	Hisat2 Human Mapped Reads	Hisat2 Human Unmapped Reads	Hisat2 % Human Mapped Reads	Total Reads After Removing Duplicates	BWA-MEM SARS-CoV-2 Mapped Reads	BWA % SARS-CoV-2 Mapped Reads	Mean of Coverage Depth	Standard Deviation of Coverage Depth	Mean Mapping Quality	GC Percentage	Error Rate	Collection Date	Gender	Age
-A680	269854	8527	261327	3.16%	154621	152590	98.69%	443.981X	1,056.4653X	55.036	40.53%	0.0017	-	-	-
-77798	365762	109	365653	0.03%	127509	127189	99.75%	517.8628X	1,332.4777X	51.7806	38.1%	0.0034	-	-	-
-NCDC-777797	2510110	0	2510110	0.00%	597135	597034	99.98%	3,633.1846X	2,345.114X	59.9914	38.74%	0.0013	-	-	-
+Sample	Total Reads After Trimming	Hisat2 Human Mapped Reads	Hisat2 Human Unmapped Reads	Hisat2 % Human Mapped Reads	Total Reads After Removing Duplicates	BWA-MEM SARS-CoV-2 Mapped Reads	BWA % SARS-CoV-2 Mapped Reads	Mean of Coverage Depth	Standard Deviation of Coverage Depth	Mean Mapping Quality	GC Percentage	Error Rate	Platform	Collection Date	Gender	Age
+A680	269854	8527	261327	3.16%	154621	152590	98.69%	443.981X	1,056.4653X	55.036	40.53%	0.0017	-	-	-	-
+77798	365762	109	365653	0.03%	127509	127189	99.75%	517.8628X	1,332.4777X	51.7806	38.1%	0.0034	-	-	-	-
+NCDC-777797	2510110	0	2510110	0.00%	597135	597034	99.98%	3,633.1846X	2,345.114X	59.9914	38.74%	0.0013	-	-	-	-

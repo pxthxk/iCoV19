@@ -71,11 +71,14 @@ if SRAFlag:
 		for i in range(0,len(SRAMetadata["EXPERIMENT_PACKAGE_SET"]["EXPERIMENT_PACKAGE"])):
 			exp = SRAMetadata["EXPERIMENT_PACKAGE_SET"]["EXPERIMENT_PACKAGE"][i]
 			
+			sample_platform = ""
 			collection_date = ""
 			host_sex = ""
 			host_age = ""
 
 			if bioproject:
+				sample_platform = exp["EXPERIMENT"]["PLATFORM"]["ILLUMINA"]["INSTRUMENT_MODEL"]
+
 				for tag in exp["SAMPLE"]["SAMPLE_ATTRIBUTES"]["SAMPLE_ATTRIBUTE"]:
 					if tag["TAG"] == "collection_date":
 						collection_date = tag["VALUE"]
@@ -83,7 +86,7 @@ if SRAFlag:
 						host_sex = tag["VALUE"]
 					if tag["TAG"] == "host_age":
 						host_age = tag["VALUE"]
-				SRASampleMetadata[exp["EXPERIMENT"]["@accession"]] = (collection_date, host_sex, host_age)
+				SRASampleMetadata[exp["EXPERIMENT"]["@accession"]] = (sample_platform, collection_date, host_sex, host_age)
 			else:
 				flag = 0
 				
@@ -93,6 +96,8 @@ if SRAFlag:
 							flag = 1
 							break
 				if flag == 1:
+					sample_platform = exp["EXPERIMENT"]["PLATFORM"]["ILLUMINA"]["INSTRUMENT_MODEL"]
+
 					for tag in exp["SAMPLE"]["SAMPLE_ATTRIBUTES"]["SAMPLE_ATTRIBUTE"]:
 						if tag["TAG"] == "collection_date":
 							collection_date = tag["VALUE"]
@@ -101,15 +106,15 @@ if SRAFlag:
 						if tag["TAG"] == "host_age":
 							host_age = tag["VALUE"]
 				
-					SRASampleMetadata[exp["EXPERIMENT"]["@accession"]] = (collection_date, host_sex, host_age)
+					SRASampleMetadata[exp["EXPERIMENT"]["@accession"]] = (sample_platform, collection_date, host_sex, host_age)
 else:
 	try:
-		sampleMetadata = json.load(open("../data/datasets/metadata/" + cohort.replace("-", " ") + ".json", "r"))
+		sampleMetadata = json.load(open("../data/datasets/metadata/" + cohort + ".json", "r"))
 	except:
 		sampleMetadata = {}
 
 if directory:
-	df = pd.DataFrame(columns=["Sample", "Total Reads After Trimming", "Hisat2 Human Mapped Reads", "Hisat2 Human Unmapped Reads", "Hisat2 % Human Mapped Reads", "Total Reads After Removing Duplicates", "BWA-MEM SARS-CoV-2 Mapped Reads", "BWA % SARS-CoV-2 Mapped Reads", "Mean of Coverage Depth", "Standard Deviation of Coverage Depth", "Mean Mapping Quality", "GC Percentage", "Error Rate", "Collection Date", "Gender", "Age"], dtype=object)
+	df = pd.DataFrame(columns=["Sample", "Total Reads After Trimming", "Hisat2 Human Mapped Reads", "Hisat2 Human Unmapped Reads", "Hisat2 % Human Mapped Reads", "Total Reads After Removing Duplicates", "BWA-MEM SARS-CoV-2 Mapped Reads", "BWA % SARS-CoV-2 Mapped Reads", "Mean of Coverage Depth", "Standard Deviation of Coverage Depth", "Mean Mapping Quality", "GC Percentage", "Error Rate", "Platform", "Collection Date", "Gender", "Age"], dtype=object)
 
 	for sampleID in samples:
 		sampleDir = directory + sampleID + "/"
@@ -148,16 +153,18 @@ if directory:
 			bwaErrorRate = "-"
 
 		if SRAFlag:
-			collection_date = SRASampleMetadata[sampleID][0] if SRASampleMetadata[sampleID][0] != "" else "-"
-			host_sex = SRASampleMetadata[sampleID][1] if SRASampleMetadata[sampleID][1] != "" else "-"
-			host_age = SRASampleMetadata[sampleID][2] if SRASampleMetadata[sampleID][2] != "" else "-"
+			sample_platform = SRASampleMetadata[sampleID][0] if SRASampleMetadata[sampleID][0] != "" else "-"
+			collection_date = SRASampleMetadata[sampleID][1] if SRASampleMetadata[sampleID][1] != "" else "-"
+			host_sex = SRASampleMetadata[sampleID][2] if SRASampleMetadata[sampleID][2] != "" else "-"
+			host_age = SRASampleMetadata[sampleID][3] if SRASampleMetadata[sampleID][3] != "" else "-"
 			
 		else:
+			sample_platform = sampleMetadata[sampleID]["platform"] if sampleID in sampleMetadata else "-"
 			collection_date = sampleMetadata[sampleID]["collection_date"] if sampleID in sampleMetadata else "-"
 			host_sex = sampleMetadata[sampleID]["sex"] if sampleID in sampleMetadata else "-"
 			host_age = sampleMetadata[sampleID]["age"] if sampleID in sampleMetadata else "-"
 
-		df.loc[len(df)] = [sampleID, trimmedReads, hisat2MappedReads, hisat2UnmappedReads, hisat2PercentMappedReads, deduplicatedReads, bwaMappedReads, bwaPercentMappedReads, bwaMeanCoverage, bwaStdCoverage, bwaMeanMappingQuality, bwaGCPercent, bwaErrorRate, collection_date, host_sex, host_age]
+		df.loc[len(df)] = [sampleID, trimmedReads, hisat2MappedReads, hisat2UnmappedReads, hisat2PercentMappedReads, deduplicatedReads, bwaMappedReads, bwaPercentMappedReads, bwaMeanCoverage, bwaStdCoverage, bwaMeanMappingQuality, bwaGCPercent, bwaErrorRate, sample_platform, collection_date, host_sex, host_age]
 
 	print("Writing...")
 	df.to_csv(directory + "Stats.tsv", index=False, sep="\t")

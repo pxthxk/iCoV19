@@ -1,5 +1,5 @@
-Sample	Total Reads After Trimming	Hisat2 Human Mapped Reads	Hisat2 Human Unmapped Reads	Hisat2 % Human Mapped Reads	Total Reads After Removing Duplicates	BWA-MEM SARS-CoV-2 Mapped Reads	BWA % SARS-CoV-2 Mapped Reads	Mean of Coverage Depth	Standard Deviation of Coverage Depth	Mean Mapping Quality	GC Percentage	Error Rate	Collection Date	Gender	Age
-SRX8086360	468102	187	467915	0.04%	246827	246688	99.94%	827.8517X	365.3589X	59.993	37.74%	0.0008	20-Mar-2020	-	-
-SRX8086361	492658	3596	489062	0.73%	250748	250045	99.72%	839.3871X	413.2719X	59.9949	37.72%	0.0008	18-Mar-2020	-	-
-SRX8112341	266162	170370	95792	64.01%	79909	43329	54.22%	144.4499X	183.1659X	48.8761	37.62%	0.0007	14-Mar-2020	-	-
-SRX8112342	440156	15273	424883	3.47%	186854	184372	98.67%	617.6924X	624.288X	59.5288	37.68%	0.0009	22-Mar-2020	-	-
+Sample	Total Reads After Trimming	Hisat2 Human Mapped Reads	Hisat2 Human Unmapped Reads	Hisat2 % Human Mapped Reads	Total Reads After Removing Duplicates	BWA-MEM SARS-CoV-2 Mapped Reads	BWA % SARS-CoV-2 Mapped Reads	Mean of Coverage Depth	Standard Deviation of Coverage Depth	Mean Mapping Quality	GC Percentage	Error Rate	Platform	Collection Date	Gender	Age
+SRX8086360	468102	187	467915	0.04%	246827	246688	99.94%	827.8517X	365.3589X	59.993	37.74%	0.0008	Illumina iSeq 100	20-Mar-2020	-	-
+SRX8086361	492658	3596	489062	0.73%	250748	250045	99.72%	839.3871X	413.2719X	59.9949	37.72%	0.0008	Illumina iSeq 100	18-Mar-2020	-	-
+SRX8112341	266162	170370	95792	64.01%	79909	43329	54.22%	144.4499X	183.1659X	48.8761	37.62%	0.0007	Illumina iSeq 100	14-Mar-2020	-	-
+SRX8112342	440156	15273	424883	3.47%	186854	184372	98.67%	617.6924X	624.288X	59.5288	37.68%	0.0009	Illumina iSeq 100	22-Mar-2020	-	-
