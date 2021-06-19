@@ -1,1490 +1,2216 @@
 {
-    "ILSCV17568": {
-        "collection_date": "2020-05-12", 
-        "age": 45, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV17569": {
-        "collection_date": "2020-05-12", 
-        "age": 50, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27409": {
-        "collection_date": "2020-05-21", 
-        "age": 45, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27406": {
-        "collection_date": "2020-05-21", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35482": {
-        "collection_date": "2020-06-11", 
-        "age": 19, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV18534": {
-        "collection_date": "2020-05-13", 
-        "age": 22, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27713": {
-        "collection_date": "2020-05-21", 
-        "age": 50, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15546": {
-        "collection_date": "2020-05-11", 
-        "age": 33, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV12762": {
-        "collection_date": "2020-05-09", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27226": {
-        "collection_date": "2020-05-21", 
-        "age": 15, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV18539": {
-        "collection_date": "2020-05-13", 
-        "age": 17, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC84": {
-        "collection_date": "2020-05-04", 
-        "age": 27, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15937": {
-        "collection_date": "2020-05-11", 
-        "age": 50, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29971": {
-        "collection_date": "2020-05-23", 
-        "age": 36, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC110": {
-        "collection_date": "2020-05-06", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15428": {
-        "collection_date": "2020-05-11", 
-        "age": 37, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32870": {
-        "collection_date": "2020-06-04", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV13678": {
-        "collection_date": "2020-05-09", 
-        "age": 45, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32872": {
-        "collection_date": "2020-06-04", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC169": {
-        "collection_date": "2020-05-07", 
-        "age": 43, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32879": {
-        "collection_date": "2020-06-05", 
-        "age": 26, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV13676": {
-        "collection_date": "2020-05-09", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV21603": {
-        "collection_date": "2020-05-16", 
-        "age": 32, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV11171": {
-        "collection_date": "2020-05-07", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19048": {
-        "collection_date": "2020-05-16", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30141": {
-        "collection_date": "2020-05-23", 
-        "age": 42, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30140": {
-        "collection_date": "2020-05-23", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27419": {
-        "collection_date": "2020-05-21", 
-        "age": 27, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC92": {
-        "collection_date": "2020-05-04", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29363": {
-        "collection_date": "2020-05-22", 
-        "age": 23, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29997": {
-        "collection_date": "2020-05-23", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV18525": {
-        "collection_date": "2020-05-13", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27412": {
-        "collection_date": "2020-05-21", 
-        "age": 20, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV14262": {
-        "collection_date": "2020-05-11", 
-        "age": 26, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC90": {
-        "collection_date": "2020-05-04", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32896": {
-        "collection_date": "2020-06-05", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC104": {
-        "collection_date": "2020-05-06", 
-        "age": 21, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV25378": {
-        "collection_date": "2020-05-19", 
-        "age": 44, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV33982": {
-        "collection_date": "2020-06-08", 
-        "age": 37, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV33983": {
-        "collection_date": "2020-06-08", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC2": {
-        "collection_date": "2020-03-19", 
-        "age": 19, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15552": {
-        "collection_date": "2020-05-11", 
-        "age": 19, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35333": {
-        "collection_date": "2020-06-10", 
-        "age": 38, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16828": {
-        "collection_date": "2020-05-11", 
-        "age": 18, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC103": {
-        "collection_date": "2020-05-06", 
-        "age": 41, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29215": {
-        "collection_date": "2020-05-23", 
-        "age": 42, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29962": {
-        "collection_date": "2020-05-23", 
-        "age": 27, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29961": {
-        "collection_date": "2020-05-23", 
-        "age": 39, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29960": {
-        "collection_date": "2020-05-23", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC108": {
-        "collection_date": "2020-05-06", 
-        "age": 33, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC94": {
-        "collection_date": "2020-05-04", 
-        "age": 21, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32656": {
-        "collection_date": "2020-06-03", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC73": {
-        "collection_date": "2020-04-29", 
-        "age": 55, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32670": {
-        "collection_date": "2020-06-03", 
-        "age": 60, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV21721": {
-        "collection_date": "2020-05-16", 
-        "age": 18, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV11996": {
-        "collection_date": "2020-05-09", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV24694": {
-        "collection_date": "2020-05-18", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV34933": {
-        "collection_date": "2020-06-10", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV18556": {
-        "collection_date": "2020-05-13", 
-        "age": 26, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29347": {
-        "collection_date": "2020-05-22", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20557": {
-        "collection_date": "2020-05-15", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV25367": {
-        "collection_date": "2020-05-19", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15547": {
-        "collection_date": "2020-05-11", 
-        "age": 19, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27146": {
-        "collection_date": "2020-05-21", 
-        "age": 18, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV14374": {
-        "collection_date": "2020-05-10", 
-        "age": 50, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20410": {
-        "collection_date": "2020-05-15", 
-        "age": 48, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35457": {
-        "collection_date": "2020-06-10", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV14743": {
-        "collection_date": "2020-05-10", 
-        "age": 75, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV26793": {
-        "collection_date": "2020-05-21", 
-        "age": 36, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16009": {
-        "collection_date": "2020-05-11", 
-        "age": 37, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27381": {
-        "collection_date": "2020-05-21", 
-        "age": 35, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC67": {
-        "collection_date": "2020-04-27", 
-        "age": 63, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20804": {
-        "collection_date": "2020-05-16", 
-        "age": 1, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32593": {
-        "collection_date": "2020-06-03", 
-        "age": 16, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV13715": {
-        "collection_date": "2020-05-09", 
-        "age": 37, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30220": {
-        "collection_date": "2020-05-23", 
-        "age": 40, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30221": {
-        "collection_date": "2020-05-23", 
-        "age": 48, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27789": {
-        "collection_date": "2020-05-21", 
-        "age": 55, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15954": {
-        "collection_date": "2020-05-11", 
-        "age": 40, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19144": {
-        "collection_date": "2020-05-14", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV28594": {
-        "collection_date": "2020-05-22", 
-        "age": 19, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20165": {
-        "collection_date": "2020-05-05", 
-        "age": 19, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20166": {
-        "collection_date": "2020-05-05", 
-        "age": 19, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV34939": {
-        "collection_date": "2020-06-10", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35614": {
-        "collection_date": "2020-06-12", 
-        "age": 29, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35615": {
-        "collection_date": "2020-06-12", 
-        "age": 33, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC112": {
-        "collection_date": "2020-05-06", 
-        "age": 47, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27726": {
-        "collection_date": "2020-05-21", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27725": {
-        "collection_date": "2020-05-21", 
-        "age": 33, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV14847": {
-        "collection_date": "2020-05-10", 
-        "age": 44, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16491": {
-        "collection_date": "2020-05-12", 
-        "age": 52, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC49": {
-        "collection_date": "2020-04-09", 
-        "age": 35, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15551": {
-        "collection_date": "2020-05-11", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32889": {
-        "collection_date": "2020-06-05", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35750": {
-        "collection_date": "2020-06-12", 
-        "age": 26, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20407": {
-        "collection_date": "2020-05-15", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV25518": {
-        "collection_date": "2020-05-19", 
-        "age": 22, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20408": {
-        "collection_date": "2020-05-15", 
-        "age": 33, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35308": {
-        "collection_date": "2020-06-10", 
-        "age": 45, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27235": {
-        "collection_date": "2020-05-21", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35351": {
-        "collection_date": "2020-06-10", 
-        "age": 22, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35350": {
-        "collection_date": "2020-06-10", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35353": {
-        "collection_date": "2020-06-10", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC30": {
-        "collection_date": "2020-04-04", 
-        "age": 28, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30442": {
-        "collection_date": "2020-05-24", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29666": {
-        "collection_date": "2020-05-23", 
-        "age": 40, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV25591": {
-        "collection_date": "2020-05-19", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC71": {
-        "collection_date": "2020-04-29", 
-        "age": 55, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC70": {
-        "collection_date": "2020-04-28", 
-        "age": 34, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV25594": {
-        "collection_date": "2020-05-19", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16012": {
-        "collection_date": "2020-05-11", 
-        "age": 33, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV31650": {
-        "collection_date": "2020-05-26", 
-        "age": 21, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV14289": {
-        "collection_date": "2020-05-11", 
-        "age": 39, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16495": {
-        "collection_date": "2020-05-12", 
-        "age": 37, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16494": {
-        "collection_date": "2020-05-12", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16498": {
-        "collection_date": "2020-05-12", 
-        "age": 37, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19156": {
-        "collection_date": "2020-05-14", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29457": {
-        "collection_date": "2020-05-23", 
-        "age": 35, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV34479": {
-        "collection_date": "2020-06-09", 
-        "age": 38, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV34478": {
-        "collection_date": "2020-06-09", 
-        "age": 21, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16631": {
-        "collection_date": "2020-05-12", 
-        "age": 45, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV31185": {
-        "collection_date": "2020-05-24", 
-        "age": 33, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC45": {
-        "collection_date": "2020-04-08", 
-        "age": 9, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35574": {
-        "collection_date": "2020-06-11", 
-        "age": 26, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32652": {
-        "collection_date": "2020-06-03", 
-        "age": 27, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC46": {
-        "collection_date": "2020-04-08", 
-        "age": 5, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV13921": {
-        "collection_date": "2020-05-10", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35475": {
-        "collection_date": "2020-06-10", 
-        "age": 21, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35476": {
-        "collection_date": "2020-06-10", 
-        "age": 19, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35366": {
-        "collection_date": "2020-06-10", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV13929": {
-        "collection_date": "2020-05-10", 
-        "age": 45, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC48": {
-        "collection_date": "2020-04-08", 
-        "age": 46, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV24918": {
-        "collection_date": "2020-05-18", 
-        "age": 23, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC154": {
-        "collection_date": "2020-05-07", 
-        "age": 22, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV33972": {
-        "collection_date": "2020-06-08", 
-        "age": 18, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20596": {
-        "collection_date": "2020-05-15", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV33971": {
-        "collection_date": "2020-06-08", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV24917": {
-        "collection_date": "2020-05-18", 
-        "age": 26, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC47": {
-        "collection_date": "2020-04-08", 
-        "age": 37, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC159": {
-        "collection_date": "2020-05-07", 
-        "age": 38, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC158": {
-        "collection_date": "2020-05-07", 
-        "age": 16, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC157": {
-        "collection_date": "2020-05-07", 
-        "age": 55, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC156": {
-        "collection_date": "2020-05-07", 
-        "age": 34, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC155": {
-        "collection_date": "2020-05-07", 
-        "age": 28, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV26795": {
-        "collection_date": "2020-05-21", 
-        "age": 40, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC29": {
-        "collection_date": "2020-04-04", 
-        "age": 45, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV31984": {
-        "collection_date": "2020-05-29", 
-        "age": 49, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19346": {
-        "collection_date": "2020-05-14", 
-        "age": 48, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19342": {
-        "collection_date": "2020-05-14", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC7": {
-        "collection_date": "2020-04-02", 
-        "age": 38, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32007": {
-        "collection_date": "2020-05-29", 
-        "age": 22, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35461": {
-        "collection_date": "2020-06-10", 
-        "age": 35, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC5": {
-        "collection_date": "2020-04-02", 
-        "age": 42, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27217": {
-        "collection_date": "2020-05-21", 
-        "age": 37, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35376": {
-        "collection_date": "2020-06-10", 
-        "age": 27, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV25524": {
-        "collection_date": "2020-05-19", 
-        "age": 32, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27173": {
-        "collection_date": "2020-05-21", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV12752": {
-        "collection_date": "2020-05-09", 
-        "age": 18, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV18287": {
-        "collection_date": "2020-05-13", 
-        "age": 15, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV12751": {
-        "collection_date": "2020-05-09", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16280": {
-        "collection_date": "2020-05-11", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC18": {
-        "collection_date": "2020-04-02", 
-        "age": 29, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV34480": {
-        "collection_date": "2020-06-09", 
-        "age": 18, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15907": {
-        "collection_date": "2020-05-11", 
-        "age": 26, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32485": {
-        "collection_date": "2020-06-02", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32486": {
-        "collection_date": "2020-06-02", 
-        "age": 35, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC123": {
-        "collection_date": "2020-05-07", 
-        "age": 35, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC76": {
-        "collection_date": "2020-04-29", 
-        "age": 24, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32142": {
-        "collection_date": "2020-05-30", 
-        "age": 36, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV21602": {
-        "collection_date": "2020-05-16", 
-        "age": 21, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30115": {
-        "collection_date": "2020-05-23", 
-        "age": 28, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV13744": {
-        "collection_date": "2020-05-09", 
-        "age": 35, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC27": {
-        "collection_date": "2020-04-04", 
-        "age": 4, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19209": {
-        "collection_date": "2020-05-14", 
-        "age": 29, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV31447": {
-        "collection_date": "2020-05-26", 
-        "age": 22, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32465": {
-        "collection_date": "2020-05-30", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV14831": {
-        "collection_date": "2020-05-10", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV17741": {
-        "collection_date": "2020-05-13", 
-        "age": 40, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16514": {
-        "collection_date": "2020-05-12", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20598": {
-        "collection_date": "2020-05-15", 
-        "age": 58, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC1": {
-        "collection_date": "2020-03-15", 
-        "age": 33, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC25": {
-        "collection_date": "2020-04-04", 
-        "age": 4, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16510": {
-        "collection_date": "2020-05-12", 
-        "age": 38, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC6": {
-        "collection_date": "2020-04-02", 
-        "age": 32, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16512": {
-        "collection_date": "2020-05-12", 
-        "age": 45, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV13907": {
-        "collection_date": "2020-05-10", 
-        "age": 45, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC22": {
-        "collection_date": "2020-04-04", 
-        "age": 29, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC23": {
-        "collection_date": "2020-04-04", 
-        "age": 9, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC20": {
-        "collection_date": "2020-04-02", 
-        "age": 70, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC38": {
-        "collection_date": "2020-04-04", 
-        "age": 32, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC26": {
-        "collection_date": "2020-04-04", 
-        "age": 2, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV13695": {
-        "collection_date": "2020-05-09", 
-        "age": 29, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC24": {
-        "collection_date": "2020-04-04", 
-        "age": 35, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC106": {
-        "collection_date": "2020-05-06", 
-        "age": 40, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV31694": {
-        "collection_date": "2020-05-26", 
-        "age": 42, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC28": {
-        "collection_date": "2020-04-04", 
-        "age": 10, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19192": {
-        "collection_date": "2020-05-14", 
-        "age": 34, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV31693": {
-        "collection_date": "2020-05-26", 
-        "age": 32, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32817": {
-        "collection_date": "2020-06-04", 
-        "age": 27, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32816": {
-        "collection_date": "2020-06-04", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV12743": {
-        "collection_date": "2020-05-09", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV12742": {
-        "collection_date": "2020-05-09", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV12744": {
-        "collection_date": "2020-05-09", 
-        "age": 22, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29958": {
-        "collection_date": "2020-05-23", 
-        "age": 40, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29959": {
-        "collection_date": "2020-05-23", 
-        "age": 38, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35456": {
-        "collection_date": "2020-06-10", 
-        "age": 19, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV21587": {
-        "collection_date": "2020-05-16", 
-        "age": 46, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV28062": {
-        "collection_date": "2020-05-21", 
-        "age": 33, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35141": {
-        "collection_date": "2020-06-10", 
-        "age": 28, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16809": {
-        "collection_date": "2020-05-11", 
-        "age": 18, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32899": {
-        "collection_date": "2020-06-05", 
-        "age": 19, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32898": {
-        "collection_date": "2020-06-05", 
-        "age": 21, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC171": {
-        "collection_date": "2020-05-07", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32866": {
-        "collection_date": "2020-06-04", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32895": {
-        "collection_date": "2020-06-05", 
-        "age": 19, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32893": {
-        "collection_date": "2020-06-05", 
-        "age": 32, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32892": {
-        "collection_date": "2020-06-05", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV20600": {
-        "collection_date": "2020-05-15", 
-        "age": 36, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30163": {
-        "collection_date": "2020-05-23", 
-        "age": 40, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16509": {
-        "collection_date": "2020-05-12", 
-        "age": 54, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV16508": {
-        "collection_date": "2020-05-12", 
-        "age": 35, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32815": {
-        "collection_date": "2020-06-04", 
-        "age": 53, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30167": {
-        "collection_date": "2020-05-23", 
-        "age": 20, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV29181": {
-        "collection_date": "2020-05-22", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC170": {
-        "collection_date": "2020-05-07", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC33": {
-        "collection_date": "2020-04-04", 
-        "age": 10, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV32814": {
-        "collection_date": "2020-06-04", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV14004": {
-        "collection_date": "2020-05-09", 
-        "age": 36, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV31684": {
-        "collection_date": "2020-05-26", 
-        "age": 34, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV35317": {
-        "collection_date": "2020-06-10", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV14244": {
-        "collection_date": "2020-05-10", 
-        "age": 22, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15918": {
-        "collection_date": "2020-05-11", 
-        "age": 16, 
-        "sex": "Female",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC166": {
-        "collection_date": "2020-05-07", 
-        "age": 35, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC167": {
-        "collection_date": "2020-05-07", 
-        "age": 25, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC164": {
-        "collection_date": "2020-05-07", 
-        "age": 23, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC165": {
-        "collection_date": "2020-05-07", 
-        "age": 45, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC162": {
-        "collection_date": "2020-05-07", 
-        "age": 35, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC163": {
-        "collection_date": "2020-05-07", 
-        "age": 30, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC160": {
-        "collection_date": "2020-05-07", 
-        "age": 39, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "RMRC161": {
-        "collection_date": "2020-05-07", 
-        "age": 31, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV27196": {
-        "collection_date": "2020-05-21", 
-        "age": 21, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV30273": {
-        "collection_date": "2020-05-23", 
-        "age": 50, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV11165": {
-        "collection_date": "2020-05-07", 
-        "age": 24, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19358": {
-        "collection_date": "2020-05-14", 
-        "age": 60, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV28955": {
-        "collection_date": "2020-05-22", 
-        "age": 55, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV23208": {
-        "collection_date": "2020-05-17", 
-        "age": 63, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV15917": {
-        "collection_date": "2020-05-11", 
-        "age": 48, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }, 
-    "ILSCV19355": {
-        "collection_date": "2020-05-14", 
-        "age": 26, 
-        "sex": "Male",
-        "platform": "Illumina NextSeq 500"
-    }
+	"ILSCV11171": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 22.7,
+		"Ct_ORF1_gene": 22.6,
+		"Ct_S_gene": 21.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV11996": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 28.5,
+		"Ct_ORF1_gene": 29,
+		"Ct_S_gene": 28.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV12742": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 19.8,
+		"Ct_ORF1_gene": 19.2,
+		"Ct_S_gene": 19.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV12743": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 23.2,
+		"Ct_ORF1_gene": 23,
+		"Ct_S_gene": 23.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV12744": {
+		"age": 22,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 28.7,
+		"Ct_ORF1_gene": 28.3,
+		"Ct_S_gene": 28.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV12751": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 28.9,
+		"Ct_ORF1_gene": 28.7,
+		"Ct_S_gene": 29.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV12752": {
+		"age": 18,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 15.6,
+		"Ct_ORF1_gene": 14.7,
+		"Ct_S_gene": 15.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV12762": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 21,
+		"Ct_ORF1_gene": 20.4,
+		"Ct_S_gene": 21.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV13676": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 20.6,
+		"Ct_ORF1_gene": 20.5,
+		"Ct_S_gene": 21.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV13678": {
+		"age": 45,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 23.2,
+		"Ct_ORF1_gene": 23.3,
+		"Ct_S_gene": 24.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV13695": {
+		"age": 29,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 23.9,
+		"Ct_ORF1_gene": 23.7,
+		"Ct_S_gene": 24.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV13715": {
+		"age": 37,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 21.7,
+		"Ct_ORF1_gene": 21,
+		"Ct_S_gene": 21.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV13744": {
+		"age": 35,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 22.7,
+		"Ct_ORF1_gene": 22.3,
+		"Ct_S_gene": 22.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV13907": {
+		"age": 45,
+		"sex": "Male",
+		"collection_date": "2020-05-10",
+		"Ct_N_gene": 16.3,
+		"Ct_ORF1_gene": 15.3,
+		"Ct_S_gene": 15.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV13921": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-10",
+		"Ct_N_gene": 19.2,
+		"Ct_ORF1_gene": 18.1,
+		"Ct_S_gene": 18.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV13929": {
+		"age": 45,
+		"sex": "Male",
+		"collection_date": "2020-05-10",
+		"Ct_N_gene": 21.2,
+		"Ct_ORF1_gene": 23.4,
+		"Ct_S_gene": 23.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV14004": {
+		"age": 36,
+		"sex": "Male",
+		"collection_date": "2020-05-09",
+		"Ct_N_gene": 21.2,
+		"Ct_ORF1_gene": 20,
+		"Ct_S_gene": 21.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV14244": {
+		"age": 22,
+		"sex": "Female",
+		"collection_date": "2020-05-10",
+		"Ct_N_gene": 27.3,
+		"Ct_ORF1_gene": 26.8,
+		"Ct_S_gene": 27.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV14262": {
+		"age": 26,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 19.4,
+		"Ct_ORF1_gene": 19.2,
+		"Ct_S_gene": 19.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV14289": {
+		"age": 39,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 26.9,
+		"Ct_ORF1_gene": 26.4,
+		"Ct_S_gene": 26.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV14374": {
+		"age": 50,
+		"sex": "Male",
+		"collection_date": "2020-05-10",
+		"Ct_N_gene": 23.7,
+		"Ct_ORF1_gene": 31.6,
+		"Ct_S_gene": 24.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV14743": {
+		"age": 75,
+		"sex": "Male",
+		"collection_date": "2020-05-10",
+		"Ct_N_gene": 18.7,
+		"Ct_ORF1_gene": 18.1,
+		"Ct_S_gene": 18.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV14831": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-05-10",
+		"Ct_N_gene": 24,
+		"Ct_ORF1_gene": 23.7,
+		"Ct_S_gene": 24.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV14847": {
+		"age": 44,
+		"sex": "Male",
+		"collection_date": "2020-05-10",
+		"Ct_N_gene": 17.6,
+		"Ct_ORF1_gene": 16.9,
+		"Ct_S_gene": 17.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15546": {
+		"age": 33,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 27.7,
+		"Ct_ORF1_gene": 27.1,
+		"Ct_S_gene": 27.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15547": {
+		"age": 19,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 26,
+		"Ct_ORF1_gene": 25.4,
+		"Ct_S_gene": 25.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15552": {
+		"age": 19,
+		"sex": "Female",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 16.4,
+		"Ct_ORF1_gene": 16,
+		"Ct_S_gene": 16.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15907": {
+		"age": 26,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 29,
+		"Ct_ORF1_gene": 27.6,
+		"Ct_S_gene": 28.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15917": {
+		"age": 48,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 21.4,
+		"Ct_ORF1_gene": 20.3,
+		"Ct_S_gene": 20.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15918": {
+		"age": 16,
+		"sex": "Female",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 16.6,
+		"Ct_ORF1_gene": 15.4,
+		"Ct_S_gene": 16.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15937": {
+		"age": 50,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 22.1,
+		"Ct_ORF1_gene": 21.1,
+		"Ct_S_gene": 21.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16009": {
+		"age": 37,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 25.6,
+		"Ct_ORF1_gene": 25,
+		"Ct_S_gene": 25.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16012": {
+		"age": 33,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 23.6,
+		"Ct_ORF1_gene": 23.4,
+		"Ct_S_gene": 23.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16280": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 26.6,
+		"Ct_ORF1_gene": 25.9,
+		"Ct_S_gene": 25.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16494": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 26.2,
+		"Ct_ORF1_gene": 26.3,
+		"Ct_S_gene": 26.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16495": {
+		"age": 37,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 22.7,
+		"Ct_ORF1_gene": 21.9,
+		"Ct_S_gene": 22.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16498": {
+		"age": 37,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 24,
+		"Ct_ORF1_gene": 23.6,
+		"Ct_S_gene": 23.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16508": {
+		"age": 35,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 29.1,
+		"Ct_ORF1_gene": 28.6,
+		"Ct_S_gene": 29.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16509": {
+		"age": 54,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 27.1,
+		"Ct_ORF1_gene": 26.8,
+		"Ct_S_gene": 27.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16510": {
+		"age": 38,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 24.5,
+		"Ct_ORF1_gene": 23.7,
+		"Ct_S_gene": 24.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16512": {
+		"age": 45,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 25.7,
+		"Ct_ORF1_gene": 25.4,
+		"Ct_S_gene": 25.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16514": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 25.4,
+		"Ct_ORF1_gene": 24.7,
+		"Ct_S_gene": 24.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16631": {
+		"age": 45,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 15.8,
+		"Ct_ORF1_gene": 16,
+		"Ct_S_gene": 16.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16809": {
+		"age": 18,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 23.6,
+		"Ct_ORF1_gene": 23.6,
+		"Ct_S_gene": 23.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16828": {
+		"age": 18,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 19.8,
+		"Ct_ORF1_gene": 19.3,
+		"Ct_S_gene": 19.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV17568": {
+		"age": 45,
+		"sex": "Female",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 16.8,
+		"Ct_ORF1_gene": 15.7,
+		"Ct_S_gene": 16.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV17569": {
+		"age": 50,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 24.5,
+		"Ct_ORF1_gene": 24.2,
+		"Ct_S_gene": 24.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV17741": {
+		"age": 40,
+		"sex": "Female",
+		"collection_date": "2020-05-13",
+		"Ct_N_gene": 16.8,
+		"Ct_ORF1_gene": 16.3,
+		"Ct_S_gene": 15.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV18287": {
+		"age": 15,
+		"sex": "Female",
+		"collection_date": "2020-05-13",
+		"Ct_N_gene": 25.8,
+		"Ct_ORF1_gene": 25.2,
+		"Ct_S_gene": 25.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV18525": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-05-13",
+		"Ct_N_gene": 16.1,
+		"Ct_ORF1_gene": 15.3,
+		"Ct_S_gene": 14.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV18534": {
+		"age": 22,
+		"sex": "Male",
+		"collection_date": "2020-05-13",
+		"Ct_N_gene": 25.2,
+		"Ct_ORF1_gene": 24.7,
+		"Ct_S_gene": 24.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV18539": {
+		"age": 17,
+		"sex": "Male",
+		"collection_date": "2020-05-13",
+		"Ct_N_gene": 19.5,
+		"Ct_ORF1_gene": 19.1,
+		"Ct_S_gene": 19.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV18556": {
+		"age": 26,
+		"sex": "Male",
+		"collection_date": "2020-05-13",
+		"Ct_N_gene": 26.1,
+		"Ct_ORF1_gene": 26.2,
+		"Ct_S_gene": 26.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19048": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-05-16",
+		"Ct_N_gene": 18.3,
+		"Ct_ORF1_gene": 18.3,
+		"Ct_S_gene": 18.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19144": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-14",
+		"Ct_N_gene": 14.5,
+		"Ct_ORF1_gene": 14.3,
+		"Ct_S_gene": 14.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19156": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-05-14",
+		"Ct_N_gene": 24.6,
+		"Ct_ORF1_gene": 25,
+		"Ct_S_gene": 25,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19192": {
+		"age": 34,
+		"sex": "Male",
+		"collection_date": "2020-05-14",
+		"Ct_N_gene": 16.9,
+		"Ct_ORF1_gene": 16.3,
+		"Ct_S_gene": 17.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19209": {
+		"age": 29,
+		"sex": "Male",
+		"collection_date": "2020-05-14",
+		"Ct_N_gene": 19.6,
+		"Ct_ORF1_gene": 19.2,
+		"Ct_S_gene": 19.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19342": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-05-14",
+		"Ct_N_gene": 25.8,
+		"Ct_ORF1_gene": 25.6,
+		"Ct_S_gene": 25.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19346": {
+		"age": 48,
+		"sex": "Female",
+		"collection_date": "2020-05-14",
+		"Ct_N_gene": 25.5,
+		"Ct_ORF1_gene": 25.1,
+		"Ct_S_gene": 25.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19355": {
+		"age": 26,
+		"sex": "Male",
+		"collection_date": "2020-05-14",
+		"Ct_N_gene": 19.5,
+		"Ct_ORF1_gene": 18.5,
+		"Ct_S_gene": 18.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV19358": {
+		"age": 60,
+		"sex": "Male",
+		"collection_date": "2020-05-14",
+		"Ct_N_gene": 23.7,
+		"Ct_ORF1_gene": 23.6,
+		"Ct_S_gene": 23.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20165": {
+		"age": 19,
+		"sex": "Male",
+		"collection_date": "2020-05-05",
+		"Ct_N_gene": 26.6,
+		"Ct_ORF1_gene": 26.4,
+		"Ct_S_gene": 26.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20166": {
+		"age": 19,
+		"sex": "Male",
+		"collection_date": "2020-05-05",
+		"Ct_N_gene": 21.7,
+		"Ct_ORF1_gene": 20.8,
+		"Ct_S_gene": 20.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20407": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-15",
+		"Ct_N_gene": 21.1,
+		"Ct_ORF1_gene": 20.1,
+		"Ct_S_gene": 19.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20408": {
+		"age": 33,
+		"sex": "Male",
+		"collection_date": "2020-05-15",
+		"Ct_N_gene": 27.1,
+		"Ct_ORF1_gene": 26.4,
+		"Ct_S_gene": 26.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20410": {
+		"age": 48,
+		"sex": "Male",
+		"collection_date": "2020-05-15",
+		"Ct_N_gene": 16.5,
+		"Ct_ORF1_gene": 15.3,
+		"Ct_S_gene": 15.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20557": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-15",
+		"Ct_N_gene": 15.2,
+		"Ct_ORF1_gene": 14.6,
+		"Ct_S_gene": 14.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20596": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-05-15",
+		"Ct_N_gene": 22.9,
+		"Ct_ORF1_gene": 22.6,
+		"Ct_S_gene": 22.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20598": {
+		"age": 58,
+		"sex": "Male",
+		"collection_date": "2020-05-15",
+		"Ct_N_gene": 19.6,
+		"Ct_ORF1_gene": 19.3,
+		"Ct_S_gene": 19.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20600": {
+		"age": 36,
+		"sex": "Male",
+		"collection_date": "2020-05-15",
+		"Ct_N_gene": 22.7,
+		"Ct_ORF1_gene": 21.9,
+		"Ct_S_gene": 22.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV20804": {
+		"age": 1,
+		"sex": "Female",
+		"collection_date": "2020-05-16",
+		"Ct_N_gene": 19.2,
+		"Ct_ORF1_gene": 18.4,
+		"Ct_S_gene": 17.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV21587": {
+		"age": 46,
+		"sex": "Male",
+		"collection_date": "2020-05-16",
+		"Ct_N_gene": 23.5,
+		"Ct_ORF1_gene": 22.7,
+		"Ct_S_gene": 22.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV21602": {
+		"age": 21,
+		"sex": "Male",
+		"collection_date": "2020-05-16",
+		"Ct_N_gene": 23.4,
+		"Ct_ORF1_gene": 22.7,
+		"Ct_S_gene": 23.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV21721": {
+		"age": 18,
+		"sex": "Male",
+		"collection_date": "2020-05-16",
+		"Ct_N_gene": 21.7,
+		"Ct_ORF1_gene": 20.9,
+		"Ct_S_gene": 21.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV23208": {
+		"age": 63,
+		"sex": "Male",
+		"collection_date": "2020-05-17",
+		"Ct_N_gene": 25.4,
+		"Ct_ORF1_gene": 25.4,
+		"Ct_S_gene": 26.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV24694": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-18",
+		"Ct_N_gene": 26.5,
+		"Ct_ORF1_gene": 26.9,
+		"Ct_S_gene": 26.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV24917": {
+		"age": 26,
+		"sex": "Male",
+		"collection_date": "2020-05-18",
+		"Ct_N_gene": 21.8,
+		"Ct_ORF1_gene": 22.1,
+		"Ct_S_gene": 23.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV24918": {
+		"age": 23,
+		"sex": "Female",
+		"collection_date": "2020-05-18",
+		"Ct_N_gene": 26.8,
+		"Ct_ORF1_gene": 27,
+		"Ct_S_gene": 27.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV25367": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-05-19",
+		"Ct_N_gene": 13.9,
+		"Ct_ORF1_gene": 15.1,
+		"Ct_S_gene": 14.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV25378": {
+		"age": 44,
+		"sex": "Male",
+		"collection_date": "2020-05-19",
+		"Ct_N_gene": 16.3,
+		"Ct_ORF1_gene": 15.8,
+		"Ct_S_gene": 15.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV25518": {
+		"age": 22,
+		"sex": "Male",
+		"collection_date": "2020-05-19",
+		"Ct_N_gene": 20.8,
+		"Ct_ORF1_gene": 20.3,
+		"Ct_S_gene": 19.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV25524": {
+		"age": 32,
+		"sex": "Male",
+		"collection_date": "2020-05-19",
+		"Ct_N_gene": 19.3,
+		"Ct_ORF1_gene": 18.4,
+		"Ct_S_gene": 18.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV25591": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-05-19",
+		"Ct_N_gene": 20.1,
+		"Ct_ORF1_gene": 19.7,
+		"Ct_S_gene": 19.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV25594": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-05-19",
+		"Ct_N_gene": 27.19,
+		"Ct_ORF1_gene": 27.31,
+		"Ct_S_gene": 27.316,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV26793": {
+		"age": 36,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 15.8,
+		"Ct_ORF1_gene": 15.5,
+		"Ct_S_gene": 15.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV26795": {
+		"age": 40,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 18.6,
+		"Ct_ORF1_gene": 18.5,
+		"Ct_S_gene": 18.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27217": {
+		"age": 37,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 15.9,
+		"Ct_ORF1_gene": 15.9,
+		"Ct_S_gene": 15.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27381": {
+		"age": 35,
+		"sex": "Female",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 18.7,
+		"Ct_ORF1_gene": 18.8,
+		"Ct_S_gene": 19.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27406": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 20.9,
+		"Ct_ORF1_gene": 21.1,
+		"Ct_S_gene": 21.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27409": {
+		"age": 45,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 24.4,
+		"Ct_ORF1_gene": 25.6,
+		"Ct_S_gene": 25.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27412": {
+		"age": 20,
+		"sex": "Female",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 27.9,
+		"Ct_ORF1_gene": 28.9,
+		"Ct_S_gene": 29.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27419": {
+		"age": 27,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 24.2,
+		"Ct_ORF1_gene": 25,
+		"Ct_S_gene": 24.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27713": {
+		"age": 50,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 23.4,
+		"Ct_ORF1_gene": 24.4,
+		"Ct_S_gene": 24.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27725": {
+		"age": 33,
+		"sex": "Female",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 23.3,
+		"Ct_ORF1_gene": 24.5,
+		"Ct_S_gene": 24.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27726": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 17.6,
+		"Ct_ORF1_gene": 17.9,
+		"Ct_S_gene": 19.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27789": {
+		"age": 55,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 15.7,
+		"Ct_ORF1_gene": 15.9,
+		"Ct_S_gene": 18.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV28062": {
+		"age": 33,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 20.5,
+		"Ct_ORF1_gene": 20.7,
+		"Ct_S_gene": 26.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV28594": {
+		"age": 19,
+		"sex": "Male",
+		"collection_date": "2020-05-22",
+		"Ct_N_gene": 17.6,
+		"Ct_ORF1_gene": 17.8,
+		"Ct_S_gene": 18.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV28955": {
+		"age": 55,
+		"sex": "Male",
+		"collection_date": "2020-05-22",
+		"Ct_N_gene": 16.7,
+		"Ct_ORF1_gene": 16.6,
+		"Ct_S_gene": 17.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29181": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-05-22",
+		"Ct_N_gene": 17.7,
+		"Ct_ORF1_gene": 17.8,
+		"Ct_S_gene": 18.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29215": {
+		"age": 42,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 17,
+		"Ct_ORF1_gene": 18.7,
+		"Ct_S_gene": 20.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29457": {
+		"age": 35,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 16.8,
+		"Ct_ORF1_gene": 17,
+		"Ct_S_gene": 17.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29666": {
+		"age": 40,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 19.1,
+		"Ct_ORF1_gene": 19.1,
+		"Ct_S_gene": 20.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29958": {
+		"age": 40,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 27.3,
+		"Ct_ORF1_gene": 27.8,
+		"Ct_S_gene": 28.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29959": {
+		"age": 38,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 21.7,
+		"Ct_ORF1_gene": 21.4,
+		"Ct_S_gene": 27.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29960": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 22.2,
+		"Ct_ORF1_gene": 25.6,
+		"Ct_S_gene": 26.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29961": {
+		"age": 39,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 20,
+		"Ct_ORF1_gene": 20.1,
+		"Ct_S_gene": 21.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29962": {
+		"age": 27,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 17,
+		"Ct_ORF1_gene": 16.8,
+		"Ct_S_gene": 17.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29971": {
+		"age": 36,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 15.7,
+		"Ct_ORF1_gene": 16.1,
+		"Ct_S_gene": 16.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29997": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 17.1,
+		"Ct_ORF1_gene": 17.2,
+		"Ct_S_gene": 18.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30115": {
+		"age": 28,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 16,
+		"Ct_ORF1_gene": 15.9,
+		"Ct_S_gene": 16.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30140": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 21.3,
+		"Ct_ORF1_gene": 22.4,
+		"Ct_S_gene": 22.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30141": {
+		"age": 42,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 16.2,
+		"Ct_ORF1_gene": 16.4,
+		"Ct_S_gene": 18.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30163": {
+		"age": 40,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 26.6,
+		"Ct_ORF1_gene": 27.1,
+		"Ct_S_gene": 27,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30167": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 21.3,
+		"Ct_ORF1_gene": 21,
+		"Ct_S_gene": 20.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30220": {
+		"age": 40,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 25.6,
+		"Ct_ORF1_gene": 26.3,
+		"Ct_S_gene": 27,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30221": {
+		"age": 48,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 21.3,
+		"Ct_ORF1_gene": 21.8,
+		"Ct_S_gene": 21.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30273": {
+		"age": 50,
+		"sex": "Male",
+		"collection_date": "2020-05-23",
+		"Ct_N_gene": 18.4,
+		"Ct_ORF1_gene": 18.6,
+		"Ct_S_gene": 18.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV30442": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-24",
+		"Ct_N_gene": 27.1,
+		"Ct_ORF1_gene": 28.1,
+		"Ct_S_gene": 28.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV31185": {
+		"age": 33,
+		"sex": "Male",
+		"collection_date": "2020-05-24",
+		"Ct_N_gene": 22.8,
+		"Ct_ORF1_gene": 24.6,
+		"Ct_S_gene": 25.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV31447": {
+		"age": 22,
+		"sex": "Male",
+		"collection_date": "2020-05-26",
+		"Ct_N_gene": 22.7,
+		"Ct_ORF1_gene": 23,
+		"Ct_S_gene": 23.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV31650": {
+		"age": 21,
+		"sex": "Female",
+		"collection_date": "2020-05-26",
+		"Ct_N_gene": 24,
+		"Ct_ORF1_gene": 24.3,
+		"Ct_S_gene": 24.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV31684": {
+		"age": 34,
+		"sex": "Male",
+		"collection_date": "2020-05-26",
+		"Ct_N_gene": 20.5,
+		"Ct_ORF1_gene": 20.9,
+		"Ct_S_gene": 20.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV31693": {
+		"age": 32,
+		"sex": "Male",
+		"collection_date": "2020-05-26",
+		"Ct_N_gene": 32.4,
+		"Ct_ORF1_gene": 32.6,
+		"Ct_S_gene": 39.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV31694": {
+		"age": 42,
+		"sex": "Male",
+		"collection_date": "2020-05-26",
+		"Ct_N_gene": 28.6,
+		"Ct_ORF1_gene": 28.4,
+		"Ct_S_gene": 28,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV31984": {
+		"age": 49,
+		"sex": "Male",
+		"collection_date": "2020-05-29",
+		"Ct_N_gene": 22.1,
+		"Ct_ORF1_gene": 22,
+		"Ct_S_gene": 22.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32007": {
+		"age": 22,
+		"sex": "Male",
+		"collection_date": "2020-05-29",
+		"Ct_N_gene": 17,
+		"Ct_ORF1_gene": 17.05,
+		"Ct_S_gene": 17.08,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32142": {
+		"age": 36,
+		"sex": "Male",
+		"collection_date": "2020-05-30",
+		"Ct_N_gene": 22.4,
+		"Ct_ORF1_gene": 22.2,
+		"Ct_S_gene": 21.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32465": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-05-30",
+		"Ct_N_gene": 26.3,
+		"Ct_ORF1_gene": 26.1,
+		"Ct_S_gene": 25.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32485": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-06-02",
+		"Ct_N_gene": 29,
+		"Ct_ORF1_gene": 29,
+		"Ct_S_gene": 28.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32486": {
+		"age": 35,
+		"sex": "Male",
+		"collection_date": "2020-06-02",
+		"Ct_N_gene": 19.9,
+		"Ct_ORF1_gene": 19.7,
+		"Ct_S_gene": 19.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32593": {
+		"age": 16,
+		"sex": "Male",
+		"collection_date": "2020-06-03",
+		"Ct_N_gene": 18.7,
+		"Ct_ORF1_gene": 19.3,
+		"Ct_S_gene": 19.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32652": {
+		"age": 27,
+		"sex": "Male",
+		"collection_date": "2020-06-03",
+		"Ct_N_gene": 26.6,
+		"Ct_ORF1_gene": 27.1,
+		"Ct_S_gene": 28.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32656": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-06-03",
+		"Ct_N_gene": 21.3,
+		"Ct_ORF1_gene": 22.6,
+		"Ct_S_gene": 24.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32670": {
+		"age": 60,
+		"sex": "Male",
+		"collection_date": "2020-06-03",
+		"Ct_N_gene": 20.9,
+		"Ct_ORF1_gene": 21.4,
+		"Ct_S_gene": 22.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32814": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-06-04",
+		"Ct_N_gene": 17.8,
+		"Ct_ORF1_gene": 18.7,
+		"Ct_S_gene": 19.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32815": {
+		"age": 53,
+		"sex": "Male",
+		"collection_date": "2020-06-04",
+		"Ct_N_gene": 20.7,
+		"Ct_ORF1_gene": 22.4,
+		"Ct_S_gene": 23.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32816": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-06-04",
+		"Ct_N_gene": 22.6,
+		"Ct_ORF1_gene": 22.7,
+		"Ct_S_gene": 23,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32817": {
+		"age": 27,
+		"sex": "Male",
+		"collection_date": "2020-06-04",
+		"Ct_N_gene": 21.04,
+		"Ct_ORF1_gene": 21.25,
+		"Ct_S_gene": 21.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32866": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-06-04",
+		"Ct_N_gene": 28.37,
+		"Ct_ORF1_gene": 28.7,
+		"Ct_S_gene": 28.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32870": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-06-04",
+		"Ct_N_gene": 25.6,
+		"Ct_ORF1_gene": 26.3,
+		"Ct_S_gene": 26.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32872": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-06-04",
+		"Ct_N_gene": 23.2,
+		"Ct_ORF1_gene": 23.4,
+		"Ct_S_gene": 23.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32879": {
+		"age": 26,
+		"sex": "Male",
+		"collection_date": "2020-06-05",
+		"Ct_N_gene": 15.1,
+		"Ct_ORF1_gene": 14.9,
+		"Ct_S_gene": 14.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32889": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-06-05",
+		"Ct_N_gene": 28.5,
+		"Ct_ORF1_gene": 29.2,
+		"Ct_S_gene": 28.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32892": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-06-05",
+		"Ct_N_gene": 25.8,
+		"Ct_ORF1_gene": 26.4,
+		"Ct_S_gene": 26.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32893": {
+		"age": 32,
+		"sex": "Male",
+		"collection_date": "2020-06-05",
+		"Ct_N_gene": 27.1,
+		"Ct_ORF1_gene": 27.8,
+		"Ct_S_gene": 27.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32895": {
+		"age": 19,
+		"sex": "Male",
+		"collection_date": "2020-06-05",
+		"Ct_N_gene": 27.3,
+		"Ct_ORF1_gene": 28,
+		"Ct_S_gene": 28,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32896": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-06-05",
+		"Ct_N_gene": 14.9,
+		"Ct_ORF1_gene": 15.3,
+		"Ct_S_gene": 14.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32898": {
+		"age": 21,
+		"sex": "Male",
+		"collection_date": "2020-06-05",
+		"Ct_N_gene": 15.8,
+		"Ct_ORF1_gene": 15.9,
+		"Ct_S_gene": 15.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV32899": {
+		"age": 19,
+		"sex": "Male",
+		"collection_date": "2020-06-05",
+		"Ct_N_gene": 14.3,
+		"Ct_ORF1_gene": 15.2,
+		"Ct_S_gene": 15,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV33971": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-06-08",
+		"Ct_N_gene": 20.9,
+		"Ct_ORF1_gene": 20.6,
+		"Ct_S_gene": 20.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV33972": {
+		"age": 18,
+		"sex": "Male",
+		"collection_date": "2020-06-08",
+		"Ct_N_gene": 19.4,
+		"Ct_ORF1_gene": 19.9,
+		"Ct_S_gene": 20.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV33982": {
+		"age": 37,
+		"sex": "Male",
+		"collection_date": "2020-06-08",
+		"Ct_N_gene": 17.3,
+		"Ct_ORF1_gene": 17.9,
+		"Ct_S_gene": 18.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV33983": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-06-08",
+		"Ct_N_gene": 19.2,
+		"Ct_ORF1_gene": 20.1,
+		"Ct_S_gene": 20.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV34478": {
+		"age": 21,
+		"sex": "Male",
+		"collection_date": "2020-06-09",
+		"Ct_N_gene": 20.9,
+		"Ct_ORF1_gene": 21.6,
+		"Ct_S_gene": 22.2,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV34479": {
+		"age": 38,
+		"sex": "Male",
+		"collection_date": "2020-06-09",
+		"Ct_N_gene": 17.9,
+		"Ct_ORF1_gene": 18.7,
+		"Ct_S_gene": 19.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV34480": {
+		"age": 18,
+		"sex": "Male",
+		"collection_date": "2020-06-09",
+		"Ct_N_gene": 19.7,
+		"Ct_ORF1_gene": 20.5,
+		"Ct_S_gene": 20.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV34933": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 17.7,
+		"Ct_ORF1_gene": 18.1,
+		"Ct_S_gene": 18.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV34939": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 26,
+		"Ct_ORF1_gene": 26.1,
+		"Ct_S_gene": 26.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35141": {
+		"age": 28,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 16.7,
+		"Ct_ORF1_gene": 17.2,
+		"Ct_S_gene": 17.3,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35308": {
+		"age": 45,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 14.4,
+		"Ct_ORF1_gene": 15.4,
+		"Ct_S_gene": 15.8,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35317": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 13,
+		"Ct_ORF1_gene": 14.8,
+		"Ct_S_gene": 15.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35333": {
+		"age": 38,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 22.9,
+		"Ct_ORF1_gene": 24,
+		"Ct_S_gene": 24.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35350": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 20,
+		"Ct_ORF1_gene": 21.2,
+		"Ct_S_gene": 22.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35351": {
+		"age": 22,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 15.4,
+		"Ct_ORF1_gene": 16,
+		"Ct_S_gene": 16.5,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35353": {
+		"age": 24,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 11.9,
+		"Ct_ORF1_gene": 13.1,
+		"Ct_S_gene": 13.9,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35366": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 20.6,
+		"Ct_ORF1_gene": 21.4,
+		"Ct_S_gene": 21.7,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35376": {
+		"age": 27,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 15.5,
+		"Ct_ORF1_gene": 16.5,
+		"Ct_S_gene": 17.1,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35456": {
+		"age": 19,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 19.4,
+		"Ct_ORF1_gene": 20.2,
+		"Ct_S_gene": 21.6,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35457": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 25.97714806,
+		"Ct_ORF1_gene": 25.78753853,
+		"Ct_S_gene": 26.23542213,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35461": {
+		"age": 35,
+		"sex": "Male",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 23.33885384,
+		"Ct_ORF1_gene": 23.54337502,
+		"Ct_S_gene": 23.90307236,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35475": {
+		"age": 21,
+		"sex": "Female",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 27.22113419,
+		"Ct_ORF1_gene": 27.54768753,
+		"Ct_S_gene": 27.77056694,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35476": {
+		"age": 19,
+		"sex": "Female",
+		"collection_date": "2020-06-10",
+		"Ct_N_gene": 25,
+		"Ct_ORF1_gene": 25.2,
+		"Ct_S_gene": 25.4,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35482": {
+		"age": 19,
+		"sex": "Female",
+		"collection_date": "2020-06-11",
+		"Ct_N_gene": 18.80534172,
+		"Ct_ORF1_gene": 18.52472687,
+		"Ct_S_gene": 18.72224617,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35574": {
+		"age": 26,
+		"sex": "Male",
+		"collection_date": "2020-06-11",
+		"Ct_N_gene": 18.10259056,
+		"Ct_ORF1_gene": 18.08340263,
+		"Ct_S_gene": 18.23112106,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35614": {
+		"age": 29,
+		"sex": "Male",
+		"collection_date": "2020-06-12",
+		"Ct_N_gene": 15.20278454,
+		"Ct_ORF1_gene": 15.74662876,
+		"Ct_S_gene": 15.70916653,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35615": {
+		"age": 33,
+		"sex": "Male",
+		"collection_date": "2020-06-12",
+		"Ct_N_gene": 13.32156944,
+		"Ct_ORF1_gene": 13.87563896,
+		"Ct_S_gene": 14.09075928,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV35750": {
+		"age": 26,
+		"sex": "Male",
+		"collection_date": "2020-06-12",
+		"Ct_N_gene": 17.14742279,
+		"Ct_ORF1_gene": 17.60190964,
+		"Ct_S_gene": 17.63888931,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC104": {
+		"age": 21,
+		"sex": "Male",
+		"collection_date": "2020-05-06",
+		"Ct_N_gene": 14.71672535,
+		"Ct_ORF1_gene": 15.14390469,
+		"Ct_S_gene": 15.31897926,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC106": {
+		"age": 40,
+		"sex": "Male",
+		"collection_date": "2020-05-06",
+		"Ct_N_gene": 24.96794891,
+		"Ct_ORF1_gene": 25.34399605,
+		"Ct_S_gene": 25.58202744,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC108": {
+		"age": 33,
+		"sex": "Male",
+		"collection_date": "2020-05-06",
+		"Ct_N_gene": 24.56860161,
+		"Ct_ORF1_gene": 24.68127823,
+		"Ct_S_gene": 24.95647812,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC110": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-06",
+		"Ct_N_gene": 24.27595711,
+		"Ct_ORF1_gene": 24.63920784,
+		"Ct_S_gene": 24.86523247,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC112": {
+		"age": 47,
+		"sex": "Male",
+		"collection_date": "2020-05-06",
+		"Ct_N_gene": 15.93201351,
+		"Ct_ORF1_gene": 16.2101593,
+		"Ct_S_gene": 16.55257988,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC123": {
+		"age": 35,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 26.26647568,
+		"Ct_ORF1_gene": 27.14780426,
+		"Ct_S_gene": 27.618433,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC154": {
+		"age": 22,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 25.46450424,
+		"Ct_ORF1_gene": 25.81127739,
+		"Ct_S_gene": 25.82968521,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC155": {
+		"age": 28,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 14.40448856,
+		"Ct_ORF1_gene": 15.68552494,
+		"Ct_S_gene": 15.95455742,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC156": {
+		"age": 34,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 18.45306396,
+		"Ct_ORF1_gene": 18.88808823,
+		"Ct_S_gene": 19.30354691,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC157": {
+		"age": 55,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 21.47031975,
+		"Ct_ORF1_gene": 21.98200989,
+		"Ct_S_gene": 22.46547508,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC158": {
+		"age": 16,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 25.98258209,
+		"Ct_ORF1_gene": 26.57237434,
+		"Ct_S_gene": 27.10929871,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC159": {
+		"age": 38,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 27.70002174,
+		"Ct_ORF1_gene": 25.6358757,
+		"Ct_S_gene": 24.00469017,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC160": {
+		"age": 39,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 20.8137455,
+		"Ct_ORF1_gene": 18.59613609,
+		"Ct_S_gene": 18.19779015,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC162": {
+		"age": 35,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 23.88298225,
+		"Ct_ORF1_gene": 22.57765007,
+		"Ct_S_gene": 20.3439579,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC163": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 19.22083092,
+		"Ct_ORF1_gene": 17.57143211,
+		"Ct_S_gene": 16.99591446,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC164": {
+		"age": 23,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 17.2530098,
+		"Ct_ORF1_gene": 16.3384037,
+		"Ct_S_gene": 15.73410797,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC165": {
+		"age": 45,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 22.44514465,
+		"Ct_ORF1_gene": 19.92137718,
+		"Ct_S_gene": 20.40418434,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC166": {
+		"age": 35,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 16.73996162,
+		"Ct_ORF1_gene": 14.8559103,
+		"Ct_S_gene": 14.8190794,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC167": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 21.87773895,
+		"Ct_ORF1_gene": 20.66083527,
+		"Ct_S_gene": 19.53949547,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC169": {
+		"age": 43,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 20.28258514,
+		"Ct_ORF1_gene": 18.02186966,
+		"Ct_S_gene": 17.68916321,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC170": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 27.40054512,
+		"Ct_ORF1_gene": 26.17255211,
+		"Ct_S_gene": 23.22344017,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC171": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 18.26110649,
+		"Ct_ORF1_gene": 15.80557728,
+		"Ct_S_gene": 15.13352776,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC2": {
+		"age": 19,
+		"sex": "Male",
+		"collection_date": "2020-03-19",
+		"Ct_N_gene": 18.08984184,
+		"Ct_ORF1_gene": 16.42622375,
+		"Ct_S_gene": 16.38661575,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC20": {
+		"age": 70,
+		"sex": "Male",
+		"collection_date": "2020-04-02",
+		"Ct_N_gene": 19.76837921,
+		"Ct_ORF1_gene": 17.88206482,
+		"Ct_S_gene": 17.61722374,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC22": {
+		"age": 29,
+		"sex": "Male",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 16.88469124,
+		"Ct_ORF1_gene": 14.79337311,
+		"Ct_S_gene": 14.74676418,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC23": {
+		"age": 9,
+		"sex": "Female",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 20.32188797,
+		"Ct_ORF1_gene": 18.43822479,
+		"Ct_S_gene": 18.65550613,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC24": {
+		"age": 35,
+		"sex": "Female",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 28.23353195,
+		"Ct_ORF1_gene": 25.90758705,
+		"Ct_S_gene": 26.48217773,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC25": {
+		"age": 4,
+		"sex": "Male",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 26.53581047,
+		"Ct_ORF1_gene": 24.66002083,
+		"Ct_S_gene": 24.0074234,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC26": {
+		"age": 2,
+		"sex": "Male",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 18.76799965,
+		"Ct_ORF1_gene": 17.18262672,
+		"Ct_S_gene": 16.87390327,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC27": {
+		"age": 4,
+		"sex": "Male",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 19.33696747,
+		"Ct_ORF1_gene": 19.64713669,
+		"Ct_S_gene": 19.80028343,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC28": {
+		"age": 10,
+		"sex": "Female",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 21.36543655,
+		"Ct_ORF1_gene": 21.4398613,
+		"Ct_S_gene": 21.77964592,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC30": {
+		"age": 28,
+		"sex": "Female",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 18.3194828,
+		"Ct_ORF1_gene": 18.21211433,
+		"Ct_S_gene": 19.01796532,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC38": {
+		"age": 32,
+		"sex": "Female",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 18.32308197,
+		"Ct_ORF1_gene": 17.79797363,
+		"Ct_S_gene": 18.3935051,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC46": {
+		"age": 5,
+		"sex": "Female",
+		"collection_date": "2020-04-08",
+		"Ct_N_gene": 14.28550911,
+		"Ct_ORF1_gene": 14.28434181,
+		"Ct_S_gene": 14.77601147,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC47": {
+		"age": 37,
+		"sex": "Female",
+		"collection_date": "2020-04-08",
+		"Ct_N_gene": 27.3354187,
+		"Ct_ORF1_gene": 28.22477531,
+		"Ct_S_gene": 28.45259476,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC48": {
+		"age": 46,
+		"sex": "Male",
+		"collection_date": "2020-04-08",
+		"Ct_N_gene": 20.22252655,
+		"Ct_ORF1_gene": 20.36886215,
+		"Ct_S_gene": 20.76400948,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC49": {
+		"age": 35,
+		"sex": "Female",
+		"collection_date": "2020-04-09",
+		"Ct_N_gene": 29.08733559,
+		"Ct_ORF1_gene": 28.92871475,
+		"Ct_S_gene": 24.14151955,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC5": {
+		"age": 42,
+		"sex": "Male",
+		"collection_date": "2020-04-02",
+		"Ct_N_gene": 22.48842049,
+		"Ct_ORF1_gene": 19.94802475,
+		"Ct_S_gene": 20.52164268,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC6": {
+		"age": 32,
+		"sex": "Male",
+		"collection_date": "2020-04-02",
+		"Ct_N_gene": 24.48299408,
+		"Ct_ORF1_gene": 22.88335991,
+		"Ct_S_gene": 22.24316216,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC7": {
+		"age": 38,
+		"sex": "Male",
+		"collection_date": "2020-04-02",
+		"Ct_N_gene": 25.3825531,
+		"Ct_ORF1_gene": 23.81373405,
+		"Ct_S_gene": 23.35546303,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC84": {
+		"age": 27,
+		"sex": "Male",
+		"collection_date": "2020-05-04",
+		"Ct_N_gene": 23.98071671,
+		"Ct_ORF1_gene": 21.75298119,
+		"Ct_S_gene": 20.16071129,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC90": {
+		"age": 20,
+		"sex": "Male",
+		"collection_date": "2020-05-04",
+		"Ct_N_gene": 20.90664673,
+		"Ct_ORF1_gene": 19.26571846,
+		"Ct_S_gene": 18.29241753,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC92": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-04",
+		"Ct_N_gene": 25.2210331,
+		"Ct_ORF1_gene": 23.28855324,
+		"Ct_S_gene": 22.77039528,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC94": {
+		"age": 21,
+		"sex": "Male",
+		"collection_date": "2020-05-04",
+		"Ct_N_gene": 24.27147293,
+		"Ct_ORF1_gene": 22.12388229,
+		"Ct_S_gene": 21.56783295,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15428": {
+		"age": 37,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 21.62188721,
+		"Ct_ORF1_gene": 20.21324158,
+		"Ct_S_gene": 19.94394875,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15551": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 21.24809074,
+		"Ct_ORF1_gene": 18.99273872,
+		"Ct_S_gene": 18.8949852,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV15954": {
+		"age": 40,
+		"sex": "Male",
+		"collection_date": "2020-05-11",
+		"Ct_N_gene": 29.21412468,
+		"Ct_ORF1_gene": 26.69268227,
+		"Ct_S_gene": 25.41664505,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV16491": {
+		"age": 52,
+		"sex": "Male",
+		"collection_date": "2020-05-12",
+		"Ct_N_gene": 19.68684769,
+		"Ct_ORF1_gene": 18.16038322,
+		"Ct_S_gene": 17.52374268,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV21603": {
+		"age": 32,
+		"sex": "Male",
+		"collection_date": "2020-05-16",
+		"Ct_N_gene": 29.01696205,
+		"Ct_ORF1_gene": 27.63223076,
+		"Ct_S_gene": 21.98425865,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27146": {
+		"age": 18,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 18.1711216,
+		"Ct_ORF1_gene": 16.29980469,
+		"Ct_S_gene": 15.72995853,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27173": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 30.86165237,
+		"Ct_ORF1_gene": 28.61736107,
+		"Ct_S_gene": 23.71114922,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27196": {
+		"age": 21,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 20.17935181,
+		"Ct_ORF1_gene": 17.94430923,
+		"Ct_S_gene": 17.60054016,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27226": {
+		"age": 15,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 29.79768181,
+		"Ct_ORF1_gene": 27.84879303,
+		"Ct_S_gene": 25.03719521,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV27235": {
+		"age": 25,
+		"sex": "Male",
+		"collection_date": "2020-05-21",
+		"Ct_N_gene": 29.12862968,
+		"Ct_ORF1_gene": 27.81785774,
+		"Ct_S_gene": 25.30546379,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29347": {
+		"age": 30,
+		"sex": "Male",
+		"collection_date": "2020-05-22",
+		"Ct_N_gene": 21.25131035,
+		"Ct_ORF1_gene": 19.23058701,
+		"Ct_S_gene": 18.66881371,
+		"platform": "Illumina NextSeq 550"
+	},
+	"ILSCV29363": {
+		"age": 23,
+		"sex": "Female",
+		"collection_date": "2020-05-22",
+		"Ct_N_gene": 30.66371536,
+		"Ct_ORF1_gene": 28.30653954,
+		"Ct_S_gene": 24.67585945,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC1": {
+		"age": 33,
+		"sex": "Male",
+		"collection_date": "2020-03-15",
+		"Ct_N_gene": 25.99179268,
+		"Ct_ORF1_gene": 24.31059456,
+		"Ct_S_gene": 23.53818512,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC161": {
+		"age": 31,
+		"sex": "Male",
+		"collection_date": "2020-05-07",
+		"Ct_N_gene": 31.82136536,
+		"Ct_ORF1_gene": 29.88248634,
+		"Ct_S_gene": 23.46520615,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC18": {
+		"age": 29,
+		"sex": "Male",
+		"collection_date": "2020-04-02",
+		"Ct_N_gene": 21.69666481,
+		"Ct_ORF1_gene": 19.95684814,
+		"Ct_S_gene": 20.01685524,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC29": {
+		"age": 45,
+		"sex": "Female",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 32.08126068,
+		"Ct_ORF1_gene": 29.89071083,
+		"Ct_S_gene": 28.66117287,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC33": {
+		"age": 10,
+		"sex": "Male",
+		"collection_date": "2020-04-04",
+		"Ct_N_gene": 28.86690521,
+		"Ct_ORF1_gene": 29.23934364,
+		"Ct_S_gene": 26.47391129,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC45": {
+		"age": 9,
+		"sex": "Female",
+		"collection_date": "2020-04-08",
+		"Ct_N_gene": 31.01066971,
+		"Ct_ORF1_gene": 29.67573738,
+		"Ct_S_gene": 25.6420517,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC67": {
+		"age": 63,
+		"sex": "Male",
+		"collection_date": "2020-04-27",
+		"Ct_N_gene": 29.40333939,
+		"Ct_ORF1_gene": 27.66572762,
+		"Ct_S_gene": 25.42954445,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC70": {
+		"age": 34,
+		"sex": "Male",
+		"collection_date": "2020-04-28",
+		"Ct_N_gene": 27.52478409,
+		"Ct_ORF1_gene": 25.99412727,
+		"Ct_S_gene": 23.76617813,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC71": {
+		"age": 55,
+		"sex": "Male",
+		"collection_date": "2020-04-29",
+		"Ct_N_gene": 24.62336159,
+		"Ct_ORF1_gene": 22.72094536,
+		"Ct_S_gene": 22.21421623,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC73": {
+		"age": 55,
+		"sex": "Male",
+		"collection_date": "2020-04-29",
+		"Ct_N_gene": 23.68693542,
+		"Ct_ORF1_gene": 21.92951775,
+		"Ct_S_gene": 19.49066925,
+		"platform": "Illumina NextSeq 550"
+	},
+	"RMRC76": {
+		"age": 24,
+		"sex": "Female",
+		"collection_date": "2020-04-29",
+		"Ct_N_gene": 26.48264885,
+		"Ct_ORF1_gene": 24.65699768,
+		"Ct_S_gene": 23.58606148,
+		"platform": "Illumina NextSeq 550"
+	}
 }

@@ -46,7 +46,7 @@ if region:
 if samples:
 	SRX = samples
 else:
-	SRX = SRX = [i for i in os.listdir(directory) if (i.startswith("SRX")) or (i.startswith("ERX"))]
+	SRX = [i for i in os.listdir(directory) if (i.startswith("SRX")) or (i.startswith("ERX"))]
 
 if SRAFlag:
 	platform = "Illumina"
@@ -114,7 +114,7 @@ else:
 		sampleMetadata = {}
 
 if directory:
-	df = pd.DataFrame(columns=["Sample", "Total Reads After Trimming", "Hisat2 Human Mapped Reads", "Hisat2 Human Unmapped Reads", "Hisat2 % Human Mapped Reads", "Total Reads After Removing Duplicates", "BWA-MEM SARS-CoV-2 Mapped Reads", "BWA % SARS-CoV-2 Mapped Reads", "Mean of Coverage Depth", "Standard Deviation of Coverage Depth", "Mean Mapping Quality", "GC Percentage", "Error Rate", "Platform", "Collection Date", "Gender", "Age"], dtype=object)
+	df = pd.DataFrame(columns=["Sample", "Total Reads After Trimming", "Hisat2 Human Mapped Reads", "Hisat2 Human Unmapped Reads", "Hisat2 % Human Mapped Reads", "Total Reads After Removing Duplicates", "BWA-MEM SARS-CoV-2 Mapped Reads", "BWA % SARS-CoV-2 Mapped Reads", "Mean of Coverage Depth", "Standard Deviation of Coverage Depth", "Mean Mapping Quality", "GC Percentage", "Error Rate", "Platform", "Collection Date", "Gender", "Age", "Ct Value (N gene)", "Ct Value (ORF1 gene)", "Ct Value (S gene)"], dtype=object)
 
 	for SRXID in SRX:
 		SRXDir = directory + SRXID + "/"
@@ -156,15 +156,30 @@ if directory:
 			sample_platform = SRASampleMetadata[SRXID][0] if SRASampleMetadata[SRXID][0] != "" else "-"
 			collection_date = SRASampleMetadata[SRXID][1] if SRASampleMetadata[SRXID][1] != "" else "-"
 			host_sex = SRASampleMetadata[SRXID][2] if SRASampleMetadata[SRXID][2] != "" else "-"
-			host_age = SRASampleMetadata[SRXID][3] if SRASampleMetadata[SRXID][2] != "" else "-"
+			host_age = SRASampleMetadata[SRXID][3] if SRASampleMetadata[SRXID][3] != "" else "-"
+			Ct_N_gene = "-"
+			Ct_ORF1_gene = "-"
+			Ct_S_gene = "-"
 			
 		else:
-			sample_platform = sampleMetadata[SRXID]["platform"] if SRXID in sampleMetadata else "-"
-			collection_date = sampleMetadata[SRXID]["collection_date"] if SRXID in sampleMetadata else "-"
-			host_sex = sampleMetadata[SRXID]["sex"] if SRXID in sampleMetadata else "-"
-			host_age = sampleMetadata[SRXID]["age"] if SRXID in sampleMetadata else "-"
+			if sampleID in sampleMetadata:
+				sample_platform = sampleMetadata[sampleID]["platform"] if "platform" in sampleMetadata[sampleID] else "-"
+				collection_date = sampleMetadata[sampleID]["collection_date"] if "collection_date" in sampleMetadata[sampleID] else "-"
+				host_sex = sampleMetadata[sampleID]["sex"] if "sex" in sampleMetadata[sampleID] else "-"
+				host_age = sampleMetadata[sampleID]["age"] if "age" in sampleMetadata[sampleID] else "-"
+				Ct_N_gene = sampleMetadata[sampleID]["Ct_N_gene"] if "Ct_N_gene" in sampleMetadata[sampleID] else "-"
+				Ct_ORF1_gene = sampleMetadata[sampleID]["Ct_ORF1_gene"] if "Ct_ORF1_gene" in sampleMetadata[sampleID] else "-"
+				Ct_S_gene = sampleMetadata[sampleID]["Ct_S_gene"] if "Ct_S_gene" in sampleMetadata[sampleID] else "-"
+			else:
+				sample_platform = "-"
+				collection_date = "-"
+				host_sex = "-"
+				host_age = "-"
+				Ct_N_gene = "-"
+				Ct_ORF1_gene = "-"
+				Ct_S_gene = "-"
 
-		df.loc[len(df)] = [SRXID, trimmedReads, hisat2MappedReads, hisat2UnmappedReads, hisat2PercentMappedReads, deduplicatedReads, bwaMappedReads, bwaPercentMappedReads, bwaMeanCoverage, bwaStdCoverage, bwaMeanMappingQuality, bwaGCPercent, bwaErrorRate, sample_platform, collection_date, host_sex, host_age]
+		df.loc[len(df)] = [SRXID, trimmedReads, hisat2MappedReads, hisat2UnmappedReads, hisat2PercentMappedReads, deduplicatedReads, bwaMappedReads, bwaPercentMappedReads, bwaMeanCoverage, bwaStdCoverage, bwaMeanMappingQuality, bwaGCPercent, bwaErrorRate, sample_platform, collection_date, host_sex, host_age, Ct_N_gene, Ct_ORF1_gene, Ct_S_gene]
 
 	print("Writing...")
 	df.to_csv(directory + "Stats.tsv", index=False, sep="\t")

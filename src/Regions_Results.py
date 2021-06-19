@@ -8,6 +8,7 @@ import pandas as pd
 
 coverageCutoff = 20
 minorAlleleCutoff = 5
+errorRateCutoff = 0.005
 minorAlleleFreq = 0.005
 minSARSCoV2Reads = 1000
 cutoffFreq = 0.8
@@ -25,11 +26,13 @@ else:
     sys.exit()
 
 # gisaid = pd.read_excel("../data/datasets/GISAID_Frequency.xlsx", sheet_name=region)
-variationAnnotation = pd.read_excel("../data/datasets/BIGD_Variation_Annotation.xlsx", sheet_name="Sheet1")
+variationAnnotation = pd.read_excel("../data/datasets/BIGD_Variation_Annotation_20210617.xlsx", sheet_name="Sheet0")
 
 dfStats = pd.read_csv("../data/samples/regions/" + region + "/Stats.tsv", sep="\t")
-dfStats = dfStats[(dfStats["BWA-MEM SARS-CoV-2 Mapped Reads"] != "-") & (dfStats["BWA-MEM SARS-CoV-2 Mapped Reads"] >= minSARSCoV2Reads)]
-    
+
+dfStats = dfStats[(dfStats["BWA-MEM SARS-CoV-2 Mapped Reads"] != "-") & (dfStats["Error Rate"] != "-")]
+dfStats = dfStats[(dfStats["BWA-MEM SARS-CoV-2 Mapped Reads"].astype(float) >= minSARSCoV2Reads) & (dfStats["Error Rate"].astype(float) < errorRateCutoff)]
+
 cummFreq = pd.DataFrame(columns=["Position", "Reference", "Sub"], dtype=object)
 cummCount = pd.DataFrame(columns=["Position", "Reference", "Sub"], dtype=object)
 
@@ -101,11 +104,11 @@ cummFreq["Editing Sub"] = cummFreq["Sub"]
 #     cummFreq.loc[index, "GISAID_C"] = gisaid.loc[gisaid["Pos"] == row["Position"], "C"].values[0]
 
 for index, row in cummFreq.iterrows():
-    if len(variationAnnotation[variationAnnotation["Genome position"] == row["Position"]]) != 0:
-        cummFreq.loc[index, "Gene"] = variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Gene name/Regions"].values[0]
+    if len(variationAnnotation[variationAnnotation["Genome Position"] == row["Position"]]) != 0:
+        cummFreq.loc[index, "Gene"] = variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Gene Region"].values[0]
         try:
             varCodons = None
-            for i in variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Gene.Position.Codons"].values[0].split("; "):
+            for i in variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Gene.Position.Codons"].values[0].split("; "):
                 if varCodons:
                     varCodons = varCodons + "; " + i.split(":")[1]
                 else:
@@ -113,9 +116,9 @@ for index, row in cummFreq.iterrows():
             cummFreq.loc[index, "Variation Codons"] = varCodons
         except:
             pass
-        cummFreq.loc[index, "Amino acids change"] = variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Protein.Position.Amino acids change"].values[0]
-        cummFreq.loc[index, "Annotation Type"] = variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Annotation Type"].values[0]
-        cummFreq.loc[index, "Calculated variant consequences"] = variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Impact Ensembl Variation - Calculated variant consequences\">"].values[0]
+        cummFreq.loc[index, "Amino acids change"] = variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Protein.Position.Amino Acid Change"].values[0]
+        cummFreq.loc[index, "Annotation Type"] = variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Annotation Type"].values[0]
+        cummFreq.loc[index, "Calculated variant consequences"] = variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Impact"].values[0]
 
 cummFreq = cummFreq.sort_values("Count", ascending=False)
 
@@ -144,11 +147,11 @@ cummCount["Editing Sub"] = cummCount["Sub"]
 #     cummCount.loc[index, "GISAID_C"] = gisaid.loc[gisaid["Pos"] == row["Position"], "C"].values[0]
 
 for index, row in cummCount.iterrows():
-    if len(variationAnnotation[variationAnnotation["Genome position"] == row["Position"]]) != 0:
-        cummCount.loc[index, "Gene"] = variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Gene name/Regions"].values[0]
+    if len(variationAnnotation[variationAnnotation["Genome Position"] == row["Position"]]) != 0:
+        cummCount.loc[index, "Gene"] = variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Gene Region"].values[0]
         try:
             varCodons = None
-            for i in variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Gene.Position.Codons"].values[0].split("; "):
+            for i in variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Gene.Position.Codons"].values[0].split("; "):
                 if varCodons:
                     varCodons = varCodons + "; " + i.split(":")[1]
                 else:
@@ -156,9 +159,9 @@ for index, row in cummCount.iterrows():
             cummCount.loc[index, "Variation Codons"] = varCodons
         except:
             pass
-        cummCount.loc[index, "Amino acids change"] = variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Protein.Position.Amino acids change"].values[0]
-        cummCount.loc[index, "Annotation Type"] = variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Annotation Type"].values[0]
-        cummCount.loc[index, "Calculated variant consequences"] = variationAnnotation.loc[variationAnnotation["Genome position"] == row["Position"], "Impact Ensembl Variation - Calculated variant consequences\">"].values[0]
+        cummCount.loc[index, "Amino acids change"] = variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Protein.Position.Amino Acid Change"].values[0]
+        cummCount.loc[index, "Annotation Type"] = variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Annotation Type"].values[0]
+        cummCount.loc[index, "Calculated variant consequences"] = variationAnnotation.loc[variationAnnotation["Genome Position"] == row["Position"], "Impact"].values[0]
 
 cummCount = cummCount.sort_values("Count", ascending=False)
 
