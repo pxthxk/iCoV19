@@ -1,0 +1,2188 @@
+Position	Reference	Sub	No. of samples found edited	Gene	Variation Codon	Amino Acid Change	M	G	R	C	T	A	K	Y	W	S	D	B	V	H
+23403	A	AG	1052	S	S:c.1841gAt>gGt	D>G	1	1218520	93	14										
+14408	C	CT	782	ORF1ab	orf1ab:c.14144cCt>cTt	P>L		7			1216531	625	2	379						
+241	C	CT	759	5'UTR				7		1	1216116	227		85	2					
+3037	C	CT	733	ORF1ab	orf1ab:c.2772ttC>ttT	F>F		1			1217830	1	1	81						
+23604	C	CG	716	S	S:c.2042cCt>cGt	P>R	217	25262	10		415	629063		7		23				
+25469	C	CT	693	ORF3a	ORF3a:c.77tCa>tTa	S>L					23317	1		42						
+210	G	GT	510	5'UTR						22	29237	91	48			1				
+11201	A	AG	480	ORF1ab	orf1ab:c.10936Act>Gct	T>A		16347	18		1				1					
+26767	T	TC	406	M	M:c.245aTc>aCc	I>T		976		28733			2	19						
+28461	A	AG	399	N	N:c.188gAc>gGc	D>G		19977	72		2	1			1					
+24775	A	AT	363	S	S:c.3213caA>caT	Q>H		17	1	6	1417				70					
+24410	G	GA	363	S	S:c.2848Gat>Aat	D>N			127	6273	126	20157	10			43				
+3457	C	CT	361	ORF1ab	orf1ab:c.3192taC>taT	Y>Y	1				1844	1		11						
+15451	G	GA	357	ORF1ab	orf1ab:c.15187Ggt>Agt	G>S			27		63	20157	2							
+27638	T	TC	348	ORF7a	ORF7a:c.245gTt>gCt	V>A		3		21953	3	5	1	14			1			
+17523	G	GT	312	ORF1ab	orf1ab:c.17259atG>atT	M>I				6	2052	50	16			1				
+18877	C	CT	312	ORF1ab	orf1ab:c.18613Cta>Tta	L>L					53700	6		168						
+29402	G	GT	310	N	N:c.1129Gat>Tat	D>Y				26	42307	27	92	1						
+16466	C	CT	302	ORF1ab	orf1ab:c.16202cCa>cTa	P>L		2		1	21069	13		66						
+3267	C	CT	294	ORF1ab	orf1ab:c.3002aCt>aTt	T>I		3		2	604533	6		139						
+28277	T	TC	272	N	N:c.4Tct>Cct	S>P		3		820	3083	1		2						
+4965	C	CT	263	ORF1ab	orf1ab:c.4700aCt>aTt	T>I	1				3565	9		35						
+29742	G	GT	260	3'UTR				1	18	169	25022	3426	37			3				
+25563	G	GT	256	ORF3a	ORF3a:c.171caG>caT	Q>H			2	622	219097	103	715	1		5		2		
+12946	T	TC	252	ORF1ab	orf1ab:c.12681taT>taC	Y>Y				2364		1		13						
+26735	C	CT	248	M	M:c.213taC>taT	Y>Y					40600			119						
+18176	C	CT	239	ORF1ab	orf1ab:c.17912cCt>cTt	P>L	1				4930	5		24						
+28183	G	GT	237	ORF8	ORF8:c.290aGt>aTt	S>I			1		808	38	2			2				
+1191	C	CT	232	ORF1ab	orf1ab:c.926cCa>cTa	P>L	1			1	8205	262		121						
+5184	C	CT	225	ORF1ab	orf1ab:c.4919cCt>cTt	P>L	2				8432	951		33						
+11418	T	TC	224	ORF1ab	orf1ab:c.11153gTt>gCt	V>A		175		5204			1	15						
+21974	G	GT	219	S	S:c.412Gat>Tat	D>Y		8	2	6237	20503	228	125			46				
+913	C	CT	218	ORF1ab	orf1ab:c.648tcC>tcT	S>S		5		1	601003	7		157						
+9891	C	CT	215	ORF1ab	orf1ab:c.9626gCt>gTt	A>V		1			16536			59						
+1267	C	CT	214	ORF1ab	orf1ab:c.1002ggC>ggT	G>G	1				3587	129		24						
+14676	C	CT	211	ORF1ab	orf1ab:c.14412ccC>ccT	P>P		2		1	603817	18		142						
+20396	A	AG	210	ORF1ab	orf1ab:c.20132aAg>aGg	K>R		2500	8	7	4									
+23271	C	CA	208	S	S:c.1709gCt>gAt	A>D	196	11	2		259	602860		6	2					
+15279	C	CT	207	ORF1ab	orf1ab:c.15015caC>caT	H>H	1	3			603088	39		135						
+28281	A	AT	202	N	N:c.8gAt>gTt	D>V		50	2	243	599878	2		7	122					
+21987	G	GA	202	S	S:c.425gGt>gAt	G>D		12	337	26	1855	19252	26		1		1			
+21895	T	TC	202	S	S:c.333gaT>gaC	D>D				2069				32						
+28280	G	GC	202	N	N:c.7Gat>Cat	D>H		1	1	599991	1723	1	7	7		118				
+28282	T	TA	201	N	N:c.9gaT>gaA	D>E	1	4	2	77	1	600561		2	116					
+26681	C	CT	199	M	M:c.159ttC>ttT	F>F		1			26472	3		165						
+26767	T	TG	196	M	M:c.245aTc>aGc	I>S		976		28733			2	19						
+17645	A	AT	195	ORF1ab	orf1ab:c.17381cAa>cTa	Q>L		11			63									
+22022	G	GA	191	S	S:c.460Gaa>Aaa	E>K			89	366		1331	1			1				
+21618	C	CG	185	S	S:c.56aCa>aGa	T>R	3	20310			1047	130		31		18				
+22917	T	TG	171	S	S:c.1355cTg>cGg	L>R		50455	1	2		828	98	1	1					
+16852	G	GT	169	ORF1ab	orf1ab:c.16588Ggt>Tgt	G>C			3		1245	72	21							
+21034	C	CT	160	ORF1ab	orf1ab:c.20770Ctc>Ttc	L>F		18		1	1628	5		27						
+27752	C	CT	157	ORF7a	ORF7a:c.359aCa>aTa	T>I	2	4			23550	7		38		2				
+24506	T	TG	154	S	S:c.2944Tca>Gca	S>A		602794		1			134							
+23604	C	CA	154	S	S:c.2042cCt>cAt	P>H	217	25262	10		415	629063		7		23				
+5884	C	CT	153	ORF1ab	orf1ab:c.5619taC>taT	Y>Y					3347			55						
+28111	A	AG	149	ORF8	ORF8:c.218tAc>tGc	Y>C		602772	113	3	67		3							
+24863	C	CG	134	S	S:c.3301Cac>Gac	H>D		590			680	7		22		5				
+20401	T	TG	133	ORF1ab	orf1ab:c.20137Tca>Gca	S>A		1014		120		8	4	2	2					
+21846	C	CT	132	S	S:c.284aCt>aTt	T>I	3	29			41638	116		131		2				
+27299	T	TC	129	ORF6	ORF6:c.98aTa>aCa	I>T				3056	1			5						
+20262	A	AG	128	ORF1ab	orf1ab:c.19998ttA>ttG	L>L		28986	38		1									
+27739	C	CT	123	ORF7a	ORF7a:c.346Ctc>Ttc	L>F		4		1	10383	44		20						
+24745	C	CT	122	S	S:c.3183gtC>gtT	V>V					1749	61		8						
+23012	G	GC	122	S	S:c.1450Gaa>Caa	E>Q	2		50	2020		55705				11			1	
+24914	G	GC	119	S	S:c.3352Gac>Cac	D>H				602921	861	1	2	2		82				
+23709	C	CT	115	S	S:c.2147aCa>aTa	T>I	2				606349	2		112						
+16176	T	TC	109	ORF1ab	orf1ab:c.15912acT>acC	T>T	1	19		603042		40		125						
+28048	G	GT	106	ORF8	ORF8:c.155aGa>aTa	R>I		1	3	18	603304	203	134	1						
+8917	C	CT	99	ORF1ab	orf1ab:c.8652ttC>ttT	F>F	1	1		1	11373	5		34						
+28099	C	CT	98	ORF8	ORF8:c.206tCa>tTa	S>L		1		2	708	5		46						
+27972	C	CT	93	ORF8	ORF8:c.79Caa>Taa	Q>Stop	2	2		2	604312	50		129						
+6402	C	CT	93	ORF1ab	orf1ab:c.6137cCa>cTa	P>L		346		1	17207	9		48						
+14171	T	TC	91	ORF1ab	orf1ab:c.13907aTa>aCa	I>T				335				1						
+22995	C	CA	91	S	S:c.1433aCa>aAa	T>K	137	142			505	33182		6		4				
+8107	A	AG	91	ORF1ab	orf1ab:c.7842gcA>gcG	A>A		58		22	7				2					
+6954	T	TC	80	ORF1ab	orf1ab:c.6689aTa>aCa	I>T	1			601944		2	1	151	2					
+12049	C	CT	79	ORF1ab	orf1ab:c.11784aaC>aaT	N>N		1			8631	25		23		1				
+6539	C	CT	79	ORF1ab	orf1ab:c.6274Cac>Tac	H>Y		3			3961	22		200						
+14712	G	GT	78	ORF1ab	orf1ab:c.14448gtG>gtT	V>V			2	1	397	50	4							
+21698	T	TC	76	S	S:c.136Tca>Cca	S>P		33		1		5		3						
+28280	G	GT	76	N	N:c.7Gat>Tat	D>Y		1	1	599991	1723	1	7	7		118				
+5388	C	CA	75	ORF1ab	orf1ab:c.5123gCt>gAt	A>D	118	36	1		16	602840		3		1				
+14874	G	GT	70	ORF1ab	orf1ab:c.14610aaG>aaT	K>N			1	1	1036	13	12							
+5986	C	CT	63	ORF1ab	orf1ab:c.5721ttC>ttT	F>F	1				605194	1		113						
+20320	C	CT	60	ORF1ab	orf1ab:c.20056Cat>Tat	H>Y		1			1900			41						
+18744	C	CT	60	ORF1ab	orf1ab:c.18480taC>taT	Y>Y					3187			56						
+26173	G	GT	58	ORF3a	ORF3a:c.781Gaa>Taa	E>Stop				2	919	44	5							
+5653	T	TC	56	ORF1ab	orf1ab:c.5388taT>taC	Y>Y				1028				5						
+28095	A	AT	55	ORF8	ORF8:c.202Aaa>Taa	K>Stop		55	5	25	210219	1			3486					
+28977	C	CT	54	N	N:c.704tCt>tTt	S>F		2			604338	45		158						
+28854	C	CT	53	N	N:c.581tCa>tTa	S>L				2	44682			352						
+23593	G	GT	52	S	S:c.2031caG>caT	Q>H		1		5197	13809	71	92	1		25				
+835	C	CT	52	ORF1ab	orf1ab:c.570ttC>ttT	F>F					1958	14		39						
+7165	C	CT	51	ORF1ab	orf1ab:c.6900acC>acT	T>T		3			2046	49		37						
+23063	A	AT	51	S	S:c.1501Aat>Tat	N>Y		1	1	20	629870			1	179					
+19813	C	CT	50	ORF1ab	orf1ab:c.19549Cca>Tca	P>S	1	1			957	4		11						
+28256	C	CA	48	ORF8	ORF8:c.363atC>atA	I>I	5	1		3	1084	287		60		1				
+3431	G	GT	48	ORF1ab	orf1ab:c.3166Gtg>Ttg	V>L		1		12	1696	93	19							
+10323	A	AG	48	ORF1ab	orf1ab:c.10058aAg>aGg	K>R		24229	371	1										
+5700	C	CA	47	ORF1ab	orf1ab:c.5435gCt>gAt	A>D	7	1			638	2885		25						
+9389	G	GA	46	ORF1ab	orf1ab:c.9124Gac>Aac	D>N			1			1424	1							
+11083	G	GT	46	ORF1ab	orf1ab:c.10818ttG>ttT	L>F				6	31186	29	853		1	1				
+7528	C	CT	45	ORF1ab	orf1ab:c.7263gtC>gtT	V>V					5514	288		70						
+6352	G	GT	45	ORF1ab	orf1ab:c.6087aaG>aaT	K>N		1	4	2	1454	126	17							
+14262	C	CT	44	ORF1ab	orf1ab:c.13998gaC>gaT	D>D	1				1607	1		6						
+2969	A	AG	43	ORF1ab	orf1ab:c.2704Atg>Gtg	M>V		403	9											
+24406	T	TC	41	S	S:c.2844ctT>ctC	L>L		4		146		1	2	10						
+24475	T	TG	40	S	S:c.2913ggT>ggG	G>G		110		15		4	1	1	1					
+8986	C	CT	40	ORF1ab	orf1ab:c.8721gaC>gaT	D>D	3			1	17258	7		19						
+11332	A	AG	40	ORF1ab	orf1ab:c.11067gtA>gtG	V>V		14497	14		10									
+9053	G	GT	40	ORF1ab	orf1ab:c.8788Gta>Tta	V>L				1	14538	9	13							
+5584	A	AG	39	ORF1ab	orf1ab:c.5319acA>acG	T>T	1	2496	19	7	79		1							
+26060	C	CT	39	ORF3a	ORF3a:c.668aCt>aTt	T>I	1	11		1	13338	1478		109						
+13019	C	CT	39	ORF1ab	orf1ab:c.12754Cta>Tta	L>L	1	1			5895	11		378						
+11514	C	CT	37	ORF1ab	orf1ab:c.11249aCt>aTt	T>I		1			6730			45						
+15096	T	TC	37	ORF1ab	orf1ab:c.14832aaT>aaC	N>N		1		118384			3	122	1					
+18984	G	GT	37	ORF1ab	orf1ab:c.18720atG>atT	M>I				2	639	72	23							
+19220	C	CT	37	ORF1ab	orf1ab:c.18956gCt>gTt	A>V	2				14576			15						
+29427	G	GA	36	N	N:c.1154aGa>aAa	R>K			10	13	198	3516	32							
+3393	C	CT	36	ORF1ab	orf1ab:c.3128gCa>gTa	A>V	1				690	32		14						
+4181	G	GT	36	ORF1ab	orf1ab:c.3916Gct>Tct	A>S			3		14566	528	14				1			
+19884	C	CT	36	ORF1ab	orf1ab:c.19620taC>taT	Y>Y					1584	1		31						
+10029	C	CT	36	ORF1ab	orf1ab:c.9764aCc>aTc	T>I					32565			60						
+23587	G	GC	33	S	S:c.2025caG>caC	Q>H		2	5	1957	8554	547	19			27				
+27384	T	TC	33	ORF6	ORF6:c.183gaT>gaC	D>D		3		10812	2	2		143						
+25803	C	CT	33	ORF3a	ORF3a:c.411aaC>aaT	N>N	2			1	278	17		4						
+16080	C	CT	33	ORF1ab	orf1ab:c.15816gtC>gtT	V>V	2	1		1	138	165		3						
+313	C	CT	32	ORF1ab	orf1ab:c.48ctC>ctT	L>L	1				38856	4		77	1	1				
+22227	C	CT	32	S	S:c.665gCt>gTt	A>V		3		6	116015			203						
+11596	G	GT	31	ORF1ab	orf1ab:c.11331caG>caT	Q>H				2	948	11	6			1				
+28378	G	GT	31	N	N:c.105gcG>gcT	A>A			19	1205	4294	569	21			11				
+22000	C	CT	31	S	S:c.438caC>caT	H>H	11	14		1	2474	404		27						
+17119	C	CT	31	ORF1ab	orf1ab:c.16855Cta>Tta	L>L	2	1			650	93		5						
+11322	C	CT	30	ORF1ab	orf1ab:c.11057gCa>gTa	A>V	1			1	221			2						
+22882	T	TG	30	S	S:c.1320aaT>aaG	N>K		1609		140		65	108	29	11					
+8208	C	CT	30	ORF1ab	orf1ab:c.7943aCt>aTt	T>I	1				3356	3		63						
+15277	C	CT	30	ORF1ab	orf1ab:c.15013Cac>Tac	H>Y	1			1	1280	7		14						
+28253	C	CT	30	ORF8	ORF8:c.360ttC>ttT	F>F	3	140		1	41582	308		614		6				
+22017	G	GT	30	S	S:c.455tGg>tTg	W>L				12	8149	3	21							
+10634	G	GT	29	ORF1ab	orf1ab:c.10369Gct>Tct	A>S			1	1	72	13	1			1				
+1208	A	AG	29	ORF1ab	orf1ab:c.943Atg>Gtg	M>V		105	1	41	1									
+7844	C	CT	29	ORF1ab	orf1ab:c.7579Ctg>Ttg	L>L	1	5			1058	64		7						
+26209	G	GT	29	ORF3a	ORF3a:c.817Gtg>Ttg	V>L			2	57	204	45	10			3				
+28881	G	GT	29	N	N:c.608aGg>aTg	R>M	1	1	429	10	22244	778278	28		8					
+27874	C	CT	28	Intergenic			1	8		1	15421	15		18		2				
+25916	C	CT	28	ORF3a	ORF3a:c.524aCa>aTa	T>I	1	71			4868	19		173		1				
+27970	C	CT	28	ORF8	ORF8:c.77aCt>aTt	T>I	1	14		1	733	346		13						
+28472	C	CT	28	N	N:c.199Cct>Tct	P>S	3	4			60446	20		558						
+22097	C	CT	28	S	S:c.535Ctt>Ttt	L>F					206	65		9						
+19696	A	AG	27	ORF1ab	orf1ab:c.19432Atc>Gtc	I>V		38		10										
+16293	C	CT	27	ORF1ab	orf1ab:c.16029tgC>tgT	C>C					3065			42						
+14120	C	CT	26	ORF1ab	orf1ab:c.13856cCa>cTa	P>L	1				77014	11		132						
+222	C	CT	24	5'UTR			1	45		25	30603	18		119						
+27014	G	GT	25	M	M:c.492ctG>ctT	L>L			4	9	703	113	8			1				
+28409	C	CT	25	N	N:c.136Ccc>Tcc	P>S	1	1			594	1		32						
+13045	G	GT	25	ORF1ab	orf1ab:c.12780gtG>gtT	V>V			1	1	180	60	4							
+25019	G	GT	25	S	S:c.3457Gat>Tat	D>Y				4	540	10	9			1				
+16616	C	CA	25	ORF1ab	orf1ab:c.16352aCt>aAt	T>N	1				2302	92		17						
+2453	C	CT	24	ORF1ab	orf1ab:c.2188Ctc>Ttc	L>F	1	4			48383	29		63		1				
+18501	C	CT	24	ORF1ab	orf1ab:c.18237taC>taT	Y>Y				1	901			13						
+7814	T	TC	24	ORF1ab	orf1ab:c.7549Tct>Cct	S>P		3		79		4		3						
+22156	T	TC	24	S	S:c.594gaT>gaC	D>D		2		200	1			1						
+26711	T	TC	24	M	M:c.189gcT>gcC	A>A		27		13				1						
+29587	G	GA	24	ORF10	ORF10:c.30ccG>ccA	P>P		584	7	1	85	181	7			1				
+12181	T	TC	24	ORF1ab	orf1ab:c.11916gaT>gaC	D>D		5		46		2	3	2						
+11417	G	GT	24	ORF1ab	orf1ab:c.11152Gtt>Ttt	V>F		3	7	5	6845	373	72							
+28120	T	TC	23	ORF8	ORF8:c.227aTc>aCc	I>T		88		106		1		1						
+9163	C	CT	23	ORF1ab	orf1ab:c.8898aaC>aaT	N>N	4				322	65		7						
+25855	G	GT	23	ORF3a	ORF3a:c.463Gac>Tac	D>Y			2	888	5393	35	54			4				
+28916	G	GT	23	N	N:c.643Ggt>Tgt	G>C			5	2	14584	317	12							
+4579	T	TA	23	ORF1ab	orf1ab:c.4314ctT>ctA	L>L				24	1	791		2	12					
+12809	C	CT	23	ORF1ab	orf1ab:c.12544Ctt>Ttt	L>F					7037	7		17						
+21641	G	GT	22	S	S:c.79Gca>Tca	A>S				9	1535	124	17							
+2110	C	CT	22	ORF1ab	orf1ab:c.1845aaC>aaT	N>N					78656	24		123						
+425	G	GA	22	ORF1ab	orf1ab:c.160Gta>Ata	V>I			4	3	4	146								
+22706	G	GT	22	S	S:c.1144Gtg>Ttg	V>L			1	58	511	2	5							
+14599	C	CT	22	ORF1ab	orf1ab:c.14335Cta>Tta	L>L	1	1			3612	1		135						
+7420	C	CT	22	ORF1ab	orf1ab:c.7155atC>atT	I>I	1				3949	100		56						
+20936	C	CT	21	ORF1ab	orf1ab:c.20672aCg>aTg	T>M					331			12						
+21614	C	CT	21	S	S:c.52Ctt>Ttt	L>F	2	6		1	71376	9		199						
+6578	C	CT	21	ORF1ab	orf1ab:c.6313Ctt>Ttt	L>F		1		1	1000	7		6						
+15463	G	GA	21	ORF1ab	orf1ab:c.15199Gtt>Att	V>I			1		30	106								
+11521	G	GT	21	ORF1ab	orf1ab:c.11256atG>atT	M>I		1	1	16	4060	275	18			2				
+16236	G	GA	21	ORF1ab	orf1ab:c.15972caG>caA	Q>Q		1	3		130	131	2							
+18100	A	AG	20	ORF1ab	orf1ab:c.17836Aca>Gca	T>A		98	1						1					
+23611	G	GT	20	S	S:c.2049cgG>cgT	R>R			5	22	1488	260	12							
+4001	A	AG	20	ORF1ab	orf1ab:c.3736Act>Gct	T>A		27												
+25445	G	GT	20	ORF3a	ORF3a:c.53gGt>gTt	G>V		756	1	4	1267	135	13							
+829	C	CT	20	ORF1ab	orf1ab:c.564aaC>aaT	N>N	2	1			5831	4		50						
+6394	T	TC	20	ORF1ab	orf1ab:c.6129gaT>gaC	D>D		7		611			1	9						
+17144	G	GA	20	ORF1ab	orf1ab:c.16880cGc>cAc	R>H			3		21	233								
+25276	C	CT	20	S	S:c.3714acC>acT	T>T	3	4			2957	1913		25						
+23557	C	CT	20	S	S:c.1995ccC>ccT	P>P		28			1930	16		70		1				
+2544	C	CT	19	ORF1ab	orf1ab:c.2279aCt>aTt	T>I	1				2269	15		5						
+28311	C	CT	19	N	N:c.38cCc>cTc	P>L	1	155			12072	18		49		2				
+25562	A	AG	19	ORF3a	ORF3a:c.170cAg>cGg	Q>R		126	4		53	3								
+27610	C	CT	19	ORF7a	ORF7a:c.217Cac>Tac	H>Y		6		1	1365	10		28	1					
+8017	G	GT	19	ORF1ab	orf1ab:c.7752gcG>gcT	A>A			4	3	1595	209	25							
+11812	C	CT	19	ORF1ab	orf1ab:c.11547ggC>ggT	G>G	12				540	366		2						
+14245	G	GA	19	ORF1ab	orf1ab:c.13981Gat>Aat	D>N			1		4	707	1			1				
+10151	G	GT	18	ORF1ab	orf1ab:c.9886Gat>Tat	D>Y			1		43	6	9			1				
+3264	C	CT	18	ORF1ab	orf1ab:c.2999aCt>aTt	T>I		1		1	1022	14		18						
+17474	C	CT	18	ORF1ab	orf1ab:c.17210aCt>aTt	T>I	1				967	4		14						
+17550	C	CT	18	ORF1ab	orf1ab:c.17286ctC>ctT	L>L	2	3			3073	10		55						
+8299	C	CT	18	ORF1ab	orf1ab:c.8034aaC>aaT	N>N					1464			29						
+10319	C	CT	18	ORF1ab	orf1ab:c.10054Ctt>Ttt	L>F	1				65131	3		551						
+26604	T	TC	18	M	M:c.82Ttc>Ctc	F>L		2		10268				10						
+16887	C	CT	18	ORF1ab	orf1ab:c.16623taC>taT	Y>Y					17865	1		163						
+174	G	GT	16	5'UTR					7	412	11353	588	34			3		1		
+1170	C	CT	18	ORF1ab	orf1ab:c.905tCt>tTt	S>F					1047	10		22						
+10870	G	GT	18	ORF1ab	orf1ab:c.10605ctG>ctT	L>L			1	53	7769	39	76			2				
+29358	C	CT	18	N	N:c.1085aCa>aTa	T>I	3	14			2621	152		59						
+27383	A	AT	18	ORF6	ORF6:c.182gAt>gTt	D>V	1	276		52	3155	6		1	37					
+27945	C	CT	18	ORF8	ORF8:c.52Caa>Taa	Q>Stop		20		1	2402	127		28		1				
+13267	A	AT	18	ORF1ab	orf1ab:c.13002atA>atT	I>I		3		1	99									
+12312	C	CT	17	ORF1ab	orf1ab:c.12047gCt>gTt	A>V					1917			10						
+23012	G	GA	17	S	S:c.1450Gaa>Aaa	E>K	2		50	2020		55705				11			1	
+929	A	AG	17	ORF1ab	orf1ab:c.664Att>Gtt	I>V		840	15	1	1									
+27147	G	GT	17	M	M:c.625Gac>Tac	D>Y			2	86	1477	47	52			5				
+1087	A	AG	17	ORF1ab	orf1ab:c.822gtA>gtG	V>V		297	3	1					1					
+15960	C	CT	17	ORF1ab	orf1ab:c.15696gcC>gcT	A>A	1	1			4934	808		47		1				
+5806	C	CT	17	ORF1ab	orf1ab:c.5541tgC>tgT	C>C		6			1867			35						
+13620	C	CT	17	ORF1ab	orf1ab:c.13356gaC>gaT	D>D	4	1		1	1974	48		66						
+11222	G	GT	17	ORF1ab	orf1ab:c.10957Gtc>Ttc	V>F				2	1776	79	8			1				
+26305	C	CT	17	E	E:c.61Ctt>Ttt	L>F		1317			3257	11		33		3				
+17344	A	AG	17	ORF1ab	orf1ab:c.17080Ata>Gta	I>V	1	985	2	15										
+17385	T	TG	17	ORF1ab	orf1ab:c.17121gaT>gaG	D>E		53		31				2						
+4582	C	CT	17	ORF1ab	orf1ab:c.4317aaC>aaT	N>N					5779	1		23						
+14898	C	CT	17	ORF1ab	orf1ab:c.14634ggC>ggT	G>G				1	436	156		9						
+7296	C	CT	17	ORF1ab	orf1ab:c.7031gCt>gTt	A>V					301	1		9						
+6751	C	CT	17	ORF1ab	orf1ab:c.6486aaC>aaT	N>N		1		1	271	2		3						
+24892	T	TC	17	S	S:c.3330taT>taC	Y>Y				587				6						
+24893	G	GA	17	S	S:c.3331Gaa>Aaa	E>K			1	370		932				5				
+15129	T	TC	17	ORF1ab	orf1ab:c.14865tgT>tgC	C>C				33				3						
+2720	G	GA	17	ORF1ab	orf1ab:c.2455Gca>Aca	A>T			1		30	175								
+29614	C	CT	17	ORF10	ORF10:c.57tgC>tgT	C>C		1		1	8106			95						
+19186	C	CT	16	ORF1ab	orf1ab:c.18922Cta>Tta	L>L	1	1			1602	145		34						
+17718	C	CT	16	ORF1ab	orf1ab:c.17454ggC>ggT	G>G	1				164	10		5						
+9203	G	GA	16	ORF1ab	orf1ab:c.8938Gat>Aat	D>N			1	65	110	1290	1							
+18526	C	CT	16	ORF1ab	orf1ab:c.18262Cgt>Tgt	R>C					698	3		31						
+18948	G	GT	16	ORF1ab	orf1ab:c.18684ctG>ctT	L>L				56	336	12	2							
+24095	G	GT	16	S	S:c.2533Gct>Tct	A>S					4128	33	55							
+8683	C	CT	16	ORF1ab	orf1ab:c.8418atC>atT	I>I					4298	4		65						
+23625	C	CT	16	S	S:c.2063gCt>gTt	A>V		3			4032	6		45						
+9693	C	CT	16	ORF1ab	orf1ab:c.9428gCt>gTt	A>V		1			5365	5		50						
+3871	G	GT	16	ORF1ab	orf1ab:c.3606aaG>aaT	K>N		1		2	4142	57	41							
+17496	A	AG	16	ORF1ab	orf1ab:c.17232gaA>gaG	E>E		2608	1	7	1	1								
+22187	C	CA	16	S	S:c.625Cct>Act	P>T					23	4		2						
+22444	C	CT	16	S	S:c.882gaC>gaT	D>D	3	1			14090	1		58						1
+20580	G	GT	16	ORF1ab	orf1ab:c.20316gtG>gtT	V>V				6	745	4	13							
+13264	C	CT	16	ORF1ab	orf1ab:c.12999caC>caT	H>H					606			9						
+27495	T	TA	16	ORF7a	ORF7a:c.102ccT>ccA	P>P		47		17		22	1	1						
+17220	T	TC	16	ORF1ab	orf1ab:c.16956gaT>gaC	D>D				54				1	1					
+23120	G	GT	16	S	S:c.1558Gca>Tca	A>S			2	9	2375	19	34							
+7756	G	GT	16	ORF1ab	orf1ab:c.7491aaG>aaT	K>N		1	4	5	834	20	8							
+10486	A	AG	16	ORF1ab	orf1ab:c.10221tcA>tcG	S>S		76	1	5	3									
+23522	G	GA	16	S	S:c.1960Gaa>Aaa	E>K		1	5	555	1	171	1			6				
+13896	T	TC	16	ORF1ab	orf1ab:c.13632tgT>tgC	C>C				12				1						
+11713	T	TC	16	ORF1ab	orf1ab:c.11448tcT>tcC	S>S		1		70		7		5						
+18171	C	CT	15	ORF1ab	orf1ab:c.17907ggC>ggT	G>G	1	3		2	4768	25		18						
+25543	G	GT	15	ORF3a	ORF3a:c.151Gca>Tca	A>S					71	33	3							
+28703	G	GT	15	N	N:c.430Gat>Tat	D>Y			2	916	1182	199	9			5				
+28072	T	TA	15	ORF8	ORF8:c.179tTg>tAg	L>Stop		3		15	2	74	1							
+19160	C	CT	15	ORF1ab	orf1ab:c.18896tCt>tTt	S>F	1				250	3		5						
+19735	G	GT	15	ORF1ab	orf1ab:c.19471Gat>Tat	D>Y				154	974	8	17							
+28677	C	CT	15	N	N:c.404aCt>aTt	T>I	2				6131	62		51						
+703	C	CT	15	ORF1ab	orf1ab:c.438ggC>ggT	G>G					323	4		18						
+29149	C	CT	15	N	N:c.876atC>atT	I>I	1				2486	5		17						
+29179	G	GT	15	N	N:c.906ccG>ccT	P>P		1	1	48	6962	289	47							
+29555	C	CT	13	Intergenic				2			6198	6		59		1				
+12115	C	CT	15	ORF1ab	orf1ab:c.11850tcC>tcT	S>S	1	1			4696	9		49						
+21145	C	CT	15	ORF1ab	orf1ab:c.20881Ctt>Ttt	L>F	1				641	41		17						
+9678	T	TC	15	ORF1ab	orf1ab:c.9413tTc>tCc	F>S		23		699		1	1							
+2782	G	GT	15	ORF1ab	orf1ab:c.2517gtG>gtT	V>V		1	2	3	2670	32	17							
+3096	C	CT	15	ORF1ab	orf1ab:c.2831tCa>tTa	S>L	1				6053			160		1				
+25691	G	GA	15	ORF3a	ORF3a:c.299gGc>gAc	G>D			2	5	308	763	1			2				
+3199	T	TC	15	ORF1ab	orf1ab:c.2934gaT>gaC	D>D		3		77				1						
+26690	G	GT	15	M	M:c.168ctG>ctT	L>L			3	15	2104	56	20							
+25696	G	GC	15	ORF3a	ORF3a:c.304Gaa>Caa	E>Q			1	90	9	24	1			3				
+26428	G	GT	15	E	E:c.184Gtt>Ttt	V>F				32	1362	28	24							
+26062	G	GT	15	ORF3a	ORF3a:c.670Ggt>Tgt	G>C			2	187	6512	115	30			3				
+26045	A	AT	15	ORF3a	ORF3a:c.653cAa>cTa	Q>L	1	104		16	52				1					
+25624	C	CT	14	ORF3a	ORF3a:c.232Cac>Tac	H>Y		48			4015	7		68		2				
+11005	C	CA	14	ORF1ab	orf1ab:c.10740caC>caA	H>Q	13	3			106	1913		5		3				
+10450	C	CT	14	ORF1ab	orf1ab:c.10185ccC>ccT	P>P					3018	11		44						
+9124	T	TC	14	ORF1ab	orf1ab:c.8859cgT>cgC	R>R		9		83				3						
+23202	C	CT	14	S	S:c.1640aCa>aTa	T>I	9				927	212		67						
+22591	C	CT	14	S	S:c.1029aaC>aaT	N>N					1079	1		25						
+29348	G	GT	14	N	N:c.1075Gca>Tca	A>S			1		1082	95	17							
+6285	C	CT	14	ORF1ab	orf1ab:c.6020aCc>aTc	T>I		2			7072	8		48						
+1926	C	CT	14	ORF1ab	orf1ab:c.1661aCt>aTt	T>I		1			448	166		15						
+5869	C	CT	14	ORF1ab	orf1ab:c.5604taC>taT	Y>Y	1				4772			52						
+28887	C	CT	14	N	N:c.614aCt>aTt	T>I	2	34			45163	73		131						
+7843	C	CT	14	ORF1ab	orf1ab:c.7578aaC>aaT	N>N	2	1			1438	19		16						
+6337	G	GT	14	ORF1ab	orf1ab:c.6072tcG>tcT	S>S		1	4	5	644	352	7							
+20104	C	CT	14	ORF1ab	orf1ab:c.19840Ctt>Ttt	L>F		50		1	1422	6		23		4				
+1599	G	GT	14	ORF1ab	orf1ab:c.1334gGt>gTt	G>V		2	4		814	61	12							
+6706	C	CT	14	ORF1ab	orf1ab:c.6441aaC>aaT	N>N	3	1		1	6878	15		26						
+25913	G	GT	14	ORF3a	ORF3a:c.521gGc>gTc	G>V			85	3	433	2691	21			109				
+23608	G	GT	14	S	S:c.2046cgG>cgT	R>R			4	150	1456	137	22							
+2324	G	GA	14	ORF1ab	orf1ab:c.2059Gct>Act	A>T			8	3	12	125								
+25947	G	GT	14	ORF3a	ORF3a:c.555caG>caT	Q>H				525	6266	87	36			11				
+19164	C	CT	14	ORF1ab	orf1ab:c.18900gaC>gaT	D>D	3			2	4704	22		29						
+8290	C	CT	14	ORF1ab	orf1ab:c.8025ctC>ctT	L>L	1	116			1646	6		31						
+27355	T	TC	14	ORF6	ORF6:c.154Tta>Cta	L>L		129		66		42	1	1						
+12053	C	CT	14	ORF1ab	orf1ab:c.11788Ctt>Ttt	L>F					4635	3		19						
+19150	G	GA	14	ORF1ab	orf1ab:c.18886Gcc>Acc	A>T			3		7	277	2							
+20630	A	AG	14	ORF1ab	orf1ab:c.20366cAt>cGt	H>R		55	4		2									
+26501	G	GT	12	Intergenic						19	166	85	1							
+25699	G	GA	14	ORF3a	ORF3a:c.307Gcc>Acc	A>T			2	33	299	323	2							
+20949	T	TC	14	ORF1ab	orf1ab:c.20685gaT>gaC	D>D				235				1						
+25708	C	CT	14	ORF3a	ORF3a:c.316Ctc>Ttc	L>F		15			3420	14		29						
+3984	C	CT	14	ORF1ab	orf1ab:c.3719aCa>aTa	T>I					192	7		2						
+7124	C	CT	14	ORF1ab	orf1ab:c.6859Cct>Tct	P>S	1	2			16233	487		19		1				
+9565	C	CT	14	ORF1ab	orf1ab:c.9300ttC>ttT	F>F				1	6230	3		105						
+12067	G	GT	14	ORF1ab	orf1ab:c.11802atG>atT	M>I				46	2976	97	29			2				
+29734	G	GC	12	3'UTR				1	9	16649	1428	456	25	1		45				
+4162	G	GT	14	ORF1ab	orf1ab:c.3897gtG>gtT	V>V			1	4	577	32	13							
+16551	C	CT	14	ORF1ab	orf1ab:c.16287gaC>gaT	D>D	1				58	1		3						
+28774	G	GT	13	N	N:c.501ttG>ttT	L>F		1	4		174	75	3							
+7061	T	TC	13	ORF1ab	orf1ab:c.6796Tac>Cac	Y>H		2		73		9		4						
+29679	C	CT	11	3'UTR			1	4		52	7366	7		38						
+5512	C	CT	13	ORF1ab	orf1ab:c.5247aaC>aaT	N>N		1			4613	1		65		1				
+19891	G	GT	13	ORF1ab	orf1ab:c.19627Gat>Tat	D>Y			1	9	1032	21	12			1				
+13730	C	CT	13	ORF1ab	orf1ab:c.13466gCt>gTt	A>V					4000			48		1				
+908	T	TC	13	ORF1ab	orf1ab:c.643Ttg>Ctg	L>L				21				1						
+28703	G	GC	13	N	N:c.430Gat>Cat	D>H			2	916	1182	199	9			5				
+23520	C	CT	13	S	S:c.1958gCt>gTt	A>V					2766			33						
+15952	C	CT	13	ORF1ab	orf1ab:c.15688Cta>Tta	L>L	3	1			1721	7		37						
+28655	G	GT	13	N	N:c.382Gac>Tac	D>Y				95	1329	263	16	3		3				
+25654	G	GT	13	ORF3a	ORF3a:c.262Gta>Tta	V>L			3	84	571	58	54			6				
+21005	C	CT	13	ORF1ab	orf1ab:c.20741gCa>gTa	A>V		1			571	23		12						
+23929	C	CT	13	S	S:c.2367taC>taT	Y>Y				2	3298			49						
+10615	C	CT	13	ORF1ab	orf1ab:c.10350gaC>gaT	D>D					4063	1		20						
+97	A	AG	11	5'UTR			1	38	2	6	5	1								
+20790	C	CT	13	ORF1ab	orf1ab:c.20526gtC>gtT	V>V	1				160	4		5						
+20055	A	AT	13	ORF1ab	orf1ab:c.19791gaA>gaT	E>D		1432	20	7	13	1			1					
+28881	G	GA	13	N	N:c.608aGg>aAg	R>K	1	1	429	10	22244	778278	28		8					
+346	C	CT	13	ORF1ab	orf1ab:c.81ctC>ctT	L>L	2	2			3205	15		39						
+6312	C	CA	13	ORF1ab	orf1ab:c.6047aCa>aAa	T>K	22	3		1	2221	1799		19						
+10156	C	CT	13	ORF1ab	orf1ab:c.9891gaC>gaT	D>D		1			5414	17		55						
+12065	A	AG	13	ORF1ab	orf1ab:c.11800Atg>Gtg	M>V		49	3	4	1									
+442	C	CT	13	ORF1ab	orf1ab:c.177ggC>ggT	G>G	2	4		1	181	14		9						
+29543	G	GT	13	Intergenic				3	3	570	8270	243	55			5				
+12025	C	CT	13	ORF1ab	orf1ab:c.11760tcC>tcT	S>S		1		1	5137	2		30						
+5008	G	GT	13	ORF1ab	orf1ab:c.4743acG>acT	T>T			7	6	1355	168	39			1				
+29546	C	CT	11	Intergenic			8	3			1278	218		26						
+16744	G	GT	13	ORF1ab	orf1ab:c.16480Ggt>Tgt	G>C			7	2	25	129	1			6				
+26951	G	GT	13	M	M:c.429gtG>gtT	V>V				1233	2152	296	48			9				
+28882	G	GA	13	N	N:c.609agG>agA	R>R	1	1	431	15	112	1	3			1				
+337	C	CT	13	ORF1ab	orf1ab:c.72cgC>cgT	R>R		8			2866	6		83		1				
+16775	A	AG	13	ORF1ab	orf1ab:c.16511tAt>tGt	Y>C		17	1		1				1					
+6446	G	GT	13	ORF1ab	orf1ab:c.6181Gtt>Ttt	V>F		1	9	35	824	265	16							
+28914	G	GA	13	N	N:c.641gGc>gAc	G>D			3		62	81	1			1				
+713	G	GT	13	ORF1ab	orf1ab:c.448Ggc>Tgc	G>C			1	1	206	244	3			1				
+20762	C	CT	13	ORF1ab	orf1ab:c.20498aCa>aTa	T>I					3240			46						
+12769	G	GT	13	ORF1ab	orf1ab:c.12504gcG>gcT	A>A			7	3	736	152	7							
+28883	G	GC	13	N	N:c.610Gga>Cga	G>R	1		3	776782	9	211				435				
+29373	A	AG	13	N	N:c.1100gAg>gGg	E>G		59	2	19	2									
+20476	G	GA	13	ORF1ab	orf1ab:c.20212Ggt>Agt	G>S			7		44	981	1			1				
+12400	C	CT	13	ORF1ab	orf1ab:c.12135ctC>ctT	L>L	2				3643	6		41						
+25096	C	CT	13	S	S:c.3534aaC>aaT	N>N	1				3903	2		34						
+24899	C	CA	13	S	S:c.3337Caa>Aaa	Q>K	2	2		1		87		2						
+3433	G	GT	13	ORF1ab	orf1ab:c.3168gtG>gtT	V>V			3	1	154	134	3							
+14829	G	GT	13	ORF1ab	orf1ab:c.14565atG>atT	M>I				25	904	35	39							
+28077	G	GT	13	ORF8	ORF8:c.184Gtg>Ttg	V>L			2	1187	3803	202	44			7				
+25455	G	GT	13	ORF3a	ORF3a:c.63aaG>aaT	K>N		1	4	51	1609	168	26							
+4320	C	CT	13	ORF1ab	orf1ab:c.4055gCc>gTc	A>V	1	2			1507	6		37						
+18267	C	CT	13	ORF1ab	orf1ab:c.18003cgC>cgT	R>R	1	1			554	6		8						
+25906	G	GT	13	ORF3a	ORF3a:c.514Ggt>Tgt	G>C			5	10555	3484	136	45			107				
+3482	G	GA	13	ORF1ab	orf1ab:c.3217Gga>Aga	G>R			9	4	1	644								
+14925	C	CT	13	ORF1ab	orf1ab:c.14661gtC>gtT	V>V	1	9			2625	17		49						
+25904	C	CT	13	ORF3a	ORF3a:c.512tCa>tTa	S>L					13306			98						
+10702	C	CT	13	ORF1ab	orf1ab:c.10437gaC>gaT	D>D	2				2293	1		37						
+25437	G	GT	13	ORF3a	ORF3a:c.45ttG>ttT	L>F		1	3	55	23667	25	43							
+4656	G	GA	13	ORF1ab	orf1ab:c.4391cGg>cAg	R>Q		1	5	1	7	197	4							
+17615	A	AG	13	ORF1ab	orf1ab:c.17351aAg>aGg	K>R	1	130781	114	2										
+27750	G	GT	13	ORF7a	ORF7a:c.357aaG>aaT	K>N		2		11	801	29	10			4				
+9508	T	TC	13	ORF1ab	orf1ab:c.9243aaT>aaC	N>N				340				3						
+24952	A	AG	13	S	S:c.3390atA>atG	I>M		74	5	1	20	1			1					
+4455	C	CT	13	ORF1ab	orf1ab:c.4190gCc>gTc	A>V					1519	7		23						
+17721	G	GT	13	ORF1ab	orf1ab:c.17457gtG>gtT	V>V			3	3	2157	59	34							
+25047	C	CT	13	S	S:c.3485cCa>cTa	P>L	1	449			956	12		34		3				
+17304	C	CT	13	ORF1ab	orf1ab:c.17040gtC>gtT	V>V		18			2629	46		33		1				
+15240	C	CT	13	ORF1ab	orf1ab:c.14976aaC>aaT	N>N					6623	2		59						
+27940	T	TC	13	ORF8	ORF8:c.47tTt>tCt	F>S		5		314		1	1	2						
+27920	C	CT	13	ORF8	ORF8:c.27atC>atT	I>I		4		3	3233	25		26		1				
+27509	C	CT	13	ORF7a	ORF7a:c.116aCa>aTa	T>I		337		7	2297	6		53		1				
+10880	A	AG	13	ORF1ab	orf1ab:c.10615Atg>Gtg	M>V	3	149	7	176	18									
+9223	C	CT	13	ORF1ab	orf1ab:c.8958caC>caT	H>H					2033	9		45						
+1190	C	CT	13	ORF1ab	orf1ab:c.925Cca>Tca	P>S	3	3			2844	99		35		2				
+4795	C	CT	13	ORF1ab	orf1ab:c.4530tcC>tcT	S>S	3	1			1267	16		33						
+24138	C	CT	13	S	S:c.2576aCt>aTt	T>I	9	2			1523	7156		42						
+10642	G	GT	13	ORF1ab	orf1ab:c.10377acG>acT	T>T			3	2	875	113	14							
+3892	G	GA	13	ORF1ab	orf1ab:c.3627gaG>gaA	E>E			2		535	180	6							
+14466	T	TC	13	ORF1ab	orf1ab:c.14202gtT>gtC	V>V		4		59			1							
+18859	G	GT	13	ORF1ab	orf1ab:c.18595Gca>Tca	A>S					1323		14							
+8599	T	TC	13	ORF1ab	orf1ab:c.8334ctT>ctC	L>L		1		333		4	1		2					
+2123	G	GA	13	ORF1ab	orf1ab:c.1858Gtt>Att	V>I			4		36	54	1			1				
+14708	C	CT	13	ORF1ab	orf1ab:c.14444gCt>gTt	A>V					9170			20						
+28166	G	GA	13	ORF8	ORF8:c.273caG>caA	Q>Q			4	15	13	199								
+25502	T	TC	13	ORF3a	ORF3a:c.110aTa>aCa	I>T		1		332		32		7						
+17850	C	CT	12	ORF1ab	orf1ab:c.17586ggC>ggT	G>G		2			1328	18		24						
+7504	C	CT	12	ORF1ab	orf1ab:c.7239taC>taT	Y>Y	1				1547			9						
+10365	T	TC	12	ORF1ab	orf1ab:c.10100gTt>gCt	V>A		3		12										
+16260	C	CT	12	ORF1ab	orf1ab:c.15996tgC>tgT	C>C					7229			98						
+16616	C	CT	12	ORF1ab	orf1ab:c.16352aCt>aTt	T>I	1				2302	92		17						
+21575	C	CT	12	S	S:c.13Ctt>Ttt	L>F	1	4		3	52407	4		424						
+12459	C	CT	12	ORF1ab	orf1ab:c.12194aCa>aTa	T>I				1	2017			73						
+17988	G	GA	12	ORF1ab	orf1ab:c.17724aaG>aaA	K>K			23		72	23	6							
+7493	A	AG	12	ORF1ab	orf1ab:c.7228Atg>Gtg	M>V		47	2		1									
+17339	C	CT	12	ORF1ab	orf1ab:c.17075gCa>gTa	A>V					937			16						
+17790	G	GT	12	ORF1ab	orf1ab:c.17526caG>caT	Q>H		1			425	87	6							
+15202	G	GT	12	ORF1ab	orf1ab:c.14938Gta>Tta	V>L			1	10	195	2	12							
+17750	C	CT	12	ORF1ab	orf1ab:c.17486gCt>gTt	A>V	1				872	6		20						
+12663	C	CT	12	ORF1ab	orf1ab:c.12398gCc>gTc	A>V					85	1		2						
+17697	A	AC	12	ORF1ab	orf1ab:c.17433gcA>gcC	A>A		58	1	6	54						6			
+17608	G	GT	12	ORF1ab	orf1ab:c.17344Gat>Tat	D>Y		2	1		65	7	1							
+16474	A	AG	12	ORF1ab	orf1ab:c.16210Agt>Ggt	S>G		1236	25		1									
+12160	G	GA	12	ORF1ab	orf1ab:c.11895gaG>gaA	E>E			3	1	8	154								
+9714	C	CT	12	ORF1ab	orf1ab:c.9449aCa>aTa	T>I		2			276	3		3		16				
+15327	G	GT	12	ORF1ab	orf1ab:c.15063atG>atT	M>I			2	1	500	6	11							
+7006	C	CT	12	ORF1ab	orf1ab:c.6741acC>acT	T>T	3	19		1	823	20		9		2				
+17502	C	CT	12	ORF1ab	orf1ab:c.17238ttC>ttT	F>F					3977			47						
+12167	G	GT	12	ORF1ab	orf1ab:c.11902Gtt>Ttt	V>F			1	1	195	40	5							
+9661	C	CT	12	ORF1ab	orf1ab:c.9396ttC>ttT	F>F	1			1	980	1		24						
+20992	A	AG	12	ORF1ab	orf1ab:c.20728Att>Gtt	I>V		155	1	26	8									
+15486	A	AT	12	ORF1ab	orf1ab:c.15222tcA>tcT	S>S		40		5	14	1			1					
+12473	C	CT	12	ORF1ab	orf1ab:c.12208Cta>Tta	L>L	1	1			3760	9		92						
+7267	C	CT	12	ORF1ab	orf1ab:c.7002ttC>ttT	F>F	1	1			2692	3		41						
+10368	G	GA	12	ORF1ab	orf1ab:c.10103cGc>cAc	R>H			2	1		112	1							
+10818	C	CT	12	ORF1ab	orf1ab:c.10553gCt>gTt	A>V					391			5						
+17676	C	CT	12	ORF1ab	orf1ab:c.17412atC>atT	I>I	2				2572	41		54						
+8491	G	GA	12	ORF1ab	orf1ab:c.8226ttG>ttA	L>L					1	156								
+9746	C	CT	12	ORF1ab	orf1ab:c.9481Cta>Tta	L>L					187	25		3						
+16869	C	CT	12	ORF1ab	orf1ab:c.16605taC>taT	Y>Y					154	1		2						
+18498	G	GT	12	ORF1ab	orf1ab:c.18234atG>atT	M>I			1	2	950	16	9							
+11752	C	CT	12	ORF1ab	orf1ab:c.11487ctC>ctT	L>L	1	1			773	16		13						
+11747	C	CT	12	ORF1ab	orf1ab:c.11482Cta>Tta	L>L					4636	17		44						
+16308	C	CT	12	ORF1ab	orf1ab:c.16044ttC>ttT	F>F	1	1			2144	2		30						
+8031	A	AG	12	ORF1ab	orf1ab:c.7766aAa>aGa	K>R		1560	9						1					
+9967	C	CT	12	ORF1ab	orf1ab:c.9702ctC>ctT	L>L	1	1			2003	15		44						
+11335	G	GT	12	ORF1ab	orf1ab:c.11070gtG>gtT	V>V				31	1231	27	22							
+14562	T	TC	12	ORF1ab	orf1ab:c.14298taT>taC	Y>Y				28				1						
+8650	C	CT	12	ORF1ab	orf1ab:c.8385gtC>gtT	V>V				3	361	7		41						
+15939	T	TC	12	ORF1ab	orf1ab:c.15675gaT>gaC	D>D		4		826		1		5						
+14118	G	GT	12	ORF1ab	orf1ab:c.13854acG>acT	T>T			5		1688	425	8							
+17007	T	TC	12	ORF1ab	orf1ab:c.16743aaT>aaC	N>N				496				8						
+14184	C	CT	12	ORF1ab	orf1ab:c.13920acC>acT	T>T					1894	22		44						
+8179	G	GT	12	ORF1ab	orf1ab:c.7914cgG>cgT	R>R			4	15	2517	624	51							
+14235	C	CT	12	ORF1ab	orf1ab:c.13971taC>taT	Y>Y					239	1		2						
+18958	G	GA	12	ORF1ab	orf1ab:c.18694Gcg>Acg	A>T			2	3	43	12								
+14429	T	TC	12	ORF1ab	orf1ab:c.14165gTg>gCg	V>A				30		4	1	1						
+15762	T	TG	12	ORF1ab	orf1ab:c.15498ggT>ggG	G>G		58		18	1		3	4	1					
+19086	G	GT	12	ORF1ab	orf1ab:c.18822aaG>aaT	K>N				45	1925	96	49			1				
+13712	A	AG	12	ORF1ab	orf1ab:c.13448aAg>aGg	K>R		1738	26	12	1									
+15652	G	GC	12	ORF1ab					1		1754	13	12							
+16092	C	CT	12	ORF1ab	orf1ab:c.15828taC>taT	Y>Y					2798	1		24						
+19983	C	CT	12	ORF1ab	orf1ab:c.19719gtC>gtT	V>V				2	3821	42		72						
+18079	G	GA	12	ORF1ab	orf1ab:c.17815Gta>Ata	V>I					637	155	10							
+11003	C	CT	12	ORF1ab	orf1ab:c.10738Cac>Tac	H>Y		1			563	13		46						
+13258	T	TC	12	ORF1ab	orf1ab:c.12993cgT>cgC	R>R				157				2						
+20405	C	CT	12	ORF1ab	orf1ab:c.20141cCt>cTt	P>L	1			1	652	17		9		1				
+10138	C	CT	12	ORF1ab	orf1ab:c.9873aaC>aaT	N>N					3582			52						
+16726	C	CT	12	ORF1ab	orf1ab:c.16462Cat>Tat	H>Y		5			2630	1		36						
+16741	G	GT	12	ORF1ab	orf1ab:c.16477Gtt>Ttt	V>F			12	5	935	331	14	1		1				
+8512	A	AG	12	ORF1ab	orf1ab:c.8247caA>caG	Q>Q		4176	6											
+13458	C	CT	12	ORF1ab	orf1ab:c.13193tCg>tTg	S>L		2		1	2818			75						
+13653	A	AG	12	ORF1ab	orf1ab:c.13389gtA>gtG	V>V		508	7	2										
+13672	T	TC	12	ORF1ab	orf1ab:c.13408Tct>Cct	S>P		18		12		13		9						
+17278	G	GT	12	ORF1ab	orf1ab:c.17014Gtg>Ttg	V>L			1	2	1020	35	28							
+7798	G	GT	12	ORF1ab	orf1ab:c.7533aaG>aaT	K>N			3	18	3155	82	19							
+15543	G	GT	12	ORF1ab	orf1ab:c.15279acG>acT	T>T			7	1	1482	176	27						1	
+11109	C	CT	12	ORF1ab	orf1ab:c.10844gCt>gTt	A>V	1	2			2587	1		52						
+8941	T	TC	12	ORF1ab	orf1ab:c.8676gtT>gtC	V>V		3		76		13	1	1						
+16795	G	GT	12	ORF1ab	orf1ab:c.16531Gta>Tta	V>L				3	799	5	7							
+11782	A	AG	12	ORF1ab	orf1ab:c.11517aaA>aaG	K>K		4077	51	1	3									
+10030	C	CT	12	ORF1ab	orf1ab:c.9765acC>acT	T>T	1				2155	24		46						
+19305	T	TC	12	ORF1ab	orf1ab:c.19041aaT>aaC	N>N				269	1			6						
+5776	A	AG	12	ORF1ab	orf1ab:c.5511aaA>aaG	K>K		10	1											
+4897	C	CT	12	ORF1ab	orf1ab:c.4632ttC>ttT	F>F					638	8		19						
+27999	C	CT	12	ORF8	ORF8:c.106Ccg>Tcg	P>S	3			3	765	24		14						
+28054	C	CT	12	ORF8	ORF8:c.161tCa>tTa	S>L	3	63			1511	23		27		1				
+28087	C	CT	12	ORF8	ORF8:c.194gCt>gTt	A>V	2	29		1	11125	45		758						
+1588	A	AT	12	ORF1ab	orf1ab:c.1323gaA>gaT	E>D		395	30	27	13	1								
+24748	C	CT	12	S	S:c.3186ttC>ttT	F>F	1				3945	1		9						
+1498	C	CT	12	ORF1ab	orf1ab:c.1233ttC>ttT	F>F	1				3334	3		8		1				
+24348	G	GT	12	S	S:c.2786aGt>aTt	S>I			1	481	241	10	8			5				
+1473	C	CT	12	ORF1ab	orf1ab:c.1208aCt>aTt	T>I	1				1466	8		22						
+28198	G	GT	12	ORF8	ORF8:c.305tGt>tTt	C>F		3	1	25	1284	40	15			1				
+28209	G	GC	12	ORF8	ORF8:c.316Gaa>Caa	E>Q		1		373	4163	26	25			7				
+3092	C	CT	12	ORF1ab	orf1ab:c.2827Cca>Tca	P>S	1			1	424	4		10						
+24130	C	CT	12	S	S:c.2568aaC>aaT	N>N	1				2497	12		58						
+28233	G	GA	12	ORF8	ORF8:c.340Gtt>Att	V>I			4		379	112	11							
+24055	T	TC	12	S	S:c.2493gcT>gcC	A>A		3		38		57	2		1					
+28254	A	AC	12	ORF8	ORF8:c.361Atc>Ctc	I>L	89	49	4	26700	162	1		1	5					1
+28278	C	CT	12	N	N:c.5tCt>tTt	S>F	2			1	310	1179		7						
+28292	C	CA	12	N	N:c.19Caa>Aaa	Q>K	14					1238		1						
+24034	C	CT	12	S	S:c.2472aaC>aaT	N>N		2		4	2180			29						
+28300	G	GT	12	N	N:c.27caG>caT	Q>H		2	6	525	3479	164	32			9				
+1150	C	CT	12	ORF1ab	orf1ab:c.885ggC>ggT	G>G	2	1			1052	5		22						
+23936	C	CT	12	S	S:c.2374Cca>Tca	P>S					12	71		2						
+5144	C	CT	12	ORF1ab	orf1ab:c.4879Cta>Tta	L>L		7			5448	3		53						
+28308	C	CG	12	N	N:c.35gCa>gGa	A>G	1	3924		1	718	80		5		1				
+28453	C	CT	12	N	N:c.180ggC>ggT	G>G		31			1587	7		35		8				
+23696	A	AG	12	S	S:c.2134Att>Gtt	I>V		194	3											
+28655	G	GC	12	N	N:c.382Gac>Cac	D>H				95	1329	263	16	3		3				
+28657	C	CT	12	N	N:c.384gaC>gaT	D>D		21			5716	20		65						
+23644	C	CA	12	S	S:c.2082gcC>gcA	A>A					1199	18		10						
+24812	G	GC	12	S	S:c.3250Gat>Cat	D>H		1	2	10	713	31	9			1				
+27952	G	GT	12	ORF8	ORF8:c.59tGt>tTt	C>F			1	1	120	106				1				
+23593	G	GC	12	S	S:c.2031caG>caC	Q>H		1		5197	13809	71	92	1		25				
+25112	G	GT	12	S	S:c.3550Gac>Tac	D>Y			1	35	45	23	3							
+3122	G	GT	12	ORF1ab	orf1ab:c.2857Gat>Tat	D>Y			1	2	914	338	11			1				
+26447	C	CT	12	E	E:c.203tCt>tTt	S>F		57		1	1607	13		37		3				
+26491	T	TC	10	Intergenic				1		125	2			12						
+26124	C	CT	12	ORF3a	ORF3a:c.732gtC>gtT	V>V				1	456	24		6						
+26110	C	CT	12	ORF3a	ORF3a:c.718Cct>Tct	P>S					6458	23		32		1				
+26492	A	AT	10	Intergenic				8	1	1	488	6			16					
+26079	C	CT	12	ORF3a	ORF3a:c.687acC>acT	T>T	1	8			314	31		6						
+26526	G	GT	12	M	M:c.4Gca>Tca	A>S		3	9	8	5636	357	75							
+26606	C	CT	12	M	M:c.84ttC>ttT	F>F		1			2813	8		28						
+26612	A	AT	12	M	M:c.90acA>acT	T>T		79	6	17	418				1					
+25941	C	CA	12	ORF3a	ORF3a:c.549gaC>gaA	D>E	4				33	90		1						
+25926	T	TC	12	ORF3a	ORF3a:c.534ccT>ccC	P>P		1		24	1			3						
+26784	G	GT	12	M	M:c.262Gta>Tta	V>L		1	1	15	79	33	4							
+2485	C	CT	12	ORF1ab	orf1ab:c.2220atC>atT	I>I				1	2961	16		29		1				
+25710	C	CT	12	ORF3a	ORF3a:c.318ctC>ctT	L>L	2	57		55	22799	92		75		1				
+25621	G	GA	12	ORF3a	ORF3a:c.229Gtt>Att	V>I			5	18	5333	254	13							
+25621	G	GT	12	ORF3a	ORF3a:c.229Gtt>Ttt	V>F			5	18	5333	254	13							
+3874	C	CT	12	ORF1ab	orf1ab:c.3609atC>atT	I>I	1			13	1948	45		28						
+2269	A	AG	12	ORF1ab	orf1ab:c.2004gcA>gcG	A>A	2	66		6	48									
+4158	C	CT	12	ORF1ab	orf1ab:c.3893gCt>gTt	A>V					3018	1		45		1				
+25302	G	GT	12	S	S:c.3740tGt>tTt	C>F			1	38	776	41	10			1				
+4285	G	GT	12	ORF1ab	orf1ab:c.4020gaG>gaT	E>D			6	2	638	1251	3							
+27653	T	TA	12	ORF7a	ORF7a:c.260tTc>tAc	F>Y		2		26		24		3	1					
+27798	G	GT	10	Intergenic				1	2	6	1862	41	41							
+25252	G	GT	12	S	S:c.3690gtG>gtT	V>V			2	33	644	43	8			1				
+27870	G	GT	10	Intergenic				1	4	57	5513	41	60			1				
+27922	T	TC	12	ORF8	ORF8:c.29aTc>aCc	I>T		43		926	1	63		20						
+23598	A	AG	12	S	S:c.2036aAt>aGt	N>S		70	2	41	7				1					
+3052	G	GT	12	ORF1ab	orf1ab:c.2787gaG>gaT	E>D			3	1	393	157	7							
+625	G	GT	12	ORF1ab	orf1ab:c.360aaG>aaT	K>N			4	4	1103	47	13			3				
+823	C	CT	12	ORF1ab	orf1ab:c.558gtC>gtT	V>V				1	9051	7		60						
+593	C	CT	12	ORF1ab	orf1ab:c.328Cat>Tat	H>Y		7			5142	4		43		1				
+22702	T	TC	12	S	S:c.1140taT>taC	Y>Y		1		66					1					
+22216	G	GT	12	S	S:c.654caG>caT	Q>H			3	2	340	35	4							
+21868	A	AT	12	S	S:c.306agA>agT	R>S		34	3	10	391									
+22858	C	CT	12	S	S:c.1296tgC>tgT	C>C				1	2523	2		41						
+22993	C	CT	12	S	S:c.1431agC>agT	S>S	9	577			676	386		17		1				
+5950	G	GA	12	ORF1ab	orf1ab:c.5685aaG>aaA	K>K				6	2176	795	95			1				
+29083	A	AG	12	N	N:c.810gtA>gtG	V>V		26	2	1	26									
+335	C	CT	12	ORF1ab	orf1ab:c.70Cgc>Tgc	R>C	3				4780	23		122						
+5927	G	GA	12	ORF1ab	orf1ab:c.5662Gtt>Att	V>I					18	67	1							
+6367	G	GA	12	ORF1ab	orf1ab:c.6102caG>caA	Q>Q			2		82	34	3							
+29254	G	GT	12	N	N:c.981tcG>tcT	S>S			8	21	2766	1274	35							
+21742	C	CT	12	S	S:c.180tcC>tcT	S>S	1	14		3	1452	51		30						
+28899	G	GT	12	N	N:c.626aGa>aTa	R>I			9	192	1742	488	12			3				
+6310	C	CT	12	ORF1ab	orf1ab:c.6045agC>agT	S>S	36	1			2280	849		27						
+838	T	TC	12	ORF1ab	orf1ab:c.573tgT>tgC	C>C		2		74				1						
+23311	G	GC	12	S	S:c.1749gaG>gaC	E>D			2	2094	2509	164	26			15				
+21707	C	CT	12	S	S:c.145Cat>Tat	H>Y					3303	3		58						
+21697	C	CT	12	S	S:c.135tcC>tcT	S>S					167	42		6						
+28717	C	CT	12	N	N:c.444acC>acT	T>T	1	1			553	67		5						
+27213	C	CT	11	ORF6	ORF6:c.12ctC>ctT	L>L		11			12166	31		47						
+29522	A	AG	11	N	N:c.1249Act>Gct	T>A		13	1	4	4	1			1					
+12880	C	CT	11	ORF1ab	orf1ab:c.12615atC>atT	I>I	1				3383	17		39						
+13021	A	AC	11	ORF1ab	orf1ab:c.12756ctA>ctC	L>L	1	19		1										
+12932	C	CT	11	ORF1ab	orf1ab:c.12667Cct>Tct	P>S					276	2		5						
+27575	C	CT	11	ORF7a	ORF7a:c.182aCt>aTt	T>I	1	3		3	1508	47	2	17						1
+29553	G	GT	11	Intergenic				1	1		319	954	7							
+27225	G	GT	11	ORF6	ORF6:c.24caG>caT	Q>H		1	1	1	38	31	2							
+27247	C	CT	11	ORF6	ORF6:c.46Cta>Tta	L>L		1		1	1806	7		25						
+27520	A	AT	11	ORF7a	ORF7a:c.127Aat>Tat	N>Y		1	3	7	82	9			6					
+15595	T	TG	11	ORF1ab	orf1ab:c.15331Tat>Gat	Y>D		2		4	1									
+15906	G	GT	11	ORF1ab	orf1ab:c.15642caG>caT	Q>H			3	77	1911	79	17			1				
+27281	G	GT	11	ORF6	ORF6:c.80tGg>tTg	W>L				2	1325	6	31							
+27463	G	GT	11	ORF7a	ORF7a:c.70Gtt>Ttt	V>F		1	2	84	937	55	19			1				
+27375	G	GA	11	ORF6	ORF6:c.174atG>atA	M>I		27	2	1	69	64	4			1				
+15720	C	CT	11	ORF1ab	orf1ab:c.15456gaC>gaT	D>D					25528	1		66						
+15534	A	AG	11	ORF1ab	orf1ab:c.15270caA>caG	Q>Q	1	112	1		1									
+27450	C	CT	11	ORF7a	ORF7a:c.57caC>caT	H>H		1			42	14		1						
+27413	T	TC	11	ORF7a	ORF7a:c.20tTg>tCg	L>S				48	2	6		1						
+27406	C	CT	11	ORF7a	ORF7a:c.13Ctt>Ttt	L>F	2	18		23	566	13		14		2				
+13908	T	TG	11	ORF1ab						27				1						
+16134	C	CT	11	ORF1ab	orf1ab:c.15870caC>caT	H>H					107									
+27128	C	CT	11	M	M:c.606ggC>ggT	G>G				1	819	55		10						
+26625	C	CT	11	M	M:c.103Cta>Tta	L>L	1				1338	1		13						
+12439	C	CT	11	ORF1ab	orf1ab:c.12174ccC>ccT	P>P	4	1			3973	40		45						
+29774	C	CG	9	3'UTR			2	70		2	3006	60		67	1	1				
+26455	C	CT	11	E	E:c.211Cct>Tct	P>S		12			941	36		41						
+16593	T	TC	11	ORF1ab	orf1ab:c.16329gaT>gaC	D>D		1		125				1						
+29754	C	CT	9	3'UTR			3	23		3	5560	70		62						1
+29722	C	CT	9	3'UTR			2	9		2	1357	10		16		1				
+29702	G	GT	9	3'UTR				1	9	3	214	377	1			1				
+26506	G	GT	9	Intergenic					2		72	28	3							
+29666	C	CT	11	ORF10	ORF10:c.109Ctc>Ttc	L>F	4	7			1528	47		45		1				8
+12525	C	CT	11	ORF1ab	orf1ab:c.12260aCa>aTa	T>I	2			1	10127	1		53						
+16377	G	GA	11	ORF1ab	orf1ab:c.16113ccG>ccA	P>P			27	40	970	1221	14							
+29659	C	CT	11	ORF10	ORF10:c.102aaC>aaT	N>N		1			609	10		12						
+27092	C	CT	11	M	M:c.570gaC>gaT	D>D		1			1211	9		27						
+29633	T	TC	11	ORF10	ORF10:c.76Tac>Cac	Y>H		2		129	1	1		2						
+26730	G	GC	11	M	M:c.208Gtt>Ctt	V>L			2	9827	1108	480	20			12				
+29604	T	TC	11	ORF10	ORF10:c.47cTa>cCa	L>P				38		3		2						
+26786	A	AT	11	M	M:c.264gtA>gtT	V>V		58			2	2								
+26840	G	GT	11	M	M:c.318acG>acT	T>T			10		561	279	6							
+26849	G	GT	11	M	M:c.327atG>atT	M>I			1	18	661	78	25			1				
+15351	T	TC	11	ORF1ab	orf1ab:c.15087gtT>gtC	V>V		13		24	1	5	2		1					
+26858	C	CT	11	M	M:c.336ttC>ttT	F>F		2			2407	2		31						
+26918	G	GT	11	M	M:c.396ccG>ccT	P>P			5	4	1736	506	24			2				
+29580	C	CT	11	ORF10	ORF10:c.23gCt>gTt	A>V		5		1	1185	72		11						
+12836	T	TC	11	ORF1ab	orf1ab:c.12571Ttg>Ctg	L>L				91										
+27632	G	GC	11	ORF7a	ORF7a:c.239aGa>aCa	R>T		1	4	122	988	721	15			3				
+27852	G	GT	9	Intergenic						5	583	67	6							
+15337	A	AG	11	ORF1ab	orf1ab:c.15073Atg>Gtg	M>V		266	3		1									
+28178	G	GT	11	ORF8	ORF8:c.285ttG>ttT	L>F				42	648	16	9							
+14577	T	TG	11	ORF1ab						32	1	21		5						
+13447	T	TA	11	ORF1ab	orf1ab:c.13182gcT>gcA	A>A		6		16		1		2	1					
+28221	G	GT	11	ORF8	ORF8:c.328Gag>Tag	E>Stop		1		747	655	270	9							
+28239	G	GT	11	ORF8	ORF8:c.346Gtt>Ttt	V>F		10	27	8	139	1	18							
+28248	G	GT	11	ORF8	ORF8:c.355Gat>Tat	D>Y		3	1	10	317	1								
+13459	G	GT	11	ORF1ab	orf1ab:c.13194tcG>tcT	S>S		1	2	12	946	261	16							
+28256	C	CT	11	ORF8	ORF8:c.363atC>atT	I>I	5	1		3	1084	287		60		1				
+13517	C	CT	11	ORF1ab	orf1ab:c.13253aCt>aTt	T>I	1	2			3510	7		43						
+14407	C	CT	11	ORF1ab	orf1ab:c.14143Cct>Tct	P>S	1	6		2	4235	14		14		1				
+29027	G	GT	11	N	N:c.754Gct>Tct	A>S			1		684	26	6			1				
+29002	C	CA	11	N	N:c.729ggC>ggA	G>G	6				85	59		8						
+28960	G	GT	11	N	N:c.687caG>caT	Q>H			1	7	947	47	21							
+28727	G	GT	11	N	N:c.454Gct>Tct	A>S				3	1413	49	27			2				
+14220	C	CT	11	ORF1ab	orf1ab:c.13956gaC>gaT	D>D	1	43			5081	534		108		2				
+28473	C	CT	11	N	N:c.200cCt>cTt	P>L	1	110			1116	147		14						
+28603	C	CT	11	N	N:c.330ttC>ttT	F>F					1			102						
+28628	G	GT	11	N	N:c.355Gct>Tct	A>S			1	41	3930	13	28							
+13906	T	TC	11	ORF1ab	orf1ab:c.13642Tat>Cat	Y>H		2		11		40								
+13994	C	CT	11	ORF1ab	orf1ab:c.13730gCt>gTt	A>V					1247	4		28						
+28708	C	CT	11	N	N:c.435caC>caT	H>H		9			1715	251		29						
+13913	A	AC	11	ORF1ab	orf1ab:c.13649aAt>aCt	N>T		72	1	8		1								
+13912	A	AT	11	ORF1ab	orf1ab:c.13648Aat>Tat	N>Y		6	1	97	7				1					
+28705	T	TC	11	N	N:c.432gaT>gaC	D>D		7		553		4		10						
+13330	T	TC	11	ORF1ab	orf1ab:c.13065acT>acC	T>T		44		17				1						
+14703	C	CA	11	ORF1ab	orf1ab:c.14439gaC>gaA	D>E				3	286	18		6						
+15335	T	TC	11	ORF1ab	orf1ab:c.15071aTt>aCt	I>T				9										
+28163	C	CT	11	ORF8	ORF8:c.270tgC>tgT	C>C		2			218	6		3						
+27648	A	AG	11	ORF7a	ORF7a:c.255aaA>aaG	K>K		46	2	3										
+29421	C	CT	11	N	N:c.1148cCg>cTg	P>L	1				4698	40		52		1				
+27676	G	GA	11	ORF7a	ORF7a:c.283Gaa>Aaa	E>K		2	6	317	527	135	11			7				
+29372	G	GC	11	N	N:c.1099Gag>Cag	E>Q			1	151		15				3				
+27849	C	CT	11	Intergenic				2		1	1264	1		27		1				
+29370	C	CT	11	N	N:c.1097aCa>aTa	T>I	2	50			2785	7		122		19				
+13907	A	AT	11	ORF1ab	orf1ab:c.13643tAt>tTt	Y>F	1	209		40	1									
+15237	C	CT	11	ORF1ab	orf1ab:c.14973caC>caT	H>H	1	2		1	2290	3		39		1				
+29353	C	CT	11	N	N:c.1080taC>taT	Y>Y					5103	1		35						
+13114	T	TC	11	ORF1ab	orf1ab:c.12849taT>taC	Y>Y				205				2						
+13138	C	CT	11	ORF1ab	orf1ab:c.12873atC>atT	I>I	1	1			1165	1		8		1				
+27978	C	CT	11	ORF8	ORF8:c.85Caa>Taa	Q>Stop		9			91	3		3						
+29296	C	CT	11	N	N:c.1023gaC>gaT	D>D	1	3		1	2420	2		45						
+28001	G	GT	11	ORF8	ORF8:c.108ccG>ccT	P>P		1	9	70	3151	638	52			1				
+13186	A	AT	11	ORF1ab	orf1ab:c.12921gcA>gcT	A>A		24		20	82				2					
+28007	T	TC	11	ORF8	ORF8:c.114ccT>ccC	P>P				105	3	1		1	1					
+28045	C	CT	11	ORF8	ORF8:c.152gCt>gTt	A>V	1	1		2	2165	28		28						
+14919	C	CT	11	ORF1ab	orf1ab:c.14655gtC>gtT	V>V		3			186	9		8		1				
+28086	G	GT	11	ORF8	ORF8:c.193Gct>Tct	A>S		4	39	4	2261	84	69			1				
+14857	G	GT	11	ORF1ab	orf1ab:c.14593Gtt>Ttt	V>F			1	34	441	93	10							
+29260	G	GA	11	N	N:c.987acG>acA	T>T			4	139	2360	343	28							
+14772	G	GT	11	ORF1ab	orf1ab:c.14508caG>caT	Q>H			1	1	113	268	3							
+28102	C	CT	11	ORF8	ORF8:c.209cCc>cTc	P>L					171	28		2						
+21622	C	CT	11	S	S:c.60acC>acT	T>T	10	64			2144	725		40						
+25776	G	GT	11	ORF3a	ORF3a:c.384tgG>tgT	W>C			1	1	508	1	4							
+26321	T	TC	11	E	E:c.77tTc>tCc	F>S		3		20	1									
+23191	C	CT	11	S	S:c.1629ttC>ttT	F>F		3			4145	2		51						
+19419	G	GT	11	ORF1ab	orf1ab:c.19155gtG>gtT	V>V		1	2		49	616	1							
+19610	C	CT	11	ORF1ab	orf1ab:c.19346aCa>aTa	T>I					644			25						
+23638	C	CT	11	S	S:c.2076atC>atT	I>I	1	4			4704	41		53						
+23599	T	TA	11	S	S:c.2037aaT>aaA	N>K		417		72		1233	5	2	2					
+19780	G	GT	11	ORF1ab	orf1ab:c.19516Gca>Tca	A>S			3	1	43	21	2			1				
+23591	C	CT	11	S	S:c.2029Cag>Tag	Q>Stop		2			13	65		2						
+23590	T	TC	11	S	S:c.2028acT>acC	T>T		10		167		50	1	2						
+23401	G	GT	11	S	S:c.1839caG>caT	Q>H				25	2396	7708	38			2				
+23311	G	GT	11	S	S:c.1749gaG>gaT	E>D			2	2094	2509	164	26			15				
+20134	G	GT	11	ORF1ab	orf1ab:c.19870Gta>Tta	V>L			7	14	939	139	14							
+20145	G	GC	11	ORF1ab	orf1ab:c.19881caG>caC	Q>H				7	42	23	3							
+20178	C	CT	11	ORF1ab	orf1ab:c.19914gtC>gtT	V>V	3	2			4957	222		91						
+23277	C	CT	11	S	S:c.1715aCt>aTt	T>I	4	26			3794	16		46						
+23277	C	CG	11	S	S:c.1715aCt>aGt	T>S	4	26			3794	16		46						
+23248	C	CT	11	S	S:c.1686ttC>ttT	F>F	1			1	4696			105						
+23672	T	TA	11	S	S:c.2110Tca>Aca	S>T		21		33		9		4	1					
+19255	C	CT	11	ORF1ab	orf1ab:c.18991Cta>Tta	L>L					527	56		10						
+23737	A	AG	11	S	S:c.2175gaA>gaG	E>E		17	1	2	3									
+19086	G	GA	11	ORF1ab	orf1ab:c.18822aaG>aaA	K>K				45	1925	96	49			1				
+24224	T	TC	11	S	S:c.2662Ttt>Ctt	F>L				3182		1		6						
+18996	T	TA	11	ORF1ab	orf1ab:c.18732gcT>gcA	A>A		3		19		16	1	3						
+19017	C	CT	11	ORF1ab	orf1ab:c.18753ttC>ttT	F>F		1			3875	8		36						
+24067	A	AG	11	S	S:c.2505aaA>aaG	K>K	1	88		3	2				1					
+19051	A	AG	11	ORF1ab	orf1ab:c.18787Att>Gtt	I>V		21	1	46										
+24038	G	GT	11	S	S:c.2476Gtg>Ttg	V>L			2	1	154	16	4							
+19117	G	GT	11	ORF1ab	orf1ab:c.18853Gct>Tct	A>S					360	17	6							
+23758	C	CT	11	S	S:c.2196acC>acT	T>T	1	7			3276	23		35						
+19137	A	AG	11	ORF1ab	orf1ab:c.18873ttA>ttG	L>L	1	288	3		193				4					
+24023	C	CT	11	S	S:c.2461Cta>Tta	L>L		47			3263	19		48		3				
+23987	C	CT	11	S	S:c.2425Cca>Tca	P>S	1	2			1900	93		20		1				
+19185	C	CT	11	ORF1ab	orf1ab:c.18921tgC>tgT	C>C					1717	15		36						
+23893	C	CT	11	S	S:c.2331aaC>aaT	N>N	1				181			1						
+23868	G	GC	11	S	S:c.2306gGa>gCa	G>A			1	40	9392	1	16			5				
+23229	A	AG	11	S	S:c.1667aAc>aGc	N>S		15	1	1		7								
+23188	C	CT	11	S	S:c.1626aaC>aaT	N>N		1			416			6						
+16622	G	GA	11	ORF1ab	orf1ab:c.16358aGa>aAa	R>K			1	1	3	94								
+20384	C	CT	11	ORF1ab	orf1ab:c.20120gCt>gTt	A>V		1		2	843	1		13						
+21889	T	TC	11	S	S:c.327acT>acC	T>T		1		117	1			3						
+20844	C	CT	11	ORF1ab	orf1ab:c.20580ccC>ccT	P>P		1			1415	45		23						
+20930	C	CT	11	ORF1ab	orf1ab:c.20666aCg>aTg	T>M	1				1443	4		39						
+21848	G	GC	11	S	S:c.286Gag>Cag	E>Q				198	2	8	1							
+20940	G	GT	11	ORF1ab	orf1ab:c.20676ctG>ctT	L>L					707	40	5							
+21805	C	CT	11	S	S:c.243aaC>aaT	N>N					86			2						
+21772	C	CT	11	S	S:c.210gtC>gtT	V>V				1	1660	9		24		1				
+21762	C	CT	11	S	S:c.200gCt>gTt	A>V	1	1		3	46	4		52		2				
+21736	C	CT	11	S	S:c.174ttC>ttT	F>F	1			2	1096	1		36						
+21717	A	AG	11	S	S:c.155cAg>cGg	Q>R		2642	6	1	56									
+21123	G	GT	11	ORF1ab	orf1ab:c.20859ggG>ggT	G>G		1		13	2672	34	31			2				
+21194	A	AG	11	ORF1ab	orf1ab:c.20930gAt>gGt	D>G		4416	10	5										
+21255	G	GA	11	ORF1ab	orf1ab:c.20991gcG>gcA	A>A			2	110886	1897	262	15	1		171				
+21372	G	GT	11	ORF1ab	orf1ab:c.21108caG>caT	Q>H		1	46	15	709	51	33							
+21420	A	AG	11	ORF1ab	orf1ab:c.21156ttA>ttG	L>L	2	13		1	3									
+21920	G	GA	11	S	S:c.358Gtt>Att	V>I			2	29	102	30								
+20724	A	AG	11	ORF1ab	orf1ab:c.20460ttA>ttG	L>L	2	3305	3		18	1								
+21986	G	GA	11	S	S:c.424Ggt>Agt	G>S		1	68	1	35	734	4							
+20611	C	CT	11	ORF1ab	orf1ab:c.20347Ctt>Ttt	L>F					233			14						
+23126	G	GT	11	S	S:c.1564Gca>Tca	A>S			3	206	1991	11	34			1				
+20400	A	AC	11	ORF1ab	orf1ab:c.20136gaA>gaC	E>D	1	481	3	22	2				1					
+20428	C	CT	11	ORF1ab	orf1ab:c.20164Cct>Tct	P>S	1				385	7		10		3				
+20555	C	CT	11	ORF1ab	orf1ab:c.20291tCt>tTt	S>F	1	3			344	76		22						
+22583	G	GA	11	S	S:c.1021Gtt>Att	V>I		2			2	60								
+22286	C	CG	11	S	S:c.724Ctt>Gtt	L>V	2	2		7	127	31		6						
+20616	G	GT	11	ORF1ab	orf1ab:c.20352tgG>tgT	W>C					210		13							
+21997	C	CT	11	S	S:c.435taC>taT	Y>Y	2			1	531	12		17						
+22194	A	AG	11	S	S:c.632aAt>aGt	N>S		28		6	2									
+20670	G	GT	11	ORF1ab	orf1ab:c.20406gcG>gcT	A>A			14	1	128	503								
+20679	G	GT	11	ORF1ab	orf1ab:c.20415ccG>ccT	P>P			5	5	1656	388	23							
+20698	C	CT	11	ORF1ab	orf1ab:c.20434Ctt>Ttt	L>F				1	164	25		13						
+22009	C	CT	11	S	S:c.447aaC>aaT	N>N	3	2		3	314	8		3						
+20719	C	CT	11	ORF1ab	orf1ab:c.20455Cta>Tta	L>L					1961	16		19						
+18952	A	AG	11	ORF1ab	orf1ab:c.18688Att>Gtt	I>V		70		6		1								
+24257	G	GT	11	S	S:c.2695Gct>Tct	A>S					1227	4	4							
+24277	G	GA	11	S	S:c.2715agG>agA	R>R			2			53								
+24328	G	GT	11	S	S:c.2766ttG>ttT	L>F				39	266	35	6			1				
+25721	C	CT	11	ORF3a	ORF3a:c.329gCt>gTt	A>V	1	6		1	1620	6		31		1				
+25714	C	CT	11	ORF3a	ORF3a:c.322Ctt>Ttt	L>F		59		3	2550	63		46						
+25660	G	GT	11	ORF3a	ORF3a:c.268Gtt>Ttt	V>F		3	2	139	3473	39	34			3				
+17399	A	AG	11	ORF1ab	orf1ab:c.17135aAt>aGt	N>S	1	50		15	1									
+25647	G	GT	11	ORF3a	ORF3a:c.255ttG>ttT	L>F			2	254	3258	48	17			5				
+25580	T	TC	11	ORF3a	ORF3a:c.188aTa>aCa	I>T		1		554		3		7						
+25567	G	GT	11	ORF3a	ORF3a:c.175Gct>Tct	A>S			4		332	672	3							
+25563	G	GA	11	ORF3a	ORF3a:c.171caG>caA	Q>Q			2	622	219097	103	715	1		5		2		
+25487	C	CT	11	ORF3a	ORF3a:c.95aCt>aTt	T>I		34			1307	61		23						
+25450	A	AG	11	ORF3a	ORF3a:c.58Atc>Gtc	I>V		1117		19	26	1								
+17562	G	GT	11	ORF1ab	orf1ab:c.17298cgG>cgT	R>R				4	1247	201	25							
+25440	G	GT	11	ORF3a	ORF3a:c.48aaG>aaT	K>N				37	1691	50	14							
+25435	T	TC	11	ORF3a	ORF3a:c.43Ttg>Ctg	L>L		4		38	3	11		2						
+25429	G	GT	11	ORF3a	ORF3a:c.37Gta>Tta	V>L		138	6	107	2406	62	25			2				
+25421	T	TC	11	ORF3a	ORF3a:c.29aTt>aCt	I>T		6		13	1	1		2	1					
+25726	G	GT	11	ORF3a	ORF3a:c.334Gtc>Ttc	V>F			2	38	1608	56	22			1				
+17338	G	GT	11	ORF1ab	orf1ab:c.17074Gca>Tca	A>S			3	1	303	76	9							
+96	C	CT	9	5'UTR			1	3			337	13		6						
+26028	C	CT	11	ORF3a	ORF3a:c.636taC>taT	Y>Y					1672	1		12						
+26262	G	GA	11	E	E:c.18tcG>tcA	S>S			17	38	485	284	6			1				
+26217	G	GT	11	ORF3a	ORF3a:c.825ttG>ttT	L>F			3	35	1537	39	7			1				
+26152	G	GT	11	ORF3a	ORF3a:c.760Gga>Tga	G>Stop			5	28	1869	381	9							
+26151	C	CT	11	ORF3a	ORF3a:c.759tcC>tcT	S>S	2	29			1401	211		19						
+26080	T	TG	11	ORF3a	ORF3a:c.688Ttc>Gtc	F>V		14		4		2			1					
+26056	G	GT	11	ORF3a	ORF3a:c.664Gac>Tac	D>Y			3		797	77	8							
+26013	C	CT	11	ORF3a	ORF3a:c.621ttC>ttT	F>F		70			1764	40		26						
+25731	C	CT	11	ORF3a	ORF3a:c.339taC>taT	Y>Y		1			3029	1		32						
+17058	G	GT	11	ORF1ab	orf1ab:c.16794atG>atT	M>I			2	5	1589	62	8							
+25969	T	TA	11	ORF3a	ORF3a:c.577Tgg>Agg	W>R		13		430		99			1					
+17125	C	CT	11	ORF1ab	orf1ab:c.16861Ctc>Ttc	L>F	3	20			1047	81		28		1				
+25785	G	GT	11	ORF3a	ORF3a:c.393tgG>tgT	W>C			3	295	29445	2	53			4				
+21644	T	TC	11	S	S:c.82Tac>Cac	Y>H		14		392		5		10	3					
+17288	C	CT	11	ORF1ab	orf1ab:c.17024aCa>aTa	T>I					917	1		17						
+17678	C	CT	11	ORF1ab	orf1ab:c.17414aCg>aTg	T>M	1				3727	1		103						
+25394	T	TC	11	ORF3a	ORF3a:c.2aTg>aCg	M>T				9	1	1		1						
+25352	G	GT	11	S	S:c.3790Gtg>Ttg	V>L				285	1903	36	28			4				
+18473	A	AG	11	ORF1ab	orf1ab:c.18209cAa>cGa	Q>R		14	1		11				1					
+24776	G	GA	11	S	S:c.3214Gaa>Aaa	E>K			2	32		36				2				
+18348	C	CA	11	ORF1ab	orf1ab:c.18084acC>acA	T>T				1	3013	24		34						
+18395	C	CT	11	ORF1ab	orf1ab:c.18131gCt>gTt	A>V					2458			34						
+18445	G	GA	11	ORF1ab	orf1ab:c.18181Gtt>Att	V>I				4	9	29	2							
+18457	C	CT	11	ORF1ab	orf1ab:c.18193Cca>Tca	P>S	2				1175	67		15						
+18468	A	AG	11	ORF1ab	orf1ab:c.18204ggA>ggG	G>G	2	159	3	223	2									
+24771	C	CT	11	S	S:c.3209gCa>gTa	A>V	2				526	1		19						
+24933	G	GT	11	S	S:c.3371gGt>gTt	G>V		1		5	1187	14	149			1				
+18525	G	GT	11	ORF1ab	orf1ab:c.18261gtG>gtT	V>V			1	3	321	14	7							
+24680	G	GT	11	S	S:c.3118Gtt>Ttt	V>F			1		392	9	7							
+24620	G	GT	11	S	S:c.3058Gct>Tct	A>S					1736	7	12			1				
+24382	C	CT	11	S	S:c.2820tcC>tcT	S>S		42			3485	7		31						
+18802	A	AC	11	ORF1ab	orf1ab:c.18538Agc>Cgc	S>R		37	3	13	33	1								
+18828	C	CT	11	ORF1ab	orf1ab:c.18564gtC>gtT	V>V					2293			29						
+24912	C	CT	11	S	S:c.3350aCa>aTa	T>I		14			1145	7		16						
+24959	G	GT	11	S	S:c.3397Gtc>Ttc	V>F			3	23	267	59	5							
+25350	C	CT	11	S	S:c.3788cCa>cTa	P>L	1	375			1405	49		48						
+17999	C	CT	11	ORF1ab	orf1ab:c.17735aCa>aTa	T>I		1			3085	3		33						
+25311	G	GT	11	S	S:c.3749tGt>tTt	C>F			1	2	467	34	5							
+25273	G	GC	11	S	S:c.3711atG>atC	M>I			1	407	1177	7	22			4				
+17865	T	TC	11	ORF1ab	orf1ab:c.17601taT>taC	Y>Y		1		2967		7		6	1					
+17977	C	CT	11	ORF1ab	orf1ab:c.17713Ctt>Ttt	L>F		1			4143	40		86						
+25273	G	GT	11	S	S:c.3711atG>atT	M>I			1	407	1177	7	22			4				
+25269	G	GT	11	S	S:c.3707tGt>tTt	C>F				29	135	2	5							
+25267	C	CT	11	S	S:c.3705tgC>tgT	C>C	1	1			396	1		6						
+18167	C	CT	11	ORF1ab	orf1ab:c.17903cCt>cTt	P>L	2				18058	54		33						
+25266	G	GT	11	S	S:c.3704tGc>tTc	C>F				2	645		20							
+18040	G	GT	11	ORF1ab	orf1ab:c.17776Gct>Tct	A>S			1	1	510	6	5							
+25246	A	AT	11	S	S:c.3684gtA>gtT	V>V	1	12		2	10	2			2					
+25186	G	GT	11	S	S:c.3624caG>caT	Q>H			2	1	495	249	9							
+25156	C	CT	11	S	S:c.3594atC>atT	I>I					428	15		10						
+18129	C	CT	11	ORF1ab	orf1ab:c.17865gaC>gaT	D>D				1	1380	3		24						
+66	C	CA	9	5'UTR			4	5			4980	445		56		1				
+17334	G	GT	11	ORF1ab	orf1ab:c.17070acG>acT	T>T			4	3	870	371	16			1				
+29784	C	CT	9	3'UTR			2	6		1	3171	13		21						
+3728	G	GT	11	ORF1ab	orf1ab:c.3463Ggt>Tgt	G>C					604	269	15				1			
+6449	C	CT	11	ORF1ab	orf1ab:c.6184Ctt>Ttt	L>F		1			1951	16		26						
+10626	C	CT	11	ORF1ab	orf1ab:c.10361gCa>gTa	A>V					1736	1		34						
+10543	C	CT	11	ORF1ab	orf1ab:c.10278caC>caT	H>H					1640			13						
+3817	C	CT	11	ORF1ab	orf1ab:c.3552gaC>gaT	D>D	3			1	4581	105		29						
+10448	C	CT	11	ORF1ab	orf1ab:c.10183Ccc>Tcc	P>S	1	2			1758	10		37						
+10440	C	CT	11	ORF1ab	orf1ab:c.10175gCt>gTt	A>V					744	1		14						
+3740	A	AC	11	ORF1ab	orf1ab:c.3475Ata>Cta	I>L		8	1	1	7				1					
+10376	C	CA	11	ORF1ab	orf1ab:c.10111Cca>Aca	P>T		2			12251	22		48						
+1385	C	CT	11	ORF1ab	orf1ab:c.1120Cac>Tac	H>Y		5			1992	3		24						
+10369	C	CT	11	ORF1ab	orf1ab:c.10104cgC>cgT	R>R		1			6519	21		100						
+1426	C	CT	11	ORF1ab	orf1ab:c.1161taC>taT	Y>Y					1135			16						
+1612	C	CT	11	ORF1ab	orf1ab:c.1347aaC>aaT	N>N				1	300	7		3						
+6651	C	CT	11	ORF1ab	orf1ab:c.6386gCt>gTt	A>V		7			779			13						
+10105	G	GT	11	ORF1ab	orf1ab:c.9840atG>atT	M>I			1		297	95	5			1				
+6690	C	CT	11	ORF1ab	orf1ab:c.6425gCt>gTt	A>V	1				95			2						
+3543	C	CT	11	ORF1ab	orf1ab:c.3278aCt>aTt	T>I		2		1	259	9		5						
+10065	G	GA	11	ORF1ab	orf1ab:c.9800aGa>aAa	R>K		1	4		1	71								
+6693	A	AG	11	ORF1ab	orf1ab:c.6428aAg>aGg	K>R	1	289	5	9					1					
+3540	C	CT	11	ORF1ab	orf1ab:c.3275gCt>gTt	A>V	1				161	3		5						
+1589	G	GT	11	ORF1ab	orf1ab:c.1324Ggt>Tgt	G>C			52	8	80	251	24							
+1594	C	CT	11	ORF1ab	orf1ab:c.1329tcC>tcT	S>S		1		1	3609	24		60						
+9943	C	CT	11	ORF1ab	orf1ab:c.9678taC>taT	Y>Y					1410	1		23		1				
+6401	C	CT	11	ORF1ab	orf1ab:c.6136Cca>Tca	P>S		17			1919	36		27						
+10688	G	GA	11	ORF1ab	orf1ab:c.10423Gtt>Att	V>I			7	3	496	93	2							
+10728	C	CT	11	ORF1ab	orf1ab:c.10463aCa>aTa	T>I				3	795									
+951	A	AG	11	ORF1ab	orf1ab:c.686tAc>tGc	Y>C		65												
+11462	A	AG	11	ORF1ab	orf1ab:c.11197Atg>Gtg	M>V		121	4	5	4									
+4386	A	AC	11	ORF1ab	orf1ab:c.4121aAt>aCt	N>T		120	1	20										
+713	G	GA	11	ORF1ab	orf1ab:c.448Ggc>Agc	G>S			1	1	206	244	3			1				
+724	T	TC	11	ORF1ab	orf1ab:c.459ccT>ccC	P>P		3		21		1		2						
+4331	C	CT	11	ORF1ab	orf1ab:c.4066Cta>Tta	L>L	2	2			3514	2		47						
+6063	A	AG	11	ORF1ab	orf1ab:c.5798gAt>gGt	D>G	1	156		116										
+11356	A	AG	11	ORF1ab	orf1ab:c.11091gcA>gcG	A>A		71	3		110									
+809	T	TC	11	ORF1ab	orf1ab:c.544Tac>Cac	Y>H				235		15		5						
+11266	G	GT	11	ORF1ab	orf1ab:c.11001ttG>ttT	L>F		15	1	2	1105	179	13							
+11221	G	GA	11	ORF1ab	orf1ab:c.10956atG>atA	M>I					150	41	3			1				
+11219	A	AG	11	ORF1ab	orf1ab:c.10954Atg>Gtg	M>V		44												
+851	T	TC	11	ORF1ab	orf1ab:c.586Tac>Cac	Y>H				153		47		5						
+11152	C	CT	11	ORF1ab	orf1ab:c.10887gtC>gtT	V>V	3	3			1325	4		36						
+884	C	CT	11	ORF1ab	orf1ab:c.619Cgt>Tgt	R>C		10			3872	13		25						
+11095	C	CT	11	ORF1ab	orf1ab:c.10830gcC>gcT	A>A	1	2		2	663	50		14						
+3987	C	CT	11	ORF1ab	orf1ab:c.3722aCa>aTa	T>I				1	548	22		12						
+6310	C	CA	11	ORF1ab	orf1ab:c.6045agC>agA	S>R	36	1			2280	849		27						
+925	C	CT	11	ORF1ab	orf1ab:c.660gaC>gaT	D>D					436	11		12						
+10893	C	CT	11	ORF1ab	orf1ab:c.10628aCc>aTc	T>I					214	7		2						
+10856	T	TC	11	ORF1ab	orf1ab:c.10591Tta>Cta	L>L		1		11				2						
+10855	A	AT	11	ORF1ab	orf1ab:c.10590tcA>tcT	S>S		179	3	58	3				1					
+9928	G	GT	11	ORF1ab	orf1ab:c.9663atG>atT	M>I			1		5116	49	29							
+1623	T	TC	11	ORF1ab	orf1ab:c.1358aTa>aCa	I>T		4		399		5		11						
+643	C	CT	11	ORF1ab	orf1ab:c.378aaC>aaT	N>N				1	1	5		27						
+2755	G	GT	11	ORF1ab	orf1ab:c.2490gtG>gtT	V>V				8	588	71	12							
+2106	C	CT	11	ORF1ab	orf1ab:c.1841aCt>aTt	T>I					1458	28		16						
+8937	C	CT	11	ORF1ab	orf1ab:c.8672gCa>gTa	A>V					746			11						
+7684	G	GA	11	ORF1ab	orf1ab:c.7419ttG>ttA	L>L			2		2	100								
+2959	T	TC	11	ORF1ab	orf1ab:c.2694gaT>gaC	D>D		6		264		3	3	2						
+2121	C	CT	11	ORF1ab	orf1ab:c.1856aCt>aTt	T>I	2				194	52		5						
+8844	G	GA	11	ORF1ab	orf1ab:c.8579aGa>aAa	R>K		1		1	24	23	1							
+7764	C	CT	11	ORF1ab	orf1ab:c.7499tCc>tTc	S>F					3349	6		57						
+8795	A	AG	11	ORF1ab	orf1ab:c.8530Agt>Ggt	S>G		45	4		11									
+8733	C	CT	11	ORF1ab	orf1ab:c.8468aCa>aTa	T>I					577	13		14						
+7847	A	AC	11	ORF1ab	orf1ab:c.7582Aga>Cga	R>R				6	1									
+8660	C	CT	11	ORF1ab	orf1ab:c.8395Cat>Tat	H>Y	1	1			519			22						
+9907	C	CT	11	ORF1ab	orf1ab:c.9642taC>taT	Y>Y					346			5						
+2226	C	CT	11	ORF1ab	orf1ab:c.1961aCc>aTc	T>I					216	13		1						
+2297	T	TA	11	ORF1ab				2		57				1						
+8017	G	GA	11	ORF1ab	orf1ab:c.7752gcG>gcA	A>A			4	3	1595	209	25							
+2407	G	GC	11	ORF1ab	orf1ab:c.2142aaG>aaC	K>N			4	2	93	669	1			1				
+8603	T	TC	11	ORF1ab	orf1ab:c.8338Ttc>Ctc	F>L				25427		2		43						
+8593	T	TC	11	ORF1ab	orf1ab:c.8328gtT>gtC	V>V		1		3193	1	1		5						
+2536	C	CT	11	ORF1ab	orf1ab:c.2271gtC>gtT	V>V	1	4			1675	42		21						
+8139	C	CT	11	ORF1ab	orf1ab:c.7874tCc>tTc	S>F					1952	2		27						
+8371	G	GT	11	ORF1ab	orf1ab:c.8106caG>caT	Q>H			3	9	4714	77	29			1				
+8293	C	CT	11	ORF1ab	orf1ab:c.8028acC>acT	T>T	2	2		1	2646	22		37						
+2094	C	CT	11	ORF1ab	orf1ab:c.1829tCg>tTg	S>L		6			1386			39						
+7393	G	GT	11	ORF1ab	orf1ab:c.7128ccG>ccT	P>P		1	9	15	1854	284	27			1				
+2040	C	CT	11	ORF1ab	orf1ab:c.1775aCt>aTt	T>I	1				989	13		23						
+9204	A	AG	11	ORF1ab	orf1ab:c.8939gAt>gGt	D>G		4903	99	180	5									
+9840	A	AG	11	ORF1ab	orf1ab:c.9575aAg>aGg	K>R		115	5	1					1					
+9803	C	CT	11	ORF1ab	orf1ab:c.9538Ctg>Ttg	L>L	1			1	2665	27		40						
+3285	A	AG	11	ORF1ab	orf1ab:c.3020gAg>gGg	E>G		23	2	44	2									
+9802	G	GT	11	ORF1ab	orf1ab:c.9537gcG>gcT	A>A		1	3	8	2589	123	50							
+9802	G	GA	11	ORF1ab	orf1ab:c.9537gcG>gcA	A>A		1	3	8	2589	123	50							
+1707	C	CT	11	ORF1ab	orf1ab:c.1442tCt>tTt	S>F	1				129	2		29						
+6831	G	GA	11	ORF1ab	orf1ab:c.6566aGa>aAa	R>K			5		4	28								
+9700	C	CT	11	ORF1ab	orf1ab:c.9435atC>atT	I>I		1			720	6		5						
+6906	C	CT	11	ORF1ab	orf1ab:c.6641tCa>tTa	S>L	1				120			2						
+1912	C	CT	11	ORF1ab	orf1ab:c.1647tcC>tcT	S>S	3				6338	30		78						
+9559	C	CT	11	ORF1ab	orf1ab:c.9294taC>taT	Y>Y					1338	1		30						
+1915	C	CT	11	ORF1ab	orf1ab:c.1650cgC>cgT	R>R					162	100		2						
+3230	G	GT	11	ORF1ab	orf1ab:c.2965Ggt>Tgt	G>C			2	7	64	276	3							
+9543	G	GT	11	ORF1ab	orf1ab:c.9278tGt>tTt	C>F		1			6									
+9534	C	CT	11	ORF1ab	orf1ab:c.9269aCt>aTt	T>I		1			242	33		10						
+6968	C	CT	11	ORF1ab	orf1ab:c.6703Cta>Tta	L>L	2	22		1	7216	7		34		2				
+7042	G	GT	11	ORF1ab	orf1ab:c.6777atG>atT	M>I			3		29625	32	118			1				
+9491	C	CT	11	ORF1ab	orf1ab:c.9226Cat>Tat	H>Y				1	860			30		1				
+9344	C	CT	11	ORF1ab	orf1ab:c.9079Ctt>Ttt	L>F		1			2140	43		22						
+3164	G	GT	11	ORF1ab	orf1ab:c.2899Gct>Tct	A>S		1		5	76	104	2							
+3153	G	GA	11	ORF1ab	orf1ab:c.2888gGt>gAt	G>D			6		47	59	2							
+4399	G	GT	11	ORF1ab	orf1ab:c.4134atG>atT	M>I				3	1204	5	21			1		6		
+8327	C	CA	11	ORF1ab	orf1ab:c.8062Ctt>Att	L>I	1				1542	23		26						
+5326	G	GT	11	ORF1ab	orf1ab:c.5061gaG>gaT	E>D		1	1		208	164	3							
+4921	C	CT	11	ORF1ab	orf1ab:c.4656acC>acT	T>T		4			186	27		8						
+4906	T	TC	11	ORF1ab	orf1ab:c.4641gaT>gaC	D>D		12		95		6		2	1					
+463	G	GA	11	ORF1ab	orf1ab:c.198caG>caA	Q>Q			12	1	16	363				1				
+4621	T	TC	11	ORF1ab	orf1ab:c.4356taT>taC	Y>Y				22				1						
+5052	C	CT	11	ORF1ab	orf1ab:c.4787cCa>cTa	P>L					111	4		7						
+5717	C	CT	11	ORF1ab	orf1ab:c.5452Cat>Tat	H>Y					203	2		7						
+284	G	GA	11	ORF1ab	orf1ab:c.19Ggt>Agt	G>S			4		22	340				1				
+12068	C	CA	11	ORF1ab	orf1ab:c.11803Ctg>Atg	L>M		6			1850	144		39						
+12070	G	GT	11	ORF1ab	orf1ab:c.11805ctG>ctT	L>L			3	17	6087	153	24							
+204	G	GA	9	5'UTR				2	18	77	56302	639	108							
+11704	C	CT	11	ORF1ab	orf1ab:c.11439taC>taT	Y>Y				1	2205			39						
+4666	A	AG	11	ORF1ab	orf1ab:c.4401agA>agG	R>R		251	3	1	2	1								
+12130	A	AG	11	ORF1ab	orf1ab:c.11865gcA>gcG	A>A		127	3	10	5									
+4794	C	CT	11	ORF1ab	orf1ab:c.4529tCc>tTc	S>F					1766	11		21						
+127	G	GT	9	5'UTR					2	2	481	17	12							
+5230	G	GT	11	ORF1ab	orf1ab:c.4965aaG>aaT	K>N					7583	26	20			1				
+4683	C	CT	11	ORF1ab	orf1ab:c.4418gCt>gTt	A>V					1656			59						
+4780	C	CT	11	ORF1ab	orf1ab:c.4515atC>atT	I>I	2				462	60		10						
+4777	C	CT	11	ORF1ab	orf1ab:c.4512acC>acT	T>T					246	21		7						
+11758	C	CT	11	ORF1ab	orf1ab:c.11493ccC>ccT	P>P	2	1			3568	66		64						
+5629	G	GT	11	ORF1ab	orf1ab:c.5364acG>acT	T>T			3	3	20151	79	552							
+569	G	GA	11	ORF1ab	orf1ab:c.304Gag>Aag	E>K			5	22		1062	2			2				
+12085	C	CT	11	ORF1ab	orf1ab:c.11820acC>acT	T>T	1	1			1521	73		19						
+4540	C	CT	11	ORF1ab	orf1ab:c.4275taC>taT	Y>Y					1254			13						
+11761	G	GT	11	ORF1ab	orf1ab:c.11496aaG>aaT	K>N			1	1	385	24	8							
+144	T	TG	9	5'UTR				11		30		4		3						
+5290	T	TC	11	ORF1ab	orf1ab:c.5025taT>taC	Y>Y				335			1	40						
+577	T	TC	11	ORF1ab	orf1ab:c.312ctT>ctC	L>L		5		23		83		4	1					
+4999	C	CT	11	ORF1ab	orf1ab:c.4734aaC>aaT	N>N		1			2687			85						
+5539	G	GA	11	ORF1ab	orf1ab:c.5274caG>caA	Q>Q			5		32	354	1			1				
+609	C	CT	11	ORF1ab	orf1ab:c.344cCa>cTa	P>L					16	2		3						
+4448	A	AG	11	ORF1ab	orf1ab:c.4183Act>Gct	T>A		32	4											
+12250	A	AG	11	ORF1ab	orf1ab:c.11985gcA>gcG	A>A		57	2	11	29									
+11956	C	CT	11	ORF1ab	orf1ab:c.11691gaC>gaT	D>D					4282	1		28						
+12243	G	GT	11	ORF1ab	orf1ab:c.11978cGt>cTt	R>L		1	2		649	132	12							
+4639	T	TC	11	ORF1ab	orf1ab:c.4374aaT>aaC	N>N		2		48		5			1					
+407	G	GA	11	ORF1ab	orf1ab:c.142Gat>Aat	D>N			2	1	90	172	3							
+11595	A	AG	11	ORF1ab	orf1ab:c.11330cAg>cGg	Q>R		549	7			1								
+100	C	CT	9	5'UTR			4	1		1	5206	27		22						
+24385	A	AC	10	S	S:c.2823acA>acC	T>T		109		3	268	1			2					
+3431	G	GA	10	ORF1ab	orf1ab:c.3166Gtg>Atg	V>M		1		12	1696	93	19							
+26113	G	GT	10	ORF3a	ORF3a:c.721Gaa>Taa	E>Stop				21	45	68	3							
+26115	A	AC	10	ORF3a	ORF3a:c.723gaA>gaC	E>D	3	17		394	9									
+3216	G	GT	10	ORF1ab	orf1ab:c.2951aGt>aTt	S>I		1	1		314	158	4							
+26250	C	CT	10	E	E:c.6taC>taT	Y>Y					21			3						
+26228	C	CT	8	Intergenic			2				824	44		18						
+3206	G	GT	10	ORF1ab	orf1ab:c.2941Gat>Tat	D>Y		1	1	1	390	20	4							
+3351	G	GT	10	ORF1ab	orf1ab:c.3086aGt>aTt	S>I			1	1	123	255	1							
+4755	C	CT	10	ORF1ab	orf1ab:c.4490cCt>cTt	P>L	1	7			1027	25		25						
+3403	G	GT	10	ORF1ab	orf1ab:c.3138gtG>gtT	V>V			2	10	687	82	11			2				
+25922	G	GT	10	ORF3a	ORF3a:c.530aGt>aTt	S>I			3	35	365	71	6			3				
+3193	A	AG	10	ORF1ab	orf1ab:c.2928gaA>gaG	E>E		116	4	37	135									
+3177	C	CT	10	ORF1ab	orf1ab:c.2912cCt>cTt	P>L	4	1			23014	30		69						
+26184	T	TC	10	ORF3a	ORF3a:c.792taT>taC	Y>Y				40		34		2						
+26192	C	CT	10	ORF3a	ORF3a:c.800cCg>cTg	P>L	1				402	24		10						
+3426	C	CT	10	ORF1ab	orf1ab:c.3161cCa>cTa	P>L					726	1		15						
+26196	G	GA	10	ORF3a	ORF3a:c.804acG>acA	T>T			1	35	129	45	3							
+26198	C	CT	10	ORF3a	ORF3a:c.806aCg>aTg	T>M					693	2		20						
+3425	C	CT	10	ORF1ab	orf1ab:c.3160Cca>Tca	P>S				1	429	16		8						
+26199	G	GT	10	ORF3a	ORF3a:c.807acG>acT	T>T		1	1	52	335	187	9							
+26214	T	TC	10	ORF3a	ORF3a:c.822ccT>ccC	P>P		11		17		31	5	3						
+26021	A	AC	10	ORF3a	ORF3a:c.629gAc>gCc	D>A	1	166		25	3				2					
+26111	C	CT	10	ORF3a	ORF3a:c.719cCt>cTt	P>L	2	6			1731	42		24		2				
+3340	G	GT	10	ORF1ab	orf1ab:c.3075gtG>gtT	V>V		3		18	940	42	15				1			
+24523	T	TC	10	S	S:c.2961gtT>gtC	V>V		22		44		29		1	1					
+26018	C	CT	10	ORF3a	ORF3a:c.626tCa>tTa	S>L					87			2						
+24535	G	GT	10	S	S:c.2973gtG>gtT	V>V			1		348	26	15							
+3261	C	CT	10	ORF1ab	orf1ab:c.2996aCa>aTa	T>I	2	1			2582	2		24						
+4664	A	AC	10	ORF1ab	orf1ab:c.4399Aga>Cga	R>R	2			6										
+24604	A	AT	10	S				53												
+3259	G	GT	10	ORF1ab	orf1ab:c.2994caG>caT	Q>H		1	1	15	4242	27	37							
+26049	G	GT	10	ORF3a	ORF3a:c.657ttG>ttT	L>F			1	1	325	274	3							
+3254	A	AC	10	ORF1ab	orf1ab:c.2989Aat>Cat	N>H		20		2	42				1					
+3250	G	GT	10	ORF1ab	orf1ab:c.2985gaG>gaT	E>D			5	10	2417	88	19			1				
+25996	G	GT	10	ORF3a	ORF3a:c.604Gta>Tta	V>L			4	14	13027	790	55			2				
+4665	G	GA	10	ORF1ab	orf1ab:c.4400aGa>aAa	R>K			4		3	221	1							
+3241	C	CT	10	ORF1ab	orf1ab:c.2976gaC>gaT	D>D					535	23		18						
+24381	C	CT	10	S	S:c.2819tCc>tTc	S>F		2		1	1196	26		16						
+26078	C	CT	10	ORF3a	ORF3a:c.686aCc>aTc	T>I	4	33		1	1153	41		16						
+24442	C	CT	10	S	S:c.2880aaC>aaT	N>N	1			1	1837	3		14						
+24418	C	CT	10	S	S:c.2856gtC>gtT	V>V	3				1381	23		14						
+24616	C	CT	10	S	S:c.3054atC>atT	I>I	1	2			658	3		12						
+4656	G	GT	10	ORF1ab	orf1ab:c.4391cGg>cTg	R>L		1	5	1	7	197	4							
+3230	G	GA	10	ORF1ab	orf1ab:c.2965Ggt>Agt	G>S			2	7	64	276	3							
+25981	G	GT	10	ORF3a	ORF3a:c.589Gta>Tta	V>L					114	7	2							
+25980	A	AC	10	ORF3a	ORF3a:c.588ggA>ggC	G>G	5	41	3	143	22									
+26082	C	CT	10	ORF3a	ORF3a:c.690ttC>ttT	F>F		5			196	4		3						
+3221	C	CA	10	ORF1ab	orf1ab:c.2956Caa>Aaa	Q>K	2				1	19								
+26065	G	GT	10	ORF3a	ORF3a:c.673Gtt>Ttt	V>F			4	32	4032	63	9							
+25135	G	GT	10	S	S:c.3573aaG>aaT	K>N		1	2	57	19712	91	30			1				
+24379	T	TC	10	S	S:c.2817tcT>tcC	S>S		11		36		11	1	1	1					
+2659	G	GT	10	ORF1ab	orf1ab:c.2394aaG>aaT	K>N		1	4	12	1300	3299	16							
+26779	G	GT	10	M	M:c.257tGt>tTt	C>F		3		25	329		9							
+26774	G	GT	10	M	M:c.252atG>atT	M>I		2	4		166	55	2							
+2626	G	GT	10	ORF1ab	orf1ab:c.2361ggG>ggT	G>G			1		117	91	2							
+2629	T	TC	10	ORF1ab	orf1ab:c.2364ctT>ctC	L>L				15	2	5		1	1					
+26750	C	CT	10	M	M:c.228atC>atT	I>I	3	5			415	55		5						
+26746	G	GT	10	M	M:c.224tGg>tTg	W>L				20	382		5			3				
+2659	G	GA	10	ORF1ab	orf1ab:c.2394aaG>aaA	K>K		1	4	12	1300	3299	16							
+26645	C	CT	10	M	M:c.123aaC>aaT	N>N					3700			37						
+26721	C	CT	10	M	M:c.199Ctt>Ttt	L>F					24	3								
+2695	C	CT	10	ORF1ab	orf1ab:c.2430aaC>aaT	N>N	1			1	2286			30						
+26700	G	GT	10	M	M:c.178Gta>Tta	V>L			609		362	19	5							
+24173	G	GT	10	S	S:c.2611Gct>Tct	A>S			1		315	8	9							
+2710	C	CT	10	ORF1ab	orf1ab:c.2445ctC>ctT	L>L	2	4			1480	6		33						
+2752	T	TC	10	ORF1ab	orf1ab:c.2487acT>acC	T>T		5		305		6	1		1					
+26781	C	CT	10	M	M:c.259Ctt>Ttt	L>F	1				498	25		7						
+2600	G	GA	10	ORF1ab	orf1ab:c.2335Gtt>Att	V>I				1	96	138								
+24119	C	CG	10	S								2		1						
+2589	A	AG	10	ORF1ab	orf1ab:c.2324gAa>gGa	E>G		77	1	8	1									
+26801	C	CG	10	M	M:c.279ctC>ctG	L>L		106553			8440	23	4	45		164				
+26803	G	GT	10	M	M:c.281aGc>aTc	S>I			1	34	183	13	2			2				
+26814	G	GT	10	M	M:c.292Gct>Tct	A>S		1	1		318	109	9							
+26822	C	CT	10	M	M:c.300ttC>ttT	F>F		8		1	1335	20		26						
+24118	A	AG	10	S	S:c.2556gcA>gcG	A>A		44	2	9	95				4					
+26847	A	AG	10	M	M:c.325Atg>Gtg	M>V		31	3	2	53				3					
+2509	C	CT	10	ORF1ab	orf1ab:c.2244ccC>ccT	P>P		11			8385	5		28		4				
+2508	C	CT	10	ORF1ab	orf1ab:c.2243cCc>cTc	P>L		6			779	39		24						
+26867	A	AG	10	M	M:c.345gaA>gaG	E>E	1	128	1	1										
+24109	C	CT	10	S	S:c.2547ctC>ctT	L>L	2	1			3645	1		3						
+26892	C	CT	10	M	M:c.370Ctc>Ttc	L>F	2	19			120	30		7						
+26912	C	CT	10	M	M:c.390acC>acT	T>T		7			688	2		9		1				
+2497	A	AT	10	ORF1ab	orf1ab:c.2232ggA>ggT	G>G		132	4	17	66	3			1					
+26677	T	TC	10	M	M:c.155aTt>aCt	I>T		3		378				2						
+24197	G	GT	10	S	S:c.2635Gcg>Tcg	A>S			4	1	1050	124	15			1				
+26256	C	CT	10	E	E:c.12ttC>ttT	F>F	2	1			2324	13		38						
+3069	A	AG	10	ORF1ab	orf1ab:c.2804gAt>gGt	D>G	1	271	5	14	13				2		1			
+26461	C	CT	10	E	E:c.217Ctt>Ttt	L>F	1	31		1	1825	77		18		1				
+3045	C	CT	10	ORF1ab	orf1ab:c.2780cCa>cTa	P>L	1				1650	12		38						
+24370	C	CT	10	S	S:c.2808gaC>gaT	D>D	1	16			1882	18		44						
+3049	T	TC	10	ORF1ab	orf1ab:c.2784gaT>gaC	D>D		467		419		220	2	5	2					
+24378	C	CT	10	S	S:c.2816tCt>tTt	S>F	2	1			3853	18		30						
+26442	T	TA	10	E	E:c.198aaT>aaA	N>K		9		74		8	1	2						
+26391	G	GA	10	E	E:c.147gtG>gtA	V>V		1	1		33	4	1							
+26622	C	CA	10	M	M:c.100Ctt>Att	L>I		1			801	7		13						
+25912	G	GT	10	ORF3a	ORF3a:c.520Ggc>Tgc	G>C			3	1	2030	466	65							
+26340	C	CT	10	E	E:c.96gcC>gcT	A>A					300	1		14						
+3102	A	AG	10	ORF1ab	orf1ab:c.2837cAa>cGa	Q>R		34			34									
+26307	T	TA	10	E	E:c.63ctT>ctA	L>L		16		20		549		5	2					
+3124	T	TA	10	ORF1ab	orf1ab:c.2859gaT>gaA	D>E		1		686		2	1	2	1					
+3140	C	CT	10	ORF1ab	orf1ab:c.2875Cct>Tct	P>S	1	5			14531	11		44						
+24368	G	GT	10	S	S:c.2806Gac>Tac	D>Y			9	467	2441	935	18			4				
+26469	C	CA	10	E	E:c.225gtC>gtA	V>V	3	41			684	61		19		3				
+2933	C	CT	10	ORF1ab	orf1ab:c.2668Ctt>Ttt	L>F					433	8		7						
+2923	A	AG	10	ORF1ab	orf1ab:c.2658gtA>gtG	V>V		107	3	9	2									
+2883	G	GA	10	ORF1ab	orf1ab:c.2618tGt>tAt	C>Y			4		15	95	1							
+4782	C	CT	10	ORF1ab	orf1ab:c.4517tCa>tTa	S>L					874			12						
+2882	T	TC	10	ORF1ab	orf1ab:c.2617Tgt>Cgt	C>R		5		22		5		3	1					
+26527	C	CT	10	M	M:c.5gCa>gTa	A>V		1		5	1887	3		29		1				
+26529	G	GT	10	M	M:c.7Gat>Tat	D>Y			1	86	166	33	12			1				
+24236	G	GT	10	S	S:c.2674Gct>Tct	A>S				1	344	2	7							
+26530	A	AC	10	M	M:c.8gAt>gCt	D>A	1	2826	76	11	36				2					
+26576	A	AG	10	M	M:c.54gaA>gaG	E>E		35	1		2									
+2836	C	CT	10	ORF1ab	orf1ab:c.2571tgC>tgT	C>C	26			1	1205			15						
+2788	C	CT	10	ORF1ab	orf1ab:c.2523atC>atT	I>I	1				270	10		11						
+4882	T	TC	10	ORF1ab	orf1ab:c.4617agT>agC	S>S				111					1					
+26607	C	CT	10	M	M:c.85Ctt>Ttt	L>F		3			531	1		5						
+2773	C	CT	10	ORF1ab	orf1ab:c.2508taC>taT	Y>Y	1				569			9						
+26389	G	GT	10	E	E:c.145Gtg>Ttg	V>L				2	462	45	19			1				
+3531	A	AG	10	ORF1ab	orf1ab:c.3266gAt>gGt	D>G		62	1	7	1	5								
+24626	G	GT	10	S	S:c.3064Gct>Tct	A>S					69		3							
+4021	C	CA	10	ORF1ab	orf1ab:c.3756aaC>aaA	N>K				1	1333	16		14						
+25459	G	GT	10	ORF3a	ORF3a:c.67Gct>Tct	A>S		1	2	4	1333	41	21			1				
+3969	G	GA	10	ORF1ab	orf1ab:c.3704tGt>tAt	C>Y			14		3	96	1							
+4475	C	CT	10	ORF1ab	orf1ab:c.4210Cgt>Tgt	R>C					544	1		20						
+4006	G	GT	10	ORF1ab	orf1ab:c.3741aaG>aaT	K>N			1	14	1642	83	15							
+25444	G	GT	10	ORF3a	ORF3a:c.52Ggt>Tgt	G>C				28	417	108	11							
+25440	G	GA	10	ORF3a	ORF3a:c.48aaG>aaA	K>K				37	1691	50	14							
+4456	C	CT	10	ORF1ab	orf1ab:c.4191gcC>gcT	A>A	1	1			5506	3		37						
+25471	G	GT	10	ORF3a	ORF3a:c.79Gat>Tat	D>Y			1	435	3124	293	27			8				
+4021	C	CT	10	ORF1ab	orf1ab:c.3756aaC>aaT	N>N				1	1333	16		14						
+4041	T	TC	10	ORF1ab	orf1ab:c.3776aTt>aCt	I>T		7		22		2		1						
+25429	G	GC	10	ORF3a	ORF3a:c.37Gta>Cta	V>L		138	6	107	2406	62	25			2				
+4084	C	CT	10	ORF1ab	orf1ab:c.3819gaC>gaT	D>D					2568	10		43						
+24985	G	GT	10	S	S:c.3423ttG>ttT	L>F			1		33	38	1							
+4098	T	TC	10	ORF1ab	orf1ab:c.3833tTc>tCc	F>S				8		2								
+3966	C	CT	10	ORF1ab	orf1ab:c.3701gCt>gTt	A>V	1	7			451	15		11						
+25472	A	AT	10	ORF3a	ORF3a:c.80gAt>gTt	D>V		148	4	93	8	3								
+25413	C	CT	10	ORF3a	ORF3a:c.21atC>atT	I>I		3		1	9975	54		54						
+25509	C	CT	10	ORF3a	ORF3a:c.117gcC>gcT	A>A	1	1		3	635	69		7		1				
+3939	G	GT	10	ORF1ab	orf1ab:c.3674aGa>aTa	R>I		2	5		199	27								
+25534	G	GT	10	ORF3a	ORF3a:c.142Gtt>Ttt	V>F				2	373	37	5							
+25528	C	CT	10	ORF3a	ORF3a:c.136Ctt>Ttt	L>F		33		18	727	91		6						
+25526	G	GT	10	ORF3a	ORF3a:c.134tGg>tTg	W>L				4	1361		18							
+25516	C	CT	10	ORF3a	ORF3a:c.124Cct>Tct	P>S		3		7	470	9		9		1				
+4510	G	GT	10	ORF1ab	orf1ab:c.4245gtG>gtT	V>V			3	4	1270	1267	16							
+3946	A	AC	10	ORF1ab	orf1ab:c.3681caA>caC	Q>H		19	3	4	1									
+4480	A	AG	10	ORF1ab	orf1ab:c.4215aaA>aaG	K>K	1	44		21										
+25500	G	GT	10	ORF3a	ORF3a:c.108ccG>ccT	P>P		1	6	78	323	318	5							
+24926	G	GT	10	S	S:c.3364Gtg>Ttg	V>L				1	1190	40	8							
+25494	G	GT	10	ORF3a	ORF3a:c.102acG>acT	T>T		1	6	43	2211	233	35			2				
+25489	G	GT	10	ORF3a	ORF3a:c.97Gca>Tca	A>S				5	3835	90	25							
+24928	G	GT	10	S	S:c.3366gtG>gtT	V>V			1	4	1870	30	6							
+3955	G	GT	10	ORF1ab	orf1ab:c.3690aaG>aaT	K>N			4	10	605	56	13							
+25416	C	CT	10	ORF3a	ORF3a:c.24ttC>ttT	F>F				2	1221	3		14						
+4124	G	GT	10	ORF1ab	orf1ab:c.3859Gtg>Ttg	V>L			2		39	180	1							
+25553	C	CT	10	ORF3a	ORF3a:c.161gCt>gTt	A>V	1	37			3184	5		34						
+25249	G	GC	10	S	S:c.3687atG>atC	M>I			2	43	1745	37	20			3				
+4298	G	GT	10	ORF1ab	orf1ab:c.4033Gtg>Ttg	V>L				1	66	8	2							
+4319	G	GA	10	ORF1ab	orf1ab:c.4054Gcc>Acc	A>T			3		20	150								
+4327	C	CT	10	ORF1ab	orf1ab:c.4062taC>taT	Y>Y					254	1		6						
+25062	G	GT	10	S	S:c.3500gGt>gTt	G>V				526	1784	23	31			4				
+25261	G	GT	10	S	S:c.3699atG>atT	M>I		1			25	27	2			2				
+4357	G	GT	10	ORF1ab	orf1ab:c.4092aaG>aaT	K>N			1	1	57	24	7							
+25069	C	CT	10	S	S:c.3507atC>atT	I>I					127	23		2						
+4288	G	GT	10	ORF1ab	orf1ab:c.4023gaG>gaT	E>D			1	6	707	61	16							
+4444	G	GA	10	ORF1ab	orf1ab:c.4179gtG>gtA	V>V				5	2341	197	41			1				
+25244	G	GT	10	S	S:c.3682Gta>Tta	V>L		1	1	75	2904	60	25			3				
+25218	G	GT	10	S	S:c.3656gGt>gTt	G>V		2		15	2643	4	28			1				
+25207	C	CT	10	S	S:c.3645taC>taT	Y>Y					2510			45						
+4444	G	GT	10	ORF1ab	orf1ab:c.4179gtG>gtT	V>V				5	2341	197	41			1				
+25183	G	GT	10	S	S:c.3621gaG>gaT	E>D			2	2	329	103	6							
+25036	T	TC	10	S	S:c.3474aaT>aaC	N>N				97		1		1						
+4454	G	GT	10	ORF1ab	orf1ab:c.4189Gcc>Tcc	A>S		1	3		29	59	2							
+4144	G	GA	10	ORF1ab	orf1ab:c.3879gaG>gaA	E>E			3	1	190	80	5							
+25305	G	GT	10	S	S:c.3743tGt>tTt	C>F			2	6	204	39	6							
+4148	G	GT	10	ORF1ab	orf1ab:c.3883Gtt>Ttt	V>F		1	1	1	1121	100	12							
+25340	G	GT	10	S	S:c.3778Gac>Tac	D>Y			1	38	373	994	5			2				
+25339	C	CT	10	S	S:c.3777gaC>gaT	D>D		1			871	4		13						
+25000	C	CA	10	S	S:c.3438gaC>gaA	D>E	1	5			2797	53		51						
+4201	G	GT	10	ORF1ab	orf1ab:c.3936atG>atT	M>I			1	1	1320	29	24			1				
+25008	A	AG	10	S	S:c.3446aAg>aGg	K>R		34	1		10									
+4202	C	CT	10	ORF1ab	orf1ab:c.3937Cta>Tta	L>L					1265	2		15						
+4226	C	CT	10	ORF1ab	orf1ab:c.3961Cca>Tca	P>S					901	37		9						
+25009	G	GT	10	S	S:c.3447aaG>aaT	K>N			34	2	1	537								
+25300	C	CT	10	S	S:c.3738ggC>ggT	G>G	1			1	149	29		5						
+25297	G	GT	10	S	S:c.3735aaG>aaT	K>N			12	8	49	186	8							
+25292	C	CT	10	S	S:c.3730Ctc>Ttc	L>F	1	2			70	35		4		1				
+25290	G	GT	10	S	S:c.3728tGt>tTt	C>F		1		7	495	11	24			1				
+25288	T	TC	10	S	S:c.3726agT>agC	S>S		2		21		7		1						
+25552	G	GT	10	ORF3a	ORF3a:c.160Gct>Tct	A>S			1	7	2133	31	23			2				
+25555	G	GA	10	ORF3a	ORF3a:c.163Gtt>Att	V>I		1	4	63	904	98	18			1				
+25910	A	AG	10	ORF3a	ORF3a:c.518gAt>gGt	D>G	1	1269	10	41	341				2					
+25760	T	TC	10	ORF3a	ORF3a:c.368aTa>aCa	I>T				204		1		5						
+25791	C	CT	10	ORF3a	ORF3a:c.399tgC>tgT	C>C	1				495	2		12						
+3587	C	CT	10	ORF1ab	orf1ab:c.3322Cac>Tac	H>Y	1				1687	1		21		1				
+25784	G	GT	10	ORF3a	ORF3a:c.392tGg>tTg	W>L				171	1061	3	12			3				
+25782	C	CT	10	ORF3a	ORF3a:c.390tgC>tgT	C>C	1	1			1642			24						
+3592	T	TC	10	ORF1ab	orf1ab:c.3327aaT>aaC	N>N		34		1205	1	2	2	4						
+25771	C	CT	10	ORF3a	ORF3a:c.379Ctt>Ttt	L>F					466	3		12						
+25744	A	AG	10	ORF3a	ORF3a:c.352Ata>Gta	I>V		256	2	3	21									
+24774	A	AT	10	S	S:c.3212cAa>cTa	Q>L		44	1	1	1226	1			9					
+3606	G	GT	10	ORF1ab	orf1ab:c.3341tGt>tTt	C>F			1	1	278	4	10							
+3685	G	GT	10	ORF1ab	orf1ab:c.3420caG>caT	Q>H			4		423	144	3			1				
+3695	C	CT	10	ORF1ab	orf1ab:c.3430Cta>Tta	L>L	1				2353	22		19						
+3704	C	CT	10	ORF1ab	orf1ab:c.3439Cca>Tca	P>S	1				111	4		6						
+25711	T	TA	10	ORF3a	ORF3a:c.319Tat>Aat	Y>N				720	3	13		11						
+4595	A	AG	10	ORF1ab	orf1ab:c.4330Act>Gct	T>A	1	32	1	3		1								
+25797	C	CT	10	ORF3a	ORF3a:c.405tcC>tcT	S>S	4			1	801	26		18						
+24773	C	CA	10	S	S:c.3211Caa>Aaa	Q>K		4		81	6	3		2						
+24793	T	TG	10	S	S:c.3231acT>acG	T>T		4		87	1	27								
+25889	C	CT	10	ORF3a	ORF3a:c.497tCa>tTa	S>L					6210			47						
+25907	G	GT	10	ORF3a	ORF3a:c.515gGt>gTt	G>V			4	7	60270	143	818							
+4649	G	GT	10	ORF1ab	orf1ab:c.4384Gct>Tct	A>S			1		27	46								
+4645	A	AG	10	ORF1ab	orf1ab:c.4380gaA>gaG	E>E		87	2	6	1									
+3464	C	CT	10	ORF1ab	orf1ab:c.3199Cat>Tat	H>Y	2				177	1		7						
+4438	C	CT	10	ORF1ab	orf1ab:c.4173gtC>gtT	V>V	1				461	77		5						
+25903	T	TC	10	ORF3a	ORF3a:c.511Tca>Cca	S>P		29		4	1	11			1					
+25879	G	GT	10	ORF3a	ORF3a:c.487Gta>Tta	V>L			12	32	301	1106	5							
+25816	G	GT	10	ORF3a	ORF3a:c.424Gat>Tat	D>Y				505	11	27	3			2				
+25879	G	GA	10	ORF3a	ORF3a:c.487Gta>Ata	V>I			12	32	301	1106	5							
+24751	G	GT	10	S	S:c.3189ttG>ttT	L>F			1	6	681	55	8							
+24755	G	GT	10	S	S:c.3193Gtg>Ttg	V>L				1	171	12	6							
+25837	T	TA	10	ORF3a	ORF3a:c.445Tgg>Agg	W>R		9		44		25		2						
+25831	C	CT	10	ORF3a	ORF3a:c.439Ctt>Ttt	L>F		8		1	667	41		29						
+4637	A	AG	10	ORF1ab	orf1ab:c.4372Aat>Gat	N>D		11												
+3718	T	TC	10	ORF1ab	orf1ab:c.3453gcT>gcC	A>A		8		50		9	1	2						
+25699	G	GT	10	ORF3a	ORF3a:c.307Gcc>Tcc	A>S			2	33	299	323	2							
+4528	A	AG	10	ORF1ab	orf1ab:c.4263agA>agG	R>R		185	5			1			1					
+25578	C	CT	10	ORF3a	ORF3a:c.186atC>atT	I>I	1	13		1	1752	5		27		1				
+4561	G	GA	10	ORF1ab	orf1ab:c.4296gcG>gcA	A>A			5	1	22	190								
+3838	G	GT	10	ORF1ab	orf1ab:c.3573ttG>ttT	L>F		1	2	2	90	78	2							
+3848	A	AG	10	ORF1ab	orf1ab:c.3583Agt>Ggt	S>G		7		1					1					
+3873	T	TC	10	ORF1ab	orf1ab:c.3608aTc>aCc	I>T		17		323		3		5						
+25617	G	GT	10	ORF3a	ORF3a:c.225aaG>aaT	K>N			1		3557	71	61							
+3884	C	CT	10	ORF1ab	orf1ab:c.3619Cct>Tct	P>S					531	46		7						
+25572	C	CT	10	ORF3a	ORF3a:c.180tcC>tcT	S>S	5	13		1	2279	133		26						
+25644	G	GT	10	ORF3a	ORF3a:c.252ctG>ctT	L>L		1	1	83	2691	593	20							
+3896	G	GT	10	ORF1ab	orf1ab:c.3631Gtt>Ttt	V>F		14			378	20	10							
+3901	G	GT	10	ORF1ab	orf1ab:c.3636aaG>aaT	K>N		2	1		98	113								
+4543	C	CT	10	ORF1ab	orf1ab:c.4278acC>acT	T>T	3	1			24960	2		82						
+25563	G	GC	10	ORF3a	ORF3a:c.171caG>caC	Q>H			2	622	219097	103	715	1		5		2		
+3902	C	CT	10	ORF1ab	orf1ab:c.3637Cca>Tca	P>S		2			222	8				1				
+3904	A	AG	10	ORF1ab	orf1ab:c.3639ccA>ccG	P>P		161	3	3	37				2					
+25626	C	CT	10	ORF3a	ORF3a:c.234caC>caT	H>H		12		1	5442	21		35						
+3828	C	CT	10	ORF1ab	orf1ab:c.3563tCa>tTa	S>L				1	17839	1		55						
+3737	C	CT	10	ORF1ab	orf1ab:c.3472Cct>Tct	P>S	5	2			1320	12		29						
+25687	G	GT	10	ORF3a	ORF3a:c.295Gct>Tct	A>S		1	3	14	1170	818	15			2				
+3738	C	CT	10	ORF1ab	orf1ab:c.3473cCt>cTt	P>L	3	7		1	2855	3		32						1
+24797	C	CT	10	S	S:c.3235Cct>Tct	P>S	2	3			247	39		2						
+24812	G	GT	10	S	S:c.3250Gat>Tat	D>Y		1	2	10	713	31	9			1				
+4586	C	CT	10	ORF1ab	orf1ab:c.4321Cta>Tta	L>L					1452	9		40						
+25693	C	CT	10	ORF3a	ORF3a:c.301Ctt>Ttt	L>F	2	44		1	720	114		12						
+24863	C	CA	10	S	S:c.3301Cac>Aac	H>N		590			680	7		22		5				
+25672	C	CT	10	ORF3a	ORF3a:c.280Ctt>Ttt	L>F		5		5	753	60		3		1				
+26922	C	CT	10	M	M:c.400Cta>Tta	L>L		1			354	1		5						
+25669	C	CT	10	ORF3a	ORF3a:c.277Cac>Tac	H>Y		4			727	45		22						
+25665	C	CT	10	ORF3a	ORF3a:c.273taC>taT	Y>Y					1065			55						
+3771	T	TC	10	ORF1ab	orf1ab:c.3506gTt>gCt	V>A				32		7		3						
+25657	A	AG	10	ORF3a	ORF3a:c.265Aca>Gca	T>A		51		4	1									
+24863	C	CT	10	S	S:c.3301Cac>Tac	H>Y		590			680	7		22		5				
+4576	A	AT	10	ORF1ab	orf1ab:c.4311acA>acT	T>T	1	9		1	55				2					
+25652	T	TC	10	ORF3a	ORF3a:c.260tTt>tCt	F>S		2		24		2		1						
+27393	C	CT	10	Intergenic						6	2068	2		34						
+26924	A	AT	10	M	M:c.402ctA>ctT	L>L		231	2	2	15				2					
+28738	T	TC	10	N	N:c.465gcT>gcC	A>A		2		35	1	42		3	1					
+28803	G	GA	10	N	N:c.530aGa>aAa	R>K					7	36								
+28792	A	AT	10	N	N:c.519gcA>gcT	A>A	1	123	2	2	774				7					
+28790	G	GT	10	N	N:c.517Gca>Tca	A>S			2		435	27	3			2				
+28775	C	CT	10	N	N:c.502Cca>Tca	P>S		3			1163	3		46						
+839	G	GA	10	ORF1ab	orf1ab:c.574Ggc>Agc	G>S			4		17	155								
+28770	C	CT	10	N	N:c.497aCa>aTa	T>I	1	1			576	4		17						
+28768	A	AT	10	N	N:c.495acA>acT	T>T		96	2	3	49				3					
+28729	T	TC	10	N	N:c.456gcT>gcC	A>A		27		63		16								
+28813	T	TC	10	N	N:c.540agT>agC	S>S		2		129	1		1	4						
+842	C	CT	10	ORF1ab	orf1ab:c.577Cct>Tct	P>S	10				366	12		7						
+28725	C	CT	10	N	N:c.452cCt>cTt	P>L	1	1			10985	16		39						
+28724	C	CT	10	N	N:c.451Cct>Tct	P>S	1	6			1072	3		22						
+853	C	CT	10	ORF1ab	orf1ab:c.588taC>taT	Y>Y					610			4						
+28706	C	CT	10	N	N:c.433Cac>Tac	H>Y	2				3033	9		39		1				
+875	C	CG	10	ORF1ab	orf1ab:c.610Ctt>Gtt	L>V	7	10			834	53		11						
+882	C	CT	10	ORF1ab	orf1ab:c.617gCa>gTa	A>V					1254	37		7						
+28807	C	CT	10	N	N:c.534ggC>ggT	G>G					371	96		12						
+28817	G	GT	10	N	N:c.544Gcc>Tcc	A>S			2	8	1549	61	28							
+28695	C	CT	10	N	N:c.422aCa>aTa	T>I		3			1085	4		17		1				
+28904	G	GT	10	N	N:c.631Gct>Tct	A>S			3	6	1563	533	20			1				
+673	C	CT	10	ORF1ab	orf1ab:c.408taC>taT	Y>Y					850			29						
+28951	A	AG	10	N	N:c.678agA>agG	R>R		178	4		1									
+28936	G	GT	10	N	N:c.663ttG>ttT	L>F				1	191	114	2							
+678	C	CT	10	ORF1ab	orf1ab:c.413gCc>gTc	A>V					271	4		11						
+28915	C	CT	10	N	N:c.642ggC>ggT	G>G				2	1149	1		6						
+710	C	CT	10	ORF1ab	orf1ab:c.445Ctt>Ttt	L>F	2				74	13		4						
+28908	G	GT	10	N	N:c.635gGc>gTc	G>V			7		1583	140	20			1				
+28903	G	GT	10	N	N:c.630atG>atT	M>I		10	1	117	2143	148	14			3				
+28845	G	GT	10	N	N:c.572cGc>cTc	R>L			3	3	222	170	6							
+731	G	GA	10	ORF1ab	orf1ab:c.466Gat>Aat	D>N			1		1	40	1							
+745	C	CT	10	ORF1ab	orf1ab:c.480aaC>aaT	N>N	1			1	2165	28		32						
+751	C	CT	10	ORF1ab	orf1ab:c.486aaC>aaT	N>N	1				583	1		24						
+787	G	GT	10	ORF1ab	orf1ab:c.522atG>atT	M>I				8	52	9	3			1				
+28878	G	GC	10	N	N:c.605aGt>aCt	S>T		65	18	23650	149	2881	4			62				
+28877	A	AT	10	N	N:c.604Agt>Tgt	S>C		47		4	24648				69					
+28851	G	GT	10	N	N:c.578aGt>aTt	S>I		11	2	412	2163	104	32			1				
+28699	A	AG	10	N	N:c.426ccA>ccG	P>P		3193	1	3	164				1					
+28687	C	CT	10	N	N:c.414gcC>gcT	A>A					562	175		13						
+28978	T	TC	10	N	N:c.705tcT>tcC	S>S		92		139	1	57	1	5						
+28331	C	CT	10	N	N:c.58Ccc>Tcc	P>S					135	6		3						
+28460	G	GA	10	N	N:c.187Gac>Aac	D>N		1	7	109	726	274	12			3				
+28436	G	GT	10	N	N:c.163Gct>Tct	A>S				21	729	2	25			1				
+962	G	GA	10	ORF1ab	orf1ab:c.697Gaa>Aaa	E>K		1				18								
+1006	G	GA	10	ORF1ab	orf1ab:c.741aaG>aaA	K>K			2		168	31								
+28371	G	GT	10	N	N:c.98aGt>aTt	S>I			4	11	769	54	9							
+28344	C	CT	10	N	N:c.71aCt>aTt	T>I	2				828	323		19						
+28342	A	AT	10	N	N:c.69tcA>tcT	S>S		14		1	241				3					
+28329	G	GC	10	N	N:c.56gGa>gCa	G>A			7	16	38	67	2			1				
+942	G	GA	10	ORF1ab	orf1ab:c.677aGg>aAg	R>K			10	1	16	726	3							
+28325	G	GA	10	N	N:c.52Ggt>Agt	G>S		1	2	1	332	162	5							
+28321	G	GT	10	N	N:c.48acG>acT	T>T			6	3	1565	1143	37							
+1048	G	GT	10	ORF1ab	orf1ab:c.783aaG>aaT	K>N		1	2		662	57	2							
+1101	C	CT	10	ORF1ab	orf1ab:c.836tCc>tTc	S>F	1	3			540	16		9						
+28305	A	AG	10	N	N:c.32aAt>aGt	N>S		202	1	13	61									
+1167	G	GT	10	ORF1ab	orf1ab:c.902cGa>cTa	R>L			3	2	23	75	4							
+28300	G	GC	10	N	N:c.27caG>caC	Q>H		2	6	525	3479	164	32			9				
+950	T	TC	10	ORF1ab	orf1ab:c.685Tac>Cac	Y>H		1		134		2		4						
+936	C	CA	10	ORF1ab	orf1ab:c.671aCt>aAt	T>N					5134	31		47						
+28685	G	GT	10	N	N:c.412Gcc>Tcc	A>S					140		3							
+28633	A	AG	10	N	N:c.360ggA>ggG	G>G		11		1	1									
+905	A	AC	10	ORF1ab	orf1ab:c.640Act>Cct	T>P		1316	1	2	2									
+28673	G	GT	10	N	N:c.400Gca>Tca	A>S			1		100	19	3							
+28658	G	GA	10	N	N:c.385Ggc>Agc	G>S			1		7	64	1							
+920	C	CT	10	ORF1ab	orf1ab:c.655Ctg>Ttg	L>L	1	3		1	2504	136		20						
+920	C	CA	10	ORF1ab	orf1ab:c.655Ctg>Atg	L>M	1	3		1	2504	136		20						
+922	G	GA	10	ORF1ab	orf1ab:c.657ctG>ctA	L>L		2	4	4	468	879	7			1				
+28641	A	AT	10	N	N:c.368tAt>tTt	Y>F					4									
+28606	C	CT	10	N	N:c.333taC>taT	Y>Y					2745			28						
+28509	G	GT	10	N	N:c.236aGt>aTt	S>I				4	117	66	2							
+934	C	CT	10	ORF1ab	orf1ab:c.669gaC>gaT	D>D		1			1170	9		20						
+28570	T	TC	10	N	N:c.297ggT>ggC	G>G				15				1	8					
+28560	G	GT	10	N	N:c.287gGt>gTt	G>V				2	54	8	1							
+28553	A	AG	10	N	N:c.280Att>Gtt	I>V		23	3	3										
+28541	G	GA	10	N	N:c.268Gct>Act	A>T			1		1060	4044	29			1				
+28541	G	GT	10	N	N:c.268Gct>Tct	A>S			1		1060	4044	29			1				
+28519	C	CT	10	N	N:c.246gaC>gaT	D>D	1				183	98		2						
+655	A	AC	10	ORF1ab	orf1ab:c.390ggA>ggC	G>G	2	86	9	2	12				3					
+29022	C	CT	10	N	N:c.749tCt>tTt	S>F				1	53	9		3						
+2455	C	CT	10	ORF1ab	orf1ab:c.2190ctC>ctT	L>L	1	4			2355	44		55						
+285	G	GT	10	ORF1ab	orf1ab:c.20gGt>gTt	G>V			1		223	37	10							
+29635	C	CT	10	ORF10	ORF10:c.78taC>taT	Y>Y		2			1281			12						
+203	C	CT	8	5'UTR			2	4		1	18120	30		157						
+29627	C	CT	10	ORF10	ORF10:c.70Cgt>Tgt	R>C		6			1459	21		24						
+29625	C	CT	10	ORF10	ORF10:c.68tCt>tTt	S>F		1			1489	1		17						
+29616	G	GT	10	ORF10	ORF10:c.59aGa>aTa	R>I			1	22	114	10	2							
+219	G	GT	8	5'UTR				7	5	66	1376	343	24			1				
+29597	T	TC	10	ORF10	ORF10:c.40Tat>Cat	Y>H				65		1		4						
+353	G	GA	10	ORF1ab	orf1ab:c.88Ggc>Agc	G>S			2		51	129	2							
+160	G	GT	8	5'UTR					4	1	692	323	16			1				
+361	A	AG	10	ORF1ab	orf1ab:c.96ggA>ggG	G>G	1	604	3	16	1									
+366	C	CT	10	ORF1ab	orf1ab:c.101tCc>tTc	S>F	1				97			6						
+29545	C	CT	8	Intergenic			5			1	995	325		10						
+29543	G	GC	10	Intergenic				3	3	570	8270	243	55			5				
+29542	A	AG	8	Intergenic				56		1	142				2					
+29541	C	CT	10	Intergenic				51		1	2386	4		39						
+29538	A	AG	10	Intergenic			1	39		1	227	1			3					
+191	T	TA	8	5'UTR				5		71		112		2	4					
+29685	T	TG	8	3'UTR				385		510	3	83	2	7						
+428	G	GA	10	ORF1ab	orf1ab:c.163Gaa>Aaa	E>K			4	3	1	324	3			4				
+126	A	AT	8	5'UTR				23	1	1	250				1					
+29773	G	GT	8	3'UTR				1		92	1031	1	12			1				
+29771	A	AG	8	3'UTR			1	3692	13	1	100	1							1	
+29764	G	GT	8	3'UTR				14	18	60	2023	23813	13			1				
+105	G	GT	8	5'UTR				1		7	942	16	7							
+29751	G	GT	8	3'UTR				1	10	937	3377	1	37			13				
+29750	C	CT	8	3'UTR			11	27	1	3	3249	14		67		3				
+29744	G	GA	8	3'UTR				2	13	22	1119	898	10			1				
+29741	C	CT	8	3'UTR				51		4	1555	43		26						
+29692	G	GT	8	3'UTR				1		107	10736	27	56			2				
+29737	G	GT	8	3'UTR				1	15	187	1024	1000	24		1	94				
+29736	G	GT	8	3'UTR				23	2	46	2131	368	26			1				
+29736	G	GA	8	3'UTR				23	2	46	2131	368	26			1				
+137	T	TC	8	5'UTR						215	1	9	4	3						
+29708	C	CT	8	3'UTR			1	13			1664	49		30		3				
+139	A	AG	8	5'UTR				30	3	9	2	1			1					
+29696	C	CT	8	3'UTR							180	9		11						
+29530	C	CT	10	N	N:c.1257gcC>gcT	A>A	3	12		1	521	1		9						
+29518	C	CT	10	N	N:c.1245gaC>gaT	D>D	1				1381	42		11						
+631	T	TC	10	ORF1ab	orf1ab:c.366ctT>ctC	L>L		3		11			1	5						
+29209	A	AG	10	N	N:c.936tcA>tcG	S>S		103	1	8	101									
+29272	C	CT	10	N	N:c.999taC>taT	Y>Y					8509			54						
+29269	C	CT	10	N	N:c.996acC>acT	T>T	2	3			280	63		3		1				
+583	C	CT	10	ORF1ab	orf1ab:c.318gtC>gtT	V>V	2				2208	12		28						
+586	T	TA	10	ORF1ab	orf1ab:c.321ctT>ctA	L>L		3		363		163			3					
+29250	C	CT	10	N	N:c.977cCt>cTt	P>L		51		1	539	45	1	12	1	1				
+29227	G	GA	10	N	N:c.954tcG>tcA	S>S			8	1	5722	224	35							
+29218	C	CT	10	N	N:c.945ttC>ttT	F>F		1		2	1462			56						
+29200	C	CT	10	N	N:c.927ccC>ccT	P>P		16			2624	21		40		1				
+580	T	TC	10	ORF1ab	orf1ab:c.315ggT>ggC	G>G		2		72		30	1		1					
+29195	G	GT	10	N	N:c.922Gcc>Tcc	A>S					826	1	11							
+606	T	TC	10	ORF1ab	orf1ab:c.341aTa>aCa	I>T		2		956		2		15	1					
+29172	A	AG	10	N	N:c.899cAt>cGt	H>R		85		6	19									
+29171	C	CT	10	N	N:c.898Cat>Tat	H>Y		4			2069	1		36						
+608	C	CT	10	ORF1ab	orf1ab:c.343Cca>Tca	P>S					40	1		4						
+29144	C	CT	10	N	N:c.871Cta>Tta	L>L					2740	3		20						
+29044	G	GA	10	N	N:c.771aaG>aaA	K>K			7			2062								
+29281	C	CT	10	N	N:c.1008gcC>gcT	A>A		1			567	7		9						
+29347	C	CT	10	N	N:c.1074gaC>gaT	D>D					1	14		5						
+29509	C	CT	10	N	N:c.1236agC>agT	S>S	1	8		1	1499	18		12						
+29394	A	AC	10	N	N:c.1121aAg>aCg	K>T		308	2	12	2									
+29474	G	GT	10	N	N:c.1201Gat>Tat	D>Y			5	34	5500	51	25			4				
+29468	G	GT	10	N	N:c.1195Gat>Tat	D>Y			2	201	472	242	22			7				
+29447	G	GT	10	N	N:c.1174Gtg>Ttg	V>L				35	293	14	4							
+443	G	GT	10	ORF1ab	orf1ab:c.178Gtt>Ttt	V>F		12	5	1	26	524	5			1				
+29425	G	GT	10	N	N:c.1152caG>caT	Q>H			4	11	381	102	8			16				
+29422	G	GT	10	N	N:c.1149ccG>ccT	P>P			1	2	5669	461	104							
+509	G	GA	10	ORF1ab	orf1ab:c.244Ggt>Agt	G>S		888	4	2	7	133				1				
+29385	A	AT	10	N	N:c.1112gAc>gTc	D>V	1	48		11	44	2								
+570	A	AC	10	ORF1ab	orf1ab:c.305gAg>gCg	E>A		33	3	11	5									
+29383	G	GA	10	N	N:c.1110aaG>aaA	K>K		2	4	12	124	157	3			2				
+521	G	GT	10	ORF1ab	orf1ab:c.256Gtt>Ttt	V>F		1	5	3	846	98	22							
+526	G	GT	10	ORF1ab	orf1ab:c.261gaG>gaT	E>D			3	5	1042	212	20			1				
+527	C	CT	10	ORF1ab	orf1ab:c.262Ctg>Ttg	L>L	1	1			1360	2		8						
+29368	A	AG	10	N	N:c.1095ccA>ccG	P>P		39	2	30	228									
+29367	C	CT	10	N	N:c.1094cCa>cTa	P>L	3	74			1694	18		51		7				
+29363	C	CT	10	N	N:c.1090Cca>Tca	P>S	1	6		2	904	96		68						
+1210	G	GT	10	ORF1ab	orf1ab:c.945atG>atT	M>I				7	1665	177	17							
+1269	A	AG	10	ORF1ab	orf1ab:c.1004gAt>gGt	D>G		221	3	17	1									
+1288	C	CT	10	ORF1ab	orf1ab:c.1023tgC>tgT	C>C					3505	1		50						
+27494	C	CT	10	ORF7a	ORF7a:c.101cCt>cTt	P>L	2	41		1	1544	31		44		2				
+27538	C	CT	10	ORF7a	ORF7a:c.145Cta>Tta	L>L		19			388	13		2		1				
+27535	C	CT	10	ORF7a	ORF7a:c.142Cct>Tct	P>S		1		8	52	26		1						
+27516	G	GT	10	ORF7a	ORF7a:c.123gaG>gaT	E>D		1	5	2	166	143	11							
+27506	G	GT	10	ORF7a	ORF7a:c.113gGa>gTa	G>V		1	2	161	1298	214	28			3				
+27499	T	TC	10	ORF7a	ORF7a:c.106Tct>Cct	S>P		19		306	3	3	1	9						
+27496	T	TC	10	ORF7a	ORF7a:c.103Tgc>Cgc	C>R		1		11	2	42			3					
+2113	C	CT	10	ORF1ab	orf1ab:c.1848atC>atT	I>I	1	7			1535	20		35		1				
+27493	C	CT	10	ORF7a	ORF7a:c.100Cct>Tct	P>S				1	2384	15		39		1				
+27561	G	GT	10	ORF7a	ORF7a:c.168ctG>ctT	L>L		1		20	1655	100	26				1			
+27467	G	GA	10	ORF7a	ORF7a:c.74aGa>aAa	R>K			7	63	229	124	3			6				
+27467	G	GT	10	ORF7a	ORF7a:c.74aGa>aTa	R>I			7	63	229	124	3			6				
+27461	G	GA	10	ORF7a	ORF7a:c.68tGt>tAt	C>Y			2	1	1225	37	10			1				
+27459	G	GA	10	ORF7a	ORF7a:c.66gaG>gaA	E>E		1	1	1	1197	153	10							
+2135	C	CA	10	ORF1ab	orf1ab:c.1870Ctc>Atc	L>I	1				110	38		2						
+27425	C	CT	10	ORF7a	ORF7a:c.32aCa>aTa	T>I	3	5		3	347	325		8						
+27415	G	GA	10	ORF7a	ORF7a:c.22Gca>Aca	A>T			5	2	198	1	2							
+27549	C	CT	10	ORF7a	ORF7a:c.156aaC>aaT	N>N	2	1		1	992	23		22						
+2086	G	GT	10	ORF1ab	orf1ab:c.1821caG>caT	Q>H			2	4	821	43	19							
+27412	T	TC	10	ORF7a	ORF7a:c.19Ttg>Ctg	L>L		18		31		1		2						
+27689	C	CT	10	ORF7a	ORF7a:c.296cCa>cTa	P>L				1	1515	3		22		1				
+1992	A	AG	10	ORF1ab	orf1ab:c.1727tAt>tGt	Y>C		235		1	1				1					
+27746	G	GT	10	ORF7a	ORF7a:c.353aGa>aTa	R>I		1	3	68	284	48	5			1				
+27741	C	CT	10	ORF7a	ORF7a:c.348ctC>ctT	L>L		16		3	2808	11		50		2				
+2005	C	CT	10	ORF1ab	orf1ab:c.1740ctC>ctT	L>L	1				489	9		5						
+27722	T	TC	10	ORF7a	ORF7a:c.329aTa>aCa	I>T		1		264	10	2		6	1					
+27708	G	GA	10	ORF7a	ORF7a:c.315gcG>gcA	A>A			5	1	114	185	1							
+27703	G	GT	10	ORF7a	ORF7a:c.310Gtt>Ttt	V>F		1	1	148	1043	51	26							
+2031	A	AC	10	ORF1ab	orf1ab:c.1766gAt>gCt	D>A		1090	5	110	2									
+27597	T	TA	10	ORF7a	ORF7a:c.204ccT>ccA	P>P		9		340	2	48		14						
+27675	A	AC	10	ORF7a	ORF7a:c.282caA>caC	Q>H	11	36		380	24	2			1					
+2035	G	GT	10	ORF1ab	orf1ab:c.1770ttG>ttT	L>F				4	973	45	18							
+27644	C	CT	10	ORF7a	ORF7a:c.251cCt>cTt	P>L	1	88			1610	71		28		3				
+2062	C	CT	10	ORF1ab	orf1ab:c.1797gcC>gcT	A>A		6			2577	124		39						
+2065	C	CT	10	ORF1ab	orf1ab:c.1800taC>taT	Y>Y	1				163			12						
+27625	C	CT	10	ORF7a	ORF7a:c.232Cgt>Tgt	R>C		11		4	1312	24		28						
+2069	A	AG	10	ORF1ab	orf1ab:c.1804Aca>Gca	T>A		136	3											
+2143	C	CT	10	ORF1ab	orf1ab:c.1878ccC>ccT	P>P	1				1472	80		14		1				
+27411	C	CT	10	ORF7a	ORF7a:c.18ttC>ttT	F>F	1			2	45	37		2						
+1309	T	TA	10	ORF1ab	orf1ab:c.1044aaT>aaA	N>K		10		76		15		1	2					
+27071	T	TC	10	M	M:c.549gcT>gcC	A>A		23		181		47	2							
+2334	C	CT	10	ORF1ab	orf1ab:c.2069gCt>gTt	A>V	1	3			3696	12		36		1				
+27222	T	TC	10	ORF6	ORF6:c.21ttT>ttC	F>F		5		255	1			3						
+27163	G	GC	10	M	M:c.641aGt>aCt	S>T			1	15	171	9	10							
+27155	C	CT	10	M	M:c.633tcC>tcT	S>S	1	4			203	12		5						
+2428	T	TC	10	ORF1ab	orf1ab:c.2163gtT>gtC	V>V				51		5		1						
+2438	G	GA	10	ORF1ab	orf1ab:c.2173Gaa>Aaa	E>K			1			110	1			1				
+2447	G	GT	10	ORF1ab	orf1ab:c.2182Ggc>Tgc	G>C			2	10	1103	46	8			1				
+27059	C	CT	10	M	M:c.537taC>taT	Y>Y					3651			33						
+27260	G	GA	10	ORF6	ORF6:c.59aGg>aAg	R>K			5		26	70	3							
+27043	G	GT	10	M	M:c.521cGa>cTa	R>L					33	6								
+27029	T	TC	10	M	M:c.507acT>acC	T>T				55		23		1	1					
+27026	C	CT	10	M	M:c.504atC>atT	I>I	1	2			78	4		2	1					
+27017	T	TC	10	M	M:c.495ccT>ccC	P>P		1		46			2	1						
+2450	C	CT	10	ORF1ab	orf1ab:c.2185Cta>Tta	L>L		1			397	15		12						
+27005	C	CT	10	M	M:c.483atC>atT	I>I		6			1728	19		29						
+26951	G	GC	10	M	M:c.429gtG>gtC	V>V				1233	2152	296	48			9				
+2305	G	GT	10	ORF1ab	orf1ab:c.2040aaG>aaT	K>N			1	2	896	10	16							
+27261	G	GT	10	ORF6	ORF6:c.60agG>agT	R>S			3		991	92	10			1				
+2156	C	CT	10	ORF1ab	orf1ab:c.1891Ctt>Ttt	L>F					789	4		15						
+27379	A	AG	10	ORF6	ORF6:c.178Att>Gtt	I>V		51	4	4	7	1	1		1					
+27396	G	GT	10	ORF7a	ORF7a:c.3atG>atT	M>I		1	1	3	58	2								
+24087	G	GT	10	S	S:c.2525gGt>gTt	G>V		1	4		154	44	2							
+27390	G	GA	10	Intergenic				4		255	874	92	20			9				
+27389	C	CT	10	Intergenic			2	7		1	5813	70		65						
+27388	A	AT	10	Intergenic				110	1	2	7	2			2					
+2164	G	GT	10	ORF1ab	orf1ab:c.1899gaG>gaT	E>D			3	86	368	212	5			2				
+2210	G	GT	10	ORF1ab	orf1ab:c.1945Gtt>Ttt	V>F		5	1		862	63	1							
+27368	A	AG	10	ORF6	ORF6:c.167cAa>cGa	Q>R	1	8			14	3			7					
+27263	C	CT	10	ORF6	ORF6:c.62aCt>aTt	T>I		25		1	1592	17		12						
+27360	T	TC	10	ORF6	ORF6:c.159gaT>gaC	D>D		48		67	1		1	2	1					
+27356	T	TC	10	ORF6	ORF6:c.155tTa>tCa	L>S		1		5										
+2232	C	CT	10	ORF1ab	orf1ab:c.1967gCt>gTt	A>V		2		1	1496	11		25						
+27347	A	AG	10	ORF6	ORF6:c.146tAt>tGt	Y>C		154	3		9									
+2252	C	CA	10	ORF1ab	orf1ab:c.1987Caa>Aaa	Q>K	2					208		1						
+27279	T	TC	10	ORF6	ORF6:c.78atT>atC	I>I		75		32	1	2								
+27271	G	GT	10	ORF6	ORF6:c.70Gtt>Ttt	V>F		1	3		325	25	1							
+1990	G	GT	10	ORF1ab	orf1ab:c.1725caG>caT	Q>H			2		30	42	1							
+27756	A	AG	10	ORF7a	ORF7a:c.363gaA>gaG	E>E		167		5	9	8								
+27770	A	AG	8	Intergenic				121	3	3	17	2								
+28154	A	AG	10	ORF8	ORF8:c.261acA>acG	T>T		20		3	7	1								
+1471	C	CT	10	ORF1ab	orf1ab:c.1206cgC>cgT	R>R		2		2	1479	2		44						
+1476	T	TC	10	ORF1ab	orf1ab:c.1211aTt>aCt	I>T		12		94				3						
+28171	C	CT	10	ORF8	ORF8:c.278cCt>cTt	P>L	3	1			604	19		7						
+28170	C	CT	10	ORF8	ORF8:c.277Cct>Tct	P>S	2			4	54	119		1						
+28170	C	CA	10	ORF8	ORF8:c.277Cct>Act	P>T	2			4	54	119		1						
+1495	G	GT	10	ORF1ab	orf1ab:c.1230gtG>gtT	V>V			199	1	916	32	8							
+1501	T	TC	10	ORF1ab	orf1ab:c.1236tcT>tcC	S>S		18		242				2	1					
+28122	G	GT	10	ORF8	ORF8:c.229Ggt>Tgt	G>C			1		190	103	3							
+1439	G	GT	10	ORF1ab	orf1ab:c.1174Ggc>Tgc	G>C			1	2	475	117	7			1				
+1514	C	CT	10	ORF1ab	orf1ab:c.1249Cat>Tat	H>Y	1	1			1452	8		25						
+28116	G	GT	10	ORF8	ORF8:c.223Gat>Tat	D>Y			2	2	27	308								
+28115	C	CT	10	ORF8	ORF8:c.222atC>atT	I>I	1	2			738	17		16						
+1530	A	AG	10	ORF1ab	orf1ab:c.1265tAt>tGt	Y>C		38			1									
+28105	T	TC	10	ORF8	ORF8:c.212aTt>aCt	I>T		9		130		2		2						
+1580	G	GT	10	ORF1ab	orf1ab:c.1315Gtt>Ttt	V>F			2	2	607	108	31							
+28096	A	AG	10	ORF8	ORF8:c.203aAa>aGa	K>R		26	2		276				16					
+28191	G	GT	10	ORF8	ORF8:c.298Gtg>Ttg	V>L		2		1	5406	2	20			1				
+28209	G	GT	10	ORF8	ORF8:c.316Gaa>Taa	E>Stop		1		373	4163	26	25			7				
+1989	A	AG	10	ORF1ab	orf1ab:c.1724cAg>cGg	Q>R		652	4		2	1								
+1377	C	CA	10	ORF1ab	orf1ab:c.1112cCa>cAa	P>Q	2				539	9		1						
+1314	C	CT	10	ORF1ab	orf1ab:c.1049aCt>aTt	T>I	3				1250	68		36		3		6		2
+1357	T	TC	10	ORF1ab	orf1ab:c.1092gcT>gcC	A>A		9		25		5		3						
+1376	C	CT	10	ORF1ab	orf1ab:c.1111Cca>Tca	P>S		1			616	23		18						
+28272	A	AT	8	Intergenic				2831	2		20464				83					
+28271	A	AG	8	Intergenic				1955	4	185	1494				35					
+28269	C	CT	8	Intergenic			7			18	427	61		4						
+28259	A	AG	10	Intergenic	ORF8:c.366taA>taG	Stop>Stop	3	73	2		2									
+1387	C	CT	10	ORF1ab	orf1ab:c.1122caC>caT	H>H	2				1574	48		32						
+1437	C	CT	10	ORF1ab	orf1ab:c.1172tCt>tTt	S>F					1008	3		28						
+1409	C	CT	10	ORF1ab	orf1ab:c.1144Cat>Tat	H>Y					9	1		4						
+28251	T	TG	10	ORF8	ORF8:c.358Ttc>Gtc	F>V		1857		516	2	4	25	8	1					
+1418	G	GA	10	ORF1ab	orf1ab:c.1153Gcc>Acc	A>T			2		7	36	1							
+1420	C	CT	10	ORF1ab	orf1ab:c.1155gcC>gcT	A>A	1	1			1580	18		18						
+28223	G	GC	10	ORF8	ORF8:c.330gaG>gaC	E>D			1	1	59	2	4			1				
+1432	T	TC	10	ORF1ab	orf1ab:c.1167aaT>aaC	N>N				61		2								
+28221	G	GC	10	ORF8	ORF8:c.328Gag>Cag	E>Q		1		747	655	270	9							
+1590	G	GT	10	ORF1ab	orf1ab:c.1325gGt>gTt	G>V		2	20	3	145	194	7			1				
+28093	C	CT	10	ORF8	ORF8:c.200tCt>tTt	S>F	2	4		5	6334	85		269		1				
+1593	C	CT	10	ORF1ab	orf1ab:c.1328tCc>tTc	S>F	1			7	1659	14		53						
+27921	A	AG	10	ORF8	ORF8:c.28Atc>Gtc	I>V	1	591	2	2	17	866								
+27967	G	GT	10	ORF8	ORF8:c.74tGt>tTt	C>F		2		14	585	42	9							
+1779	C	CT	10	ORF1ab	orf1ab:c.1514tCc>tTc	S>F		2			315	6		5						
+1807	A	AG	10	ORF1ab	orf1ab:c.1542ggA>ggG	G>G		3150	4	34	8									
+27944	C	CT	10	ORF8	ORF8:c.51caC>caT	H>H		4			70135	18		127						
+27941	T	TC	10	ORF8	ORF8:c.48ttT>ttC	F>F		15		68	6	7		3	2					
+1858	T	TC	10	ORF1ab	orf1ab:c.1593agT>agC	S>S		6		32				1						
+27939	T	TC	10	ORF8	ORF8:c.46Ttt>Ctt	F>L		8		201		1	2	3						
+27881	C	CT	8	Intergenic			8	4			2948	551		23		1				
+28083	G	GT	10	ORF8	ORF8:c.190Gag>Tag	E>Stop		1	2	14	1	33	28			1				
+1926	C	CA	10	ORF1ab	orf1ab:c.1661aCt>aAt	T>N		1			448	166		15						
+1927	T	TC	10	ORF1ab	orf1ab:c.1662acT>acC	T>T		29		5886		652		29	2					
+27866	T	TA	8	Intergenic						113	2	1037		4	21					
+27865	A	AT	10	Intergenic			1	22		10	1059	1			23					
+27861	G	GA	8	Intergenic				6	1		24	15	1							
+1947	T	TC	10	ORF1ab	orf1ab:c.1682gTt>gCt	V>A		25		6186		1	2	153						
+1976	G	GT	10	ORF1ab	orf1ab:c.1711Gat>Tat	D>Y			2		45	23	1							
+1738	G	GA	10	ORF1ab	orf1ab:c.1473gtG>gtA	V>V			2	594	6967	3969	32			1				
+27970	C	CA	10	ORF8	ORF8:c.77aCt>aAt	T>N	1	14		1	733	346		13						
+1699	A	AT	10	ORF1ab	orf1ab:c.1434gcA>gcT	A>A	1	41	1	10	41	1			1					
+27982	C	CT	10	ORF8	ORF8:c.89cCa>cTa	P>L	2	8		1	2185	69		12		1				
+1598	G	GT	10	ORF1ab	orf1ab:c.1333Ggt>Tgt	G>C		7	15	3	56	278	1							
+28068	G	GT	10	ORF8	ORF8:c.175Gaa>Taa	E>Stop		4	3	16	439	30	5							
+28057	C	CT	10	ORF8	ORF8:c.164gCa>gTa	A>V	1	4		1	573	12		17						
+1625	C	CA	10	ORF1ab	orf1ab:c.1360Ctc>Atc	L>I	1				1012	146		22						
+1628	C	CA	10	ORF1ab	orf1ab:c.1363Caa>Aaa	Q>K	2			32		78		2						
+28044	G	GA	10	ORF8	ORF8:c.151Gct>Act	A>T			1		6648	44	10			2				
+28028	G	GT	10	ORF8	ORF8:c.135tgG>tgT	W>C		1	3	7	1394	41	18							
+28027	G	GT	10	ORF8	ORF8:c.134tGg>tTg	W>L		1		443	1483	127	12			2				
+1634	G	GA	10	ORF1ab	orf1ab:c.1369Gag>Aag	E>K			1			53								
+1636	G	GT	10	ORF1ab	orf1ab:c.1371gaG>gaT	E>D			2	2	158	96	2							
+28000	C	CT	10	ORF8	ORF8:c.107cCg>cTg	P>L		3		1	849	17		17						
+1645	C	CT	10	ORF1ab	orf1ab:c.1380aaC>aaT	N>N	2	1			64			4						
+27998	C	CT	10	ORF8	ORF8:c.105gaC>gaT	D>D				1	1231	19		17						
+27995	T	TC	10	ORF8	ORF8:c.102gaT>gaC	D>D		1		292		26		5						
+27986	T	TA	10	ORF8	ORF8:c.93taT>taA	Y>Stop		6		90	1	13								
+4947	C	CT	10	ORF1ab	orf1ab:c.4682tCt>tTt	S>F		60			72	9		3						
+12306	A	AG	10	ORF1ab	orf1ab:c.12041aAa>aGa	K>R		48												
+24082	C	CT	10	S	S:c.2520tgC>tgT	C>C					124			23						
+9737	A	AG	10	ORF1ab	orf1ab:c.9472Agt>Ggt	S>G		324	4											
+16935	G	GT	10	ORF1ab	orf1ab:c.16671atG>atT	M>I					770	14	12			2				
+9973	G	GA	10	ORF1ab	orf1ab:c.9708aaG>aaA	K>K			5		1	164	1							
+10030	C	CA	10	ORF1ab	orf1ab:c.9765acC>acA	T>T	1				2155	24		46						
+10036	C	CT	10	ORF1ab	orf1ab:c.9771atC>atT	I>I	1				1930	15		21						
+16843	G	GT	10	ORF1ab	orf1ab:c.16579Ggt>Tgt	G>C			3		108	21	7							
+16820	T	TC	10	ORF1ab	orf1ab:c.16556aTa>aCa	I>T				399				5						
+10039	C	CT	10	ORF1ab	orf1ab:c.9774acC>acT	T>T	2	4			1354	45		27						
+10086	G	GT	5																	
+10096	G	GT	10	ORF1ab	orf1ab:c.9831gaG>gaT	E>D					1	106								
+10096	G	GA	10	ORF1ab	orf1ab:c.9831gaG>gaA	E>E					1	106								
+16705	G	GT	10	ORF1ab	orf1ab:c.16441Gtg>Ttg	V>L			3		138	9	2							
+16675	C	CT	10	ORF1ab	orf1ab:c.16411Ctg>Ttg	L>L					139	9		6						
+16647	G	GA	10	ORF1ab	orf1ab:c.16383acG>acA	T>T			2	65	8575	391	23							
+10166	T	TA	10	ORF1ab	orf1ab:c.9901Tgt>Agt	C>S		2				4	1	1						
+10188	C	CT	10	ORF1ab	orf1ab:c.9923aCc>aTc	T>I					654	5		9						
+16611	C	CT	10	ORF1ab	orf1ab:c.16347acC>acT	T>T	2				117	105		4						
+10219	A	AG	10	ORF1ab	orf1ab:c.9954gaA>gaG	E>E	1	89		5	3									
+16945	G	GT	10	ORF1ab	orf1ab:c.16681Gca>Tca	A>S			3	1	68	27								
+16968	G	GA	10	ORF1ab	orf1ab:c.16704gaG>gaA	E>E			5	1	1090	102	36			2				
+16975	G	GT	10	ORF1ab	orf1ab:c.16711Gtt>Ttt	V>F				1	212	28	6			1				
+9904	G	GA	10	ORF1ab	orf1ab:c.9639aaG>aaA	K>K			1	2	1	33				7				
+17331	G	GA	10	ORF1ab	orf1ab:c.17067gaG>gaA	E>E			2	7	917	137	13							
+9853	T	TC	10	ORF1ab	orf1ab:c.9588gaT>gaC	D>D		1		191	3	1		2	1					
+9857	C	CT	10	ORF1ab	orf1ab:c.9592Cta>Tta	L>L	1			4	2666	44		30						
+9880	T	TC	10	ORF1ab	orf1ab:c.9615aaT>aaC	N>N				33		1								
+17142	T	TG	10	ORF1ab	orf1ab:c.16878gcT>gcG	A>A		15		132		235		3	4					
+17135	C	CT	10	ORF1ab	orf1ab:c.16871cCt>cTt	P>L	3	3			1848	101		33						
+17134	C	CT	10	ORF1ab	orf1ab:c.16870Cct>Tct	P>S	2				299	7		9						
+17122	G	GA	10	ORF1ab	orf1ab:c.16858Gct>Act	A>T			2	7	3671	1099	24	1						
+16993	T	TC	10	ORF1ab	orf1ab:c.16729Tac>Cac	Y>H				755		27		17						
+17121	A	AG	10	ORF1ab	orf1ab:c.16857ctA>ctG	L>L		33	1	8	39				1					
+17110	G	GT	10	ORF1ab	orf1ab:c.16846Gct>Tct	A>S			1		285	10	5							
+17104	C	CT	10	ORF1ab	orf1ab:c.16840Cat>Tat	H>Y					17352			75						
+17079	G	GT	10	ORF1ab	orf1ab:c.16815caG>caT	Q>H			10		22	1173	4							
+17066	A	AG	10	ORF1ab	orf1ab:c.16802tAt>tGt	Y>C		179	4						2					
+17058	G	GA	10	ORF1ab	orf1ab:c.16794atG>atA	M>I			2	5	1589	62	8							
+17014	G	GT	10	ORF1ab	orf1ab:c.16750Gat>Tat	D>Y					19144	25	72							
+10271	G	GA	10	ORF1ab	orf1ab:c.10006Gtt>Att	V>I			3		15	19	1							
+16534	A	AG	10	ORF1ab	orf1ab:c.16270Agc>Ggc	S>G		803	16	1	5									
+16497	A	AC	10	ORF1ab	orf1ab:c.16233ggA>ggC	G>G		44		1	1									
+10640	A	AG	10	ORF1ab	orf1ab:c.10375Acg>Gcg	T>A		13		1										
+16075	G	GT	10	ORF1ab	orf1ab:c.15811Gat>Tat	D>Y				1	539	30	7			1				
+10562	G	GA	10	ORF1ab	orf1ab:c.10297Gga>Aga	G>R				1		8	1							
+15942	A	AG	10	ORF1ab	orf1ab:c.15678ccA>ccG	P>P		194	2	11	14				3					
+10594	C	CT	10	ORF1ab	orf1ab:c.10329aaC>aaT	N>N	1				854	33		14						
+15842	C	CT	10	ORF1ab	orf1ab:c.15578aCt>aTt	T>I	4				97	103		10						
+15794	T	TC	10	ORF1ab	orf1ab:c.15530gTt>gCt	V>A				6										
+15784	T	TC	10	ORF1ab	orf1ab:c.15520Ttt>Ctt	F>L		130		15				1						
+15738	C	CT	10	ORF1ab	orf1ab:c.15474ttC>ttT	F>F					5372			78						
+16101	C	CT	10	ORF1ab	orf1ab:c.15837taC>taT	Y>Y					126			4						
+10651	T	TC	10	ORF1ab	orf1ab:c.10386acT>acC	T>T		1		10										
+15658	G	GT	10	ORF1ab	orf1ab:c.15394Gac>Tac	D>Y			3		18	44								
+10681	C	CT	10	ORF1ab	orf1ab:c.10416taC>taT	Y>Y					605			16						
+15636	T	TC	10	ORF1ab	orf1ab:c.15372taT>taC	Y>Y				39		1								
+15604	A	AG	10	ORF1ab	orf1ab:c.15340Aat>Gat	N>D		17	1	8	29				1					
+15603	C	CT	10	ORF1ab	orf1ab:c.15339cgC>cgT	R>R					276	2								
+15540	C	CT	10	ORF1ab	orf1ab:c.15276gtC>gtT	V>V		2			4137	5		59		1				
+10462	T	TC	10	ORF1ab	orf1ab:c.10197atT>atC	I>I				12		1								
+16111	C	CT	10	ORF1ab	orf1ab:c.15847Cta>Tta	L>L					3189	7		42						
+16489	G	GA	10	ORF1ab	orf1ab:c.16225Gct>Act	A>T					3	29								
+16359	A	AG	10	ORF1ab	orf1ab:c.16095ttA>ttG	L>L		41	3	36										
+10277	C	CA	10	ORF1ab	orf1ab:c.10012Ctc>Atc	L>I	1				2363	62		36						
+16473	T	TC	10	ORF1ab	orf1ab:c.16209atT>atC	I>I		1		7		1								
+10310	G	GA	10	ORF1ab	orf1ab:c.10045Gta>Ata	V>I					16	168								
+16456	T	TC	10	ORF1ab	orf1ab:c.16192Tca>Cca	S>P		40		1224		8	1	4						
+16431	A	AG	10	ORF1ab	orf1ab:c.16167ttA>ttG	L>L		297	4	1					1					
+16428	C	CT	10	ORF1ab	orf1ab:c.16164taC>taT	Y>Y					1887			96						
+10340	C	CT	10	ORF1ab	orf1ab:c.10075Cct>Tct	P>S					1609	17		9						
+16357	T	TC	10	ORF1ab	orf1ab:c.16093Tta>Cta	L>L		1		150				1						
+16117	G	GT	10	ORF1ab	orf1ab:c.15853Gat>Tat	D>Y			3	2	378	5	16			2				
+10346	A	AG	10	ORF1ab	orf1ab:c.10081Aca>Gca	T>A		7	1											
+10376	C	CT	10	ORF1ab	orf1ab:c.10111Cca>Tca	P>S		2			12251	22		48						
+16209	T	TC	10	ORF1ab	orf1ab:c.15945gcT>gcC	A>A		1		44		4	2		1					
+16193	C	CA	10	ORF1ab	orf1ab:c.15929cCt>cAt	P>H	2				101	8		3						
+16178	C	CT	10	ORF1ab	orf1ab:c.15914tCa>tTa	S>L					690			19						
+10396	G	GT	10	ORF1ab	orf1ab:c.10131gtG>gtT	V>V			1	10	4748	22	18			1				
+16158	G	GT	10	ORF1ab	orf1ab:c.15894atG>atT	M>I			1		229	1	9			1				
+17333	C	CT	10	ORF1ab	orf1ab:c.17069aCg>aTg	T>M					192	2		8						
+9724	C	CT	10	ORF1ab	orf1ab:c.9459ttC>ttT	F>F					1708	15		37						
+18780	G	GT	10	ORF1ab	orf1ab:c.18516tgG>tgT	W>C					31		1							
+17372	C	CT	10	ORF1ab	orf1ab:c.17108gCc>gTc	A>V					170			5						
+18397	G	GA	10	ORF1ab	orf1ab:c.18133Gta>Ata	V>I			1		185	207	4			1				
+8880	C	CT	10	ORF1ab	orf1ab:c.8615aCg>aTg	T>M		1			393	13		8						
+18393	T	TG	10	ORF1ab	orf1ab:c.18129gtT>gtG	V>V		48		17	2	7			4					1
+8887	A	AG	10	ORF1ab	orf1ab:c.8622ttA>ttG	L>L	1	244	1	1	2									
+18326	C	CT	10	ORF1ab	orf1ab:c.18062gCt>gTt	A>V					921			18						
+18255	G	GT	10	ORF1ab	orf1ab:c.17991atG>atT	M>I		1		18	2751	42	38							
+18252	C	CT	10	ORF1ab	orf1ab:c.17988aaC>aaT	N>N					2098			23						
+18246	C	CT	10	ORF1ab	orf1ab:c.17982taC>taT	Y>Y					674			8		1				
+18210	G	GT	10	ORF1ab	orf1ab:c.17946atG>atT	M>I					222	17	2							
+8956	C	CT	10	ORF1ab	orf1ab:c.8691taC>taT	Y>Y					1194			12						
+18172	A	AG	10	ORF1ab	orf1ab:c.17908Ata>Gta	I>V		8			8									
+8958	C	CT	10	ORF1ab	orf1ab:c.8693aCa>aTa	T>I					33	3		15						
+8964	C	CT	10	ORF1ab	orf1ab:c.8699tCa>tTa	S>L				1	1431	2		54						
+18159	T	TC	10	ORF1ab	orf1ab:c.17895gtT>gtC	V>V		3		26		5		2	1					
+18148	G	GA	10	ORF1ab	orf1ab:c.17884Ggt>Agt	G>S			3		115	85	7							
+9042	C	CT	10	ORF1ab	orf1ab:c.8777tCt>tTt	S>F	1	1			469	20		9						
+9049	G	GT	10	ORF1ab	orf1ab:c.8784aaG>aaT	K>N			3		283	173	3							
+18429	T	TC	10	ORF1ab	orf1ab:c.18165aaT>aaC	N>N				425		3		11						
+8861	G	GA	10	ORF1ab	orf1ab:c.8596Gtg>Atg	V>M			8		5	241								
+18452	C	CT	10	ORF1ab	orf1ab:c.18188gCt>gTt	A>V	1	1			566	1		14						
+18589	G	GA	10	ORF1ab	orf1ab:c.18325Gtc>Atc	V>I					50	35								
+18762	G	GT	10	ORF1ab	orf1ab:c.18498atG>atT	M>I			1	2	191	11	8							
+18747	C	CT	10	ORF1ab	orf1ab:c.18483gtC>gtT	V>V		133		1	3912	83		42						
+18695	C	CT	10	ORF1ab	orf1ab:c.18431aCt>aTt	T>I	1				214	179		4						
+18681	C	CT	10	ORF1ab	orf1ab:c.18417gcC>gcT	A>A				1	1008	8		6						
+18651	G	GT	10	ORF1ab	orf1ab:c.18387gaG>gaT	E>D			1	1	2314	264	30							
+18647	C	CT	10	ORF1ab	orf1ab:c.18383cCt>cTt	P>L	2				3218	77		42						
+18636	G	GT	10	ORF1ab	orf1ab:c.18372gtG>gtT	V>V		1	1	1	230	133	8							
+18583	G	GT	10	ORF1ab	orf1ab:c.18319Gta>Tta	V>L			1	31	463	290	7							
+8829	C	CT	10	ORF1ab	orf1ab:c.8564gCt>gTt	A>V		1			199			5		1				
+18573	T	TA	10	ORF1ab	orf1ab:c.18309tcT>tcA	S>S		1		31		28		3						
+18570	C	CT	10	ORF1ab	orf1ab:c.18306ctC>ctT	L>L	1			1	1473	33		18						
+18555	C	CT	10	ORF1ab	orf1ab:c.18291gaC>gaT	D>D	1	1			16860	1		78						
+18546	G	GT	10	ORF1ab	orf1ab:c.18282atG>atT	M>I					738	23	7							
+8705	G	GA	10	ORF1ab	orf1ab:c.8440Ggt>Agt	G>S			3		2	139	2							
+8802	C	CT	10	ORF1ab	orf1ab:c.8537aCt>aTt	T>I					1979	3		21						
+8824	G	GA	10	ORF1ab	orf1ab:c.8559ttG>ttA	L>L						18	1							
+18084	C	CT	10	ORF1ab	orf1ab:c.17820atC>atT	I>I		2			269	6		8						
+9070	T	TC	10	ORF1ab	orf1ab:c.8805gaT>gaC	D>D				349				3						
+18060	C	CT	10	ORF1ab	orf1ab:c.17796ctC>ctT	L>L	3	3		1	4661	82		36						
+17518	C	CT	10	ORF1ab	orf1ab:c.17254Ctt>Ttt	L>F					2296	8		16						
+9526	G	GT	10	ORF1ab	orf1ab:c.9261atG>atT	M>I			1	1	21436	24	58							
+9530	T	TG	10	ORF1ab	orf1ab:c.9265Ttc>Gtc	F>V		38		18			7							
+17642	C	CT	10	ORF1ab	orf1ab:c.17378gCt>gTt	A>V					196	13		4		1				
+17577	A	AG	10	ORF1ab	orf1ab:c.17313gaA>gaG	E>E		95	1											
+9555	T	TC	10	ORF1ab	orf1ab:c.9290gTt>gCt	V>A		3		42										
+17528	C	CT	10	ORF1ab	orf1ab:c.17264aCt>aTt	T>I	1				521	66		12						
+9560	T	TG	10	ORF1ab	orf1ab:c.9295Tca>Gca	S>A		3		6		9								
+9561	C	CT	10	ORF1ab	orf1ab:c.9296tCa>tTa	S>L					1317			891		1				
+17679	G	GA	10	ORF1ab	orf1ab:c.17415acG>acA	T>T			2	2	948	187	14							
+9611	C	CT	10	ORF1ab	orf1ab:c.9346Ctt>Ttt	L>F		2			2164	4		18		1				
+9665	C	CT	10	ORF1ab	orf1ab:c.9400Cct>Tct	P>S					307	3		5		1				
+17427	G	GC	10	ORF1ab	orf1ab:c.17163gtG>gtC	V>V			1	1	1844	33	14							
+17427	G	GT	10	ORF1ab	orf1ab:c.17163gtG>gtT	V>V			1	1	1844	33	14							
+17411	G	GT	10	ORF1ab	orf1ab:c.17147cGt>cTt	R>L			4		60	52	1			1				
+9702	T	TG	10	ORF1ab	orf1ab:c.9437aTt>aGt	I>S		39		58		1	1	1						
+17373	C	CT	10	ORF1ab	orf1ab:c.17109gcC>gcT	A>A		4			1348	11		17						
+9520	C	CT	10	ORF1ab	orf1ab:c.9255ttC>ttT	F>F	2				254	9		13						
+17688	T	TC	10	ORF1ab	orf1ab:c.17424gtT>gtC	V>V		5		272				7						
+18049	G	GT	10	ORF1ab	orf1ab:c.17785Gta>Tta	V>L			2	23	6	58	2							
+17795	C	CT	10	ORF1ab	orf1ab:c.17531gCt>gTt	A>V		1			943	1		23		2				
+9130	G	GT	10	ORF1ab	orf1ab:c.8865gtG>gtT	V>V		1		4	2635	26	26			1				
+9241	A	AG	10	ORF1ab	orf1ab:c.8976tcA>tcG	S>S		684	3	9	3									
+9274	A	AG	10	ORF1ab	orf1ab:c.9009agA>agG	R>R		152	1						2					
+9316	T	TC	10	ORF1ab	orf1ab:c.9051gtT>gtC	V>V		3		90		2		2						
+17859	T	TC	10	ORF1ab	orf1ab:c.17595taT>taC	Y>Y				197		1		3						
+17853	A	AG	10	ORF1ab	orf1ab:c.17589tcA>tcG	S>S		30	1	2	5									
+17822	C	CT	10	ORF1ab	orf1ab:c.17558cCa>cTa	P>L		1			936	6		14						
+9430	C	CT	10	ORF1ab	orf1ab:c.9165atC>atT	I>I					7465	21		122						
+9451	C	CT	10	ORF1ab	orf1ab:c.9186taC>taT	Y>Y					395			9						
+17766	C	CT	10	ORF1ab	orf1ab:c.17502gtC>gtT	V>V		4		1	2997	10		42						
+17751	T	TA	10	ORF1ab	orf1ab:c.17487gcT>gcA	A>A		851		30		12	61	1						
+9434	G	GT	10	ORF1ab	orf1ab:c.9169Gta>Tta	V>L			2	1	85	40	1							
+17747	C	CT	10	ORF1ab	orf1ab:c.17483cCt>cTt	P>L	5				3786	414		124						
+17738	C	CA	10	ORF1ab	orf1ab:c.17474aCa>aAa	T>K					425	6		11						
+17733	C	CT	10	ORF1ab	orf1ab:c.17469ttC>ttT	F>F	1				927	4		33						
+9448	C	CA	10	ORF1ab	orf1ab:c.9183gcC>gcA	A>A					337	11		5		1				
+10771	T	TC	10	ORF1ab	orf1ab:c.10506taT>taC	Y>Y				293				1						
+10810	T	TC	10	ORF1ab	orf1ab:c.10545ccT>ccC	P>P		71		110		26		2						
+15477	A	AC	10	ORF1ab	orf1ab:c.15213ggA>ggC	G>G	7	111	3	60	789				1					
+10814	T	TG	10	ORF1ab	orf1ab:c.10549Tct>Gct	S>A		10				1		1						
+13511	C	CT	10	ORF1ab	orf1ab:c.13247aCa>aTa	T>I					54			1						
+11851	G	GT	10	ORF1ab	orf1ab:c.11586atG>atT	M>I			1	9	1111	29	11			3				
+11878	C	CT	10	ORF1ab	orf1ab:c.11613gtC>gtT	V>V		1			192	118		11						
+11911	A	AG	10	ORF1ab	orf1ab:c.11646gaA>gaG	E>E		140	1											
+13436	C	CA	10	ORF1ab	orf1ab:c.13171Ctt>Att	L>I					1308	72		14						
+13435	G	GT	10	ORF1ab	orf1ab:c.13170atG>atT	M>I			2	2	46	171	3							
+13420	A	AG	10	ORF1ab	orf1ab:c.13155caA>caG	Q>Q	2	35	1	2										
+13417	T	TC	10	ORF1ab	orf1ab:c.13152gaT>gaC	D>D		5		284		2	1	3						
+13409	A	AG	10	ORF1ab	orf1ab:c.13144Agt>Ggt	S>G		252	3	1	6									
+13390	G	GA	10	ORF1ab	orf1ab:c.13125atG>atA	M>I			2		55	24	2							
+13356	C	CT	10	ORF1ab	orf1ab:c.13091aCa>aTa	T>I					2416	10		14						
+13348	G	GT	10	ORF1ab	orf1ab:c.13083gtG>gtT	V>V			1	2	566	29	14							
+13329	C	CT	10	ORF1ab	orf1ab:c.13064aCt>aTt	T>I	1	10			3701	28		42						
+13297	C	CT	10	ORF1ab	orf1ab:c.13032gaC>gaT	D>D	1				1810	13		13						
+13286	G	GT	10	ORF1ab	orf1ab:c.13021Gga>Tga	G>Stop					4									
+13269	A	AG	10	ORF1ab	orf1ab:c.13004gAt>gGt	D>G		52	1	141	1									
+11962	C	CT	10	ORF1ab	orf1ab:c.11697ctC>ctT	L>L		14			1383	20		18						
+11835	C	CT	10	ORF1ab	orf1ab:c.11570aCt>aTt	T>I		26			74	14		6						
+13571	G	GT	10	ORF1ab	orf1ab:c.13307gGt>gTt	G>V		2		1	222		106							
+13617	G	GT	10	ORF1ab	orf1ab:c.13353aaG>aaT	K>N		1		3	644	801	48							
+13903	G	GT	10	ORF1ab	orf1ab:c.13639Gat>Tat	D>Y					3	11								
+13928	A	AG	10	ORF1ab	orf1ab:c.13664tAt>tGt	Y>C		78	2		2									
+13923	C	CT	10	ORF1ab	orf1ab:c.13659gaC>gaT	D>D					677	23		46						
+13914	T	TC	10	ORF1ab	orf1ab:c.13650aaT>aaC	N>N		1		1448	5			2						
+11653	C	CT	10	ORF1ab	orf1ab:c.11388ctC>ctT	L>L	2	1			2701	39		47						
+11719	G	GA	10	ORF1ab	orf1ab:c.11454caG>caA	Q>Q			5	5	23	105	3							
+11744	G	GT	10	ORF1ab					2	1		20	1							
+11750	C	CT	10	ORF1ab	orf1ab:c.11485Ctc>Ttc	L>F	2	6			17823	97		199						
+13881	C	CT	10	ORF1ab	orf1ab:c.13617gtC>gtT	V>V	1				56	5								
+11806	T	TA	10	ORF1ab	orf1ab:c.11541gtT>gtA	V>V				139		11		5						
+13843	G	GT	10	ORF1ab	orf1ab:c.13579Gat>Tat	D>Y					43	5								
+13724	C	CT	10	ORF1ab	orf1ab:c.13460gCt>gTt	A>V		2		1	255	1		10						
+13720	C	CT	10	ORF1ab	orf1ab:c.13456Cca>Tca	P>S	3				261	5		4						
+11781	A	AT	10	ORF1ab				2786	13											
+13694	C	CT	10	ORF1ab	orf1ab:c.13430aCa>aTa	T>I					1444			26						
+11783	C	CA	10	ORF1ab	orf1ab:c.11518Ctc>Atc	L>I					1	14								
+11798	T	TG	10	ORF1ab	orf1ab:c.11533Ttg>Gtg	L>V		30		46				2						
+11977	T	TC	10	ORF1ab	orf1ab:c.11712acT>acC	T>T				98				1						
+11983	A	AG	10	ORF1ab	orf1ab:c.11718gaA>gaG	E>E	1	444	7	13	5									
+13252	C	CT	10	ORF1ab	orf1ab:c.12987taC>taT	Y>Y					179			6						
+12540	C	CT	10	ORF1ab	orf1ab:c.12275gCa>gTa	A>V					152			5						
+12778	C	CT	10	ORF1ab	orf1ab:c.12513taC>taT	Y>Y					17087	1		13						
+12119	C	CT	10	ORF1ab	orf1ab:c.11854Cca>Tca	P>S		1			4496	3		45						
+12756	C	CT	10	ORF1ab	orf1ab:c.12491aCt>aTt	T>I	2	4		10	1446	48		30		1				
+12748	T	TC	10	ORF1ab	orf1ab:c.12483acT>acC	T>T		6		395		140		3						
+12652	A	AG	10	ORF1ab	orf1ab:c.12387acA>acG	T>T		89			1									
+12565	G	GT	10	ORF1ab	orf1ab:c.12300caG>caT	Q>H			1	2	453	21								
+12565	G	GA	10	ORF1ab	orf1ab:c.12300caG>caA	Q>Q			1	2	453	21								
+12132	C	CT	10	ORF1ab	orf1ab:c.11867gCt>gTt	A>V					369			3						
+12794	G	GA	10	ORF1ab	orf1ab:c.12529Gga>Aga	G>R			9		1	196								
+12519	A	AC	10	ORF1ab	orf1ab:c.12254gAt>gCt	D>A	1	532	8	15	10									
+12171	C	CT	10	ORF1ab	orf1ab:c.11906gCt>gTt	A>V		1			726	4		7						
+12460	A	AG	10	ORF1ab	orf1ab:c.12195acA>acG	T>T		29			10				1					
+12179	G	GA	10	ORF1ab	orf1ab:c.11914Gat>Aat	D>N			1		5	69								
+12434	G	GA	10	ORF1ab	orf1ab:c.12169Gtt>Att	V>I			2			38								
+12357	C	CT	10	ORF1ab	orf1ab:c.12092aCa>aTa	T>I					3594			32						
+12315	G	GA	10	ORF1ab	orf1ab:c.12050aGa>aAa	R>K			3			117	1							
+12786	C	CT	10	ORF1ab	orf1ab:c.12521aCa>aTa	T>I	2				879	1		15						
+12116	C	CT	10	ORF1ab	orf1ab:c.11851Ctt>Ttt	L>F	4				853	25		15						
+13249	G	GA	10	ORF1ab	orf1ab:c.12984ctG>ctA	L>L			4	5	788	324	8			1				
+13011	C	CT	10	ORF1ab	orf1ab:c.12746aCa>aTa	T>I					1862	3		34						
+13216	T	TC	10	ORF1ab	orf1ab:c.12951gaT>gaC	D>D		122		877		1	1	7						
+13207	C	CT	10	ORF1ab	orf1ab:c.12942gcC>gcT	A>A	2	9			179	1		5		1				
+12020	C	CT	10	ORF1ab	orf1ab:c.11755Ctt>Ttt	L>F		2			466	28		12						
+12028	G	GT	10	ORF1ab	orf1ab:c.11763atG>atT	M>I			2		94	22								
+12037	T	TC	10	ORF1ab	orf1ab:c.11772gcT>gcC	A>A		2		9	2	1		2						
+13085	G	GA	10	ORF1ab	orf1ab:c.12820Gta>Ata	V>I			1	1	1	15								
+12043	C	CT	10	ORF1ab	orf1ab:c.11778gaC>gaT	D>D					1140			14						
+13005	C	CT	10	ORF1ab	orf1ab:c.12740gCt>gTt	A>V					121									
+12102	C	CT	10	ORF1ab	orf1ab:c.11837tCa>tTa	S>L					171			9						
+12076	C	CT	10	ORF1ab	orf1ab:c.11811aaC>aaT	N>N					2793	4		27		1				
+12933	C	CT	10	ORF1ab	orf1ab:c.12668cCt>cTt	P>L					2953	31		6						
+12099	C	CT	10	ORF1ab	orf1ab:c.11834gCc>gTc	A>V				1	93			8						
+12858	A	AG	10	ORF1ab	orf1ab:c.12593aAg>aGg	K>R		32	3											
+12855	C	CT	10	ORF1ab	orf1ab:c.12590cCt>cTt	P>L	3	1			258	19		6						
+12846	C	CT	10	ORF1ab	orf1ab:c.12581gCt>gTt	A>V					39			4						
+12841	A	AG	10	ORF1ab	orf1ab:c.12576aaA>aaG	K>K		111	2	2					1					
+13929	T	TC	10	ORF1ab	orf1ab:c.13665taT>taC	Y>Y				118				3						
+13944	C	CT	10	ORF1ab	orf1ab:c.13680aaC>aaT	N>N					751	1		26						
+13949	A	AG	10	ORF1ab	orf1ab:c.13685gAt>gGt	D>G		59	3	6	2									
+11124	C	CT	10	ORF1ab	orf1ab:c.10859gCt>gTt	A>V		2		1	1574	1		12		1				
+15138	G	GT	10	ORF1ab	orf1ab:c.14874atG>atT	M>I					63	4	3							
+11101	A	AG	10	ORF1ab	orf1ab:c.10836ttA>ttG	L>L	1	20	1	1										
+15090	A	AT	10	ORF1ab	orf1ab:c.14826gcA>gcT	A>A		29	1	7	20	1								
+15081	C	CT	10	ORF1ab	orf1ab:c.14817gcC>gcT	A>A		1			148	15		7						
+15017	C	CT	10	ORF1ab	orf1ab:c.14753gCa>gTa	A>V	1				1135	16		25		1				
+14961	T	TC	10	ORF1ab	orf1ab:c.14697aaT>aaC	N>N				252				2						
+14940	A	AG	10	ORF1ab	orf1ab:c.14676aaA>aaG	K>K		91	3											
+11139	C	CT	10	ORF1ab	orf1ab:c.10874gCa>gTa	A>V					333			6						
+15177	A	AG	10	ORF1ab	orf1ab:c.14913atA>atG	I>M	3	12	1	12	1									
+14913	C	CT	10	ORF1ab	orf1ab:c.14649aaC>aaT	N>N	4	1			366	74		8						
+14880	T	TC	10	ORF1ab	orf1ab:c.14616ttT>ttC	F>F				7		3		1						
+11173	C	CT	10	ORF1ab	orf1ab:c.10908ctC>ctT	L>L	2	2			1855	33		40						
+14874	G	GC	10	ORF1ab	orf1ab:c.14610aaG>aaC	K>N			1	1	1036	13	12							
+11194	T	TC	10	ORF1ab	orf1ab:c.10929tcT>tcC	S>S		7		16		53		1	1					
+14853	T	TC	10	ORF1ab	orf1ab:c.14589ttT>ttC	F>F				77		4		1						
+11200	C	CT	10	ORF1ab	orf1ab:c.10935gcC>gcT	A>A		1		5	1386	9		21						
+15156	T	TC	10	ORF1ab	orf1ab:c.14892caT>caC	H>H				264			1	2						
+11001	C	CT	10	ORF1ab	orf1ab:c.10736aCa>aTa	T>I					678	1		24		1				
+14790	C	CT	10	ORF1ab	orf1ab:c.14526atC>atT	I>I	1	1			1194	3		41						
+10870	G	GC	10	ORF1ab	orf1ab:c.10605ctG>ctC	L>L			1	53	7769	39	76			2				
+15453	T	TC	10	ORF1ab	orf1ab:c.15189ggT>ggC	G>G				139				2						
+10829	A	AG	10	ORF1ab	orf1ab:c.10564Att>Gtt	I>V	1	60	1	44	2									
+15448	G	GT	10	ORF1ab	orf1ab:c.15184Ggc>Tgc	G>C			2	1	18	27								
+15372	G	GT	10	ORF1ab	orf1ab:c.15108acG>acT	T>T			2	9	1090	374	12			1				
+15367	A	AG	10	ORF1ab	orf1ab:c.15103Aca>Gca	T>A		36												
+10834	C	CT	10	ORF1ab	orf1ab:c.10569gcC>gcT	A>A	1	1		1	1360	28		20		1				
+15349	G	GA	10	ORF1ab	orf1ab:c.15085Gtt>Att	V>I			4	4	9	148								
+15324	C	CT	10	ORF1ab	orf1ab:c.15060aaC>aaT	N>N					18626			60						
+15226	G	GT	10	ORF1ab	orf1ab:c.14962Ggt>Tgt	G>C			1	1	15	64								
+15285	G	GT	10	ORF1ab	orf1ab:c.15021atG>atT	M>I					56	6	3							
+10945	T	TC	10	ORF1ab	orf1ab:c.10680gtT>gtC	V>V		1		12	1									
+15276	T	TC	10	ORF1ab	orf1ab:c.15012ccT>ccC	P>P		12		65	1	2143	1	1	102					
+15243	G	GT	10	ORF1ab	orf1ab:c.14979atG>atT	M>I				2	1323	5	28							
+10969	C	CT	10	ORF1ab	orf1ab:c.10704ttC>ttT	F>F		1			3124	1		25						
+15239	A	AC	10	ORF1ab	orf1ab:c.14975aAc>aCc	N>T		22	1	1										
+10979	G	GA	10	ORF1ab	orf1ab:c.10714Gtg>Atg	V>M					31	43	1							
+14805	C	CT	10	ORF1ab	orf1ab:c.14541taC>taT	Y>Y					34918			223						
+14774	A	AG	10	ORF1ab	orf1ab:c.14510gAt>gGt	D>G		315	1	3										
+13975	G	GT	10	ORF1ab	orf1ab:c.13711Ggt>Tgt	G>C			2		1704	36	35			2				
+14187	G	GA	10	ORF1ab	orf1ab:c.13923agG>agA	R>R			24		75	1175	2							
+11457	T	TC	10	ORF1ab	orf1ab:c.11192aTt>aCt	I>T		2		33					1					
+11516	G	GA	10	ORF1ab	orf1ab:c.11251Gtc>Atc	V>I				1	34	125	1							
+11540	G	GT	10	ORF1ab	orf1ab:c.11275Gtt>Ttt	V>F		14	1	1	558	84	7			1				
+14214	C	CT	10	ORF1ab	orf1ab:c.13950gaC>gaT	D>D					132	6		4						
+14209	G	GT	10	ORF1ab	orf1ab:c.13945Gtt>Ttt	V>F				1	426	65	13							
+14195	C	CT	10	ORF1ab	orf1ab:c.13931aCt>aTt	T>I					103	64		3						
+14187	G	GT	10	ORF1ab	orf1ab:c.13923agG>agT	R>S			24		75	1175	2							
+11563	C	CT	10	ORF1ab	orf1ab:c.11298tgC>tgT	C>C					760	19		18						
+14280	A	AG	10	ORF1ab	orf1ab:c.14016ttA>ttG	L>L		40	2		71				1					
+14178	C	CT	10	ORF1ab	orf1ab:c.13914acC>acT	T>T	2	4			1397	80		37						
+11575	C	CT	10	ORF1ab	orf1ab:c.11310ttC>ttT	F>F		1			2766	2	1	74						
+11577	T	TC	10	ORF1ab	orf1ab:c.11312aTa>aCa	I>T				57	1			5						
+14106	C	CT	10	ORF1ab	orf1ab:c.13842ttC>ttT	F>F					113	1		4						
+14097	C	CT	10	ORF1ab	orf1ab:c.13833ttC>ttT	F>F					1525	1		11						
+14055	G	GT	10	ORF1ab	orf1ab:c.13791ctG>ctT	L>L				11	1283	17	19			1				
+11618	T	TC	10	ORF1ab	orf1ab:c.11353Ttc>Ctc	F>L		3		8		3		1						
+14274	G	GT	10	ORF1ab	orf1ab:c.14010gaG>gaT	E>D				2	150	104								
+14313	T	TC	10	ORF1ab	orf1ab:c.14049gaT>gaC	D>D				1104		2		15						
+14724	C	CT	10	ORF1ab	orf1ab:c.14460ttC>ttT	F>F					4642	1		63						
+11291	G	GT	10	ORF1ab	orf1ab:c.11026Ggt>Tgt	G>C	2	1	25	9	24	7807			1	5				
+11223	T	TC	10	ORF1ab	orf1ab:c.10958gTc>gCc	V>A				15		1		3						
+11248	G	GA	10	ORF1ab	orf1ab:c.10983atG>atA	M>I					9	91								
+14638	G	GT	10	ORF1ab	orf1ab:c.14374Gca>Tca	A>S			1		117	34	1							
+11284	T	TC	10	ORF1ab	orf1ab:c.11019agT>agC	S>S		3		14				1						
+14585	C	CT	10	ORF1ab	orf1ab:c.14321gCt>gTt	A>V					417			22						
+14584	G	GA	10	ORF1ab	orf1ab:c.14320Gct>Act	A>T		1	13		5	713	3							
+14583	C	CT	10	ORF1ab	orf1ab:c.14319caC>caT	H>H					486			19						
+11344	C	CT	10	ORF1ab	orf1ab:c.11079atC>atT	I>I		6			392	9		6						
+14349	T	TC	10	ORF1ab	orf1ab:c.14085gaT>gaC	D>D				46		50		2						
+14502	A	AG	10	ORF1ab	orf1ab:c.14238gtA>gtG	V>V		110	1	3										
+11439	A	AG	10	ORF1ab	orf1ab:c.11174aAt>aGt	N>S		287	5		2									
+11440	T	TC	10	ORF1ab	orf1ab:c.11175aaT>aaC	N>N		6		72		4		1	1					
+11449	T	TC	10	ORF1ab	orf1ab:c.11184gaT>gaC	D>D		8		245			2	1						
+14400	G	GT	10	ORF1ab	orf1ab:c.14136gtG>gtT	V>V			3	2	341	227	3							
+14396	C	CT	10	ORF1ab	orf1ab:c.14132aCa>aTa	T>I		3			695	1		17						
+14391	C	CT	10	ORF1ab	orf1ab:c.14127ttC>ttT	F>F					101	1		4						
+18771	T	TC	10	ORF1ab	orf1ab:c.18507gtT>gtC	V>V		8		30		3	1		1					
+18788	C	CT	10	ORF1ab	orf1ab:c.18524aCa>aTa	T>I					2229	4		27						
+24069	A	AC	10	S	S:c.2507cAa>cCa	Q>P		125		1	39				1					
+6003	A	AG	10	ORF1ab	orf1ab:c.5738gAt>gGt	D>G		57	3											
+22599	G	GA	10	S	S:c.1037aGa>aAa	R>K			337	37	51	544	1							
+6207	A	AG	10	ORF1ab	orf1ab:c.5942aAa>aGa	K>R	1	26		1	1									
+6230	C	CT	10	ORF1ab	orf1ab:c.5965Cct>Tct	P>S					507			4						
+22546	A	AG	10	S	S:c.984agA>agG	R>R		99	6											
+22522	C	CT	10	S	S:c.960gtC>gtT	V>V	4	15			540	38		11		3				
+22482	C	CT	10	S	S:c.920aCt>aTt	T>I	2	51		1	1120	23		29		1				
+6253	T	TC	10	ORF1ab	orf1ab:c.5988aaT>aaC	N>N				109		210		1	1					
+22425	C	CT	10	S	S:c.863gCt>gTt	A>V	1				42	1		6		1				
+22335	G	GT	10	S	S:c.773tGg>tTg	W>L				26	2129	1	115			3				
+22321	T	TC	10	S	S:c.759gaT>gaC	D>D		3		90				4						
+22320	A	AG	10	S	S:c.758gAt>gGt	D>G	1	24631	20	48	14	1								
+22319	G	GA	10	S	S:c.757Gat>Aat	D>N			6	1	230	72	4							
+6286	C	CT	10	ORF1ab	orf1ab:c.6021acC>acT	T>T	3	12			112359	141		235						
+22282	T	TC	10	S	S:c.720acT>acC	T>T		10		202				2						
+22264	C	CT	10	S	S:c.702aaC>aaT	N>N	2	5			1897	13		34		5				
+22246	T	TC	10	S	S:c.684gaT>gaC	D>D		12		85				5						
+22226	G	GC	10	S	S:c.664Gct>Cct	A>P		4	2	17	357	30	10			2				
+22624	C	CT	10	S	S:c.1062aaC>aaT	N>N	7	11			1710	232		47						
+22642	C	CT	10	S	S:c.1080aaC>aaT	N>N				1	92	1		4						
+22660	T	TC	10	S	S:c.1098tcT>tcC	S>S		3		99	1	6			1					
+22879	C	CA	10	S	S:c.1317aaC>aaA	N>K	37	140			195	17566		6		2				
+6040	C	CT	10	ORF1ab	orf1ab:c.5775ttC>ttT	F>F				1	8484			56						
+22992	G	GA	10	S	S:c.1430aGc>aAc	S>N			82	7	386	40699	12			2				
+22987	C	CT	10	S	S:c.1425gcC>gcT	A>A	3	9			3920	82		72						
+22945	C	CT	10	S	S:c.1383ctC>ctT	L>L	3				1942	9		6						
+6083	G	GA	10	ORF1ab	orf1ab:c.5818Gat>Aat	D>N				11	2	7								
+22899	G	GT	10	S	S:c.1337gGt>gTt	G>V			2	3	360	8	148	1	1	2				
+6085	T	TC	10	ORF1ab	orf1ab:c.5820gaT>gaC	D>D		1		29		1		4						
+22862	A	AG	10	S	S:c.1300Ata>Gta	I>V		96	1	7	1									
+22664	C	CT	10	S	S:c.1102Cta>Tta	L>L				1	114	32		4						
+6145	C	CT	10	ORF1ab	orf1ab:c.5880ttC>ttT	F>F					1995	38		30						
+22785	G	GT	10	S	S:c.1223aGa>aTa	R>I			1	9	145	171	10			1				
+22713	C	CT	10	S	S:c.1151cCt>cTt	P>L		20			1125	2		20						
+22713	C	CA	10	S	S:c.1151cCt>cAt	P>H		20			1125	2		20						
+6176	G	GA	10	ORF1ab	orf1ab:c.5911Gat>Aat	D>N			1	1		21				1				
+6196	C	CT	10	ORF1ab	orf1ab:c.5931ccC>ccT	P>P	1	1			3321	48		48						
+22675	C	CT	10	S	S:c.1113tcC>tcT	S>S					584	12		5						
+22225	G	GT	10	S	S:c.663tcG>tcT	S>S		1	2	26	2196	325	39			4				
+6318	C	CT	10	ORF1ab	orf1ab:c.6053cCa>cTa	P>L	1	1			929	62		12						
+22203	G	GT	10	S	S:c.641cGt>cTt	R>L		1	5	2	630	123	20			1				
+21820	T	TC	10	S	S:c.258ttT>ttC	F>F				189	2	2		4						
+6500	C	CT	10	ORF1ab	orf1ab:c.6235Cca>Tca	P>S		1		12	817	52		15						
+6503	G	GT	10	ORF1ab	orf1ab:c.6238Gca>Tca	A>S			2	10	38	112				2				
+6531	A	AC	10	ORF1ab	orf1ab:c.6266gAg>gCg	E>A	1	20		14	4									
+6539	C	CG	10	ORF1ab	orf1ab:c.6274Cac>Gac	H>D		3			3961	22		200						
+6576	G	GA	10	ORF1ab	orf1ab:c.6311aGt>aAt	S>N		3			43	14	2							
+21832	T	TA	10	S	S:c.270gtT>gtA	V>V		1		12	1	4								
+21823	T	TA	10	S	S:c.261aaT>aaA	N>K				222		29		1						
+21811	C	CT	10	S	S:c.249gtC>gtT	V>V	22	6			1590	3246		23						
+6463	G	GT	10	ORF1ab	orf1ab:c.6198gtG>gtT	V>V		3	5	15	951	28	5							
+6604	A	AG	10	ORF1ab	orf1ab:c.6339ttA>ttG	L>L		720	15		1									
+21800	G	GT	10	S	S:c.238Gat>Tat	D>Y			8	29	2722	128	22			3				
+21796	G	GA	10	S	S:c.234agG>agA	R>R		2	4	5	167	35	4							
+21795	G	GT	10	S	S:c.233aGg>aTg	R>M			2	1	189	42	10							
+21792	A	AC	10	S	S:c.230aAg>aCg	K>T	2	21		610	51									
+21787	T	TG	10	S						37										
+6613	A	AG	10	ORF1ab	orf1ab:c.6348gtA>gtG	V>V		16803	27		1				1					
+6497	A	AG	10	ORF1ab	orf1ab:c.6232Aaa>Gaa	K>E		50												
+6435	T	TC	10	ORF1ab	orf1ab:c.6170aTa>aCa	I>T		1		141		1		3						
+22199	G	GA	10	S	S:c.637Gtg>Atg	V>M				13	650	435	6			1				
+22094	G	GC	10	S	S:c.532Gac>Cac	D>H			11	2250	271	464	5			3				
+6337	G	GA	10	ORF1ab	orf1ab:c.6072tcG>tcA	S>S		1	4	5	644	352	7							
+6367	G	GT	10	ORF1ab	orf1ab:c.6102caG>caT	Q>H			2		82	34	3							
+6374	G	GA	10	ORF1ab	orf1ab:c.6109Gat>Aat	D>N		2			18	64	2			1				
+22132	G	GT	10	S	S:c.570agG>agT	R>S			7	1	16440	224	21							
+22120	C	CT	10	S	S:c.558ttC>ttT	F>F	2	3		1	974	26		12		2				
+22104	G	GT	10	S	S:c.542gGa>gTa	G>V		1	6	216	1830	44	35			8				
+6392	G	GA	10	ORF1ab	orf1ab:c.6127Gat>Aat	D>N			2	1	23	67	1							
+22088	C	CT	10	S	S:c.526Ctt>Ttt	L>F					3081	11		30						
+6428	C	CG	10	ORF1ab	orf1ab:c.6163Cct>Gct	P>A	1	7			377	8		3						
+22083	C	CA	10	S	S:c.521cCt>cAt	P>H	2	1			149	7		5						
+22053	A	AG	10	S	S:c.491aAt>aGt	N>S	3	47		512	17				2					
+22032	T	TC	10	S	S:c.470tTc>tCc	F>S				6643	1	6		16	1					
+6404	G	GT	10	ORF1ab	orf1ab:c.6139Gtc>Ttc	V>F				1	1292	32	5			1				
+6408	C	CT	10	ORF1ab	orf1ab:c.6143tCt>tTt	S>F	2				497	124		8						
+22000	C	CA	10	S	S:c.438caC>caA	H>Q	11	14		1	2474	404		27						
+6419	G	GA	10	ORF1ab	orf1ab:c.6154Gtg>Atg	V>M			2	2	83	16								
+6027	C	CT	10	ORF1ab	orf1ab:c.5762cCa>cTa	P>L	1	1		2	2091	292		30						
+23029	C	CT	10	S	S:c.1467taC>taT	Y>Y	2				1689			28						
+18801	A	AC	10	ORF1ab	orf1ab:c.18537caA>caC	Q>H		25		3	10									
+5999	A	AG	10	ORF1ab	orf1ab:c.5734Att>Gtt	I>V		962	6		6				1					
+23734	A	AG	10	S	S:c.2172acA>acG	T>T		355		2	17				2					
+5239	C	CT	10	ORF1ab	orf1ab:c.4974taC>taT	Y>Y					1788	1		39						
+23680	T	TC	10	S	S:c.2118gcT>gcC	A>A		17		76		13								
+5240	C	CT	10	ORF1ab	orf1ab:c.4975Cca>Tca	P>S		2			328	6		6						
+5250	A	AG	10	ORF1ab	orf1ab:c.4985aAt>aGt	N>S	1	2672	6	2										
+23643	C	CT	10	S	S:c.2081gCc>gTc	A>V	1				252			7						
+23635	C	CT	10	S	S:c.2073tcC>tcT	S>S	1	57			2553	15		39		1				
+23629	T	TC	10	S	S:c.2067agT>agC	S>S		119		34		2		1						
+23628	G	GT	10	S	S:c.2066aGt>aTt	S>I			1	13	588	13	21							
+5305	G	GT	10	ORF1ab	orf1ab:c.5040ttG>ttT	L>F			5	30	98	280	1							
+23612	G	GT	10	S	S:c.2050Gca>Tca	A>S			3	7	82	164	9			1				
+5383	A	AG	10	ORF1ab	orf1ab:c.5118gaA>gaG	E>E	1	64	2	21	1									
+5425	G	GT	10	ORF1ab	orf1ab:c.5160aaG>aaT	K>N			1	7	450	104	12			4				
+12304	T	TC	10	ORF1ab	orf1ab:c.12039taT>taC	Y>Y				179				3						
+5497	C	CT	10	ORF1ab	orf1ab:c.5232tgC>tgT	C>C	1			3	3603			39						
+5513	G	GT	10	ORF1ab	orf1ab:c.5248Gtg>Ttg	V>L			4	20	46	2	2			1				
+5516	G	GT	10	ORF1ab	orf1ab:c.5251Gtg>Ttg	V>L			1	1	30	32	1							
+5206	G	GT	10	ORF1ab	orf1ab:c.4941atG>atT	M>I			1	73	444	310	11			1				
+23756	A	AG	10	S	S:c.2194Acc>Gcc	T>A		14809	38		549				7					
+5194	G	GT	10	ORF1ab	orf1ab:c.4929ctG>ctT	L>L			1		510	389	14							
+23954	G	GA	10	S	S:c.2392Ggt>Agt	G>S			2		3	59								
+4981	A	AT	10	ORF1ab	orf1ab:c.4716acA>acT	T>T		57	2		15				1					
+24064	C	CA	10	S	S:c.2502atC>atA	I>I	1	3			91	10		3						
+5025	C	CT	10	ORF1ab	orf1ab:c.4760tCa>tTa	S>L	1				1907	1		17						
+5037	G	GA	10	ORF1ab	orf1ab:c.4772gGa>gAa	G>E			5	1	2	481	1							
+5041	A	AG	10	ORF1ab	orf1ab:c.4776caA>caG	Q>Q		1273	2	16	2				1					
+24022	T	TC	10	S	S:c.2460gaT>gaC	D>D		1		239				7						
+23978	T	TC	10	S	S:c.2416Tta>Cta	L>L		16		62			1	1						
+5105	G	GA	10	ORF1ab	orf1ab:c.4840Gaa>Aaa	E>K			1	5		18	4							
+23842	T	TC	10	S	S:c.2280tgT>tgC	C>C				116				3						
+5143	T	TG	10	ORF1ab	orf1ab:c.4878acT>acG	T>T		16		41	1	2								
+23911	A	AG	10	S	S:c.2349gcA>gcG	A>A		27			14									
+5183	C	CT	10	ORF1ab	orf1ab:c.4918Cct>Tct	P>S	1			5	2775	6		46						
+23873	G	GT	10	S	S:c.2311Gct>Tct	A>S					710	6	17							
+5192	C	CT	10	ORF1ab	orf1ab:c.4927Ctg>Ttg	L>L					2163	64		33						
+23868	G	GT	10	S	S:c.2306gGa>gTa	G>V			1	40	9392	1	16			5				
+23854	C	CT	10	S	S:c.2292aaC>aaT	N>N					2521	22		18						
+5578	G	GA	10	ORF1ab	orf1ab:c.5313atG>atA	M>I			3	5	52	64	1							
+5586	T	TG	10	ORF1ab	orf1ab:c.5321cTt>cGt	L>R		5		17										
+23590	T	TG	10	S	S:c.2028acT>acG	T>T		10		167		50	1	2						
+23202	C	CA	10	S	S:c.1640aCa>aAa	T>K	9				927	212		67						
+5742	A	AG	10	ORF1ab	orf1ab:c.5477gAg>gGg	E>G		18		22	6				2					
+5779	T	TC	10	ORF1ab	orf1ab:c.5514caT>caC	H>H		1		1122				4						
+23270	G	GT	10	S	S:c.1708Gct>Tct	A>S				1	195	4	3							
+23251	A	AG	10	S	S:c.1689caA>caG	Q>Q		19												
+5810	G	GA	10	ORF1ab	orf1ab:c.5545Gac>Aac	D>N			3		1	38	1							
+23230	C	CT	10	S	S:c.1668aaC>aaT	N>N	2	1		1	955	102		11						
+5812	C	CT	10	ORF1ab	orf1ab:c.5547gaC>gaT	D>D					3417	8		44		1				
+5836	A	AT	10	ORF1ab	orf1ab:c.5571tcA>tcT	S>S		20	1	7	14				1					
+5694	C	CT	10	ORF1ab	orf1ab:c.5429cCa>cTa	P>L					1026	3		6						
+23191	C	CG	10	S	S:c.1629ttC>ttG	F>L		3			4145	2		51						
+5842	C	CT	10	ORF1ab	orf1ab:c.5577taC>taT	Y>Y	2				460	2		2						
+5886	C	CT	10	ORF1ab	orf1ab:c.5621aCa>aTa	T>I					1213	3		14						
+23164	T	TC	10	S	S:c.1602gtT>gtC	V>V				66	1	11			1					
+23127	C	CT	10	S	S:c.1565gCa>gTa	A>V	4	3			536	5		35						
+5934	C	CT	10	ORF1ab	orf1ab:c.5669aCa>aTa	T>I					836	1		15						
+5995	A	AG	10	ORF1ab	orf1ab:c.5730caA>caG	Q>Q		111												
+5728	T	TC	10	ORF1ab	orf1ab:c.5463ttT>ttC	F>F				56										
+23345	G	GA	10	S	S:c.1783Gtc>Atc	V>I			1			26								
+5600	T	TG	10	ORF1ab	orf1ab:c.5335Ttt>Gtt	F>V		6		195		1		5						
+23486	G	GT	10	S	S:c.1924Gtt>Ttt	V>F		2	1	2	83	27	1			1				
+23570	A	AG	10	S	S:c.2008Ata>Gta	I>V		166	3	1	15				1					
+5608	A	AG	10	ORF1ab	orf1ab:c.5343aaA>aaG	K>K		291	1	30	2									
+23533	C	CT	10	S	S:c.1971aaC>aaT	N>N		40		1	2746	3		62						
+23532	A	AG	10	S	S:c.1970aAc>aGc	N>S		12			1									
+23525	C	CT	10	S	S:c.1963Cat>Tat	H>Y		2			19502	1		56						
+5617	G	GA	10	ORF1ab	orf1ab:c.5352caG>caA	Q>Q			2		81	61								
+23506	C	CT	10	S	S:c.1944ggC>ggT	G>G		3			1654	1		23						
+23481	C	CT	10	S	S:c.1919tCt>tTt	S>F	2	3			2401	30		43		1				
+23386	T	TG	10	S	S:c.1824gtT>gtG	V>V		1		17		154								
+23457	C	CT	10	S	S:c.1895aCt>aTt	T>I	2	134			45	189		2						
+23443	T	TC	10	S	S:c.1881gaT>gaC	D>D		16		450				7						
+23442	A	AG	10	S	S:c.1880gAt>gGt	D>G	1	493		22	1									
+5662	A	AG	10	ORF1ab	orf1ab:c.5397caA>caG	Q>Q		23		1					1					
+5672	C	CT	10	ORF1ab	orf1ab:c.5407Cct>Tct	P>S		4			1787	164		26						
+23390	G	GA	10	S	S:c.1828Gtt>Att	V>I			2		2	16								
+23386	T	TC	10	S	S:c.1824gtT>gtC	V>V		1		17		154								
+21770	G	GT	10	S	S:c.208Gtc>Ttc	V>F	3	1	11	30	267	588	7	1	1	2	1		3	
+21768	A	AG	10	S	S:c.206cAt>cGt	H>R		16	1	293	15	3			1					
+21767	C	CT	10	S	S:c.205Cat>Tat	H>Y	2	14		3	1	4		21		1				
+6616	A	AG	10	ORF1ab	orf1ab:c.6351ttA>ttG	L>L		837	20											
+7948	C	CT	10	ORF1ab	orf1ab:c.7683taC>taT	Y>Y	1				467			10						
+20016	C	CT	10	ORF1ab	orf1ab:c.19752gaC>gaT	D>D		6		1	838	11		18						
+7979	C	CT	10	ORF1ab	orf1ab:c.7714Cta>Tta	L>L	3				129	152		8						
+19901	C	CT	10	ORF1ab	orf1ab:c.19637gCa>gTa	A>V		1			117	1		2						
+7998	C	CA	10	ORF1ab	orf1ab:c.7733tCt>tAt	S>Y	1				59	9		10						
+8005	T	TA	10	ORF1ab	orf1ab:c.7740gtT>gtA	V>V		8		38		7		14	1					
+19875	C	CT	10	ORF1ab	orf1ab:c.19611atC>atT	I>I	2				328	131		6						
+19862	C	CT	10	ORF1ab	orf1ab:c.19598gCt>gTt	A>V				2	3763			59						
+19839	T	TC	10	ORF1ab	orf1ab:c.19575aaT>aaC	N>N				29616				57						
+19838	A	AG	10	ORF1ab	orf1ab:c.19574aAt>aGt	N>S	1	6	2	25										
+19816	G	GT	10	ORF1ab	orf1ab:c.19552Gta>Tta	V>L			2	8	1510	87	21							
+19800	G	GT	10	ORF1ab	orf1ab:c.19536aaG>aaT	K>N		1	5		104	135	6							
+8025	C	CT	10	ORF1ab	orf1ab:c.7760gCa>gTa	A>V					415	1		14						
+19776	T	TC	10	ORF1ab	orf1ab:c.19512aaT>aaC	N>N		1		39										
+8082	T	TC	10	ORF1ab	orf1ab:c.7817aTg>aCg	M>T		3		67		1								
+19718	C	CT	10	ORF1ab	orf1ab:c.19454aCa>aTa	T>I		1		3	6755	1		45						
+8083	G	GT	10	ORF1ab	orf1ab:c.7818atG>atT	M>I			163	8	152	26650	1							
+20060	G	GT	10	ORF1ab	orf1ab:c.19796aGt>aTt	S>I			1		650	8	21							
+20091	C	CT	10	ORF1ab	orf1ab:c.19827ccC>ccT	P>P	2			1	276	25		4						
+7939	T	TC	10	ORF1ab	orf1ab:c.7674tcT>tcC	S>S		1		154		14		2						
+20389	C	CT	10	ORF1ab	orf1ab:c.20125Cgt>Tgt	R>C					672			7						
+20451	C	CT	10	ORF1ab	orf1ab:c.20187aaC>aaT	N>N		1			7635			36		6				
+20436	C	CT	10	ORF1ab	orf1ab:c.20172gaC>gaT	D>D		2			989	2		33						
+7703	C	CT	10	ORF1ab	orf1ab:c.7438Cca>Tca	P>S					67	6		2						
+20402	C	CT	10	ORF1ab	orf1ab:c.20138tCa>tTa	S>L				1	970			18						
+7712	C	CT	10	ORF1ab	orf1ab:c.7447Cct>Tct	P>S					475	2		7						
+7735	C	CT	10	ORF1ab	orf1ab:c.7470atC>atT	I>I					3730	5		57						
+7736	G	GA	10	ORF1ab	orf1ab:c.7471Gtt>Att	V>I			1			159	1							
+7765	C	CT	10	ORF1ab	orf1ab:c.7500tcC>tcT	S>S		11			2807	50		44						
+7936	G	GT	10	ORF1ab	orf1ab:c.7671gcG>gcT	A>A			6	56	1534	292	18			1				
+20283	C	CT	10	ORF1ab	orf1ab:c.20019ttC>ttT	F>F		3			877	2		17						
+20276	A	AG	10	ORF1ab	orf1ab:c.20012gAt>gGt	D>G		48	1	13										
+20275	G	GT	10	ORF1ab	orf1ab:c.20011Gat>Tat	D>Y			1		6097	89	18			1				
+20274	G	GT	10	ORF1ab	orf1ab:c.20010atG>atT	M>I		1	1	12	493	35	14			1				
+7838	G	GA	10	ORF1ab	orf1ab:c.7573Gac>Aac	D>N			2	1	22	34	1							
+20157	T	TC	10	ORF1ab	orf1ab:c.19893taT>taC	Y>Y				164				2						
+7886	A	AG	10	ORF1ab	orf1ab:c.7621Ata>Gta	I>V		64	2											
+19690	G	GA	10	ORF1ab	orf1ab:c.19426Gtt>Att	V>I		1	1	1	49	51	6							
+19656	G	GT	10	ORF1ab	orf1ab:c.19392aaG>aaT	K>N			3	6	752	374	20							
+8092	C	CT	10	ORF1ab	orf1ab:c.7827ctC>ctT	L>L	1	2			1831	47		26						
+8620	T	TA	10	ORF1ab	orf1ab:c.8355gcT>gcA	A>A		4		22		3		1						1
+8578	G	GT	10	ORF1ab	orf1ab:c.8313aaG>aaT	K>N			7		138	85		1						
+18981	C	CT	10	ORF1ab	orf1ab:c.18717caC>caT	H>H		4		1	3090	9		54						
+8602	G	GT	10	ORF1ab	orf1ab:c.8337gtG>gtT	V>V		1	5	81	398	127	5							
+18903	G	GT	10	ORF1ab	orf1ab:c.18639aaG>aaT	K>N			10		11	192	1							
+18886	C	CA	10	ORF1ab	orf1ab:c.18622Cac>Aac	H>N	4				62	33		2						
+18880	G	GT	10	ORF1ab	orf1ab:c.18616Gct>Tct	A>S			3		213	145	2			2				
+8616	C	CT	10	ORF1ab	orf1ab:c.8351gCt>gTt	A>V		1			174	2		3				1		
+18843	T	TC	10	ORF1ab	orf1ab:c.18579caT>caC	H>H				65				1						
+19000	T	TC	10	ORF1ab	orf1ab:c.18736Tta>Cta	L>L		2		19										
+18833	G	GA	10	ORF1ab	orf1ab:c.18569gGt>gAt	G>D			1		22	19	1							
+8641	T	TC	10	ORF1ab	orf1ab:c.8376ccT>ccC	P>P				57		17		2	1					
+18827	T	TC	10	ORF1ab	orf1ab:c.18563gTc>gCc	V>A				28										
+18825	A	AG	10	ORF1ab	orf1ab:c.18561caA>caG	Q>Q	1	31	1		2									
+18807	C	CT	10	ORF1ab	orf1ab:c.18543aaC>aaT	N>N					262	6		6						
+18803	G	GA	10	ORF1ab	orf1ab:c.18539aGc>aAc	S>N					1075	80	12							
+8653	G	GT	10	ORF1ab	orf1ab:c.8388atG>atT	M>I			1	241	1400	16	19							
+8575	G	GA	10	ORF1ab	orf1ab:c.8310ttG>ttA	L>L			1		16	20								
+19009	G	GT	10	ORF1ab	orf1ab:c.18745Gac>Tac	D>Y			4	4	795	112	12							
+8099	C	CT	10	ORF1ab	orf1ab:c.7834Cta>Tta	L>L	1				155	18		5						
+8334	C	CT	10	ORF1ab	orf1ab:c.8069gCt>gTt	A>V					700			13						
+8123	C	CA	10	ORF1ab	orf1ab:c.7858Ctt>Att	L>I				1	2073	14		23						
+8146	C	CT	10	ORF1ab	orf1ab:c.7881gaC>gaT	D>D					300	14		6						
+8184	G	GA	10	ORF1ab	orf1ab:c.7919gGg>gAg	G>E			2		1	191	1							
+8247	C	CT	10	ORF1ab	orf1ab:c.7982tCt>tTt	S>F		2			1427	2		22						
+8264	G	GA	10	ORF1ab	orf1ab:c.7999Ggc>Agc	G>S			4		2820	23	133							
+19162	G	GA	10	ORF1ab	orf1ab:c.18898Gac>Aac	D>N			1	12	192	9	9							
+19152	C	CT	10	ORF1ab	orf1ab:c.18888gcC>gcT	A>A	1				496	67		8						
+8371	G	GA	10	ORF1ab	orf1ab:c.8106caG>caA	Q>Q			3	9	4714	77	29			1				
+8566	T	TC	10	ORF1ab	orf1ab:c.8301aaT>aaC	N>N				87				2						
+19113	C	CT	10	ORF1ab	orf1ab:c.18849gaC>gaT	D>D	2			2	351	16		6						
+19104	T	TC	10	ORF1ab	orf1ab:c.18840ccT>ccC	P>P		8		33		1		2						
+19101	G	GT	10	ORF1ab	orf1ab:c.18837caG>caT	Q>H			4	157	727	72	5							
+19097	C	CT	10	ORF1ab	orf1ab:c.18833gCa>gTa	A>V	2				309	4		5						
+8386	C	CT	10	ORF1ab	orf1ab:c.8121caC>caT	H>H					195			3						
+19072	G	GT	10	ORF1ab	orf1ab:c.18808Gat>Tat	D>Y			1		1274	18	13							
+8389	C	CT	10	ORF1ab	orf1ab:c.8124aaC>aaT	N>N				1	1956	1		22						
+20457	C	CT	10	ORF1ab	orf1ab:c.20193ttC>ttT	F>F	2	1			240	18		3						
+20468	C	CT	10	ORF1ab	orf1ab:c.20204gCg>gTg	A>V		3		5	161	14		7						
+7639	C	CT	10	ORF1ab	orf1ab:c.7374ttC>ttT	F>F					626	1		12						
+21366	A	AT	10	ORF1ab	orf1ab:c.21102ccA>ccT	P>P		48		9	11									
+21597	C	CT	10	S	S:c.35tCt>tTt	S>F		140		2	4128	45		48						
+21587	C	CT	10	S	S:c.25Cca>Tca	P>S	2	1			365	22		17						
+21586	G	GT	10	S	S:c.24ttG>ttT	L>F		4	7	14	235	136	3			1				
+6730	C	CT	10	ORF1ab	orf1ab:c.6465aaC>aaT	N>N					7480	1		24						
+21568	T	TA	10	S	S:c.6ttT>ttA	F>L		2				168			2					
+6740	C	CT	10	ORF1ab	orf1ab:c.6475Cgg>Tgg	R>W	1				223	1		5						
+6745	T	TC	10	ORF1ab	orf1ab:c.6480tgT>tgC	C>C		1		28			2	1						
+21362	A	AG	10	ORF1ab	orf1ab:c.21098aAt>aGt	N>S		91	1	22		1								
+6720	C	CT	10	ORF1ab	orf1ab:c.6455aCa>aTa	T>I					662	2		16						
+21323	A	AG	10	ORF1ab	orf1ab:c.21059tAt>tGt	Y>C		117	7		1									
+21305	G	GA	10	ORF1ab	orf1ab:c.21041cGc>cAc	R>H			62		33	4830	3							
+6802	G	GT	10	ORF1ab	orf1ab:c.6537ttG>ttT	L>F				3	83	71	5			2				
+21255	G	GC	10	ORF1ab	orf1ab:c.20991gcG>gcC	A>A			2	110886	1897	262	15	1		171				
+21245	A	AG	10	ORF1ab	orf1ab:c.20981aAt>aGt	N>S	1	53	2	1		1								
+21220	G	GT	10	ORF1ab	orf1ab:c.20956Gca>Tca	A>S			2	3	1036	108	11							
+21207	C	CT	10	ORF1ab	orf1ab:c.20943ctC>ctT	L>L	1				381	2		4						
+21612	A	AG	10	S	S:c.50aAt>aGt	N>S		1299	5	5	4	1			1					
+6696	C	CT	10	ORF1ab	orf1ab:c.6431cCt>cTt	P>L	2				952	14		25						
+21191	C	CT	10	ORF1ab	orf1ab:c.20927gCt>gTt	A>V	3	1			1006	2		4						
+6671	G	GA	10	ORF1ab	orf1ab:c.6406Gat>Aat	D>N		1	2		5	97	3			1				
+21761	G	GT	10	S	S:c.199Gct>Tct	A>S		1	2	6	933	49	16			1				
+21748	T	TC	10	S	S:c.186gtT>gtC	V>V		88		83	1	6	2	2	1					
+6617	G	GT	10	ORF1ab	orf1ab:c.6352Ggt>Tgt	G>C			1	1	106	144								
+6628	C	CT	10	ORF1ab	orf1ab:c.6363acC>acT	T>T	1				1184	22		26						
+21724	G	GT	10	S	S:c.162ttG>ttT	L>F			5	124	3169	608	27		1	6				
+6647	G	GA	10	ORF1ab	orf1ab:c.6382Gct>Act	A>T			6		23	198	4							
+6652	T	TA	10	ORF1ab	orf1ab:c.6387gcT>gcA	A>A				44	1	108	1							
+21692	A	AG	10	S					1	2										
+21621	C	CT	10	S	S:c.59aCc>aTc	T>I	4	4			3824	16503		44						
+21666	G	GT	10	S	S:c.104gGt>gTt	G>V					96					2				
+21658	C	CT	10	S	S:c.96ttC>ttT	F>F	13	20			3272	15		48						
+21649	T	TC	10	S	S:c.87acT>acC	T>T				99		5		1	1					
+6681	C	CT	10	ORF1ab	orf1ab:c.6416gCt>gTt	A>V				1	627	1		7						
+21633	T	TC	10	S	S:c.71tTa>tCa	L>S				128	3			6	1					
+21630	A	AG	10	S	S:c.68cAa>cGa	Q>R		221	1	2	44	9			2					
+21625	A	AG	10	S	S:c.63agA>agG	R>R	3	185	13	14	25				1					
+6806	A	AG	10	ORF1ab	orf1ab:c.6541Act>Gct	T>A	1	109												
+6807	C	CT	10	ORF1ab	orf1ab:c.6542aCt>aTt	T>I		1			2626	35		17						
+20480	C	CT	10	ORF1ab	orf1ab:c.20216tCa>tTa	S>L	1			1	1274	1		40		14			2	
+7282	T	TC	10	ORF1ab	orf1ab:c.7017taT>taC	Y>Y				88	1			1						
+7072	C	CT	10	ORF1ab	orf1ab:c.6807ggC>ggT	G>G	6				117	2		28						
+20758	G	GA	10	ORF1ab	orf1ab:c.20494Gca>Aca	A>T			1	1	91	21	2			1				
+7113	C	CT	10	ORF1ab	orf1ab:c.6848aCt>aTt	T>I					1876	3		40						
+7231	C	CT	10	ORF1ab	orf1ab:c.6966ggC>ggT	G>G					285	70		6						
+7279	C	CT	10	ORF1ab	orf1ab:c.7014ttC>ttT	F>F		1			1511	3		25						
+20697	T	TC	10	ORF1ab	orf1ab:c.20433aaT>aaC	N>N		2		46	2			1						
+20683	G	GT	10	ORF1ab	orf1ab:c.20419Gtt>Ttt	V>F			1	1	164	114	9							
+7360	G	GT	10	ORF1ab	orf1ab:c.7095atG>atT	M>I			1	1	649	69	10							
+7069	A	AG	10	ORF1ab	orf1ab:c.6804gaA>gaG	E>E	1	78	9	487	4				3					
+20635	G	GC	10	ORF1ab	orf1ab:c.20371Gaa>Caa	E>Q		3	1	124		81				3				
+7401	C	CT	10	ORF1ab	orf1ab:c.7136gCt>gTt	A>V					426			9						
+7431	C	CT	10	ORF1ab	orf1ab:c.7166tCa>tTa	S>L					257	1		5						
+7564	C	CT	10	ORF1ab	orf1ab:c.7299tcC>tcT	S>S		1		1	3067	32		30						
+20560	G	GT	10	ORF1ab	orf1ab:c.20296Gtt>Ttt	V>F		2			1311	39	2							
+7600	C	CT	10	ORF1ab	orf1ab:c.7335tgC>tgT	C>C		1			3680			35						
+20543	C	CT	10	ORF1ab	orf1ab:c.20279tCc>tTc	S>F					69	5		2						
+20788	G	GA	10	ORF1ab	orf1ab:c.20524Gtc>Atc	V>I			4			14				1				
+20808	G	GT	10	ORF1ab	orf1ab:c.20544ctG>ctT	L>L			1	1	44	109	2			2				
+21141	A	AG	10	ORF1ab	orf1ab:c.20877ctA>ctG	L>L	1	494	4	1										
+20995	G	GA	10	ORF1ab	orf1ab:c.20731Ggt>Agt	G>S			2	1	1295	71	7							
+21098	A	AG	10	ORF1ab	orf1ab:c.20834gAg>gGg	E>G		5		8	1									
+21077	C	CT	10	ORF1ab	orf1ab:c.20813aCa>aTa	T>I	1	33		1	4482	71		64		2				
+21036	C	CA	10	ORF1ab	orf1ab:c.20772ctC>ctA	L>L					350	1		10						
+6865	G	GT	10	ORF1ab	orf1ab:c.6600aaG>aaT	K>N			4	1	892	135	14							
+21033	T	TC	10	ORF1ab	orf1ab:c.20769gaT>gaC	D>D				224	4			2						
+21004	G	GT	10	ORF1ab	orf1ab:c.20740Gca>Tca	A>S			1	1	1606	20	7							
+20997	T	TC	10	ORF1ab	orf1ab:c.20733ggT>ggC	G>G				14		1	1							
+6936	C	CT	10	ORF1ab	orf1ab:c.6671tCt>tTt	S>F	1	1			2899			18		1				
+7059	G	GA	10	ORF1ab	orf1ab:c.6794gGt>gAt	G>D		1	4		141	512	4							
+20956	C	CT	10	ORF1ab	orf1ab:c.20692Ctt>Ttt	L>F					201	24		13						
+20944	G	GT	10	ORF1ab	orf1ab:c.20680Gtc>Ttc	V>F			1	2	54	39	3							
+7011	C	CT	10	ORF1ab	orf1ab:c.6746gCt>gTt	A>V	2	1			1432	3		23						
+7027	G	GT	10	ORF1ab	orf1ab:c.6762atG>atT	M>I		1	7		338	17	4							
+20905	G	GT	10	ORF1ab	orf1ab:c.20641Gct>Tct	A>S			1		15	13	2							
+20885	A	AG	10	ORF1ab	orf1ab:c.20621aAa>aGa	K>R		14	2											
+20859	T	TC	10	ORF1ab	orf1ab:c.20595gtT>gtC	V>V		2		123				10	1					
+5467	C	CT	10	ORF1ab	orf1ab:c.5202taC>taT	Y>Y					1027	2		26						
