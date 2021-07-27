@@ -1,0 +1,2 @@
+Region	Position	Reference	Strand	Coverage-q30	MeanQ	BaseCount[A,C,G,T]	AllSubs	Frequency	gCoverage-q30	gMeanQ	gBaseCount[A,C,G,T]	gAllSubs	gFrequency
+NC_045512.2	15451	G	2	1	36.00	[1, 0, 0, 0]	GA	1.00	-	-	-	-	-
