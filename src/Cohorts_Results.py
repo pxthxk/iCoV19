@@ -30,7 +30,7 @@ else:
 # except:
 #     gisaid = pd.read_excel("../data/datasets/GISAID_Frequency.xlsx", sheet_name="India")
 
-variationAnnotation = pd.read_excel("../data/datasets/BIGD_Variation_Annotation_20210617.xlsx", sheet_name="Sheet0")
+variationAnnotation = pd.read_excel("../data/datasets/BIGD_Variation_Annotation_20210630.xlsx", sheet_name="Sheet0")
 
 dfStats = pd.read_csv("../data/samples/cohorts/" + cohort + "/Stats.tsv", sep="\t")
 

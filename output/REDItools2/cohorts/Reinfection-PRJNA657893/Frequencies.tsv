@@ -27,7 +27,7 @@ Position	Reference	Sub	SRX9082955	SRX9082956	Avg	Count	Count (>= 0.8)	Editing Su
 17707	C	CT		0.012	0.012	1	0	CT	ORF1ab	orf1ab:p.5815-; orf1ab:p.5815P>S; orf1ab:p.5815P>T; orf1ab:p.5815P>A	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.17443Cca>Gca; c.17443Cca>Yca; c.17443Cca>Aca; c.17443Cca>Tca
 21150	A	AT		0.009	0.009	1	0	AT	ORF1ab	orf1ab:p.6962G; orf1ab:p.6962-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.20886ggA>ggR; c.20886ggA>ggC; c.20886ggA>ggT; c.20886ggA>ggG
 23409	A	AC		0.025	0.025	1	0	AC	S	S:p.616-; S:p.616N>T; S:p.616N>S; S:p.616N>I	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.1847aAc>aWc; c.1847aAc>aTc; c.1847aAc>aCc; c.1847aAc>aGc
-23733	C	CT		0.02	0.02	1	0	CT	S	S:p.724T>K; S:p.724T>I; S:p.724-725TE>TX	missense_variant; frameshift_variant	MODERATE; HIGH	c.2171aCa>aAa; c.2171aCa>aTa; c.2172-2173acAGaa>acaa
+23733	C	CT		0.02	0.02	1	0	CT	S	S:p.724T>K; S:p.724T>I; S:p.724-725TE>TX; S:p.724-	missense_variant; coding_sequence_variant; frameshift_variant	MODERATE; MODIFIER; HIGH	c.2171aCa>aYa; c.2171aCa>aAa; c.2171aCa>aTa; c.2172-2173acAGaa>acaa
 24730	A	AC	0.009		0.009	1	0	AC	S	S:p.1056-; S:p.1056A	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.3168gcA>gcG; c.3168gcA>gcT; c.3168gcA>gcR
 29154	A	AG	0.011		0.011	1	0	AG	N	N:p.294Q>L; N:p.294-; N:p.294Q>R	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.881cAa>cGa; c.881cAa>cTa; c.881cAa>cWa
 29049	G	GA	0.034		0.034	1	0	GA	N	N:p.259R>P; N:p.259R>Q; N:p.259R>L; N:p.259-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.776cGg>cTg; c.776cGg>cCg; c.776cGg>cRg; c.776cGg>cAg
@@ -41,7 +41,7 @@ Position	Reference	Sub	SRX9082955	SRX9082956	Avg	Count	Count (>= 0.8)	Editing Su
 27335	C	CT		0.262	0.262	1	0	CT	ORF6	ORF6:p.45T>I; ORF6:p.45T>N; ORF6:p.45-	coding_sequence_variant; missense_variant; upstream_gene_variant	MODIFIER; MODERATE; MODIFIER,DISTANCE=ORF7a:59	c.134aCt>aAt; c.134aCt>aMt; c.134aCt>aTt; c.134aCt>aYt
 27333	A	AT	0.042		0.042	1	0	AT	ORF6	ORF6:p.44-; ORF6:p.44L	synonymous_variant; coding_sequence_variant; upstream_gene_variant	LOW; MODIFIER; MODIFIER,DISTANCE=ORF7a:61	c.132ctA>ctC; c.132ctA>ctM; c.132ctA>ctG
 27289	G	GC		0.008	0.008	1	0	GC	ORF6	ORF6:p.30D>H; ORF6:p.30D>Y; ORF6:p.30D>N; ORF6:p.30-31DY>D; ORF6:p.30-	downstream_gene_variant; missense_variant; coding_sequence_variant; inframe_deletion	MODIFIER,DISTANCE=M:98; MODERATE; MODIFIER; MODIFIER,DISTANCE=M:99	c.88Gat>Tat; c.89-91gATTac>gac; c.88Gat>Cat; c.88Gat>Kat; c.88Gat>Aat; c.88Gat>Sat
-27182	T	TA		0.012	0.012	1	0	TA	M	M:p.221V>-; M:p.220L	synonymous_variant; upstream_gene_variant; inframe_deletion	LOW; MODIFIER,DISTANCE=ORF6:20; MODERATE; MODIFIER,DISTANCE=ORF6:17	c.661-663GTA>-; c.660ctT>ctC; c.660ctT>ctA
+27182	T	TA		0.012	0.012	1	0	TA	M	M:p.221V>-; M:p.220-; M:p.220L	synonymous_variant; coding_sequence_variant; upstream_gene_variant; inframe_deletion	LOW; MODIFIER; MODIFIER,DISTANCE=ORF6:20; MODERATE; MODIFIER,DISTANCE=ORF6:17	c.661-663GTA>-; c.660ctT>ctC; c.660ctT>ctA; c.660ctT>ctY
 27178	T	TA		0.009	0.009	1	0	TA					
 27155	C	CT		0.125	0.125	1	0	CT	M	M:p.211S; M:p.211-	synonymous_variant; coding_sequence_variant; upstream_gene_variant	LOW; MODIFIER; MODIFIER,DISTANCE=ORF6:47	c.633tcC>tcY; c.633tcC>tcA; c.633tcC>tcM; c.633tcC>tcT; c.633tcC>tcG
 26815	C	CT		0.035	0.035	1	0	CT	M	M:p.98A>V; M:p.98A>D	missense_variant	MODERATE	c.293gCt>gTt; c.293gCt>gAt
@@ -55,7 +55,7 @@ Position	Reference	Sub	SRX9082955	SRX9082956	Avg	Count	Count (>= 0.8)	Editing Su
 7771	T	TG		0.088	0.088	1	0	TG	ORF1ab	orf1ab:p.2502H; orf1ab:p.2502H>Q; orf1ab:p.2502-	synonymous_variant; missense_variant; coding_sequence_variant	LOW; MODERATE; MODIFIER	c.7506caT>caC; c.7506caT>caY; c.7506caT>caG; c.7506caT>caK
 5926	T	TG		0.096	0.096	1	0	TG	ORF1ab	orf1ab:p.1887V	synonymous_variant	LOW	c.5661gtT>gtC; c.5661gtT>gtA; c.5661gtT>gtG
 5755	T	TC	0.006		0.006	1	0	TC	ORF1ab	orf1ab:p.1830N>K; orf1ab:p.1830N	synonymous_variant; missense_variant	LOW; MODERATE	c.5490aaT>aaA; c.5490aaT>aaC; c.5490aaT>aaG
-5754	A	AG	0.016		0.016	1	0	AG	ORF1ab	orf1ab:p.1830-; orf1ab:p.1830N>T; orf1ab:p.1830N>S; orf1ab:p.1830N>I	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.5489aAt>aCt; c.5489aAt>aMt; c.5489aAt>aRt; c.5489aAt>aGt; c.5489aAt>aTt
+5754	A	AG	0.016		0.016	1	0	AG	ORF1ab	orf1ab:p.1830-; orf1ab:p.1830N>T; orf1ab:p.1830N>S; orf1ab:p.1830N>I	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.5489aAt>aRt; c.5489aAt>aWt; c.5489aAt>aCt; c.5489aAt>aTt; c.5489aAt>aMt; c.5489aAt>aGt
 5744	T	TC	0.81		0.81	1	1	TC	ORF1ab	orf1ab:p.1827-; orf1ab:p.1827Y>N; orf1ab:p.1827Y>H	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.5479Tac>Yac; c.5479Tac>Aac; c.5479Tac>Cac
 5743	G	GC	0.803		0.803	1	1	GC	ORF1ab	orf1ab:p.1826E>D; orf1ab:p.1826E; orf1ab:p.1826-	missense_variant; coding_sequence_variant; synonymous_variant	MODERATE; MODIFIER; LOW	c.5478gaG>gaK; c.5478gaG>gaT; c.5478gaG>gaA; c.5478gaG>gaS; c.5478gaG>gaC
 5565	C	CT	0.022		0.022	1	0	CT	ORF1ab	orf1ab:p.1767A>G; orf1ab:p.1767A>V	missense_variant	MODERATE	c.5300gCt>gGt; c.5300gCt>gTt
@@ -72,7 +72,7 @@ Position	Reference	Sub	SRX9082955	SRX9082956	Avg	Count	Count (>= 0.8)	Editing Su
 1470	G	GA	0.006		0.006	1	0	GA	ORF1ab	orf1ab:p.402R>H; orf1ab:p.402R>L	missense_variant	MODERATE	c.1205cGc>cTc; c.1205cGc>cAc
 1059	C	CT	1.0		1.0	1	1	CT	ORF1ab	orf1ab:p.265-; orf1ab:p.265T>N; orf1ab:p.265T>I; orf1ab:p.265-270TFNGEC>T; orf1ab:p.265T>S	missense_variant; coding_sequence_variant; inframe_deletion	MODERATE; MODIFIER	c.795-809acCTTCAATGGGGAATGt>act; c.794aCc>aGc; c.794aCc>aYc; c.794aCc>aTc; c.794aCc>aAc
 865	C	CT		0.261	0.261	1	0	CT	ORF1ab	orf1ab:p.200C; orf1ab:p.200-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.600tgC>tgT; c.600tgC>tgY
-7921	A	AG	1.0		1.0	1	1	AG	ORF1ab	orf1ab:p.2553-2559SAKSASV>-; orf1ab:p.2552S; orf1ab:p.2552-	synonymous_variant; coding_sequence_variant; inframe_deletion	LOW; MODIFIER; MODERATE	c.7656tcA>tcG; c.7657-7677TCTGCAAAATCAGCGTCTGTT>-; c.7656tcA>tcT; c.7656tcA>tcC; c.7656tcA>tcR
+7921	A	AG	1.0		1.0	1	1	AG	ORF1ab	orf1ab:p.2553-2559SAKSASV>-; orf1ab:p.2552S; orf1ab:p.2552-	synonymous_variant; coding_sequence_variant; inframe_deletion	LOW; MODIFIER; MODERATE	c.7656tcA>tcG; c.7656tcA>tcC; c.7657-7677TCTGCAAAATCAGCGTCTGTT>-; c.7656tcA>tcM; c.7656tcA>tcT; c.7656tcA>tcR
 8231	A	AC		0.028	0.028	1	0	AC	ORF1ab	orf1ab:p.2656K>Q; orf1ab:p.2656K>E	missense_variant	MODERATE	c.7966Aaa>Gaa; c.7966Aaa>Caa
 17194	A	AC	0.065		0.065	1	0	AC					
 14118	G	GA		0.014	0.014	1	0	GA	ORF1ab	orf1ab:p.4618T; orf1ab:p.4618-	synonymous_variant; coding_sequence_variant	LOW; MODIFIER	c.13854acG>acK; c.13854acG>acR; c.13854acG>acA; c.13854acG>acT
@@ -84,7 +84,7 @@ Position	Reference	Sub	SRX9082955	SRX9082956	Avg	Count	Count (>= 0.8)	Editing Su
 14407	C	CT		0.997	0.997	1	1	CT	ORF1ab	orf1ab:p.4715P>T; orf1ab:p.4715P>A; orf1ab:p.4715-4717PTS>X; orf1ab:p.4715-; orf1ab:p.4715P>S	missense_variant; coding_sequence_variant; frameshift_variant	MODERATE; MODIFIER; HIGH	c.14143Cct>Sct; c.14144-14150cCTACAAGt>ct; c.14143Cct>Mct; c.14143Cct>Gct; c.14143Cct>Act; c.14143Cct>Tct; c.14143Cct>Yct
 14317	A	AG		0.017	0.017	1	0	AG	ORF1ab	orf1ab:p.4685T>S; orf1ab:p.4685T>P; orf1ab:p.4685T>A	missense_variant	MODERATE	c.14053Aca>Gca; c.14053Aca>Cca; c.14053Aca>Tca
 14227	A	AT		0.01	0.01	1	0	AT	ORF1ab	orf1ab:p.4655K>*	stop_gained	HIGH	c.13963Aag>Tag
-14186	G	GA		0.307	0.307	1	0	GA	ORF1ab	orf1ab:p.4641R>K; orf1ab:p.4641R>M; orf1ab:p.4641-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.13922aGg>aAg; c.13922aGg>aTg; c.13922aGg>aRg
+14186	G	GA		0.307	0.307	1	0	GA	ORF1ab	orf1ab:p.4641R>K; orf1ab:p.4641R>T; orf1ab:p.4641R>M; orf1ab:p.4641-	missense_variant; coding_sequence_variant	MODERATE; MODIFIER	c.13922aGg>aAg; c.13922aGg>aTg; c.13922aGg>aRg; c.13922aGg>aCg
 13991	A	AC	0.006		0.006	1	0	AC	ORF1ab	orf1ab:p.4576Q>R; orf1ab:p.4576Q>L	missense_variant	MODERATE	c.13727cAa>cTa; c.13727cAa>cGa
 8232	A	AT		0.025	0.025	1	0	AT	ORF1ab	orf1ab:p.2656K>R; orf1ab:p.2656K>I	missense_variant	MODERATE	c.7967aAa>aTa; c.7967aAa>aGa
 12432	G	GA		0.007	0.007	1	0	GA	ORF1ab	orf1ab:p.4056C>F	missense_variant	MODERATE	c.12167tGt>tTt

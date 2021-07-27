@@ -26,7 +26,7 @@ else:
     sys.exit()
 
 # gisaid = pd.read_excel("../data/datasets/GISAID_Frequency.xlsx", sheet_name=region)
-variationAnnotation = pd.read_excel("../data/datasets/BIGD_Variation_Annotation_20210617.xlsx", sheet_name="Sheet0")
+variationAnnotation = pd.read_excel("../data/datasets/BIGD_Variation_Annotation_20210630.xlsx", sheet_name="Sheet0")
 
 dfStats = pd.read_csv("../data/samples/regions/" + region + "/Stats.tsv", sep="\t")
 
