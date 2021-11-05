@@ -1,0 +1,28 @@
+BamQC report
+-----------------------------------
+
+>>>>>>> Input
+
+     bam file = ncdctwentyseven273_S273_viral_sort.bam
+     outfile = qualimap/ncdctwentyseven273_S273_viral//genome_results.txt
+
+
+>>>>>>> Reference
+
+     number of bases = 29,903 bp
+     number of contigs = 1
+
+
+>>>>>>> Globals
+
+     number of windows = 399
+
+     number of reads = 64
+     number of mapped reads = 0 (0%)
+     number of secondary alignments = 0
+
+     number of mapped bases = 0 bp
+     number of sequenced bases = 0 bp
+     number of aligned bases = 0 bp
+     number of duplicated reads (estimated) = 0
+     duplication rate = 0%
