@@ -9,7 +9,7 @@ import pandas as pd
 coverageCutoff = 20
 minorAlleleCutoff = 5
 errorRateCutoff = 0.005
-minorAlleleFreq = 0.005
+minorAlleleFreq = 0.01
 minSARSCoV2Reads = 1000
 cutoffFreq = 0.8
 
