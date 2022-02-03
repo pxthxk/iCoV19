@@ -1,8 +1,8 @@
 # iCoV19
 
-[![DOI:10.1101/2020.12.09.417519](http://img.shields.io/badge/DOI-10.1101/2020.12.09.417519-B31B1B.svg)](https://doi.org/10.1101/2020.12.09.417519)
+[![DOI:10.1093/nar/gkab1297](http://img.shields.io/badge/DOI-10.1093/nar/gkab1297-B31B1B.svg)](https://doi.org/10.1093/nar/gkab1297)
 
-Spatio-temporal catalouging of intra-host variability in SARS-CoV-2 transcriptomes to provide insights on the consequence of intra-host Single Nucleotide Variations (iSNVs) on virus evolution.  
+Spatio-temporal catalouging of intra-host variability in SARS-CoV-2 transcriptomes to provide insights on the consequence of intra-host Single Nucleotide Variations (iSNVs) on virus evolution. Read the manuscript in [Nucleic Acids Research](https://doi.org/10.1093/nar/gkab1297).  
   
 <p align="center">
   <img src="https://github.com/pxthxk/iCoV19/blob/master/visualization/assets/RadialPlot-Countries.png?raw=true" width="512" alt="Spectrum of iSNVs in samples across populations">
@@ -80,5 +80,3 @@ iSNV qualifying criteria:
  - Base coverage ≥ 20
  - Minor allele frequency ≥ 0.005
 ```
-## Manuscript
-Manuscript under communication. Latest pre-print can be accessed on [bioRxiv](https://doi.org/10.1101/2020.12.09.417519).
