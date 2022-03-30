@@ -78,5 +78,5 @@ Sample qualifying criterion:
 iSNV qualifying criteria:
  - Number of minor allele reads ≥ 5
  - Base coverage ≥ 20
- - Minor allele frequency ≥ 0.005
+ - Minor allele frequency ≥ 0.01
 ```
